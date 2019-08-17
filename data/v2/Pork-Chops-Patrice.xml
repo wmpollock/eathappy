@@ -1,0 +1,55 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Pork_Chops_Patrice</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>Brown pork chops, add wine and simmer for a while.  In a large Pyrex baking dish, spread soup evenly and add rest of ingredients.  Place chops on top of sauce and bake at 350F for 15 minutes.  When sauce has thinned a little and is bubbly, spoon over chops and continue to bake another 10 minutes.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Pork Chops Patrice</name>
+  <secondary_categories>
+    <secondary_categorie>Pork Chops</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>A recipe from my Uncle Patrick's "bachelor days", which were long and varied.  Somewhere exists a recipe for  Tuna  Surprise which contained lots of strange things such as peas (not to mention "hot tuna") but was generally  pretty tasty.  Sadly I wouldn't rediscover this recipe until well -after- college.  Makes a tasty winter meal.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>nice chops</ingredient_name>
+      <quantity>6-8</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>white wine</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>green onion</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sour cream</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sliced raw mushrooms</ingredient_name>
+      <quantity>3/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cream of mushroom soup</ingredient_name>
+      <quantity>1 can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>fresh mushrooms</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

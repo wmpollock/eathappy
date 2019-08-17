@@ -1,0 +1,89 @@
+<recipe>
+	<name>Jacqui's Perfect Margarita</name>
+	<yield_count>2</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>Jacqui's Margaritas serve as a cultural touchstone for me.  One thesis behind "Eat Happy" is the ability to successfully preserve and easily transport archetypes of my Northern Californian lifestyle.  In our Italian villa stay in 2004 the local Pam supermarket was raided for the following supplies after a quantity of tequila was discovered.  Some corners were, of course, cut.
+
+We used imported limes from South America there and found that one cannot mass produce the juice mix much beforehand as its a ripe bath for fermentation.  One would probably be safe the night before at least.
+
+Needs research:  lemon/lime syrup shelf time.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>** Lemon simple syrup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 large</quantity>
+			<ingredient_name>preferably Meyer lemon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Drink</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>lemon or lime wedges</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>kosher salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 ozs (5 parts)</quantity>
+			<ingredient_name>agave tequila</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 ozs (4 parts)</quantity>
+			<ingredient_name>triple sec or cointreau</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 ozs (5 parts)</quantity>
+			<ingredient_name>fresh lime juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 oz (2 parts)</quantity>
+			<ingredient_name>lemon simple syrup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>ice cubes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Lemon Simple Syrup:
+Simmer one cup water with one cup sugar for five minutes or until clear.  Strain the juice of 1 large lemon into the hot syrup and stir.  Meyer lemons are preferable, but normal lemons work just as well.
+
+Margaritas:
+Shake tequila, triple sec, lime juice and lemon syrup together and pour into salted glasses.  Garnish with a wedge of lime.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Drunk</secondary_category>
+		<secondary_category>Italian</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<source_name>San Francisco Chronicle, 30 April 2003  </source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Jacquis_Perfect_Margarita</safe_name>
+</recipe>

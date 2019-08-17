@@ -1,0 +1,87 @@
+<recipe>
+  <name>Turkey + Spaghetti</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count>8-10</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>10 oz</quantity>
+      <ingredient_name>spaghetti</ingredient_name>
+      <preparation>broken</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium zucchini</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>sliced cook turkey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 8-oz can</quantity>
+      <ingredient_name>cut green beans</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>medium green onions</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>sliced ripe olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>18</quantity>
+      <ingredient_name>cherry tomatoes</ingredient_name>
+      <preparation>halved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>grated Parmesan cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>white wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3 cup</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 6-oz pkg</quantity>
+      <ingredient_name>Italian dressing mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook spaghetti, drain.  Cook zucchini until just tender.  Put first seven ingredients in a bowl with salt + cheese.  Marinate overnight.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>91-92</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

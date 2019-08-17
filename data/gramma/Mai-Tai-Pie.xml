@@ -1,0 +1,100 @@
+<recipe>
+  <name>Mai Tai Pie</name>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Crust</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>flaked coconut</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>melted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Filling</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 14oz can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 envelopes</quantity>
+      <ingredient_name>Knox gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>lime juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>grated lime peel</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>dark rum</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>Cointreau</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>separated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>heavy cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>lime slices</ingredient_name>
+      <preparation>twisted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>stemmed cherries</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together coconut and butter and line round glass dish, baking for 20 minutes.
+
+Drain pineapple juice from pineapple, add water.  Sprinkle gelatin over liquid.  Stir in sugar, salt, lime juice and peel.  Heat mixture to boiling stirring constantly.  Beat egg yolks until foamy.  Pour hot mixture over yolks slowly.  Stir in rum and Cointreau.  Chill mixture until the consistency of unbeaten egg whites -- about 40 minutes.
+
+Whip cream and add and pineapple to mix.  Turn into pie shell.  Chill 2 hours or more.  Serve with lime slices and cherries.
+</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_page>46-47</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/10/2006</cdate>
+  <safe_name>Mai_Tai_Pie</safe_name>
+</recipe>

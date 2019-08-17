@@ -1,0 +1,80 @@
+<recipe>
+  <name>Youngberry cobbler</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>In case you, like me, weren't familiar with it, the youngberry is a hybrid of blackberries, raspberries and dewberries which are all similar fruit.  Its apparently got a short shelf life and not grown much here in the US but is more common in Australia, New Zealand and South Africa.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Syrup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>water + juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Batter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>heaping</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation>level</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/4 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Syrup: boil syrup for 5 minutes and use hot.
+
+Batter:  Mix as for cake.  Spread in buttered pan about 9x13"  Keep layer thin.
+
+Add berries.  Pour hot syrup over top of berries.  Bake in moderate oven 375F about 45 minutes.  Serve warm or cold with coconut ice cream.
+
+Batter rises and comes up through berries + syrup.
+
+May use cherries, apples, peaches or apricots.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>95-96</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-11</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

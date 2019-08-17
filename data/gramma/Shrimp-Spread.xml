@@ -1,0 +1,62 @@
+<recipe>
+  <name>Shrimp Spread</name>
+  <safe_name></safe_name>
+  <primary_category>Appetizers</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>grated onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>chili sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>drained shrimp</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>parsley flakes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine first 5 ingredients well.  Place in baking dish.  Spread evenly, then spread chili sauce over top and sprinkle with shrimp then parsley flakes.  Bake at 350F for 10-15 minutes.  Serve hot.</preparation>
+  <source_author>Patrick Morrow</source_author>
+  <source_name></source_name>
+  <source_page>81-82</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-04</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

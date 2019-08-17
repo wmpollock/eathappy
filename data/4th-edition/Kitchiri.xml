@@ -1,0 +1,103 @@
+<recipe>
+	<name>Kitchiri</name>
+	<yield_count>4</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>The book suggests that this is the dish behind teh dish that is kedgeree, if tht rings a bell.  It target it as an ample "supper" or brunch dish.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>masoor dal or green lentils</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>"vegetarian ghee" or butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>garlic clove</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sunflower oil or substitute</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cups</quantity>
+			<ingredient_name>basmati rice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>ground coriander</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>cumin seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>cloves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>cardamom pods</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>bay leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 </quantity>
+			<ingredient_name>cinnamon stick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>tomato paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>choped cilantro or parsley</ingredient_name>
+			<preparation>for garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cover the dal or lentils with boiling water and let soak for 30 minutes.  Drain and boil in fresh water for ten minutes.  Drain.
+
+In the ghee or butter, fry the onion and garlic clove in a large saucepan for 5 minutes.  Add rice and stir well to coat rice in the butter or oil.  Stir in salt and pepper and cook gentle for a minute or so.  Add lentils, stock, tomato paste, coriander, cumin, cloves, cardamom, bay leaves and cinnamn stick and bring to a boil.  Reduce and simmer for 20 minutes or until the stock is absorbed.
+
+Remove cinnamon stick and bay leaf before serving.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>Indian (BAWM)</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Kitchiri</safe_name>
+</recipe>

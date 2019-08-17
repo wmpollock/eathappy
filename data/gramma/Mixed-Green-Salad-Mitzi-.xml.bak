@@ -1,0 +1,77 @@
+<recipe>
+  <name>Mixed Green Salad (Mitzi)</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 head</quantity>
+      <ingredient_name>romaine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 bunch</quantity>
+      <ingredient_name>spinach</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 head</quantity>
+      <ingredient_name>Australian lettuce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4-5</quantity>
+      <ingredient_name>medium new potatoes</ingredient_name>
+      <preparation>boiled until just tender, slized + marinated in italian dressing 10 minutes or up to two hours</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3? cups</quantity>
+      <ingredient_name>sliced ripe olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sliced mushrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sliced green onions</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>bacon bits</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Dressing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>french dressing mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Italian dressing </ingredient_name>
+      <preparation>drained from potatoes</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation></preparation>
+  <source_author>Jeanne</source_author>
+  <source_name></source_name>
+  <source_page>79-80</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-03</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,73 @@
+<recipe>
+	<name>Internet Museli</name>
+	<notes>You are either in a country that does Museli right and appreciates it or you aren't and you wouldn't really know by looking at them from the outside.  I think the Kiwis are big on it, for example.
+
+Anyhow, this is an interesting bit of online searching for one that had things that I'd morally agree in.  Pumpkin seeds sells it for me as a Northern Californian: some times of year we have fresh seeds and nothing to do with them.
+
+Elsewhere they'd probably use 'flake' or 'ship' style coconut.  I've seen cereals -- trail mix too -- with this type of coconut preparation before.  It is what it is, I suppose:  you can get it that way or you no can.
+
+Variations on this theme seen: hazlenuts/almonds for pumpkin seeds.  Half maple syrup/half honey.  The addition of nut paste at the end.
+
+
+Refs:
+http://poppalina.typepad.com/my_weblog/2007/05/heaven_is_a_bow.html
+http://www.greenfootsteps.com/muesli-recipe.html
+
+
+Research: sultanas</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>rolled oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sesame seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>pumpkin seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sunflower seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>flaked coconut</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sultanas or mix dried fruit</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix ingredients thoroughly.  Bake 350F until golden brown, stirring every five minutes.  Cool and put into an airtight container.</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>Rice, Grains</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>http://lintrezza.blogspot.com/2008/05/musing-about-museli.html</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/27/2009</cdate>
+	<user>billp</user>
+	<safe_name>Internet_Museli</safe_name>
+</recipe>

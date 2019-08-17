@@ -1,0 +1,70 @@
+<recipe>
+  <source_page>15</source_page>
+  <safe_name>Eggplant_Parmesan</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>Beat into eggs salt, oregano and pepper.  Dip eggplant slices into egg mixture and dredge in flour.  Heat skillet with 3 tbsp oil to medium-high heat.  Fry both sides of eggplant until brown, placing cooked eggplant in a baking dish.  Alternate layers of eggplant with layers of jack cheese and tomato sauce.
+
+Back at 350F for 35 minutes.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>01/03/2005</cdate>
+  <prep_time></prep_time>
+  <name>Eggplant Parmesan</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Italian</secondary_categorie>
+    <secondary_categorie>Vegetarian</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Faye Iacchei </source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>large eggplant</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>sliced into 1/4" pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>eggs</ingredient_name>
+      <quantity>3</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oregano</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>3 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oil</ingredient_name>
+      <quantity>3 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>jack cheese</ingredient_name>
+      <quantity>3/4 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>tomato sauce</ingredient_name>
+      <quantity>2 cans</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/03/2005</mdate>
+</recipe>

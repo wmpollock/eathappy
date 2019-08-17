@@ -1,0 +1,77 @@
+<recipe>
+	<name>Imam Bayildi</name>
+	<notes>Allegedly the name of this dish means "the Imam fainted".  Wikipedia offer several possible causes including the awesomeness of the dish, the amount of oil used, etc, etc. </notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>medium egplants</ingredient_name>
+			<preparation>halved lengthwise</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large onions</ingredient_name>
+			<preparation>sliced thinly</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>green bell pepper</ingredient_name>
+			<preparation>seeded and sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 14oz can</quantity>
+			<ingredient_name>tomatoes</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground coriander</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>chopped fresh cilantro or parsley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Fry the eggplants cut side in the oil for five minutes in a medium frying pan.  Drain and place in a shallow ovenproof dish.  Fry the onions, garlic and green pepper in the same pan.  Extra oil may be needed.  Cook for ten minutes or until vegetables have softened.
+
+At the tomatoes, sugar, ground goriander and ground pepper and cook another five minutes or until the mixture is reduced.  Add in cilantro or parsley.  Spon mixture over eggplants.  Bake for 30-35 minutes at 375F.  Chill and serve cold.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>169</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Imam_Bayildi</safe_name>
+</recipe>

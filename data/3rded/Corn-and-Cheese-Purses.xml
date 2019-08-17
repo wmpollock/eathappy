@@ -1,0 +1,71 @@
+<recipe>
+	<name>Corn and Cheese Purses</name>
+	<ingredients>
+		<ingredient>
+			<quantity>9 oz</quantity>
+			<ingredient_name>corn</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 oz</quantity>
+			<ingredient_name>feta cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation>beaten</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>heavy cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>grated Parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>scallions</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8-10</quantity>
+			<ingredient_name>small filo sheets</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Butter two cookie sheeets.  Strip the kernels from the cobs if using cobs.  Simmer corn 3-5 minutes in "a little" salty water.  Simply drain and rinse canned con.
+
+Mix corn and feta into a medium bowl.  Add the egg, cream, Parmesan cheese, scallions and ground black pepper and mix well.
+
+Cut sheet of filo dough in half to form a square and cover reserved half with damp cloth until ready for use.  Brush square with melted butter nad foldinto fourths to make a smaller, 3" square.  Place haping teaspoon of orn mixture in the center of the pasty square ad squeeze the pastry around teh filling to make a "money bag" casing.  RESEARCH: sounds like maybe one unfolds the fourthed pastry?
+
+Fill purses until one reaches ingredient limits.  Brush each bag with remaining butter nad backe at 375F for fifteen minutes or until golden brown.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>184</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Corn_and_Cheese_Purses</safe_name>
+</recipe>

@@ -1,0 +1,116 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Albondigas</safe_name>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Albondigas</name>
+  <secondary_categories>
+    <secondary_categorie>Cursed</secondary_categorie>
+    <secondary_categorie>Makes You Fat</secondary_categorie>
+    <secondary_categorie>Mexican</secondary_categorie>
+  </secondary_categories>
+  <primary_category>Soup</primary_category>
+  <source_date></source_date>
+  <preparation>Mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.
+
+In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  Add meatballs to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.
+
+Ten minutes before serving add the sprig of mint to the broth and 
+remove prior to serving.
+
+---
+
+In late December 2004 Greg Hoban, Dennis, Sam Archer and I took a trip down to Tres Hermanas and they were serving up a mix which still wasn't quite like Arturo's, but had carrots and zucchini in it.  I can't recall if the former was usually in there but I do recall the later from time to time.</preparation>
+  <source_name>Sivart Software's ACCUCHEF, v. 6.56, "MEX" database</source_name>
+  <yield_count>10</yield_count>
+  <notes>Sr. Arturo used to run this joint in Walnut Creek where they always had a pot of this stuff on the back burner.   Its not quite like Arturo's, but its a fine recipe to have come across nearly by accident.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>**BROTH</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>clove garlic</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oil</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>tomato sauce (14 oz)</ingredient_name>
+      <quantity>1 can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>beef stock</ingredient_name>
+      <quantity>3 qt</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>mint or cilantro</ingredient_name>
+      <quantity>1 sprig</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>**MEATBALLS</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground beef</ingredient_name>
+      <quantity>3/4 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground pork</ingredient_name>
+      <quantity>3/4 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>raw rice</ingredient_name>
+      <quantity>1/3 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>1/4 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oregano</ingredient_name>
+      <quantity>1/4 tsp</quantity>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>small onion</ingredient_name>
+      <quantity>1/2</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>egg</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>slightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>fresh cilantro</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate>01/26/2005</mdate>
+  <yield_measure>Servings</yield_measure>
+</recipe>

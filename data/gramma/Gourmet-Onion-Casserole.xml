@@ -1,0 +1,75 @@
+<recipe>
+  <name>Gourmet Onion Casserole</name>
+  <safe_name></safe_name>
+  <primary_category>Casseroles/One Dish Meals</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>**Needs review</secondary_category>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>I'm not entirely sure what a #303 can is, but I'm sure one of my friends could probably help me convert it.  This is a really weird sounding title for a dish and I'm note entirely sure what to make of it.  Could be really good -- the typing is -- or...?</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 #303 cans</quantity>
+      <ingredient_name>whole onions</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Can</quantity>
+      <ingredient_name>cream mushroom soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 moderate cup</quantity>
+      <ingredient_name>white wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sliced almonds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sharp cheddar</ingredient_name>
+      <preparation>grated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small "glass"</quantity>
+      <ingredient_name>sliced pimento</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Cup</quantity>
+      <ingredient_name>mushrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Melt butter and stir in flour.  Add to this the soup and wine.  Stir constantly until thick.  Add salt, pepper, almonds, pimento and mushrooms.  Sprinkle with cheddar cheese and bake 30 minutes at 375F</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>57</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-20</mdate>
+  <user>billp</user>
+</recipe>

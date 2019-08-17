@@ -1,0 +1,96 @@
+<recipe>
+	<name>Warm Spciy Dal</name>
+	<notes>"Warm Spicy" is a gringo flag.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>8 oz</quantity>
+			<ingredient_name>split yelow peas</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>onions</ingredient_name>
+			<preparation>chopped and divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large bay leaf</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>stock or water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>black mustard seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>melted butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>garlic clove</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1" cube</quantity>
+			<ingredient_name>ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small green bell pepper</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground tumeric</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>gaam masala</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>tomatoes</ingredient_name>
+			<preparation>peeled and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>fresh cilantro or parsley</ingredient_name>
+			<preparation>as garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Heat peas, half the onions and the bay leaf in the stock.  Bring to a boil and down to simmer 25 minutes.  Season lightly with salt and pepper towards the last few minutes.
+
+In a separate, largish pan, fry the mustard seeds in the melted butter for 30 seconds or until the kernels begin to pop.  Add reserved onion, and measures of garlic, ginger and bell pepper.
+
+Saute for 5 minutes or until vegetables have softened before adding remainig spices.  Add the split peas and tomatos and an additional water that may be needed before simering an aditional 10 minutes.
+
+Check for seasoning, salt and pepper to taste and serve with optional garnish.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Indian (BAWM)</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>363</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Warm_Spciy_Dal</safe_name>
+</recipe>

@@ -1,0 +1,93 @@
+<recipe>
+	<name>Lemon Glazed Lemon Crisps</name>
+	<yield_count>6</yield_count>
+	<yield_measure>Dozen</yield_measure>
+	<notes>This sounds pretty good, being Lemon raised to the power of Lemon.  A bet its tarty, don't you?</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**COOKIES</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 1/4 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation>for dusting</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**LEMON GLAZE</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>lemon zest</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cookies:  Cream together sugar and butter.  Mix in eggs, sour cream and vanilla.  Sift together flour, soda and salt and mix into cream mixture.  Refrigerate to firm up.
+
+Roll out half of dough 1/8" thick and cut with cookie cutters, repeat with remaining dough.  Bake 10-12 minutes on a sheet until lightly browned.  Cool on rack.
+
+Glaze:  heat powdered sugar and lemon juice over low heat until well mixed.  Remove from heat and add lemon zest.   Allow to cool a bit and drizzle over cookies.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Lemon</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name><![CDATA["Jean Porter", C&H Sugar package]]></source_name>
+	<source_date>2005</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>11/09/2005</cdate>
+	<mdate>06/09/2009</mdate>
+	<user>billp</user>
+	<safe_name>Lemon_Glazed_Lemon_Crisps</safe_name>
+</recipe>

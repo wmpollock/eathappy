@@ -1,0 +1,67 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Lamb_Curry</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>In a saucepan, melt butter and saute onion, garlic and curry until onions are soft.  Gradually stir in flour.  Mix in the chicken broth and light cream.
+
+Stir over low heat until sauce bubbles and thickens.  Add lamb and season to taste with salt and pepper.</preparation>
+  <yield_count>4</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Lamb Curry</name>
+  <secondary_categories>
+    <secondary_categorie>Lamb</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>Not very "curry" but a staple of my childhood diet growing up.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>margarine or butter</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>1 large</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>1 clove</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>curry powder</ingredient_name>
+      <quantity>1-2 tsp</quantity>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken broth</ingredient_name>
+      <quantity>13 oz can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>light cream</ingredient_name>
+      <quantity>1/2 pint</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lamb shanks, cooked</ingredient_name>
+      <quantity>4</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

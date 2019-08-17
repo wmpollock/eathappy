@@ -1,0 +1,88 @@
+<recipe>
+	<name>Challah</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>A festive, showy bread traditionally baked on Jewish Sabbath.  Its a big number with a rather flaky, airy inside.   Doesn't age particularly well but easy enough to prepare that its worth it to just plow through it all.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 pkg (2 1/4 tsp)</quantity>
+			<ingredient_name>active yeast</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>warm water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>egg yolks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>bread flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>pinch</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>sesame seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix water and yeast together and let sit until the yeast is rehydrated.  Add to all-purpose flour, eggs and yolks, vegetable oil, sugar and salt and mix thoroughly.  To which, add 2 1/2 cups bread flour and knead until dough is elastic.
+
+Cover with oiled plastic wrap and allow to double (1 1/2 to 2 hours).  Punch down the dough and refrigerate until dough doubles again (4-12 hours). 
+
+Dough can be divided into three or four parts and lightly braided. Whisk together egg and salt and brush over the braided loaf.  Allow to load to warm and rise until not quite doubled, about 45 minutes.
+
+The loaf may be again whisked with egg/salt mixture and then topped with sesame seeds prior to baking.
+
+Loaf is backed at 375F degrees until the crust is golden and loaf sounds hollow when tapped, 30-35 minutes.  Allow to cool on rack before serving.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<source_name>The Joy Of Cooking</source_name>
+	<source_page>746</source_page>
+	<source_date>1997</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Challah</safe_name>
+</recipe>

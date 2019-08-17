@@ -1,0 +1,69 @@
+<recipe>
+  <name>Pork with Apples and Pears</name>
+  <safe_name>Pork_with_Apples_and_Pears</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Works with chicken too. 
+Other variation: 
+Citrus - in step 3, omit fruit and extra stock and instead stir in 2 T lemon juice, some capers, and 2 T butter. Spoon sauce over chops and garnish with parsley. 
+</notes>
+  <prep_time>30 min</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>shoulder or center cut loin pork chops, 1 inch thick</ingredient_name>
+      <preparation>trimmed of fat</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper to taste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 T</quantity>
+      <ingredient_name>EVOO</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 c</quantity>
+      <ingredient_name>water or white wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 t</quantity>
+      <ingredient_name>garlic </ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 to 1 c</quantity>
+      <ingredient_name>chicken stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 - 3 </quantity>
+      <ingredient_name>pears or apples or a combination</ingredient_name>
+      <preparation>peeled and cut into 1/2 inch wedges</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>fresh parsley</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Step 1: Sprinkle chops with salt and pepper. Put a large skillet over medium-high heat for 2 minutes. Add EVOO; when hot, add chops and turn heat to high. Brown for 2 minutes on each side. 
+Step 2: Reduce heat to medium. Add water or wine and garlic and cook, turning chops twice, until the liquid has almost evaporated - 3 minutes. Add stock, turn heat to low, and cover, cooking until chops are tender but not dry, 10 to 15 min. (When they're done, their jucies will run slightly pink.)
+Step 3: Transfer pork to a platter and cover to keep warm. Add fruit wedges to the skillet, stirring and scraping the bottom of the pan. If the pan seems too dry, add another 1/2 cup stock or wine and continue cooking until the fruit is soft and the liquid is reduced slightly, 5 to 10 minutes. Spoon the fruit and sauce over the chops and garnish with parsley.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+    <secondary_category>Pork Chops</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Parents Magazine</source_name>
+  <source_page>68</source_page>
+  <source_date>Jan 2011</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/04/2011</cdate>
+  <user>hilaryp</user>
+</recipe>

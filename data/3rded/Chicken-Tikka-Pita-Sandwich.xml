@@ -1,0 +1,85 @@
+<recipe>
+	<name>Chicken Tikka Pita Sandwich</name>
+	<yield_count>4</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>I do like the idea of chunk chicken salad sandwiches but the last attempt I tried was a disastrous conversion of  an English (as in UK) recipe that (a) didn't taste anything like the original and (b) was rather horrid.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>chicken breasts</ingredient_name>
+			<preparation>"plump, boneless and skinless"</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>lemon or lime</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>tandoori paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>mayo</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>unflavored yogurt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dried mint</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 - 2 per sandwich</quantity>
+			<ingredient_name>lettuce leaves</ingredient_name>
+			<preparation>torn into pieces</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>cucumber</ingredient_name>
+			<preparation>seeded and diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>pitas</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Marinate chicken in lemon juice and garlic for 15 minutes.   Add the tandoori paste and let marinate for as long as possible:  30 minutes to overnight.
+
+Rub the chicken with vegetable oil, then cook:  broil, grill, or brown in a nonstick frying pan.  When the chicken is just cooked through, about 5 or 6 minutes per side (be careful not to overcook), transfer to a plate and let cool.
+
+Cut the chicken into bite-sized pieces.  Set aside.
+
+Mix together mayonnaise and yogurt then stir in the mint.   Set aside.
+
+Brush the pitas on one side with water then heat either in a  toaster or in a heavy nonstick frying pan.  They should puff up, making it easy to split them to form a pocket.
+
+Into each pocket place a few pieces of chicken, a spoonful of sauce, a sprinkling of cucumber, a little lettuce, more chicken and so on, until the ingredients are used up and/or the pitas can't hold any more. Garnish with onion, tomato and cilantro/mint then serve.</preparation>
+	<primary_category>Sandwiches</primary_category>
+	<secondary_categorys>
+		<secondary_category>Chicken</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>San Francisco Chronicle</source_name>
+	<source_date>23 April 2003</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/11/2009</mdate>
+	<safe_name>Chicken_Tikka_Pita_Sandwich</safe_name>
+</recipe>

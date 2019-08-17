@@ -1,0 +1,93 @@
+<recipe>
+  <name>Lemon-Basil Potato Salad</name>
+  <safe_name>Lemon_Basil_Potato_Salad</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lb</quantity>
+      <ingredient_name>baby red potatoes</ingredient_name>
+      <preparation>cut into 1" pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>red onion</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>thinly sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 slices</quantity>
+      <ingredient_name>thick-cut bacon</ingredient_name>
+      <preparation>diced to 1/2"</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>basil</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>basil</ingredient_name>
+      <preparation>chiffonade</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Insert potatoes into a large pot, covering with cold water and a pinch of salt.  Bring to a boil before lowering heat to simmer until fork-tender, 20-25 minutes.  Drain and cool before tossing with celery and onions.
+
+Fry bacon until godel brown and drain.  1 Tbl of bacon grease can be reserved and substituted for equal measure of olive oil.
+
+Whisk mayonnaise, sour cream, lemon juice, oil and/or backon fat and minced basil.  Season with salt and pepper.
+
+Toss vegetable mixture with dressing and stir in reserved bacon.  Garnish with chiffonaded basil.  Serve immediately or refrigerate.</preparation>
+  <primary_category>Side</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Potatoes</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle, "Lemon-Basil Potato Salad"</source_name>
+  <source_page>http://www.sfgate.com/food/recipes/detail/?p=detail&amp;rid=18726&amp;sorig=qs</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <user>billp</user>
+</recipe>

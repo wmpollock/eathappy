@@ -1,0 +1,72 @@
+<recipe>
+  <name>Marinated Tri-Tip (WasabiBratwurst)</name>
+  <safe_name>Marinated_Tri_Tip_WasabiBratwurst_</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Ranked second in the 2009 tri-tip challenge.  A nice savory preparation.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 large</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>clarified butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>steak sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>teriyaki sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>finely minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>crushed red pepper flakes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>hot sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>dry red wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>tri-tip</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Marinade tri-tip at least overnight, as long as three days.
+</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>http://www.wasabibratwurst.com/marinated-tri-tip-roast/</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>08/10/2009</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

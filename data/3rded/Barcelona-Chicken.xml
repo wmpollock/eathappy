@@ -1,0 +1,68 @@
+<recipe>
+  <name>Barcelona Chicken</name>
+  <safe_name>Barcelona_Chicken</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Generally speaking, kinda okay.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>5</quantity>
+      <ingredient_name>scallions</ingredient_name>
+      <preparation>cut into 1" pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lightly packed cup</quantity>
+      <ingredient_name>fresh basil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>large garlic cloves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>serrano chile peppers</ingredient_name>
+      <preparation>seeded and chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>extra virgin olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbl</quantity>
+      <ingredient_name>sherry vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4-5 lb</quantity>
+      <ingredient_name>whole chicken or parts</ingredient_name>
+      <preparation>2 breasts, whole legs and wings</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Process all ingredients except the chicken in a blender or food processor until smooth: 1 to 2 minutes.  Bag-marinade sectioned chicken in the refridgerator for at least 4-6 and as many as 12 hours.  Grill chicken skin-side down over indirect medium heat until fully cooked:  breast and wings will be done first (~30 mins) the leg pieces next (~40 minutes). Webber suggests moving the pieces over direct heat for their last 10 minutes to brown the chicken fully.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>BBQ</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+  </secondary_categories>
+  <source_name>Webber's Real Grilling</source_name>
+  <source_page>204</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>02/04/2013</mdate>
+  <user>billp</user>
+</recipe>

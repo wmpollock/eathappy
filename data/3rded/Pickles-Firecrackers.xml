@@ -1,0 +1,64 @@
+<recipe>
+  <name>Pickles: Firecrackers</name>
+  <safe_name>Pickles_Firecrackers</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I must not have seen this episode -- they all sound alike to me after a while.   This one's a bit different;  carrots!</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 lb</quantity>
+      <ingredient_name>mini carrots</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>dried chilis</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>cidar vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>onion powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>chili flakes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Arrange carrots and dried chilis in a spring-top ja.  Boil water, sugar, cider vinegar, onion powder, mustard seeds, salt and chili flakesin a non-reactive pot or saucepan for four minutes.
+
+Pour hot pickling liquid over carrots, filling the jar nearly to top.  Add the chies in the jar.  Alow carrots to cool before sealing jar.  Allow to set for two days: keeps up to a week.</preparation>
+  <primary_category>Side</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Alton Brown:  http://www.foodnetwork.com/recipes/alton-brown/firecrackers-recipe/index.html</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/27/2009</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

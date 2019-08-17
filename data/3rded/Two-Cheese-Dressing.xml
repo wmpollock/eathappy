@@ -1,0 +1,55 @@
+<recipe>
+	<name>Two Cheese Dressing</name>
+	<yield_count>2 1/2</yield_count>
+	<yield_measure>cups</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cheddar cheese</ingredient_name>
+			<preparation>shredded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>blue cheese</ingredient_name>
+			<preparation>crumbled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>chives</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>garlic powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix all ingredients in a medium bowl, blending well.  Cover and refrigerate until serving.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Lots Of Cheese</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Lilly Domoto</source_name>
+	<source_page>11</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/30/2004</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Two_Cheese_Dressing</safe_name>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+	<name>Gum's Fresh Strawberry Pie</name>
+	<yield_count>6</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>I've made this a few times with mixed results.  I was so very much hoping that I would have some nice sort of  jellied looking pie  and that is occasionally how it turns out.   Occasionally it turns out like a great leathery mass.
+
+Your mileage may vary.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>9 inch baked pie shell</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 pints</quantity>
+			<ingredient_name>fresh strawberries</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>cornstarch</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sweetened whipped cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mash half the berries.  Add sugar and cornstarch.  Mix well and cook five minutes until thickened and clear.  Stir in the lemon juice, cool. Add the remaining berries, saving six for garnish.  Pour into pie shell and chill.  Top with a ruff of whipped cream and garnish with remaining berries.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Pie Crust</secondary_category>
+		<secondary_category>Fruit</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/25/2009</cdate>
+	<user>billp</user>
+	<safe_name>Gums_Fresh_Strawberry_Pie</safe_name>
+</recipe>

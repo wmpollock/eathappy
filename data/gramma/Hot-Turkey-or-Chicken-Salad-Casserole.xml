@@ -1,0 +1,93 @@
+<recipe>
+  <name>Hot Turkey or Chicken Salad Casserole</name>
+  <safe_name></safe_name>
+  <primary_category>Casseroles/One Dish Meals</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count>8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Salad Mixture</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>cooked diced turkey or chicken</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped green pepper</ingredient_name>
+      <preparation>optional</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped green celery</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Other Casserole Components</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5-6</quantity>
+      <ingredient_name>slices of white bread</ingredient_name>
+      <preparation>for top</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>mushroom soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cube two slices of bread + line bottom of buttered casserole.  Then spread salad mixture on top.  Cover with remaining bread.
+
+Beat eggs and milk and pour over bread and salad mixture.
+
+Let stand in refrigerator overnight.
+
+When ready to bake, cover with undiluted soup.  Just before removing from oven add grilled cheese.    Bake in a 325F oven 50 minutes, additional ten minutes for cheese.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>91-92</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-20</mdate>
+  <user>billp</user>
+</recipe>

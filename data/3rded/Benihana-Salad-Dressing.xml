@@ -1,0 +1,83 @@
+<recipe>
+  <name>Benihana Salad Dressing</name>
+  <safe_name>Benihana_Salad_Dressing</safe_name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>When I was a child on certain very special occasions we would find outselves at one of a couple of Benihanas that might happen to be nearby our family's locale:  Walnut Creek, CA and Honolulu, HI for an e.g.  We went to my brother's birthday there again in 2006 and it continued to be the good times ever changing that we remember.  Truly a feast for all the senses, including the pocketbook.
+
+This savory dressing usually gets served on a fussy-chopped bed of greens, cabbage mostly if I recall, and does best when served only slightly chilled.
+
+I've made this a few times and had a strange lingering onion taste that I've attributed to this recipe:  may need some fiddling.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>chopped onion</ingredient_name>
+      <preparation>for later processing</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>peanut oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>rice wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>fresh ginger</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>tomato paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash each</quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine all ingredients in blender or food processor and process until nearly smooth: there should be some grain to the resulting pulp. 
+
+Allegedly makes six servings but will take a good half-pint container to hold. YMMV.</preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categories>
+  <source_name>Benihana website</source_name>
+  <source_date>11 Sept 2006</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/01/2009</cdate>
+  <mdate>11/27/2009</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,63 @@
+<recipe>
+  <name>Pasta Parmesan with Ham</name>
+  <safe_name>Pasta_Parmesan_with_Ham</safe_name>
+  <yield_count>4-5</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>8 oz </quantity>
+      <ingredient_name>tubular pasta (Penne or Mostaccioli)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>mined</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>Parmesan cheese</ingredient_name>
+      <preparation>freshly grated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>parsley</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>ham</ingredient_name>
+      <preparation>cut into 1/2" cubes</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Prepare pasta per packaging and drain.  Melt 2 Tbl butter in a large frying pan and saute garlic and ham over medium heat until garlic is golden.  Stir in cooked pasts, 2 addl Tbl of butter and Parmesan cheese, cooking until cheese is melted.  Mix in milk and parsley and toss until creamy.  Season to taste.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Salt-Tastic!</secondary_category>
+    <secondary_category>Italian</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <source_name>Challenge Butter add-in packet</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>09/23/2007</cdate>
+  <mdate>02/06/2011</mdate>
+  <user>billp</user>
+</recipe>

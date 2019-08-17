@@ -1,0 +1,48 @@
+<recipe>
+	<name>Grog</name>
+	<yield_count>1</yield_count>
+	<yield_measure>mug</yield_measure>
+	<notes>While we don't have the biting cold of what one would consider a "real" winter, we do suffer a bit of the deep, penetrating fog now and again here in the central valley.  Back in my college days I found that this was a heavenly treat both on nights when I could use some warming as well as some sound sleep.
+
+As legend has it, grog originated as a drink in the days of the sailing ships, where the ship's surgeon wanted to ensure everyone got a proper dose of vitamin C and, well, since they had to drink their rum portion in *some* way.</notes>
+	<prep_time>5-10 minutes</prep_time>
+	<ingredients>
+		<ingredient>
+			<quantity>3/4 mug</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation>boiling</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>lemon or lime</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 oz</quantity>
+			<ingredient_name>rum</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>The simplest preparation is to pour 3/4 mug's worth of water, the lemon juice and sugar into a microwave-safe mug and heat in the microwave oven until near-boiling, then add the rum on top. This ensures that the restorative value of the alcohol is not burned off.
+
+Those who happen to have a tea kettle are encouraged to change the order of ingredients to be added: sugar first, lemon followed by rum with the hot water on top of that.
+
+Stir briskly.
+
+At some unknown point at the Golden Eagle House we started buying our way through the liquor department and came across "Redrum", a powerful rum-and-fruit fermentation offset nicely by lime juice and ever since the "official House recipe".</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<source_name>Unknown:  original inspiration believed to be from either "Mr. Boston's" or else "Trader Vic's Bartender's Guide"</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/29/2004</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Grog</safe_name>
+</recipe>

@@ -1,0 +1,71 @@
+<recipe>
+  <source_page>28</source_page>
+  <safe_name>Shrimp_Noodle_Crisp</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>Cook noodles in 3 quarts boiling water, drain and rinse.   Mix all ingredients in 1 1/2 quart casserole and top with crushed potato chips.  Bake at 350F for 30 minutes</preparation>
+  <yield_count>5</yield_count>
+  <yield_measure>generous servings</yield_measure>
+  <untried>1</untried>
+  <cdate>01/03/2005</cdate>
+  <prep_time></prep_time>
+  <name>Shrimp Noodle Crisp</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Mollie Yoneyama</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>thin egg noodles</ingredient_name>
+      <quantity>4 oz</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>shrimp</ingredient_name>
+      <quantity>1/2 lb or more</quantity>
+      <preparation>cooked</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>green pepper</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>celery</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>1/8 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>potato chips</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>crushed</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

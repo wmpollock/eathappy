@@ -1,0 +1,52 @@
+<recipe>
+  <name>Lamb Curry</name>
+  <preparation>In a saucepan, melt butter and saute onion, garlic and curry until onions are soft.  Gradually stir in flour.  Mix in the chicken broth and light cream.
+
+Stir over low heat until sauce bubbles and thickens.  Add lamb and season to taste with salt and pepper.</preparation>
+  <main_ingredient>Lamb</main_ingredient>
+  <yield_count>4</yield_count>
+  <notes>Not very "curry" but a staple of my childhood diet growing up.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Margarine Or Butter</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Onion, Chopped</ingredient_name>
+      <quantity>1 Large</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic, Chopped</ingredient_name>
+      <quantity>1 Clove</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Curry Powder</ingredient_name>
+      <quantity>1-2 Tsp</quantity>
+      <preparation>To Taste</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Flour</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Chicken Broth</ingredient_name>
+      <quantity>13 Oz Can</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Light Cream</ingredient_name>
+      <quantity>1/2 Pint</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Lamb Shanks, Cooked</ingredient_name>
+      <quantity>4</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt And Pepper</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Main Dish</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

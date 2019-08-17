@@ -1,0 +1,74 @@
+<recipe>
+	<name>Veal Loaf</name>
+	<notes>There's something quaint about this recipe.  You've got to be a bit hard-hearted to consume veal in the modern era, though not so lamb and other juvenlie animals.  Mostly there were concerns about the ethics involved with industrial raising of calves in confined spaces for their entire existence, no matter how dumb.
+
+Veal is mostly left to those decadent dishes where it could not otherwise be replaces. Loafing it up seems downright -hardcore- in the face of all this.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>moist bread crumbs (prepared freshly from bread)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>beaten evenly</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>grated onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 </quantity>
+			<ingredient_name>lemon</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 lb</quantity>
+			<ingredient_name>ground veal</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 lb</quantity>
+			<ingredient_name>salt pork</ingredient_name>
+			<preparation>ground with the veal</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cracker crumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 strips</quantity>
+			<ingredient_name>salt pork</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix bread crumbs and beaten eggs.  Stir in the onion and lemon juice before adding the salt and pepper.  Mix in ground veal and pork and integrate well.  Shape into oblong loaf and place on foiled sheet pan and raise edges of foil to form moat and retain the juices.  Press cracker crumbs along the exposed edges of the loaf.  Cover the loaf with diagonal strips of salt pork.
+
+Bake at 325F for 30 minutes.  Reduce heat to 300F and bake and additional 90 minutes.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Retro</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"The New Ground Beef Cookbook", Alpha Beta edition</source_name>
+	<source_page>19</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Veal_Loaf</safe_name>
+</recipe>

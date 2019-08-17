@@ -1,0 +1,47 @@
+<recipe>
+  <name>Ruby's Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 pkg</quantity>
+      <ingredient_name>frozen peas</ingredient_name>
+      <preparation>don't cook</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 bunch</quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>without tops</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 lb</quantity>
+      <ingredient_name>bacon</ingredient_name>
+      <preparation>crisp and crumble</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>garlic salt</quantity>
+      <ingredient_name></ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together peas, green onions and sour cream.  Add in bacon and garlic salt</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0076</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2016-03-10</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

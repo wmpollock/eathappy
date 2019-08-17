@@ -1,0 +1,78 @@
+<recipe>
+  <name>Falafels</name>
+  <safe_name>Falafels</safe_name>
+  <yield_count>8</yield_count>
+  <yield_measure>rounds </yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 15 oz can</quantity>
+      <ingredient_name>chickpeas (garbanzos)</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>garlic clove</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>chopped fresh parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>chopped fresh cilantro</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>chopped fresh mint</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>cumin seeds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>fresh bread crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>freshly ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>oil</ingredient_name>
+      <preparation>for deep frying</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>pitas, lettuce, tomatoes, tahaini or yogurt</ingredient_name>
+      <preparation>for serving</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Grind the chickpeas in a food processor until smooth then add all the other ingredients except the oil.  Heat 1/4 inch of oil in a frying pan and fry a few at a time.  Cook each for 8 minutes, turning just once.  Drain on paper towels.  Serve in pitas with lettuce, tomatoes and tahaini or yogurt.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**Deleted06</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Vegetarian</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>02/24/2011</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,63 @@
+<recipe>
+	<name>Herbal Punch (non-Alcoholic)</name>
+	<ingredients>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 quarts</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>freshly squeezed lemon juice</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>fresh rosemary</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 cups</quantity>
+			<ingredient_name>sliced strawberrieds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>fresh lime juic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 quarts</quantity>
+			<ingredient_name>sparkling mineral water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>ice cubes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3-4 </quantity>
+			<ingredient_name>scented geranium leaves</ingredient_name>
+			<preparation>optionally</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine honey, four cups of the water, 1/4 cup of lemon juice and rosemary in a saucepan.  Boil until the honey is dissolved.  Remove from heatf and allow to stand for about five minutes.  Strain into a large punch bowl.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>392</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/25/2009</cdate>
+	<user>billp</user>
+	<safe_name>Herbal_Punch_non_Alcoholic_</safe_name>
+</recipe>

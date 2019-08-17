@@ -1,0 +1,48 @@
+<recipe>
+  <notes>Originally from the Joy Of Cooking, 1997 edition, pg. 775</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Whole Wheat Or Bread Flour</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>All Purpose Flour</ingredient_name>
+      <unknown_1>20081</unknown_1>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Old-Fashioned Oats</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <unknown_1>19335</unknown_1>
+      <quantity>2 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Baking Powder</ingredient_name>
+      <unknown_1>18369</unknown_1>
+      <quantity>2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Baking Soda</ingredient_name>
+      <unknown_1>18372</unknown_1>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <unknown_1>02047</unknown_1>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Non-Stout Beer, Not Flat</ingredient_name>
+      <quantity>1 1/2 Cups</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Beer Bread</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Bread</category>
+  </category>
+  <preparation>Mix the dry ingredients together and add the beer into the mixture, folding the ingredients until moistened.  Scrape the mixture into a 8 1/2" x 4 1/2" greased pan and bake 35-40 minutes at 400F degrees or until a toothpick inserted at the center comes out clean.  Allow to cool for 10-15 minutes on a wire rack before serving.</preparation>
+</recipe>

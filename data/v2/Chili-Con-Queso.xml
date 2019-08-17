@@ -1,0 +1,68 @@
+<recipe>
+  <source_page>28</source_page>
+  <safe_name>Chili_Con_Queso</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Toss the Velveeta with the corn starch to evenly coat.  Heat oil in medium-hot skillet and add onion, garlic, and chili powder.  Add the tomatoes and chiles and bring to a boil, stirring frequently.  Reduce heat and simmer uncovered for 10 minutes.
+
+Stir in cheese gradually until just melted.  Serve hot with corn chips.</preparation>
+  <yield_count>2 1/2 </yield_count>
+  <yield_measure>cups</yield_measure>
+  <untried>1</untried>
+  <cdate>01/20/2005</cdate>
+  <prep_time></prep_time>
+  <name>Chili Con Queso</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date>1992</source_date>
+  <source_name> "Almanor Westshore Cooks", contributed by Phyllis Duckworth</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Velveeta cheese</ingredient_name>
+      <quantity>2 lb</quantity>
+      <preparation>cubed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>corn starch</ingredient_name>
+      <quantity>1/2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>corn oil</ingredient_name>
+      <quantity>3 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>1 clove</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chili powder</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>14.5 oz can whole tomatoes</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>drained and chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>4oz can chopped green chiles</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>corn chips</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

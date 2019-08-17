@@ -1,0 +1,46 @@
+<recipe>
+  <main_ingredient>Bill's Favorite</main_ingredient>
+  <notes></notes>
+  <yield_count>8</yield_count>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Bread Flour</ingredient_name>
+      <quantity>2 LB</quantity>
+      <preparation>(+3 Oz If Necessary)</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <unknown_1>19335</unknown_1>
+      <quantity>1 Oz</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <unknown_1>02047</unknown_1>
+      <quantity>1oz</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Yeast</ingredient_name>
+      <unknown_1>18375</unknown_1>
+      <quantity>1 Oz</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Lukewarm Water</ingredient_name>
+      <quantity>1 Pint</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Olive Oil</ingredient_name>
+      <unknown_1>04053</unknown_1>
+      <quantity>2 Tbl</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Jaime Oliver's Pizza Dough</name>
+  <yield_measure>Pizzas</yield_measure>
+  <category>
+    <category>Bread</category>
+  </category>
+  <preparation>Mix dry ingredients in a small volcano and add olive oil and water to the center.  Slowly draw dry ingredients into the mound until a workable dough is formed.  Jaime always does this on the counter, but there's a reason that some of us are world-renowned chefs and there's a reason some of us slave over an unfashionable electric out in Rosemont -- I use a big bowl to do the mixing.  When the dough is solid enough, transfer to the counter for some serious kneading.
+
+Separate the dough into balls roughly the size of a small grapefruit and then stretch each into disks.  The dough will need to sit a bit in this stretched-out form for a bit to let some gas generate and the gluten relax a bit before stretching out fully into shape.
+
+I prefer to do my pizza's Italian stylee which means thin crusts and light on the toppings but this dough works pretty well for thicker crusts as well.</preparation>
+</recipe>

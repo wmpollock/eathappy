@@ -1,0 +1,105 @@
+<recipe>
+  <name>Barley And Lentil Soup</name>
+  <preparation>Heat oil in a heavy 4 quart saucepan over medium-high heat.  Add onions and garlic and saute until onions are translucent, about 10 minutes.  Add next 6 ingredients.  Cook until bell pepper just softens, stirring occasionally, 6 minutes.
+
+Mix in broth, tomatoes and tomato paste.  Bring mixture to boil.  Stir in barley and lentils.  Reduce heat and simmer until barley and lentils are tender, stirring occasionally, about 1 1/2 hours.
+
+** I have a transcription question here.  My original notes are unclear.  It says "+1 T peppeVs", looks like.  I assume that means "1 tablespoon peppers" which I would mean "hot peppers", but that sounds like a lot as I sit here now.  It may very well be "one teaspoon pepper", but that goes against my general philosophy.  I will check it next time I make it -- give me a call.
+
+The original recipe called for an additional can of broth to start and an extra one at the end if it wasn't "thin enough".  Thin enough and folks like myself do not go well together...
+
+</preparation>
+  <main_ingredient>Sticks To Ribs</main_ingredient>
+  <yield_count>8</yield_count>
+  <notes>A hearty winter soup.
+
+Originally recipe from Epicurious</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Olive Oil</ingredient_name>
+      <unknown_1>04053</unknown_1>
+      <quantity>3 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Large Onions</ingredient_name>
+      <quantity>2</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic Cloves</ingredient_name>
+      <quantity>4</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Carrots</ingredient_name>
+      <quantity>3</quantity>
+      <preparation>Diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Celery Stalks</ingredient_name>
+      <quantity>4</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Red Bell Peppers</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Oil Packed Sun-dried Tomatoes</ingredient_name>
+      <quantity>8</quantity>
+      <preparation>Drained, Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dried Basil</ingredient_name>
+      <quantity>2 Tsp</quantity>
+      <preparation>Crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dried Oregano</ingredient_name>
+      <quantity>1 Tsp</quantity>
+      <preparation>Crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>14.5 Oz Cans Beef Broth</ingredient_name>
+      <quantity>4</quantity>
+      <preparation>(about)</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>28 Ounce Can Crushed Tomatoes</ingredient_name>
+      <quantity>1</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tomato Paste</ingredient_name>
+      <unknown_1>11887</unknown_1>
+      <quantity>2 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Pearl Barley</ingredient_name>
+      <unknown_1>20004</unknown_1>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Lentils</ingredient_name>
+      <unknown_1>16070</unknown_1>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Hot Pepper Flakes**</ingredient_name>
+      <quantity>1 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sriracha</ingredient_name>
+      <quantity>2 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tabasco</ingredient_name>
+      <unknown_1>06169</unknown_1>
+      <quantity>2 Tsp</quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Soup</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

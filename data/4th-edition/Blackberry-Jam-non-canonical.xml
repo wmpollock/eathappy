@@ -1,0 +1,45 @@
+<recipe>
+	<name>Blackberry Jam, non-canonical</name>
+	<yield_count>9</yield_count>
+	<yield_measure>1/2 pints/ "8 cups"</yield_measure>
+	<notes>The Family has a blackberry jam recipe who I need to shake out of my mother.  This sufficed in a time of prior need.
+
+Seeds can be seived out before cooking either partially or in full.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>7 cups</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 cups</quantity>
+			<ingredient_name>blackberries</ingredient_name>
+			<preparation>washed and stemmed or defrosted from that bag</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 package</quantity>
+			<ingredient_name>pectin</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Premeasure sugar.  Mix blackberries and pectin and bring to a boil over high heat.  Allow mixture to full boil and allow to hard boil for one minute.
+
+Remove from heat and skim surface for five minutes.
+
+Quickly jar, leaving 1/2" head space.
+
+Further canning:
+
+Clean rim and seal with tops.  Tighten rings fully and set aside to cool.  The next day, if possible to wait that long or 'until cool', unset the rings and store loose ooff completely.  Tops cannot be reused.  Follow best canning practices.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Fruit</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Paul Noll @ http://www.paulnoll.com/Oregon/Canning/canning-jam-choices.html</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/27/2009</cdate>
+	<user>billp</user>
+	<safe_name>Blackberry_Jam_non_canonical</safe_name>
+</recipe>

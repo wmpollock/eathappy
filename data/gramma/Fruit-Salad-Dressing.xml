@@ -1,0 +1,40 @@
+<recipe>
+  <name>Fruit Salad Dressing</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>pineapple juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2</quantity>
+      <ingredient_name>lemons</ingredient_name>
+      <preparation>juiced, to suit taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook in double boiler until thick (About 30 minutes) stirring occasionally.</preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Nell Boylin</source_name>
+  <source_page>0036-0037</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <mdate>12/18/2005</mdate>
+  <safe_name>Fruit_Salad_Dressing</safe_name>
+</recipe>

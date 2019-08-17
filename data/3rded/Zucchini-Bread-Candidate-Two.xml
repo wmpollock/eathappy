@@ -1,0 +1,82 @@
+<recipe>
+	<name>Zucchini Bread, Candidate Two</name>
+	<yield_count>2</yield_count>
+	<yield_measure>loaves</yield_measure>
+	<notes>My gut instinct says that Candidate One is the more likely favorite at the end of the day, however the fact that this one used both cinnamon and a whopping two -cups- of honey made it a bit more interesting sounding if only for the using of two -cups- of honey...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 tsp</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>nutmeg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>zucchini</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>walnuts</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Sift together flour, cinnamon, baking soda, salt, baking powder and nutmeg and fold in remaining ingredients, stirring minimally.  Bake at 325F for 60 minutes.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"High Country Recipes", The Chester High Ski Team, contributed by Vance Newell</source_name>
+	<source_page>41</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Zucchini_Bread_Candidate_Two</safe_name>
+</recipe>

@@ -1,0 +1,54 @@
+<recipe>
+  <name>Cranberry Jello</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count>12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 large package</quantity>
+      <ingredient_name>rasberry jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 16oz can</quantity>
+      <ingredient_name>whole cranberry sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 8oz can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation>undrained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>burgundy wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>chopped walnuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Add boiling water to package of rasberry jello and stir well to disolve.  Add remaining ingredients and pour into 9x13 pan.  Chill.</preparation>
+  <source_author></source_author>
+  <source_name>Lola Pickles</source_name>
+  <source_page>30-31</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

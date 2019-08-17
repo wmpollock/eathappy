@@ -1,0 +1,59 @@
+<recipe>
+  <name>Mixed Green Salad Mitzi</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>There's a note on the bottom of the card that suggests one could use Del Monte sliced new potatoes in place of fresh-baked.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>3 bunches</quantity>
+      <ingredient_name>lettuce, different varieties - romaine, spinach + green Australian lettuce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4-5</quantity>
+      <ingredient_name>medium potatos</ingredient_name>
+      <preparation>baked until just tender</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Italian dressing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>sliced ripe olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 cup</quantity>
+      <ingredient_name>mushrooms</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>bacon bits</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Slice potatoes + marinate in Italian dressing for 10 minutes or up to 2 hours.  Combine salad greens with sliced ripe olives, 1-2 cup sliced mushrooms, 1/4 cup sliced green onions, 1/4 cup bacon bits.
+
+Dressing:  1 pkg good Seasons French dressing + Italian dressing drained from potatoes.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0079-0080</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2016-03-17</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

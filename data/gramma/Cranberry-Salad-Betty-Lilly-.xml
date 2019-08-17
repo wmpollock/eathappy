@@ -1,0 +1,50 @@
+<recipe>
+  <name>Cranberry Salad (Betty Lilly)</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Cranberry Salad</secondary_category>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>hot water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 pkgs</quantity>
+      <ingredient_name>cherry gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tall can</quantity>
+      <ingredient_name>cranberry sauce (jelly)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>ground nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Let gelatin &amp; cranberry sauce form jelly ten fold in sour cream with a wire whip.  Chill at least 2 hours.</preparation>
+  <source_author></source_author>
+  <source_name>Betty Lilly</source_name>
+  <source_page>0021-0022</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

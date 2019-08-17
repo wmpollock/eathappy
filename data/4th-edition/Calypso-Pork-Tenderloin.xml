@@ -1,0 +1,85 @@
+<recipe>
+  <name>Calypso Pork Tenderloin</name>
+  <safe_name>Calypso_Pork_Tenderloin</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>6 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>peeled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>large shallots</ingredient_name>
+      <preparation>peeled and quartered</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2" piece</quantity>
+      <ingredient_name>ginger</ingredient_name>
+      <preparation>peeled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>dark rum</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>fresh lime juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>golden brown sugar</ingredient_name>
+      <preparation>firmly packed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 3/4-2 1/2 lbs</quantity>
+      <ingredient_name>pork tenderloin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>additional olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mince together garlic, shallots and ginger in a food processor.  Add rum, lime juice, black pepper, chili powder and kosher salt and blend until smooth.  Rub onto tenderloins and refrigerate overnight or no less than six hours.
+
+Dechill meat for tenty minutes.  Heat olive oil in medium-heat skillet and sear tenderloins on both sides, about five minutes.  Reduce to low heat and ook coered for an additional 12-15 minutes or until oooked to 135-140F.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>"Calypso Pork Tenderloin,"  The San Francisco Gate</source_name>
+  <source_page>http://www.sfgate.com/food/recipes/detail/?p=detail&amp;rid=18919&amp;sorig=qs</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/23/2013</cdate>
+  <mdate>02/23/2013</mdate>
+  <user>billp</user>
+</recipe>

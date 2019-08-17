@@ -1,0 +1,57 @@
+<recipe>
+  <name>Cream Of Greens Soup</name>
+  <preparation>Trip the stem ends of the Swiss chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.
+
+Fry the bacon in a large saucepan, drain, crumble and set aside.  Save 2 tablespoon of the fat and saute the onions or lees in it -- olive oil can be subsituted if the bacon is not desired.
+
+Add the potatoes and stock, bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.
+
+Add the sour cream, reheat gently and season to taste.  
+
+Sprinkle each serving with the chopped bacon bits.</preparation>
+  <main_ingredient>Vegetables</main_ingredient>
+  <yield_count>8</yield_count>
+  <notes>**UNTRIED** It has Greens in it which I consider A Good Thing.  Swiss Chard is an ingredient I haven't personally  played with much but have enjoyed when I have.
+
+From the SF Chronicle, 14 May 2003</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Swiss Chard</ingredient_name>
+      <quantity>1 Large Bunch</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Bacon</ingredient_name>
+      <unknown_1>10124</unknown_1>
+      <quantity>6-8 Slices</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Onions Or Leeks</ingredient_name>
+      <quantity>1 Cup</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Potatoes</ingredient_name>
+      <quantity>3 Large</quantity>
+      <preparation>Peeled And Cubed 1/2 Inch</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Vegetable Or Chicken Stock</ingredient_name>
+      <quantity>7 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sour Cream</ingredient_name>
+      <unknown_1>01056</unknown_1>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt And Pepper</ingredient_name>
+      <quantity></quantity>
+      <preparation>To Taste</preparation>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Soup</category>
+    <category>Untried</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

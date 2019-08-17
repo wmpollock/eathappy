@@ -1,0 +1,61 @@
+<recipe>
+	<name>Mulled Wine</name>
+	<yield_count>2</yield_count>
+	<yield_measure>litres</yield_measure>
+	<notes>A favorite of mine around the holidays, the recipe is darned simple but yields amazingly tasty results.</notes>
+	<prep_time>3 hours</prep_time>
+	<ingredients>
+		<ingredient>
+			<quantity>1.5 litres</quantity>
+			<ingredient_name>cheap red wine (burgundy)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6</quantity>
+			<ingredient_name>whole cloves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>orange</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>cinnamon sticks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/3 cup</quantity>
+			<ingredient_name>brandy</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>sugar or honey</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Nothing than can be simpler than making mulled wine:  drop all the ingredients into a large, non-reactive pot and cook over nearly the lowest heat you have -- you want a mild steam rising but nothing more or else you'll start cooking off the sugar.
+
+For best results, add the brandy and sugar close to serving to account for variations in flavor the extra steeping may bring out.
+
+Using a strainer, remove the cloves and cinnamon sticks and ladle into mugs.
+
+This makes a fantastic crock-pot dish for holiday parties.
+
+As a gourmet touch:  one can replace the sliced orange and likely most of the sugar with two halved apples and 3/4 cup of OJ.  The apples need to be removed if any heat is seriously applied or else they'll fall apart and probably should be removed prior to serving.  These apples, served over ice cream are heaven themselves.
+
+One last variation:  one can replace with wine with apple juice for mulled apple cider.   The brandy should be increased to somewhere around 1 cup (estimated measure) or left out for a version fit for teetotalers.  Better with this variation is a spiced rum like Captain Morgan's which will give the final product a somewhat mellower disposition.
+
+While some may blanch at the thought of hot sauce in a wine drink, a couple of dashes of Tabasco makes things extra warm and tasty.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/29/2004</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Mulled_Wine</safe_name>
+</recipe>

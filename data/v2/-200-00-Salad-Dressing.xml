@@ -1,0 +1,66 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>_200_00_Salad_Dressing</safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <preparation>In a double boiler, heat all ingredients except the grated onion.  Allow to cool to lukewarm and beat until creamy.  Add the grated onion and serve or refrigerate.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>12/30/2004</cdate>
+  <prep_time></prep_time>
+  <name>$200.00 Salad Dressing</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Yasuyo Koike</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>paprika</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>dry mustard</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>celery seed</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1/2-3/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cider vinegar</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>olive oil</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salad oil</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>grated onion</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

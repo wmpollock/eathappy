@@ -1,0 +1,86 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Bisquick_Formulae</safe_name>
+  <primary_category>Breakfast</primary_category>
+  <preparation>Cooking:   
+-- Biscuits: Cook at 450 degrees 8-10 minutes
+-- Pancakes: Until the bubbles stop coming to the surface and any surface ones have popped (1st side)
+-- Waffles:  'til the steam stops coming out of the 'maker
+
+
+</preparation>
+  <yield_count>6-8</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Bisquick Formulae</name>
+  <secondary_categories>
+    <secondary_categorie>Bisquick</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>I can't tell you the number of times I've had to look this up on the damnable Internet, having long-since traded  the box for a canister.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>**BISCUITS</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Bisquick</ingredient_name>
+      <quantity>2 1/4 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>milk</ingredient_name>
+      <quantity>2/3 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>**PANCAKES</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Bisquick</ingredient_name>
+      <quantity>2 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>milk</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>eggs</ingredient_name>
+      <quantity>2</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>**WAFFLES</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Bisquick</ingredient_name>
+      <quantity>2 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>milk</ingredient_name>
+      <quantity>1 1/3 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>egg</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oil</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

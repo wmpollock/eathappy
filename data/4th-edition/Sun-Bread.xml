@@ -1,0 +1,63 @@
+<recipe>
+  <name>Sun Bread</name>
+  <safe_name>Sun_Bread</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 1/2 tsp (2 pkg)</quantity>
+      <ingredient_name>yeast</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation>lukewarm</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <preparation>sifted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 stick</quantity>
+      <ingredient_name>buttter</ingredient_name>
+      <preparation>melted</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine yeast and lukewarm milk and let stand until foamy, five minutes or more.  Mix together well eggs and sugar.  Combine flour and butter and mix in egg mixture.
+
+When ready, mix the yeast mixture into the batter.  Knead dough on floured surface.  Allow do double (about an hour).  Punch down dough, knead and divide into equal halves.  Shape dough.
+
+Sun shape:  make the disc out of a flattened ball.  Add eyes and a mouth with finger or wooden spoon handle.  Make sure marks are deep to prevent closing up.  Add a smaller ball for a nose.
+
+Divide the remaining dough:  half is to be used to make four or five long rounded strips to form into spirals.  The other is to be formed into triangles.  Attach spirals and triangles to the dough to form the corona.
+
+Lightly cover and let rise for a half hour.
+
+Preheat oven to 425F adn bake for 20 minutes.  Bread is done when a toothpick inserted comes out clean.</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Vegetarian</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>"Sun Bread"; Elisa Kleven; Dutton</source_name>
+  <source_page>http://www.elisakleven.com/recipe.html</source_page>
+  <source_date>May 7, 2001</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/29/2013</cdate>
+  <user>billp</user>
+</recipe>

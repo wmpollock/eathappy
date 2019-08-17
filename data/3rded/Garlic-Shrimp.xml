@@ -1,0 +1,46 @@
+<recipe>
+	<name>Garlic Shrimp</name>
+	<notes>This is a pretty good shrimp marinade, reminds one of standard Chinese dishes.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3/4-1 lb</quantity>
+			<ingredient_name>raw shrimp</ingredient_name>
+			<preparation>shelled and de-veined</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>peanut oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sherry or whiskey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Marinate shrimp in other ingredients for an hour or two.  Drain and broil or grill for 4-5 minutes per side.
+
+Variant marinades:  equal parts olive oil and vermouth; white wine and butter with tarragon; olive oil mixed with lemon juice, parsley and garlic.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Shrimp</secondary_category>
+	</secondary_categorys>
+	<source_name>"A Book Of Appetizers", Helen Evans Brown</source_name>
+	<source_page>25</source_page>
+	<source_date>1958</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Garlic_Shrimp</safe_name>
+</recipe>

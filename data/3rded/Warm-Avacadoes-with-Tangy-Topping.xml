@@ -1,0 +1,68 @@
+<recipe>
+	<name>Warm Avacadoes with Tangy Topping</name>
+	<yield_count>4</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>Warm avacados sounds maybe a little sexy, no?</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small red onion</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>garlic clove</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>sunflower oil or substitute</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>a few dashes</quantity>
+			<ingredient_name>Worcestershire sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>rip avacados</ingredient_name>
+			<preparation>halved and pitted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>small tomatoes</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>fresh basil marjoram or parsley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 oz</quantity>
+			<ingredient_name>Lancashire or mozzarelle cheese</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Fry the onion in the oil until softened and shake in a bit of Worchestershire sauce.  Divide the tomato slices, herbs and chese over the avacade halves.  Season well and grill until the cheese melts and begins browning.  </preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>180</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/25/2009</cdate>
+	<user>billp</user>
+	<safe_name>Warm_Avacadoes_with_Tangy_Topping</safe_name>
+</recipe>

@@ -1,0 +1,106 @@
+<recipe>
+	<name>Big Barley Bowl</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>red onion</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>fennel bulb</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>carrots</ingredient_name>
+			<preparation>cut into sticks</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>parsnip</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>sunflower oil or substitute</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>pearl barley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dried thyme</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and freshly ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>sliced green beans</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 14oz can</quantity>
+			<ingredient_name>pinto beans</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>chopped parsley</ingredient_name>
+			<preparation>as garnish</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Croutons</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>medium-size baguette</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation>for brushing</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>garlic clove</ingredient_name>
+			<preparation>halved</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>grated Parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a large casserole or deep pot gently saute the onion, fennel, carrots and parsnip in the oil for ten minutes.  Stir barley and the stock and bring to a boil.  Add the thyme, parsley and salt and pepper to taste and reduce to simmer for 40 minutes
+
+Add the green beans and drained pinto beans and cook covered for an additional 20 minutes. 
+
+Brush the bauette slices with olive oil and broil before rubbing with garlic halves.  Cover slices with Parmesan cheese and heat to melt.
+
+Serve barley into bowls.  Sprinkle wih parsley and serve with croutons alongside.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Big_Barley_Bowl</safe_name>
+</recipe>

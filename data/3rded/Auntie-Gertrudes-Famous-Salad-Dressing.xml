@@ -1,0 +1,70 @@
+<recipe>
+	<name>Auntie Gertrude's Famous Salad Dressing</name>
+	<notes>A nice, kind of tangy dressing.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>light oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>red wine vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>ketchup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>Worchestershire sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 clove</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>halved or 1tsp garlic powder</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>12/ tsp</quantity>
+			<ingredient_name>white pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dry mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>onion powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Pour the oil, vinegar, ketchup and Worchestershire sauce into a 20 Oz bottle with a cap.  Seal the bottle and shake.   Add remaining ingredients and shake again.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New05</secondary_category>
+		<secondary_category>50s Goodness</secondary_category>
+		<secondary_category>70s Flashback</secondary_category>
+	</secondary_categorys>
+	<source_name>"Almanor Westshore Cooks", contributed by Gertrude Asby</source_name>
+	<source_page>48</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>08/03/2007</mdate>
+	<safe_name>Auntie_Gertrudes_Famous_Salad_Dressing</safe_name>
+</recipe>

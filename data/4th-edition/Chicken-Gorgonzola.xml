@@ -1,0 +1,63 @@
+<recipe>
+	<name>Chicken Gorgonzola</name>
+	<yield_count>12</yield_count>
+	<yield_measure>servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>8 oz</quantity>
+			<ingredient_name>clarified butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 lb</quantity>
+			<ingredient_name>Spanish onions</ingredient_name>
+			<preparation>julienned</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>granulated sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>12</quantity>
+			<ingredient_name>boneless, skinless chicken breasts</ingredient_name>
+			<preparation>flattened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 lb</quantity>
+			<ingredient_name>zucchini</ingredient_name>
+			<preparation>bias cut 1/4" thick</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>herbed olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>18 oz</quantity>
+			<ingredient_name>Gorgonzola cheese</ingredient_name>
+			<preparation>crumbled</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Heat pan over medium heat and melt butter.  Add onions and sugar and cook until onions are well browned -- about 20 minutes.  Set aside.
+
+Marinate chicken and zucchini separately in 1 cup each herbed olive oil  Char-broil or grill chicken for 3-5 minutes per side or until done.
+
+For each chicken breast, arrange 3 slices zucchini and top with chicken breast.  Add 1/3 cup of caramelized onions and 1 1/2 oz Gorgonzola to each.  Bake at 325F for 3 minutes or until softened.
+
+Herbed oil:
+2 cups olive oil, heated to 325F.  Remove from heat and add 2 1/2 Tbl garlic, minced; 1 1/2 tbsp rosemary; 1 1/2 tbsp black peppercorns, cracked.  Cool and strain.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New05</secondary_category>
+		<secondary_category>Chicken</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"Almanor Westshore Cooks", Arlene Schrum</source_name>
+	<source_page>107</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>05/11/2009</mdate>
+	<safe_name>Chicken_Gorgonzola</safe_name>
+</recipe>

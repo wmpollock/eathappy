@@ -1,0 +1,59 @@
+<recipe>
+	<name>Valley of the Sun Soup</name>
+	<notes>Great name, if nothing else...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>ground beef</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>chili powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>condensed vegetable bean soup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>condensed tomato soup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cans</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cooked elbow macaroni</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>Fritos-style corn chips</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Brown beef and add onion and chili powder, cooking until onion is tender.  Add soup and water and simmer 5 minutes, stirring often.  Add macaroni and bring again to a simmer.  Serve garnished with corn curls</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Ann Pennington</source_name>
+	<source_page>6</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/30/2004</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Valley_of_the_Sun_Soup</safe_name>
+</recipe>

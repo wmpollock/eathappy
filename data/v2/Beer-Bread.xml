@@ -1,0 +1,60 @@
+<recipe>
+  <source_page>775</source_page>
+  <safe_name>Beer_Bread</safe_name>
+  <primary_category>Bread</primary_category>
+  <preparation>Mix the dry ingredients together and add the beer into the mixture, folding the ingredients until moistened.  Scrape the mixture into a 8 1/2" x 4 1/2" greased pan and bake 35-40 minutes at 400F degrees or until a toothpick inserted at the center comes out clean.  Allow to cool for 10-15 minutes on a wire rack before serving.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Beer Bread</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date>1997</source_date>
+  <source_name>The Joy Of Cooking</source_name>
+  <notes>What they call "quick breads" -- it gets its rising power from the beer and so-called chemical leavening agents,  thereby making it the sort of thing you could actually think about the afternoon you were planning dinner and  still see it on your supper table.  A beautiful recipe as it can be greatly modified by simply changing the beer  ingredient.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>whole wheat or bread flour</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>old-fashioned oats</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>baking powder</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>baking soda</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>non-stout beer, not flat</ingredient_name>
+      <quantity>12 oz</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

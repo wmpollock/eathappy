@@ -1,0 +1,52 @@
+<recipe>
+  <name>Path's Bananas Foster</name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation>dark</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2"</quantity>
+      <ingredient_name>from a cube of butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>large bananas</ingredient_name>
+      <preparation>sliced lengthwise and quartered</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz</quantity>
+      <ingredient_name>rum</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz</quantity>
+      <ingredient_name>Creme de Banana or Brandy</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 oz</quantity>
+      <ingredient_name>ethyl alcohol*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 quarts</quantity>
+      <ingredient_name>vanilla ice cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Set out six bowls, and give one generous scoup fo ice cream to each.  Slice bananas as indicated.  Melt butter in a medium large teflon-lined skillet.  Add brown sugar, stirring over medium heat until paste becomes liquid.  Add liquors and banana slices.  Saute until banana slices become slighgly soft and a deeper yellow.  Add ethyl alcohol and ignight.  Serve over ice cream at once.
+
+* I'm not sure where Gramps got his hands on food quality ethyl alchol as its not available OTC in the US anymore but perhaps my grandmother's medical license helped.  Needless to say there's probably enough alcohol in there that it'll probably go up without it.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0013-0014</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/18/2005</cdate>
+  <safe_name>Paths_Bananas_Foster</safe_name>
+</recipe>

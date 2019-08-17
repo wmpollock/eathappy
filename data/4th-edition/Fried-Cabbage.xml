@@ -1,0 +1,74 @@
+<recipe>
+  <name>Fried Cabbage</name>
+  <safe_name>Fried_Cabbage</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Raj notes: double this for a whole head of cabbage.  In the ingredients "green pepper" is an Anaheim, Paseilla, etc.  This recipe includes some corrections by Raj with regards the cooking and selection of the green pepper.   Shanta calls for a "sweet green pepper" which I'd expect means a bell and cooks it with the mustard seeds.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 head</quantity>
+      <ingredient_name>green cabbage</ingredient_name>
+      <preparation>stemmed and shredded, as if for slaw</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity>
+      <ingredient_name>green pepper</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>black mustard seeds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>cayenne</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>tumeric powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>coriander powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Heat the oil in a heavy frying pan over moderate to high heat.  Add the mustard seeds to the hot oil until they pop.  Raj cooks the green pepper at this point until soft, 2-3 minutes.  Add the cabbage and stir, mixing in the spices until well blended.  Cook to preferred doneness (5-20 minutes), stirring occasionally to keep the cabbage from harm.
+
+Fully cooked cabbage should be half in volume from the original.  Remove from heat when done and mix in lemon juice.</preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Indian (Authentic)</secondary_category>
+  </secondary_categories>
+  <source_name>Vegetarian Cooking, Shanta Nimbark Sacharoff</source_name>
+  <source_page>84</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/03/2010</cdate>
+  <mdate>01/06/2011</mdate>
+  <user>billp</user>
+</recipe>

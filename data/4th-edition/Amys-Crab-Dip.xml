@@ -1,0 +1,26 @@
+<recipe>
+  <name>Amy's Crab Dip</name>
+  <safe_name>Amys_Crab_Dip</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I picked this up from Dennis after having lost it during a time of less cookbook data excellence.  This is the first recipe added to the fourth edition after some tragic time of data disaster.  Hooray!</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 package</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Let cream cheese soften then mix in mayo.  Add remaining ingredients and gently fold, being mindful of crab.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categories>
+    <secondary_category>**New14</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Amy Gulick via Dennis Gross</source_name>
+  <source_date>ca. 2001-2002?</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/28/2014</cdate>
+  <user>billp</user>
+</recipe>

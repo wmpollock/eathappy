@@ -1,0 +1,95 @@
+<recipe>
+	<name>Spanish Sloppy Joes</name>
+	<yield_count>4</yield_count>
+	<yield_measure>servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>ground chuck</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>Worchestershire sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>celery</ingredient_name>
+			<preparation>chopped very fine</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>chopped fine</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>catsup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>condensed tomato soup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>garlic juice(!)</ingredient_name>
+			<preparation>however you can get it</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>hamburger buns</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a deep covered skillet melt butter and lightly brown meat.  Add vinegar, lemon juice, worchester sauce, celery, onion, catsup and mix well.  Bring to a simmer and add tomato soup, sugar, garlic, salt and water.  Cover and simmer for 60 minutes.
+
+If mixture is still a bit moist at the end of an hour, uncover and allow water to cook off.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>70s Flashback</secondary_category>
+		<secondary_category>Beef</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"The New Ground Beef Cookbook", Alpha Beta edition,</source_name>
+	<source_page>68</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Spanish_Sloppy_Joes</safe_name>
+</recipe>

@@ -1,0 +1,77 @@
+<recipe>
+  <name>Spinach salad, wilted</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>5 slices</quantity>
+      <ingredient_name>diced bacon</ingredient_name>
+      <preparation>cooked crisp</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 head</quantity>
+      <ingredient_name>lettuce or 1 bunch of spinach</ingredient_name>
+      <preparation>or combination</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>hard boiled eggs</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Dressing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>garlic powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dressing:  Bring to boil, pour on spinach.  Add crisp bacon and heated drippings.  Top with green onions</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>81-82</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-04</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

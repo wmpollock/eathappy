@@ -1,0 +1,78 @@
+<recipe>
+	<name>Granola</name>
+	<yield_count>8</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>Jessamyn West is an author/librarian whose blog once said that the only granola worth having is the sort you make yourself I figured that must be right.  Sadly this will ruin you for store-bought granola ever again and become your first, compulsive love above all other cereals.
+
+Quality honey and syrup do make a difference. 
+</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>rolled oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sliced almonds</ingredient_name>
+			<preparation>(pronounced "aamonds")</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>wheat germ</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sunflower seeds, roasted, unsalted</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cooking oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>maple syrup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1-2 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>raisins, craisins, etc</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Separately mix wet and dry ingredients and combine both.  Measuring liquid ingredients is best done together in one vessel in the order described: oil, syrup, honey, vanilla.
+
+Evenly spread the mix in a 13"x9" glass dish and bake for 15 minutes at 350F. Stir in dried fruit and bake an additional fifteen minutes or until golden brown. Remove from heat and spoon the mixture onto a baking tray covered in baking parchment or waxed paper and let cool completely before serving or storing in an airtight container.
+
+Much of the cereal's basic nature can be changed quite a bit by the amount of baking and the carmelization of the sugars.  Longer roast times will create a stronger and flakier final product.</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>70s Flashback</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Quickie</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Good For You!</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+		<secondary_category>Rice, Grains</secondary_category>
+	</secondary_categorys>
+	<source_name>Jessamyn West (http://jessamyn.com)</source_name>
+	<source_date>10/02/2002</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Granola</safe_name>
+</recipe>

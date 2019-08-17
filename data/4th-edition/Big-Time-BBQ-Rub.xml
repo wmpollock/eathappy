@@ -1,0 +1,83 @@
+<recipe>
+  <name>Big Time BBQ Rub</name>
+  <safe_name>Big_Time_BBQ_Rub</safe_name>
+  <yield_count>1/2</yield_count>
+  <yield_measure>cups</yield_measure>
+  <notes>This is a nice dry rub that creates a flavorful glazed exterior on the meat.  The salt here is half the original and is still a bit on the salty side for our tastes.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>Turbinado sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>granulated brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>granulated garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>granulated onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>s paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>s cayenne</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>thyme leaves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground nutmeg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix ingredients together and store in an airtight container.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>BBQ</secondary_category>
+    <secondary_category>Beef</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categories>
+  <source_name>Dr. BBQ via Chowhound (http://chowhound.chow.com/topics/297280)</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>08/10/2009</cdate>
+  <mdate>05/13/2012</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,53 @@
+<recipe>
+	<name>Gooey Butter Cake</name>
+	<notes>Gooey + Butter == Good Times, so it sounds.
+
+The recipe comes from Kroger brand cream cheese, whereupon it recommends Kroger everything, naturally, including the afformentioned puddingles cake mix.  I consider this a nearly mythical ingredient as I've been unable to heretofore find it, needing it also for "Herk's Coffee Cake".
+
+When I find some, I will store it up in pre-millenial qualities.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 box</quantity>
+			<ingredient_name>Yellow cake mix, w/o pudding</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 stick</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 8oz pkg</quantity>
+			<ingredient_name>cream cheese</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>16 oz box</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>mix together cake mix, butter and 1 egg until it reaches dough thickness.  Butter a 9x13" pan and press cake mixture into bottom.  Retain 1/2 cup powdered sugar and mix cream cheese,  remaing powdered sugar and remaining 2 eggs until thoroughly mixed and top cake mixture.  
+
+Bake at 350F for 30-35 minutes and top with powdered sugar</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Made For Butter</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Kroger brand Cream Cheese package, 2005</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>11/09/2005</cdate>
+	<mdate>06/09/2009</mdate>
+	<user>billp</user>
+	<safe_name>Gooey_Butter_Cake</safe_name>
+</recipe>

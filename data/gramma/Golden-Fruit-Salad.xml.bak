@@ -1,0 +1,72 @@
+<recipe>
+  <name>Golden Fruit Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>The amount (4 cups) of syrup from a given can of pineapple chunks is both unbelievable and not mentioned in the preparation:  what gives?</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>apricots</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>Mandarin oranges</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>chunk pineapple</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Maraschino cherries</ingredient_name>
+      <preparation>for garnish</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>bannanas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Dressing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>pineapple juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>corn startch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation> </preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>syrup from pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix sugar, cornstarch and pineapple juice.  Boil, stirring constant until thick. Cool.  Mix into fruit a little at a time, stirring gently so fruits do not break.  Stir in bananas just before serving.  Server on lettuce and garnish with Maraschino cherries.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>83-84</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-05</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

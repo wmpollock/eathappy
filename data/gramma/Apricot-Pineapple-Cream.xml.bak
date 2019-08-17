@@ -1,0 +1,48 @@
+<recipe>
+  <name>Apricot - Pineapple Cream</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>vanilla pudding</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cans (4 3/4 oz)</quantity>
+      <ingredient_name>strained apricots (baby food!)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>heavy cream</ingredient_name>
+      <preparation>whipped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>apricots</ingredient_name>
+      <preparation>halved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>chopped pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Prepare pudding with milk as directed on package.  While pudding is still hot, stir in apricots and pinapple.  Cool, fold in whipped cream and pour into sherbert glasses.  Chill & garnish with apricot halves and chopped pecans]]></preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>card 3</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2005</cdate>
+  <safe_name>Apricot_Pineapple_Cream</safe_name>
+</recipe>

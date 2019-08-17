@@ -1,0 +1,62 @@
+<recipe>
+	<name>Biscotti Alla Nonna</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>I was expecting this recipe to make the hard, bubbly sort of biscotti one normally encounters in this day and age but these turn out more like fine-grained cookies.  Quite tasty.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>beaten</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 lb (2 cups)</quantity>
+			<ingredient_name>margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>anise extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>almond extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>anise seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation>sifted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cream together eggs, sugar and margarine; add extracts and seeds.  Beat until creamy. Sift flour and baking powder and add to mixture.  Bake in a 375 degree oven until brown, 10-15 minutes or so.  Remove from oven and cut into slats and turn on cut side.  Put back into oven to brown, an additional 10-14 minutes.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Italian</secondary_category>
+	</secondary_categorys>
+	<source_name>"Family Favorites", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Angeline Barsi.</source_name>
+	<source_page>47</source_page>
+	<source_date>1987</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Biscotti_Alla_Nonna</safe_name>
+</recipe>

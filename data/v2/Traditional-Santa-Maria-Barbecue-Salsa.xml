@@ -1,0 +1,72 @@
+<recipe>
+  <source_page>10</source_page>
+  <safe_name>Traditional_Santa_Maria_Barbecue_Salsa</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Combine all ingredients, cover and let stand for an hour minimum to let flavors develop.</preparation>
+  <yield_count>3 1/2</yield_count>
+  <yield_measure>cups</yield_measure>
+  <untried>1</untried>
+  <cdate>01/20/2005</cdate>
+  <prep_time></prep_time>
+  <name>Traditional Santa Maria Barbecue Salsa</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Mexican</secondary_categorie>
+  </secondary_categories>
+  <source_date>1992</source_date>
+  <source_name>"Almanor Westshore Cooks", contributed by Fran Wilkins</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>medium tomatoes</ingredient_name>
+      <quantity>3</quantity>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>celery</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>green onions</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>green chiles</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cilantro</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation>snipped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vinegar</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <quantity>dash</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>dried oregano</ingredient_name>
+      <quantity>dash</quantity>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic salt</ingredient_name>
+      <quantity>dash</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>hot pepper sauce</ingredient_name>
+      <quantity>a few drops</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/23/2005</mdate>
+</recipe>

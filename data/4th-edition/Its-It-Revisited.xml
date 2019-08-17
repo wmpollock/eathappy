@@ -1,0 +1,142 @@
+<recipe>
+	<name>It's It Revisited</name>
+	<notes>In 2009 the San Francisco Chronicle was facing some hard times.  Their advertising revenue was draining way on all fronts and the paper had been bleeding money for some years.  In 2009 the paper reported that they had been told by their ownership that they would either be reformed, sold, or shuttered.
+
+Under this banner the Chron launched their "144" features; this being amongst the gala finales: local classics re-imagined.  It's-It is the mascot of every fat kid in Northern California and you cannot drive past the factory without wanting one.
+
+Extra bonus: you won't be driving by the factory too many times after eating a batch of these:  each one weighs in at 780 calories.  That being said, lots of interesting RESEARCH to  reconstruct more reasonable, future-forward fashions.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Ginger ice cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>heavy cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2" piece</quantity>
+			<ingredient_name>ginger</ingredient_name>
+			<preparation>halved</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2" piece</quantity>
+			<ingredient_name>vanilla bean</ingredient_name>
+			<preparation>split</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>large egg yolks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>large pinch</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Oatmeal Cookie</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>at room temperature</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>firmly packed brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>granulated sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 tsp</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 scant tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>kosher salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>old fashioned oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Assembly</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 1/2oz</quantity>
+			<ingredient_name>bittersweet chocolate</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Ice Cream:  heat cream, milk and half the sugar {RESEARCH: better measure}, ginger and vanilla bean until milk is just scalded and remove from heat.
+
+Whisk together egg yolks, salt and remaining sugar and slowly induce the hot mixture.  Return mixture to pot and cook over medium heat until mixture reaches 175F; mixture will sheet the back of a spoon.
+
+Strain mixture into a bowl and cool in an ice bath until mixture is no warmer than room temperature.  Refrigerate 6 hours-overnight before processing in automatic icemaker.
+
+Cookie: Cream together butter, brown and granulated sugar.  Beat in egg and vanilla extract before mixing in the remaining ingrtedients.  Make 10 very large cookie batter balls on two baking sheets, five a piece, and bake at 350F for 10 minutes or until brown.
+
+Construction and finishing: bring together a scoop of ice cream and two cookies to form sandwitches and set sandwitches in freezer to set.
+
+Melt chocolate in a double boiler and allow to slightly cool until just loose.  Transfer chocolate to a dipping bowl and coat each sandwitch a half at a time before placing ona  lined baking sheet. 
+
+Freeze sandwitches until chocolate hardens.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Ice Cream</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>San Francisco Chronicle</source_name>
+	<source_page>E3</source_page>
+	<source_date>Sunday 31 May 2009</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/09/2009</cdate>
+	<user>billp</user>
+	<safe_name>Its_It_Revisited</safe_name>
+</recipe>

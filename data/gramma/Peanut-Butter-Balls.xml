@@ -1,0 +1,33 @@
+<recipe>
+  <name>Peanut Butter Balls</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>creamy peanut butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>powdered sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>pecans</ingredient_name>
+      <preparation>ground</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>diced dates</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Roll into small balls and chill, then dip in white chocolate and place on foil to cool before serving.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>scan 56</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/13/2006</cdate>
+  <safe_name>Peanut_Butter_Balls</safe_name>
+</recipe>

@@ -1,0 +1,52 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Sangria</safe_name>
+  <primary_category>Beverages</primary_category>
+  <preparation>Put water and sugar in saucepan. Bring to boil, stirring constantly. Slice fruit thinly and put in sugar water.  Let stand at room temperature at least 2 hours.  Place in punch bowl or pitcher, reserving one slice of each fruit for each glass.  Add other ingredients; sparkling water last.  You may chill or add ice.  For a sweeter taste, add ginger ale, Sprite or 7-up with or instead of club soda.  Also, try orange juice and/or lemonade.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>01/19/2005</cdate>
+  <prep_time></prep_time>
+  <name>Sangria</name>
+  <source_date></source_date>
+  <source_name>"Family Favorites", The Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Vicki Susoev.</source_name>
+  <notes>Dennis's wife Maureen makes some of the BEST sangria on the planet and I've yet to really want to go finding  an alternate recipe just yet.  Since I don't have that one just yet, this'll hafta do...</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>orange</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemon or lime</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>club soda or sparkling water</ingredient_name>
+      <quantity>1 bottle</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>burgundy wine</ingredient_name>
+      <quantity>1 bottle</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>brandy</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

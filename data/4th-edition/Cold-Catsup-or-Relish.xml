@@ -1,0 +1,83 @@
+<recipe>
+	<name>Cold Catsup or Relish</name>
+	<ingredients>
+		<ingredient>
+			<quantity>7 1/2 pounds</quantity>
+			<ingredient_name>ripe tomatoes</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>horseradish</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>mustard seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 stalks</quantity>
+			<ingredient_name>celery</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>red peppers</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbl</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>cloves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 quart</quantity>
+			<ingredient_name>vinnegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Seal in jars and will keep until used.  Very fine with meats.  Requires no cooking.
+
+[Ed: "Until used" may be a dicey proposition in the 21st century...]
+</preparation>
+	<primary_category>Other</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Tomatoes</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Choice Recipes Edited and Complied by Members of the Eastern Star of Sacramento, Flora Ann Walkefield Contributor</source_name>
+	<source_page>59</source_page>
+	<source_date>1928</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/10/2006</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Cold_Catsup_or_Relish</safe_name>
+</recipe>

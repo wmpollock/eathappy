@@ -1,0 +1,64 @@
+<recipe>
+	<name>$200.00 Salad Dressing</name>
+	<yield_count>1 1/2</yield_count>
+	<yield_measure>pints</yield_measure>
+	<notes>A nice dark, sweet dressing perfect for spinach salad.  Only downside is that it makes an -awful- lot.  Its awful good, but I don't know if I'd go much more than $75 on this one.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>paprika</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>dry mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>celery seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2-3/4 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cider vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>salad oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>grated onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a double boiler, heat all ingredients except the grated onion.  Allow to cool to lukewarm and beat until creamy.  Add the grated onion and serve or refrigerate.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Yasuyo Koike</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/30/2004</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>_200_00_Salad_Dressing</safe_name>
+</recipe>

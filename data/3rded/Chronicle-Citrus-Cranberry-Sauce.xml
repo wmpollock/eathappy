@@ -1,0 +1,58 @@
+<recipe>
+  <name>Chronicle Citrus-Cranberry Sauce</name>
+  <safe_name>Chronicle_Citrus_Cranberry_Sauce</safe_name>
+  <yield_count>16</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time>20 minutes</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>3" piece</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>whole cloves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 slies</quantity>
+      <ingredient_name>fresh ginger</ingredient_name>
+      <preparation>1/8" thick</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 whole </quantity>
+      <ingredient_name>orange</ingredient_name>
+      <preparation>unpeeled, thinly slied</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>cranberries</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a 2 quart saucepan combine cinnamon, cloves, ginger, orange and water and bring to a boil.  Reduce to simmer for 5 minutes.  Remove cinnamon, cloves and ginger before adding cranberries and sugar.  Simmer until cranberries break down and sauce slightly thickens, 6 or more minutes.</preparation>
+  <primary_category>Side</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Thanksgiving</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>unknown print edition</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/06/2013</cdate>
+  <mdate>07/06/2013</mdate>
+  <user>billp</user>
+</recipe>

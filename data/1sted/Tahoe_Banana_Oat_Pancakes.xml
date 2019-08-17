@@ -1,0 +1,41 @@
+<recipe>
+  <name>Tahoe Banana-Oat Pancakes</name>
+  <preparation>Mix oats and milk in a large bowl.  Let stand until oats are soft (about 15 minutes).  Mix in mashed bananas, eggs, wheat germ and cinnamon. Gradually stir in pancake mix (batter will be very thick).</preparation>
+  <main_ingredient>Bill's Favorite</main_ingredient>
+  <yield_count>4</yield_count>
+  <notes>My friend Kristi had access to a cabin in Tahoe and would invite all of us up for a weekend of skiing and  drunken frivolity.   Knowing that I was going to be on the hook for at least one meal, I delved for the first  time into Epicurious and dug up these  hearty fellers.  I'll forever remember wandering about the Raley's  down at Stateline in search of Wheat Germ.    As a testament to the durability of that stuff, I still had a  container of it from that trip years later.  From Epicurious/Bon Appetit 7/97</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Old-Fashioned Oats</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Nonfat Milk</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Mashed Ripe Bananas (about 3 Med)</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name></ingredient_name>
+      <quantity>2 Eggs</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Wheat Germ</ingredient_name>
+      <quantity>2 Tbsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ground Cinnamon</ingredient_name>
+      <quantity>1 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Oat-Bran/mixed Grain Pancake Mix</ingredient_name>
+      <quantity>1 1/2 Cups</quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Breakfast</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

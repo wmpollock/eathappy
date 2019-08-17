@@ -1,0 +1,39 @@
+<recipe>
+  <name>Cranberry Relish Edna</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>cranberries</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>oranges</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>apples</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Note:  Preparation of this dish is clearly a closely held secret as the card includes no instructions.  Hell, divulging the ingredients alone is likely to get my ass kicked in the afterworld by my granny, but I'm sure she'll forgive me in short order.
+
+So long as she can't sue.</preparation>
+  <primary_category>Side Dish</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Edna M. Rapp</source_name>
+  <source_page>15, 7H</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/19/2005</cdate>
+  <mdate>11/21/2005</mdate>
+  <safe_name>Cranberry_Relish_Edna</safe_name>
+</recipe>

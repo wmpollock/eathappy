@@ -1,0 +1,82 @@
+<recipe>
+  <name>Best Way Pumpkin Pie</name>
+  <safe_name>Best_Way_Pumpkin_Pie</safe_name>
+  <yield_count>8-10</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>pumpkin puree</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 tsp</quantity>
+      <ingredient_name>ground ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>ground cloves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/4 tsp</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>lightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>whole milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup (6 oz)</quantity>
+      <ingredient_name>evaporated milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>pie crust</ingredient_name>
+      <preparation>unbaked</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat oven to 450F.  Mix together pumpkin, sugar, salt, ginger, cloves and cinnamon in a large bowl.  Mix in eggs, whole milk, evaporated milk and vanilla and pour into crust.
+
+Cook for 10 minutes at 450F, reduce temperature to 325F and bake for 50-60 minutes; until a knife inserted in the center comes out clean.
+
+Serve at room temperature.
+</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>K8</source_page>
+  <source_date>November 21, 2010</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/02/2013</cdate>
+  <user>billp</user>
+</recipe>

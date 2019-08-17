@@ -1,0 +1,62 @@
+<recipe>
+  <name>Magic Lemon Meringue</name>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>8 inch pie shell</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>Eagle Brand Sweetened milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>lemon juice (or less)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>grated lemon peel</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>egg yolks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>**Meringue</quantity>
+      <ingredient_name></ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation>at room temperature</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>cream of tartar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Blend sweetened milk, lemon juice, lemon peel and egg yolks until thickened.  Pour into pie shell.
+
+Beat egg white and cream of tartar in small mixing bowl, blend to soft peaks.  Gradually whip in sugar.  Continue to whip until whites hold firm peaks.  Pile on pie filling and seal to inside edge of shell.
+
+Bake at 325 slow until top is golden brown -- about 15 minutes.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>44</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/10/2006</cdate>
+  <safe_name>Magic_Lemon_Meringue</safe_name>
+</recipe>

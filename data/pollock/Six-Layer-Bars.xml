@@ -1,0 +1,48 @@
+<recipe>
+	<name>Six Layer Bars</name>
+	<yield_count>36</yield_count>
+	<yield_measure>Cookies</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2 Cup</quantity>
+			<ingredient_name>Butter or Margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 Cups</quantity>
+			<ingredient_name>Graham Cracker Crumbs (1 pkg)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can (14 oz.)</quantity>
+			<ingredient_name>Sweetened Condensed Milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Cup</quantity>
+			<ingredient_name>Semi-sweet chocolate chips</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/3 Cups</quantity>
+			<ingredient_name>Flaked Coconut</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Cup</quantity>
+			<ingredient_name>Chopped pecans or walnuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation><![CDATA[Preheat oven to 350&#730;, (325&#730; for glass dish).  Line a 13 x 9 inch baking pan with a sheet of foil, making sure to cover the sides well.   Place the butter in the baking pan and melt it in the oven.   Sprinkle crumbs over butter; pour condensed milk evenly on top of crumbs.  Top with remaining ingredients in order listed; press down firmly with fork.  Bake 25 minutes or until lightly browned.  Cool.   Chill if desired.  Cut into bars.  Store covered at room  temperature.]]></preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Christmas Cookies.com</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/14/2009</cdate>
+	<user>southpollock</user>
+	<safe_name>Six_Layer_Bars</safe_name>
+</recipe>

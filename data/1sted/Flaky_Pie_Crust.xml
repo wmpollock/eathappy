@@ -1,0 +1,39 @@
+<recipe>
+  <name>Flaky Pie Crust</name>
+  <preparation>In a large bowl mix flour and salt.  Using a pastry blender or 2 knives, cut in lard and butter until mixture is crumbly and particles are the size of small dried peas. 
+
+Mixing lightly with a fork, sprinkle on water, 1 tablespoon at a time,  until dough begins to cling together.  With your hands press dough into 2 flattened balls of equal size.  Enclose in plastic wrap to prevent dough from drying out while preparing filling.  To avoid stickiness, refrigerate up to a day. 
+
+Roll out on a lightly floured surface, using short, firm strokes to achieve uniform thinness, according to recipe directions.</preparation>
+  <main_ingredient>Pie Crust</main_ingredient>
+  <yield_count>2</yield_count>
+  <notes>**UNTRIED**
+
+From California Culinary Academy's Regional  American Classics</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Flour</ingredient_name>
+      <quantity>2 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <quantity>1/4 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Shortening</ingredient_name>
+      <quantity>1/3 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Cold Butter Or Margarine</ingredient_name>
+      <quantity>1/3 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Cold Water</ingredient_name>
+      <quantity>3-5 Tbl</quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Dessert</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

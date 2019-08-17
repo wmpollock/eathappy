@@ -1,0 +1,67 @@
+<recipe>
+  <name>Dilled Chicken Medley</name>
+  <safe_name>Dilled_Chicken_Medley</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 can (13.75-14.5oz)</quantity>
+      <ingredient_name>chicken broth</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>corn starch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>fresh dill</ingredient_name>
+      <preparation>alternately 1 tsp dried</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>prepared mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium onion</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>boneless, skinless chicken breast halves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 lb</quantity>
+      <ingredient_name>red potatoes</ingredient_name>
+      <preparation>quartered</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>frozen cut green beans</ingredient_name>
+      <preparation>thawed, drained</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together 1/4 cup broth, corn starch and mustard.  Heat corn oil over medium high heat in a large skillet.  Add onion and saute for three minutes.  Add chicken and cook for ten minutes or until done, turning once.
+
+Remove chicken and keep warm.  Add remaining broth and potatoes and simmer for 12 minutes or until potatoes are tender.  Stir in corn starch mixture and green beans.  Bring to boil over medium heat, stirring constantly and hold at boild for one minute. Pour over chicken breasts.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Kingsford Corn Starch box</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/29/2013</cdate>
+  <user>billp</user>
+</recipe>

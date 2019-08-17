@@ -1,0 +1,81 @@
+<recipe>
+  <source_page>39</source_page>
+  <safe_name>Curried_Chicken</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>Cook onions in butter over medium heat until softened.  Gradually add flour to until mixed.  Add chicken, broth and milk until mixed and then add remaining ingredients, continuing to cook until chicken is done.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>01/03/2005</cdate>
+  <prep_time></prep_time>
+  <name>Curried Chicken</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Fuji Furuya</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>onions</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>butter</ingredient_name>
+      <quantity>5 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>6 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken breasts</ingredient_name>
+      <quantity>2 cup</quantity>
+      <preparation>cubed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken broth</ingredient_name>
+      <quantity>2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>milk</ingredient_name>
+      <quantity>2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>curry powder</ingredient_name>
+      <quantity>2 1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 1/4 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>apples</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>raw mushrooms</ingredient_name>
+      <quantity>8 oz</quantity>
+      <preparation>sliced</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

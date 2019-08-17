@@ -1,0 +1,76 @@
+<recipe>
+	<name>Zucchini Crown Bread</name>
+	<notes>This is photographed on the same page as "Rosemary Foccacia". If the photograph isn't a love letter to bread, I don't know what is.  This one makes fun break-apart pop-poms.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>zuchini</ingredient_name>
+			<preparation>coarsley grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 cups</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 pkg</quantity>
+			<ingredient_name>active dry yeast</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>freshly grated parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>fresh ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>lukewarm water</ingredient_name>
+			<preparation>to mix</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation>to glaze</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>sesame seeds</ingredient_name>
+			<preparation>to garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a collander, sprinkle grated zuchini lightly with salt and let drain for 30 minutes.  Pat dry.
+
+Mix flour, yeast and Parmeasn cheese together and add black pepper to taste.  Stir in oil, zucchini and sufficient water to form a firm dough. 
+
+Kneed dough until smooth and then let rise in an oiled bowl.  When dough has doubled punch down and lightly knead before dividing and shaping into eight equal balls.  Arrange in a daisy pattern in a greased 9" round pan and let rise again.
+
+Bake at 400F for 24 minutes or until golden brown.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Zucchini</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>498</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Zucchini_Crown_Bread</safe_name>
+</recipe>

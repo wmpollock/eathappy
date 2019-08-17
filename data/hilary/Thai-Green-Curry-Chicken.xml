@@ -1,0 +1,71 @@
+<recipe>
+  <name>Thai Green Curry Chicken</name>
+  <safe_name>Thai_Green_Curry_Chicken</safe_name>
+  <yield_count>2 to 4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>The bottle says you should start with a very small amount of curry paste and increase gradually to desired spice level. Vary amount of fish sauce and sugar according to taste.</notes>
+  <prep_time>20 min?</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>14 fl oz can</quantity>
+      <ingredient_name>Thai Kitchen Premium Coconut Milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 to 1 T</quantity>
+      <ingredient_name>Thai Kitchen Green Curry Paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>boneless, skinless chicken breasts</ingredient_name>
+      <preparation>cut in bite sized chunks</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 to 2 T</quantity>
+      <ingredient_name>Thai Kitche Premium Fish Sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 T</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 c</quantity>
+      <ingredient_name>bamboo shoots</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 c</quantity>
+      <ingredient_name>frozen peas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 c</quantity>
+      <ingredient_name>chicken stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>garnish</quantity>
+      <ingredient_name>fresh basil leaves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a large saucepan simmer coconut milk and curry paste over medium heat for 5 minutes. Add chicken, fish sauce, sugar, bamboo shoots, peas, and chicken stock. Simmer 10 minutes, stirring occasionally. Garnish with fresh basil and serve hot over rice.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Chicken</secondary_category>
+    <secondary_category>Curry</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Thai Kitchen Green Curry Paste Bottle</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/04/2009</cdate>
+  <user>hilaryp</user>
+</recipe>

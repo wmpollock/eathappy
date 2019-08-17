@@ -1,0 +1,65 @@
+<recipe>
+  <name>Cheeseburger Loaf</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lbs</quantity>
+      <ingredient_name>ground beef</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 envelope</quantity>
+      <ingredient_name>onion soup mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>quick oats</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 egg</quantity>
+      <ingredient_name></ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 long slices</quantity>
+      <ingredient_name>cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chili sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 pts</quantity>
+      <ingredient_name>tomatoes Italienne</ingredient_name>
+      <preparation>preparation below</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Pat half of loaf into rectangle 1/2 inch thick in shallow pan.  Layer cheese over rectangle.  Pat remaining meat loaf over cheese, sealing in the cheese.  Mix chili sauce and mustard in a cup.  Spread over top of loaf.  Bake an hour. 
+
+Tomatoes Italienne:  Saute 2 pints tomatoes in 3 Tbsp butter.  Season with 1/2 tsp sugar, 1/2 tsp Italian herbs and 1/2 tsp salt.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>34</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/04/2005</cdate>
+  <safe_name>Cheeseburger_Loaf</safe_name>
+</recipe>

@@ -1,0 +1,62 @@
+<recipe>
+	<name>Egg Flower Soup</name>
+	<notes>Egg Flour Soup, also known as "Egg Drop Soup"  is one of my favorite Chinese Food treats.  
+Well worth making.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>light soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>dry sherry</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>scallions</ingredient_name>
+			<preparation>sliced obliquely</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>small piece</quantity>
+			<ingredient_name>fresh ginger</ingredient_name>
+			<preparation>shredded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 </quantity>
+			<ingredient_name>lettuce or cabbage leaves</ingredient_name>
+			<preparation>shredded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>seasame oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>beaten</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix together stock, soy sauce, dry sherry , 3 scallions, ginger, lettuce leaves and sesame oil and bring to a boil and remain for two minutes.
+
+Gently pour the eggs into the broth in a thin, steady stream into the center of the pot.  Let sit for three seconds and quickly stir the soup.  Season to taste and allow eggs to cook.  Serve immediately.</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Chinese</secondary_category>
+		<secondary_category>Egg</secondary_category>
+	</secondary_categorys>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 145.</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>08/03/2007</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Egg_Flower_Soup</safe_name>
+</recipe>

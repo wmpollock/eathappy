@@ -1,0 +1,101 @@
+<recipe>
+  <name>Praline Cheesecake</name>
+  <yield_count>16</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>Graham cracker crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>melted butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 8oz. pkg</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>dark brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>ground pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Cream topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>dark brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>heavy cream</ingredient_name>
+      <preparation>whipped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>whole pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together Graham crackers, sugar and melted butter and line the bottom of a 9 inch spring-form pan.  Bake 10 minutes at 350F
+
+Blend together cream cheese, dark brown sugar and eggs, added one at a time.  Blend in sour cream, vanilla and ground pecans.
+
+Bake 1 hr at 350F
+
+Mix together topping and spread over top of cake.
+
+After cooling cut into 16 pieces.  Top each piece with pecan.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Mary Ann Heine</source_name>
+  <source_page>0021-0022</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>Praline_Cheesecake</safe_name>
+</recipe>

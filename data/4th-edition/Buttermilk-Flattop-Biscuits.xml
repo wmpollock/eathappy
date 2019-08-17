@@ -1,0 +1,62 @@
+<recipe>
+  <name>Buttermilk Flattop Biscuits</name>
+  <safe_name>Buttermilk_Flattop_Biscuits</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>These make flat-top biscuits.  One can get either a square edge (which I kind of prefer) by leaving the tops dry or a prettier rounded golden slick top by brushing with remaining buttermilk.
+
+My original run at the full Tbl for salt made some pretty salty biscuits.  It's better at half.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>all-purpose flour </ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2-1 Tbl</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>vegetable shortening</ingredient_name>
+      <preparation>cut into 1/2 pieces and cold</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 - 2 cups</quantity>
+      <ingredient_name>buttermilk</ingredient_name>
+      <preparation>divided, some additional for brushing</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a large bowl mix together flour, salt, baking poder and baking soda.  Cut in the shortening until the mixture forms coarse crumbs.  
+
+Make a well and add 1 cup buttermilk.  Quickly cut dry ingredients into the buttermilk to form a sticky dough.  Add more buttermilk as necesary.
+
+Turn out the dough on a floured surfaceand foldover itself 3-4 times.   Press out to 1/2 to 1 1/2 inches thick: biscuits will double when cooked.  The larger size allows for modest eating of only halves. Section with a 3-inch cutter or floured rim of a pint glass abd arrange on an ungreased cooke sheed.  Optionally brush with buttermilk for rounded top.
+
+Bake at 375F for 20-25 minutes or until golden.</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categories>
+    <secondary_category>Buttermilk</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Biscuits</secondary_category>
+    <secondary_category>Made For Butter</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>http://www.foodnetwork.com/recipes/tyler-florence/buttermilk-biscuits-recipe/index.html</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/27/2009</cdate>
+  <mdate>01/02/2013</mdate>
+  <user>billp</user>
+</recipe>

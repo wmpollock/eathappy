@@ -1,0 +1,41 @@
+<recipe>
+  <name>Sweet Onion Vinaigrette Dressing</name>
+  <safe_name>Sweet_Onion_Vinaigrette_Dressing</safe_name>
+  <yield_count>1</yield_count>
+  <yield_measure>cup</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>grapeseed oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>white basalmic vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sweet onion</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>freshly ground pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation></preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Dole Field Greens Package</source_name>
+  <source_date>2010</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/02/2010</cdate>
+  <user>billp</user>
+</recipe>

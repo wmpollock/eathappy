@@ -1,0 +1,42 @@
+<recipe>
+  <name>Raspberry &amp; Pineapple Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>"Pickle juice to taste" is not a customary seasoning measure these days.  There is a lack of clarity on the scan as to whether its initially "1/4 cup sweet pickle (juice)" under a faded pen.  There is a strong admonition to drain the pickles but no use of the preserved vegetable itself.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 3oz pkg</quantity>
+      <ingredient_name>raspberry Jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>large can</quantity>
+      <ingredient_name>shoestring beets</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sweet pickles</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Drain pineapple &amp; pickle juice well (and reserve).  Dissolve jello in 2/3 cup hot water.  Add water to pineapple + pickle juice to make 1 1/3 cup liquid.  Add to dissolved jello.  After it begins to set add pineapple, beets.  Dressing: mayonnaise to which you will add pickle juice to taste.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>scan0068</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2016-02-10</mdate>
+  <user>billp</user>
+</recipe>

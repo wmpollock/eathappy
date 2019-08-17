@@ -1,0 +1,61 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Hot_Crab_Fondue</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Melt first 2 ingredients in a fondue pot, add remaining ingredients and stir.  Serve with French bread cubes.</preparation>
+  <yield_count>4</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Hot Crab Fondue</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Makes You Fat</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>"High Country Recipes from the Chester High Ski Team", 1992 -- recipe by Glenda Grant</source_name>
+  <notes>Hilary went out on New Year's Day 2005 in search of a fondue pot to make this recipe, crab season running high at the time.  This is an amazingly rich recipe.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>5 oz jar American cheese spread (Old English)</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cream cheese</ingredient_name>
+      <quantity>8oz</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>crab</ingredient_name>
+      <quantity>1 71/2 oz can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>light cream</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic powder</ingredient_name>
+      <quantity>1/4 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <quantity>1/4 tsp or less</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>French bread</ingredient_name>
+      <quantity/>
+      <preparation>cubed</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

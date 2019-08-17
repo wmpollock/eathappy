@@ -1,0 +1,33 @@
+<recipe>
+  <main_ingredient>Thanksgiving</main_ingredient>
+  <notes>**UNTRIED** I remember that the funny star-shaped dressing would be popped out of its copper mold on Thanksgiving  at Gum's house just before the turkey went out on the table.  My mother spent several years  trying to  reproduce the molded jelly with mixed results before finally working out the amount of gelatin to use  after Gum passed.
+
+I'm not sure whether this recipe reflects my gramma's recipe or my Mom's  so don't know if there's the  right amount of Gelatin in there or not.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Cranberries</ingredient_name>
+      <quantity>1 Pkg</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Gelatin</ingredient_name>
+      <quantity>1/2 Package</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Orange Juice</ingredient_name>
+      <quantity>1 1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <quantity>2 Cups</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Gum's Cranberry Dressing</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Side Dish</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Cook cranberries and juice until the berries pop.  Strain the mixture and return to the stove.  Add the sugar and gelatine and bring to a rolling boil for 3-4 minutes.  
+
+Poor mixture into mold and cool to room temperature before refrigerating to set, probably overnight.</preparation>
+</recipe>

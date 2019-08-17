@@ -1,0 +1,80 @@
+<recipe>
+  <name>Pedernales River Chili</name>
+  <safe_name>Pedernales_River_Chili</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>The paper claims a lineage from Lady Bird Johnson and is allegedly verifiable on the LBJ online library (lbjlib.utexas.edu > research > reference > quick facts > recipes).
+
+Chili meat is defined for us here as "coursley gorund round steak or a well-rimmed chuck".
+
+According to the article, Lady Bird came up with this after LBJ had his first heart attack.  Surprisingly he continued to live through this much sodium.  Ole!</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 lb</quantity>
+      <ingredient_name>chili meat</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground oregano</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground cumin (comino)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 tsp</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation>additional to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>channed whole tomatoes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2-6 dashes</quantity>
+      <ingredient_name>hot sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>hot water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown meat and cook onion and garlic until translucent in a large heavy pan or Dutch Oven.  Add oregano, ground cumin, tomatoes, hot pepper sauce, salt and hot water  and bring mixture to a boil before simmering one hour.  Skim off fat during cooking.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Salt-Tastic!</secondary_category>
+    <secondary_category>Chili</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Chester Progressive: Chase off the chill with simmering pots of chowder and chili</source_name>
+  <source_page>8b</source_page>
+  <source_date>25 Feb 2009</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

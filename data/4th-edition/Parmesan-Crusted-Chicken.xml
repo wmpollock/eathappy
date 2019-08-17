@@ -1,0 +1,45 @@
+<recipe>
+  <name>Parmesan Crusted Chicken</name>
+  <safe_name>Parmesan_Crusted_Chicken</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Only four ingredients:  maybe kind of good</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>grated Parmesan cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>boneless, skinless chicken breast halves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 tsp</quantity>
+      <ingredient_name>bread crumbs</ingredient_name>
+      <preparation>Italian seasoned</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix mayo and cheese and spread on chicken.  sprinkle on bread crumbs and badke at 425G for 20 minutes or until cooked through.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Best Foods Mayonnaise Jar</source_name>
+  <source_page></source_page>
+  <source_date>2009</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/26/2009</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

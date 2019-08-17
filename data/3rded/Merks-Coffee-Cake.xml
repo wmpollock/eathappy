@@ -1,0 +1,92 @@
+<recipe>
+  <name>Merk's Coffee Cake</name>
+  <safe_name>Merks_Coffee_Cake</safe_name>
+  <yield_count>9</yield_count>
+  <yield_measure>biggish squares</yield_measure>
+  <notes>I imagine Merk as a dedicated bachelor devoted to his with the excellent coffee cake.
+
+This recipe can be doubled to fit a 9"x13" pan, but that's playing with fire a bit:  the top may rise over the edge of the pan when baked.  Not disastrous necessarily, but a bit aggressive.
+
+When serving groups with this recipe, it can be made in muffin or brioche pans:  assemble as usual but fill each cup no more than half full.  Bakes in about 25 minutes.
+</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>shortening</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>sifted flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>firmly packed brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>chopped nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cream together shortening, sugar and vanilla.  Beat in eggs one at a time.  Sift together flour, baking powder and baking soda.  Add half to creamed mixture.  Beat in sour cream then rest of flour mixture.
+
+Spread half the batter in a greased 9x9" pan.  Cream butter, brown sugar and cinnamon.  Mix in nuts. Spread half of nut/sugar mixture over batter, cover with additional batter and remaining sugar mixture.
+
+Bake at 350F for 40-50 minutes or until the center passes the toothpick test.  Allow to cool for 10 minutes before removing from pan.</preparation>
+  <primary_category>Breakfast</primary_category>
+  <secondary_categories>
+    <secondary_category>Bachelor Food</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Dorothy T. Kumamoto &amp; Fusako Kumamoto</source_name>
+  <source_page>53</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/04/2005</cdate>
+  <mdate>12/26/2009</mdate>
+  <user>billp</user>
+</recipe>

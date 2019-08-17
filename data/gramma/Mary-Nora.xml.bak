@@ -1,0 +1,58 @@
+<recipe>
+  <name>Mary Nora</name>
+  <safe_name></safe_name>
+  <primary_category>Beverages</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>**Needs review</secondary_category>
+    <secondary_category>Inspires Curiosity</secondary_category>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>Most of the jello salads I've so far seen I've decided haven't been much worth having.  Gramma did like her jello, though its not necessarily a taste I concurrently enoyed.  This, with marshmalows suspsended with childood beauty, sounds like it be the winner of the bunch.  
+
+I mean, who -doesn't- like marshmallows?</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>orange jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>frozen orange juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>mandarin oranges</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>sliced bananas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>small marshmallows</ingredient_name>
+      <preparation>in water(!)</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dissolve Jello, add orange juice and enough mandarin to make 2 cups.  Refrigerate until mushy -- add fruit and marshmallows.</preparation>
+  <source_author></source_author>
+  <source_name>56-57</source_name>
+  <source_page></source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

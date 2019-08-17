@@ -1,0 +1,89 @@
+<recipe>
+	<name>Curried Chicken Meat Balls</name>
+	<notes>Makes an awful, awful lot it seems.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**MEATBALLS</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 lbs</quantity>
+			<ingredient_name>ground chicken or turkey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>curry powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>breadcrumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**CURRY SAUCE</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>clove garlic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>curry powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>chicken stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix meatball mixture together and roll balls in flour.  Saute in butter until throughly cooked.
+
+Sauce:  saute crushed clove of garlic in 2 Tbl butter until soft and discard.  Add remaining ingredients and reduce until thick.  Season with salt and pepper to taste.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Chicken</secondary_category>
+		<secondary_category>Appetizer</secondary_category>
+		<secondary_category>Curry</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<source_name>"A Book Of Appetizers", Helen Evans Brown</source_name>
+	<source_page>6</source_page>
+	<source_date>1958</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Curried_Chicken_Meat_Balls</safe_name>
+</recipe>

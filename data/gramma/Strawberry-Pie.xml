@@ -1,0 +1,67 @@
+<recipe>
+  <name>Strawberry Pie</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>3 bushels</quantity>
+      <ingredient_name>[straw]berries</ingredient_name>
+      <preparation>crush 1/2</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 Tbsp</quantity>
+      <ingredient_name>cornstarch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>red food coloring</ingredient_name>
+      <preparation>to palette</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook sugar, water, cornstarch and salt until thick. 
+
+Add crushed berries, lemon juice and red foot coloring to aesthetic.
+
+Put half berries in crust.  [I'd imagine then add the cooled? Top with whipping cream.
+</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>83-84</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-11</mdate>
+  <user>billp</user>
+</recipe>

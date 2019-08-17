@@ -1,0 +1,49 @@
+<recipe>
+  <name>Jacqui's Perfect Margarita</name>
+  <preparation>Meyer Lemon Syrup:
+Simmer one cup water with one cup sugar for five minutes or until clear.  Strain the juice of 1 large lemon into the hot syrup and stir.  Meyer lemons are preferable, but normal lemons work just as well.
+
+Margaritas:
+Shake tequila, triple sec, lime juice and lemon syrup together and pour into salted glasses.  Garnish with a wedge of lime.</preparation>
+  <main_ingredient>Makes You Drunk</main_ingredient>
+  <yield_count>2</yield_count>
+  <notes>Originally from the SF Chronicle, 30 April 2003  I trust anyone named "Jacqui" nearly explicitly as far as  poolside cocktails is concered.  If she says something is "perfect", then I tend to agree with her.
+
+Made with great acclaim twice with standard lemons and Coinitreau during the 2004 Villa Stay.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Lemon Or Lime Wedges</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Kosher Salt</ingredient_name>
+      <unknown_1>02047</unknown_1>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Agave Tequila</ingredient_name>
+      <quantity>2 1/2 Ozs (5 Parts)</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Triple Sec Or Cointreau</ingredient_name>
+      <quantity>2 Ozs (4 Parts)</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Fresh Lime Juice</ingredient_name>
+      <quantity>2 1/2 Ozs (5 Parts)</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Meyer Lemon Simple Syrup</ingredient_name>
+      <quantity>1 Oz (1 Part)</quantity>
+      <preparation>(see Recipe)</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ice Cubes</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Beverage</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

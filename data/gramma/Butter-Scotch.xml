@@ -1,0 +1,34 @@
+<recipe>
+  <name>Butter Scotch</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cube</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>white Karo</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Bring to boil, cool, add vanilla and large can milk</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Betty Lilly (Leah)</source_name>
+  <source_page>0006</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/17/2005</cdate>
+  <safe_name>Butter_Scotch</safe_name>
+</recipe>

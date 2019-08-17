@@ -1,0 +1,36 @@
+<recipe>
+  <main_ingredient>50s Goodness</main_ingredient>
+  <notes>Always a summer favorite from my favorite gramma.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Mayonnaise</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sour Cream</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dehydrated Diced Onion</ingredient_name>
+      <quantity>2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dill Weed</ingredient_name>
+      <quantity>1 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Beau Monde (Spice Islands)</ingredient_name>
+      <quantity>1 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Parsley</ingredient_name>
+      <quantity>1 Tsp</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Gum's Dill Dip</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Appetizer</category>
+  </category>
+  <preparation>Mix all ingredients together and let sit overnight.  Serve with big ruffly potato chips of the bland "Granny Goose" variety (avoid Lays -- too oily and salty)</preparation>
+</recipe>

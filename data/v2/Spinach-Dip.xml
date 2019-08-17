@@ -1,0 +1,50 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Spinach_Dip</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Refrigerate to allow flavor to develop.  Hollow out round loaf of French bread.  Cut bread into squares and fill hollow with dip.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Spinach Dip</name>
+  <secondary_categories>
+    <secondary_categorie>Dips</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>Another one with possible lineage from my Gramma Jackson else my Mom -- they traded quite a few back and  forth over the years.   Always best if served into a hacked-up monster loaf of sourdough.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>sour cream</ingredient_name>
+      <quantity>2 large cartons</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Knorr's vegetable soup</ingredient_name>
+      <quantity>2 pkgs</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>scallion onions (for chives)</ingredient_name>
+      <quantity>3</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cream cheese, softened</ingredient_name>
+      <quantity>1 pkg (16 oz)</quantity>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>frozen chopped spinach</ingredient_name>
+      <quantity>1 pkg</quantity>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water chestnuts</ingredient_name>
+      <quantity>1 can</quantity>
+      <preparation>diced</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

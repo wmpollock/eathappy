@@ -1,0 +1,62 @@
+<recipe>
+  <name>Quick salmon rice casserole</name>
+  <safe_name></safe_name>
+  <primary_category>Casseroles/One Dish Meals</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count>4</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 7 3/4oz can</quantity>
+      <ingredient_name>salmon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>cooked rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>chopped celery</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dill weed</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>shredded medium cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can </quantity>
+      <ingredient_name>cream of mushroom soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Flake salmon into buttered 1 1/2 quarter casserole.  Mix remaining ingredients.  Bake at 350F for 25-30 min.  </preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0072-0073</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-20</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

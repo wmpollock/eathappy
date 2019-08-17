@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Veronica for Gramma</title>
+    <style>
+.navigator {
+  width: 90px;
+  height: 100%;
+  float: left;
+}
+
+.visualizer, .editor  {
+  height: 50%;
+  width: 100%;
+}
+.entryForm {
+  float: left;
+  width: calc(100% - 95px);
+}
+    </style>
+  </head>
+<body>
+  <iframe class="navigator" src="visualizer.cgi?list=1"></iframe>
+  <div class="entryForm">
+    <iframe name="visualizer" class="visualizer" src="visualizer.cgi"></iframe>
+    <iframe class="editor" src="/eathappy/edit/gramma/by-category"></iframe>
+  </div>
+</body>
+</html>
+

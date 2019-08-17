@@ -1,0 +1,54 @@
+<recipe>
+	<name>Dennis's Meaty Cheesy Things</name>
+	<yield_count>30</yield_count>
+	<notes>Dennis made these for a string of appearances, occasionally command performances.  They are mighty tasty  down-home stylee (I mean, yeah -- Velveeta!).  Two packages of rye might be a bit much depending on how  much you spoon on there.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>ground beef</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>Italian sausage</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>Velveeta cheese</ingredient_name>
+			<preparation>cut into small cubes</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>yellow onion, diced</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>Italian seasoning</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 pkgs</quantity>
+			<ingredient_name>party rye bread</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation><![CDATA[Saute the beef, sausage and onions in a pan over medium heat and drain off the fat.  Add the Italian seasoning & Velveeta and stir over low heat until the Velveeta has softened and the ingredients have mixed together.  
+
+Spoon a tablespoon or two of mixture onto each rye toast and place on a cooking sheet.
+
+Can be made ahead and frozen.  Heat mixture under a broiler until the rye browns slightly.]]></preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Appetizer</secondary_category>
+		<secondary_category>Sticks To Ribs</secondary_category>
+		<secondary_category>Beef</secondary_category>
+	</secondary_categorys>
+	<source_name>Dennis Gross</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Denniss_Meaty_Cheesy_Things</safe_name>
+</recipe>

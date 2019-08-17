@@ -1,0 +1,53 @@
+<recipe>
+  <name>Don Brown's Tri-Tip</name>
+  <safe_name>Don_Browns_Tri_Tip</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>In 2009 I made a tremendous buy of tri-tip as an exercise in freezer management and tri-tip cookery.  This fairly simple recipe came up pretty high on Google, suggesting its fairly well-liked and linked to.  For being simple its mighty tasty. 
+
+Even with reduced-sodium soy and teriyaki this ends up a little on the salty side.  </notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>teriyaki sauce</ingredient_name>
+      <preparation>reduced salt preferred</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation>reduced salt preferred</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>red wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>minced garlic or garlic powder</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>tri-tip</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Marinate tri-tip overnight or longer</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Beef</secondary_category>
+  </secondary_categories>
+  <source_name>http://www.cooks.com/rec/doc/0,1626,144179-252207,00.html</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>08/10/2009</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

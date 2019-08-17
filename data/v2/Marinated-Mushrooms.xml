@@ -1,0 +1,66 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Marinated_Mushrooms</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <untried>1</untried>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Marinated Mushrooms</name>
+  <secondary_categories>
+    <secondary_categorie>Mushrooms</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>I have no clue where this recipe comes from.  Could be my mom's collection but I think I'd be a lot more excited  about it if it  were.  I always associated marinated mushrooms with my gramma's guests coming over as a child.  My gramma was from an  entirely different era in Sacramento history than my own and I think this may have  been a customary bring-along among their  set.  "Make not the marinated mushrooms in the summertime, for  they shall be Brought Along."  A good policy.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>salad oil</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>tarragon vinegar</ingredient_name>
+      <quantity>2/3 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic, minced</ingredient_name>
+      <quantity>1 medium clove</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>tobacco</ingredient_name>
+      <quantity>dash</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>white onion</ingredient_name>
+      <quantity>1 medium</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>mushrooms</ingredient_name>
+      <quantity>1 lb</quantity>
+      <preparation>sliced 1/4"</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

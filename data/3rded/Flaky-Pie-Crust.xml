@@ -1,0 +1,47 @@
+<recipe>
+	<name>Flaky Pie Crust</name>
+	<yield_count>2</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>shortening</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>cold butter or margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3-5 Tbl</quantity>
+			<ingredient_name>cold water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a large bowl mix flour and salt.  Using a pastry blender or 2 knives, cut in lard and butter until mixture is crumbly and particles are the size of small dried peas. 
+
+Mixing lightly with a fork, sprinkle on water, 1 tablespoon at a time,  until dough begins to cling together.  With your hands press dough into 2 flattened balls of equal size.  Enclose in plastic wrap to prevent dough from drying out while preparing filling.  To avoid stickiness, refrigerate up to a day. 
+
+Roll out on a lightly floured surface, using short, firm strokes to achieve uniform thinness, according to recipe directions.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Pie Crust</secondary_category>
+	</secondary_categorys>
+	<source_name>California Culinary Academy's "Regional American Classics"</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Flaky_Pie_Crust</safe_name>
+</recipe>

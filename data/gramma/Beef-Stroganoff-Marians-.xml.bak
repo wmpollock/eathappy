@@ -1,0 +1,74 @@
+<recipe>
+  <name>Beef Stroganoff (Marian's)</name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lbs</quantity>
+      <ingredient_name>beef tenderloin or serloion steak</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>butter or margarine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup (6 oz)</quantity>
+      <ingredient_name>sliced mushooms</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>10 cans (10 1/2 oz each)</quantity>
+      <ingredient_name>condensed beef broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>instant minced onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>catsup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>garlic salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>sour gream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8-10oz</quantity>
+      <ingredient_name>uncooked noodles</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Cut meat across grain into 3/4 inch slices then into strips 3/4x1/4 inch.  Melt 1/3 cup butter in skillet.  Cook mushrooms ahead 5 minutes.
+brown meat.  Stir in broth (saving 2/3 cup) onion, catsup and garlic salt.  Cover and simmer 15 minutes.  Blend reserved broth & flour.  Stir into meat.  Add mushrooms. Heat to boiling.  Boil 7 stir 1 minute.  Stir in sour cream, heat through.  Cook noodles, drain & toss with 3 Tbsp butter.  Serve with stroganoff.  
+]]></preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Marian (Pollock, presumed)</source_name>
+  <source_page>0019-0020</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <mdate>11/21/2005</mdate>
+  <safe_name>Beef_Stroganoff_Marians_</safe_name>
+</recipe>

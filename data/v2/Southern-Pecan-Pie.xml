@@ -1,0 +1,63 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Southern_Pecan_Pie</safe_name>
+  <primary_category>Desserts</primary_category>
+  <preparation>Beat eggs slightly.  Mix in white syrup, sugar, oleo, vanilla and salt. Add pecans.  Bake at 400F for 15 minutes and at 350F for 30 to 35 minutes.
+
+**I think Oleo = Margarine for us Yankees, close enough.
+</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Southern Pecan Pie</name>
+  <secondary_categories>
+    <secondary_categorie>Pecans</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>Southern-style Pecan Pie is the thing I like second-most in the world.  Sweet Potato Pecan Pie is number one,  but this  isn't a recipe for that, is it now?  Hush and be happy.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>eggs</ingredient_name>
+      <quantity>3</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>white Karo syrup</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vanilla</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>oleo</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1/8 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chopped pecans</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>unbaked 19" pie shell</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

@@ -1,0 +1,84 @@
+<recipe>
+  <name>Buttermilk Barbecued Turkey Legs</name>
+  <safe_name>Buttermilk_Barbecued_Turkey_Legs</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>I'm kind of at a loss to say what the buttermilk soak buys you, especially herbing it when you're likely to put a giant flavor bomb in the manner of BBQ sauce on it.  It'd be good to do a benchmark against a naked 'stick and see how it compares.  Otherwise, not one of the more interesting ways to cook with buttermilk.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>turkey drumsticks</ingredient_name>
+      <preparation>14-16oz each</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>BBQ sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Marinade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>buttermilk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>dijon mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>honey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>finely chopped fresh rosemary</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>dried thyme</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>dried sage</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>dried marjoram</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine marinde ingrediens and bag marinde the drumsticks for 3-4 hours in the refrigerator.  Wipe excess marinade off the legs before grilling over indirect medium head until the internal temperature reaches 180F and the juices run clear: about 1 1/2-2 hours. Turn every 30 minutes during cooking process.  Brush occasionally with the BBQ sauce in the last 15-20 minutes.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Buttermilk</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Turkey</secondary_category>
+  </secondary_categories>
+  <source_name>Webster's Real Grilling</source_name>
+  <source_page>214</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>01/02/2013</mdate>
+  <user>billp</user>
+</recipe>

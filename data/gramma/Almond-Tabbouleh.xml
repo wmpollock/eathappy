@@ -1,0 +1,63 @@
+<recipe>
+	<name>Almond Tabbouleh</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>Bulgar (cracked wheat)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>sliced green onions</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped parsley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>chopped mint</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>chopped almonds</ingredient_name>
+			<preparation>toasted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>cherry tomatoes</ingredient_name>
+			<preparation>quartered or 1/2 cup raisins</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>lime or lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name><![CDATA[salt & pepper to taste]]></ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation><![CDATA[Pout boiling water over Bulgar and set aside about 30 minutes until complete absorbed.  Add remaining ingredients, toss, cover & chill for at least 2 hours.  Serve on romaine leaves. (Very Good)]]></preparation>
+	<primary_category>Side Dish</primary_category>
+	<secondary_categorys>
+		<secondary_category>**Needs review</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Bernie Paule?</source_name>
+	<source_page>3-4</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Almond_Tabbouleh</safe_name>
+</recipe>

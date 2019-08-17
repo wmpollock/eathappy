@@ -1,0 +1,63 @@
+<recipe>
+  <name>Layered Pear Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>16 oz</quantity>
+      <ingredient_name>pear slices</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz pkg</quantity>
+      <ingredient_name>lemon jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz </quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>ground ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8</quantity>
+      <ingredient_name>walnut halves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Chop pears, set aide.  Dissolve gelatin in hot water.  Add pear juice adding water (to make)  1 cup. 
+
+To 2/3 of gelatin mixture add vinegar.  Pour into 4 cup mold.  Chill until almost firm.
+
+Beat cream cheese and ginger until fluffy.  Stir in rest of gelatin.  Chill partly.  Fold in pears.  Arrange nuts on final layer then add pear mixture.  Chill.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0076-0077, 87-88</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

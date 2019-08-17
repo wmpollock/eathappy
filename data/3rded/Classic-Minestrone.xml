@@ -1,0 +1,96 @@
+<recipe>
+	<name>Classic Minestrone</name>
+	<ingredients>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large leek</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>carrots</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>zucchini</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 oz</quantity>
+			<ingredient_name>whole green beans</ingredient_name>
+			<preparation>halved</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 stalks</quantity>
+			<ingredient_name>celery</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>tomatoes</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>fresh basil</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>chopped fresh thyme leaves or 1/2 tsp dried</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>cannellini or kidney beans and canning fluid</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>small pasta shapes or macaroni</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>freshly grated parmesan cheese</ingredient_name>
+			<preparation>optionally as a garnish</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>fresh chopped parsley</ingredient_name>
+			<preparation>as a garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Put the olive oil, leek, carrots, zuchini, green beans, and celery together in a large saucepan.  Heat until lightly frying and then sweat the vegetables for 15 minutes, stirring ocassionally.
+
+Ad stock or water,tomatoes, basil and thyme and bring to a boil, smmering gently for 30 minutes.  Add beans and their fluid (some would say liquor) to pot along with pasta and simmer for another 10 minutes.  Salt and pepper to taste.
+
+Serve garnished with parmesan cheese and parsley.</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Italian</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Classic_Minestrone</safe_name>
+</recipe>

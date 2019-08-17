@@ -1,0 +1,72 @@
+<recipe>
+	<name>Pork Adobo</name>
+	<yield_count>7</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using  low-sodium soy sauce may  rectify this some.  </notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>boneless pork or pork ribs</ingredient_name>
+			<preparation>cut into 1 1/2-2" chunks</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>10</quantity>
+			<ingredient_name>peppercorns</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>bay leaf</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>white wine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>70s Flashback</secondary_category>
+		<secondary_category>Mexican</secondary_category>
+	</secondary_categorys>
+	<source_name>"Family Favorites",  Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.</source_name>
+	<source_page>12</source_page>
+	<source_date>1987</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/03/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Pork_Adobo</safe_name>
+</recipe>

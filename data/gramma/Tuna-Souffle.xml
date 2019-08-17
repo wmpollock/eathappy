@@ -1,0 +1,57 @@
+<recipe>
+  <name>Tuna Souffle</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count>6-8</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>9 slices</quantity>
+      <ingredient_name>while bread</ingredient_name>
+      <preparation>trim off crust and cube</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cube</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>beaten well</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 lb</quantity>
+      <ingredient_name>sharp cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cans</quantity>
+      <ingredient_name>tuna</ingredient_name>
+      <preparation>or shrimp, chicken, lobster, etc - 2 #1 cans lobster + 8 oz frozen shrimp)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Let stand 3 hours or overnight.  Bake at 350F for 35-40 minutes.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>89-90</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

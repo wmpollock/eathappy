@@ -1,0 +1,63 @@
+<recipe>
+  <name>Oreo Cheesecake</name>
+  <safe_name>Oreo_Cheesecake</safe_name>
+  <yield_count>16</yield_count>
+  <yield_measure>smallish pieces</yield_measure>
+  <notes>This was an alternate recipe I tried and came out horrible.   Philly's website doesn't include the danged recipe anymore and even the closest one doesn't have a bake time!  I tried 425, had the thing come out an embarrassingly burnt mess and wish I hadn't made it.  I'm going to borrow the Bryan's as it only comes out better every time.</notes>
+  <prep_time>20 minute prep, 45 minute cook, 4 hour+ refrigeration</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1lb 2oz pkg</quantity>
+      <ingredient_name>Oreos</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup (1/2 stick)</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 lb (4x8oz pkgs)</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Line 13x9" baking pan with foil up and over the sides of the pan.  Whirl 30 cookies (~2/3rds the bag) in food processor until well blended.  Mix in butter until evenly processed.  Press firmly into bottom of pan.
+
+With an electric mixer, blend together cream cheese, sugar and vanilla.  Add eggs in one at a time until just blended.  Break or chop remaninig cookies and stir 1 1/2cups into batter.  Pour batter over crust and cover with remaining chopped cookies.  Bake for 45 minutes or until center is almost set and let cook for four or more hours.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**Deleted06</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Asst'd Comfort Food</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried></untried>
+  <source_name>Philly-Brand Cream Cheese box</source_name>
+  <source_page></source_page>
+  <source_date>2007?</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/11/2009</cdate>
+  <mdate>11/26/2009</mdate>
+  <user>billp</user>
+</recipe>

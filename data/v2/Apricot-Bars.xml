@@ -1,0 +1,72 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Apricot_Bars</safe_name>
+  <primary_category>Desserts</primary_category>
+  <preparation>Cream butter, sugar and vanilla.  Add flour and mix well.  
+
+Spread in 13" by 9" ungreased pan and bake 15 minutes at 350F.  
+
+Spread jam over crust gently.  Beat egg whites and 1/2 tsp almond extract slightly, then beat powdered sugar in gradually until stiff.  Spread carefully over jam. 
+
+Top with almonds and bake 20 minutes at 400F.</preparation>
+  <yield_count>16</yield_count>
+  <yield_measure>Pieces</yield_measure>
+  <untried>1</untried>
+  <name>Apricot Bars</name>
+  <prep_time></prep_time>
+  <cdate></cdate>
+  <secondary_categories>
+    <secondary_categorie>Apricot Jam</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>But they sound good, don't they?  Most likely bogarted from my mom's collection.</notes>
+  <mdate></mdate>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>butter</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vanilla</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>2 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>apricot jam</ingredient_name>
+      <quantity>12 oz</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>egg whites</ingredient_name>
+      <quantity>2</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>almond extract</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>powdered sugar</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>slivered almonds</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+</recipe>

@@ -1,0 +1,138 @@
+<recipe>
+	<name>Gluten Steaks</name>
+	<notes>I will admit that the title doesn't sound particularly sexy:  "mmm, pull another gluten steak off the grill, will you love?" but the idea seems kind of interesting and has enough spices in there to make it sound worth trying.
+
+Else one of the greatest boondoggles I've yet come across...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**GLUTEN</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 cups</quantity>
+			<ingredient_name>gluten flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>whole wheat flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 1/2 cups</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**BROTH</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 qts</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation>hot</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chicken style seasoning</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>brewers yeast flakes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>onion powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>garlic powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>sage</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**BREADING</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>whole wheat flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>chicken style seasoning</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 Tbl</quantity>
+			<ingredient_name>brewers yeast flakes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>onion powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>garlic powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>turmeric</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix flours and first measure of water together thoroughly and let stand while preparing broth.
+
+Heat broth to a boil.  In the interim period, knead gluten under slow running water for approximately three minutes.  Pull into lemon sized pieces, stretch out and place into the boiling broth.
+
+Simmer for 45 minutes.  Pieces may be cooked or frozen for later use.
+
+The original recipe gets soggy here.  The next bit says that you can roll the gluten in breading and fry up in a skillet.  The next part contain suggestions for how you might use gluten as a substitute for meat in "any recipe!!!!".  Suggestions included grinding gluten in a meat grinder and using in place of taco meat, and while I suspect that this was the non-breaded, pre-fried gluten they were talking about, your mileage may vary.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Dubious</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"High Country Recipes", The Chester High Ski Team, contributed by Angel Isaacson</source_name>
+	<source_page>29</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Gluten_Steaks</safe_name>
+</recipe>

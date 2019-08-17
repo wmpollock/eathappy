@@ -1,0 +1,78 @@
+<recipe>
+  <name>Wilted Spinach Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>5 slices</quantity>
+      <ingredient_name>bacon</ingredient_name>
+      <preparation>cook well done - save grease</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 head</quantity>
+      <ingredient_name>lettuce or spinach bunch or mixture</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>hard boiled eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash</quantity>
+      <ingredient_name>lemon pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>garlic powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>green onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together sugar, vinegar, salt, lemon pepper, garlic powder and mustard and bring to a boil: 1 minute on high.
+
+Pour over spinach.
+
+Add bacon + about 1/4 cup bacon drippings.  DON'T REHEAT BACON DRIPPINGS.
+
+Toss salad.  Top with green onion + eggs.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>99</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-11</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

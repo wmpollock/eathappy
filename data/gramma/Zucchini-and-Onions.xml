@@ -1,0 +1,62 @@
+<recipe>
+  <name>Zucchini and Onions</name>
+  <safe_name></safe_name>
+  <primary_category>Side Dish</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 lbs</quantity>
+      <ingredient_name>zucchini</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>cut in wedges</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>basil</ingredient_name>
+      <preparation>crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 oz</quantity>
+      <ingredient_name>Monterrey cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Slice zucchini diagonally, very thin.  Melt butter in large skillet.  Add all except cheese.  Cover, cook on medium heat 8 minutes, shaking skillet or stirring or until vegetables are crisp tender.  Put in shallow baking dish.  Layer with jack cheese.  Broil until cheese is melted.  Server quick!  Give seconds.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>95, 99-100</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-11</mdate>
+  <user>billp</user>
+</recipe>

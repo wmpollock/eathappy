@@ -1,0 +1,51 @@
+<recipe>
+  <name>English Muffins (canapes)</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>American cheese</ingredient_name>
+      <preparation>grated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped olives (small can)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sliced green olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>english muffins</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix all together [Ed: presumably English muffins are exempt from this instruction]
+
+Let stand in refrigerator a few days.
+
+Cut each muffin into wedges after six spreading. 
+
+Broil until bubbly and cheese melted.
+
+"*Enjoy*"</preparation>
+  <primary_category>Breakfast</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0025-0026</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>English_Muffins_canapes_</safe_name>
+</recipe>

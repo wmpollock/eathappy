@@ -1,0 +1,42 @@
+<recipe>
+  <name>Ramos Fizz [#2]</name>
+  <safe_name></safe_name>
+  <primary_category>Beverages</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>ice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 oz</quantity>
+      <ingredient_name>fizz mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 oz</quantity>
+      <ingredient_name>apricon brandy</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2oz</quantity>
+      <ingredient_name>half and half</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Garnish with orange slice.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0070</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2016-02-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

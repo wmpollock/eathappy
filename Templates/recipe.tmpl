@@ -1,0 +1,124 @@
+<h1 class="recipeTitle"><!--TMPL_VAR NAME="name"-->
+  <span class="iconBlock">
+    <!-- Bill's Favorite -->
+    <!--TMPL_IF NAME="favorite"-->
+        <span class="badge">Fave!</span>
+    <!--/TMPL_IF-->   
+    <!-- New -->
+    <!--TMPL_IF NAME="new"-->
+        <span class="badge">New!</span>
+    <!--/TMPL_IF-->	
+    <!--TMPL_IF NAME="untried"-->
+        <span class="badge">Unverified!</span>
+    <!--/TMPL_IF-->
+   </span>
+</h1>
+
+<!--TMPL_IF NAME="entry_saved"-->
+<div class="confirmation">
+Thank you for your submission!!
+</div>
+<!--/TMPL_IF-->
+
+<!--TMPL_IF EXPR="yieldQuant || yieldUnits || prepTime"-->
+<div class="row">
+  <div class="col-md-6">
+    <!--TMPL_IF EXPR="yieldQuant || yieldUnit"-->
+      Yield:
+      <!--TMPL_VAR NAME="yieldQuant"-->
+      <!--TMPL_VAR NAME="yieldUnit"-->
+    <!--/TMPL_IF-->
+  </div>
+  <div class="col-md-6 text-right">
+    <!--TMPL_IF NAME="prepTime"-->
+      Prep time: <!--TMPL_VAR NAME="prepTime"-->
+    <!--/TMPL_IF-->
+  </div>
+</div>
+<!--/TMPL_IF>
+
+<!--TMPL_IF NAME="notes"-->
+  <div class="well">
+    <!--TMPL_VAR NAME="notes"-->
+  </div>
+<!--/TMPL_IF-->
+<!--TMPL_IF NAME="ingredients"-->   
+  <div class="panel panel-default">
+    <div class="panel-heading"><h3 class="panel-title">Ingredients</h3></div>
+    <div class="panel-body">
+      <!--TMPL_LOOP NAME="ingredients"-->
+        <!--TMPL_IF NAME="heading"-->
+	  <!-- Close off existign UL, note that banged-togetehr headings will fault things == (TODO) BADDESIGN -->
+          <!--TMPL_UNLESS NAME="__first__"-->
+	    </ul>
+	  <!--/TMPL_UNLESS-->
+	  <h3><!--TMPL_VAR NAME="heading"--></h3>
+	  <ul>
+	<!--TMPL_ELSE -->
+          <!--TMPL_IF NAME="__first__"-->	   
+  	    <ul>
+	  <!--/TMPL_IF-->
+	  <li><span class="ingredQuant"><!--TMPL_VAR NAME="quantity"--></span>
+              <!--TMPL_VAR NAME="ingredient_name"--><!--TMPL_IF NAME="ingredientPrepDesc"-->,<!--/TMPL_IF-->
+              <!--TMPL_VAR NAME="ingredientPrepDesc"-->
+	   </li>
+	<!--/TMPL_IF-->
+        <!--TMPL_IF NAME="__last__"-->	   
+	  </ul>
+	<!--/TMPL_IF-->
+      <!--/TMPL_LOOP-->  
+    </div>
+  </div>
+<!--/TMPL_IF-->
+
+<!--TMPL_IF NAME="preparation"-->
+  <div class="panel panel-default">
+    <div class="panel-heading"><h3 class="panel-title">Preparation</h1></div>
+    <div class="panel-body">
+      <!--TMPL_VAR NAME="preparation"--> 
+    </div>
+  </div>
+<!--/TMPL_IF-->
+
+<ul class="list-group">
+  <!--TMPL_IF NAME="primary_category_link"-->
+    <li class="list-group-item">
+      <strong>Primary Category:</strong>
+      <!--TMPL_VAR NAME="primary_category_link"--></li>
+  <!--/TMPL_IF-->
+
+  <!--TMPL_IF NAME="secondary_category_list"-->
+    <li class="list-group-item">
+        <strong>Secondary Categories:</strong>
+        <!--TMPL_VAR NAME="secondary_category_list"-->
+    </li>
+  <!--/TMPL_IF-->
+
+  <!--TMPL_IF NAME="sourceAuthor"-->
+    <li class="list-group-item">
+       <label>Author:</label>
+       <!--TMPLb_VAR NAME="sourceAuthor"-->
+    </li>
+  <!--/TMPL_IF-->  
+
+  <!--TMPL_IF NAME="sourceTitle"-->
+    <li class="list-group-item">
+       <label>Source Title:</label>
+       <!--TMPL_VAR NAME="sourceTitle"-->
+    </li>
+  <!--/TMPL_IF-->  
+
+  <!--TMPL_IF NAME="sourcePage"-->
+    <li class="list-group-item">
+       <label>Source page:</label>
+       <!--TMPL_VAR NAME="sourcePage"-->
+    </li>
+  <!--/TMPL_IF-->  
+
+  <!--TMPL_IF NAME="sourceDate"-->
+    <li class="list-group-item">
+       <label>Source date:</label>
+       <!--TMPL_VAR NAME="sourceDate"-->
+    </li>
+  <!--/TMPL_IF-->  
+</ul>  

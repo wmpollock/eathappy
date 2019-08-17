@@ -1,0 +1,65 @@
+<recipe>
+	<name>8 Day Dill Pickle</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 dishpan full</quantity>
+			<ingredient_name>small cukes</ingredient_name>
+			<preparation>cut into bite sizes</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbsp</quantity>
+			<ingredient_name>alum</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 box</quantity>
+			<ingredient_name>dill seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 quarts</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 quarts</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 box</quantity>
+			<ingredient_name>pickling spice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>peppercorns</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>large bunch</quantity>
+			<ingredient_name>dill</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>First day:  cut cukes into bite sized chunks.  Brine 2 cups salt, 1 1/2 gallon water and soak overnight.
+
+Second day:  Drain.  Pour boiling water to cover.  Add 3 Tbsp alum and 1/2 box dill seed.  Stand 2 days.
+
+Fourth day: Drain and rinse.  Boil 3 quarts vinegar, 2 quarts water, 3 quarts sugar, 1 box pickling spice, some peppercorns and 2 cloves garlic.  Add heads of large of dill.  Heat for 5 minutes and turn off heat.  Add pickles.  Stir daily for 4 days.
+
+Eighth day.  Remove pickle and peel in sterilized jars (makes 8 quarts).  Bring syrup to boil and pour over pickles.  Seal.</preparation>
+	<primary_category>Side Dish</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_page>60-61</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>08/14/2007</cdate>
+	<safe_name>8_Day_Dill_Pickle</safe_name>
+</recipe>

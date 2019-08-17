@@ -1,0 +1,112 @@
+<recipe>
+  <name>Pulled Pork with Chile Sauce</name>
+  <safe_name>Pulled_Pork_with_Chile_Sauce</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>There's something extra macho about throwing an enormous slab of meat on the grill to cook for hours and hours and hours.</notes>
+  <prep_time>30 minutes, 5-6 hours grilling</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Rub</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>light brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>cider vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>ketchup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>ground cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Other</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>buns or rolls</ingredient_name>
+      <preparation>for serving</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>bone-in pork shoulder, 5-6 lbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 handfuls</quantity>
+      <ingredient_name>smoking chips</ingredient_name>
+      <preparation>soaked for 30 minutes</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together rub ingredients.  Soak chips in water while allowing pork shoulder to come to room temperature.  Grill over indirect medium heat for 5-6 hours: it should be tender but still juicy with an internal temperature of 180-190F.  Add wood chips to smoker or tinfoil smoker roll halfway through cooking.
+
+Bring sauce ingredients to a boil before reducing to a simmer for 10 minutes.
+
+Chop pork or pull together with finger or two knives, removing burned or fatty bits.  Mix meat and sauce and serve over toasted buns with mayonnaise.</preparation>
+  <primary_category>Sandwiches</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <source_name>Webber's Real Grilling</source_name>
+  <source_page>168</source_page>
+  <source_date>2005</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>10/31/2009</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

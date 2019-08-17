@@ -1,0 +1,108 @@
+<recipe>
+	<name>Barley And Lentil Soup</name>
+	<yield_count>8</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>A hearty winter soup.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large onions</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>carrots</ingredient_name>
+			<preparation>diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>celery stalks</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>red bell peppers</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8</quantity>
+			<ingredient_name>oil packed sun-dried tomatoes</ingredient_name>
+			<preparation>drained, chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>dried basil</ingredient_name>
+			<preparation>crumbled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dried oregano</ingredient_name>
+			<preparation>crumbled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>14.5 oz cans beef broth</ingredient_name>
+			<preparation>(about)</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>28 ounce can crushed tomatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>tomato paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>pearl barley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>lentils</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>hot pepper flakes**</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>Sriracha</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>Tabasco</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Heat oil in a heavy 4 quart saucepan over medium-high heat.  Add onions and garlic and saute until onions are translucent, about 10 minutes.  Add next garlic, carrots, celery, red bell peppers, sun dried tomatoes and basil.  Cook until bell pepper just softens, stirring occasionally, 6 minutes.
+
+Mix in broth, tomatoes and tomato paste.  Bring mixture to boil.  Stir in barley and lentils.  Reduce heat and simmer until barley and lentils are tender, stirring occasionally, about 1 1/2 hours.
+
+The original recipe called for an additional can of broth to start and an extra one at the end if it wasn't "thin enough".  Thin enough and folks like myself do not go well together...</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<source_name>Epicurious</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Barley_And_Lentil_Soup</safe_name>
+</recipe>

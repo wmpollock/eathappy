@@ -1,0 +1,52 @@
+<recipe>
+  <name>Sour Cream Mold</name>
+  <safe_name></safe_name>
+  <primary_category>Appetizers</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>And you thought that was the fuzzy stuff that grew on the top!</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 pkg</quantity>
+      <ingredient_name>raspberry jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>bannnas</ingredient_name>
+      <preparation>mashed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 pkg</quantity>
+      <ingredient_name>frozen raspberries + juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pint</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Add everything to jello except sour cream.  Oour half of mixture into bread pan and let thicken.  Put sour cream on top.  Add rest of mixture and chill.</preparation>
+  <source_author>Gretchen Christensen</source_author>
+  <source_name></source_name>
+  <source_page>0077</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2016-03-10</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

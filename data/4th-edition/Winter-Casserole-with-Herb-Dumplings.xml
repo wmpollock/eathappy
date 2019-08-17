@@ -1,0 +1,125 @@
+<recipe>
+	<name>Winter Casserole with Herb Dumplings</name>
+	<notes>Looks like autumn.  With dumplings.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>potatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>carrots</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small fennel bulb</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small rutabaga</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>leeks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>zucchini</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>butter or margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>lima beans</ingredient_name>
+			<preparation>with liquid reserved</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>tomato paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 stick</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>coriander</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>ground ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>bay leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Dumplings</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups </quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 oz</quantity>
+			<ingredient_name>"vegetarian suet", shredded; or chilled butter, grated</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dried thyme</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Additinal 1 stp salt, 1/2 cup milk
+
+Cut veg into even cunks and fry in 1/4 cup butter or margarine for tin minutes.  Add flour, lima bean liquid, stock, tomato paste, cinnamon, coriander, ginger, bay leaves and salt and pepper to taste.  Simmer covered for 10 minutes.  Incorporate the beans and simmer another 5 minutes.
+
+Prepare the dumlings:  mix flour, "suet" or butter, thyme and salt with the milk to make a firm dough.  Hand-kneed dough until smouth.  Divide the dough into a dozen pieces and form each piece into a ball.  Incorporate into simmering stew, allowing for expansion.  Cook covered an additional 15 minutes.
+
+Remove cinnamon stick and bay leaves before serving.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>289</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Winter_Casserole_with_Herb_Dumplings</safe_name>
+</recipe>

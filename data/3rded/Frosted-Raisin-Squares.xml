@@ -1,0 +1,84 @@
+<recipe>
+	<name>Frosted Raisin Squares</name>
+	<yield_count>24</yield_count>
+	<yield_measure>squares</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>butter or margarine</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>packed brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>toasted oat cereal (like Cheerios)</ingredient_name>
+			<preparation>crushed to 1 1/2 cups</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>raisins</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3-4 tsp</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Greas a 9"x13" pan.  Cream together butter, brown sugar and sugar together.  Add egg and vanilla and mix well.  Separately combine flour, baking powder and baking soda before mixing in to margarine mixture.
+
+Add cereal and raisins and stir until combined.  Spread evenly in pan and bake 15-20 minutes at 350F or until it passes the toothpick test.  Cool.
+
+Combine powdered sugar and milk to form frosting and drizzle ovrer pan before cutting into squares.</preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Fine Foods Toasted Oats box</source_name>
+	<source_date>2009</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Frosted_Raisin_Squares</safe_name>
+</recipe>

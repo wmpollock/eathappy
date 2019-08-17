@@ -1,0 +1,58 @@
+<recipe>
+	<name>Cottage Cheese Rolls</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2 lb</quantity>
+			<ingredient_name>butter or margarine</ingredient_name>
+			<preparation>at room temperature</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 oz</quantity>
+			<ingredient_name>cottage cheese</ingredient_name>
+			<preparation>at room temperature</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cup</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>milk or water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>coconut or chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine all ingredients until smooth and chill covered overnight.  Divide into 4 portions and roll into 1/8" to 1/4" discs.  Cut into wedges and roll from wide edge to point.  Arrange on a cookie sheet 1 inch apart and bake at 375F for 30 minutes.
+
+Mix powdered sugar and milk or water to make frosting and top rolls with frosting and coconut or chopped nuts</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+		<secondary_category>Appetizer</secondary_category>
+		<secondary_category>Retro</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"Almanor Westshore Cooks", contributed by Mrs. Harrie Solenski</source_name>
+	<source_page>163</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Cottage_Cheese_Rolls</safe_name>
+</recipe>

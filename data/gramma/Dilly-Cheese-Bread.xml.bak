@@ -1,0 +1,54 @@
+<recipe>
+  <name>Dilly Cheese Bread</name>
+  <ingredients>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>Bisquick</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>grated sharp cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tsp</quantity>
+      <ingredient_name>corn oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/4 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>slighten beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dill weed</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine baking mix, cheese and sugar.  Combine remaining ingredients, add to cheese mixture, stirring until blended.  Beat slightly to remove lumps.  Turn into well-greased 9x5x3 pan.  Bake at 350 degrees for 45 to 50 minutes.</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Nell Boylin</source_name>
+  <source_page>34</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/04/2005</cdate>
+  <safe_name>Dilly_Cheese_Bread</safe_name>
+</recipe>

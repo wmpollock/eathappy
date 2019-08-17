@@ -1,0 +1,59 @@
+<recipe>
+	<name>Classic French Onion Soup</name>
+	<notes>Needs research: WTF?  My pots are either covered or they aren't.  I don't have the magic lid kind of lids and my recollection is you've got to be a pretty good stunt guy to keep the lids cracked at my house...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>large onions</ingredient_name>
+			<preparation>peeled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sunflower or olive oil or a mix thereof</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper </ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 slices</quantity>
+			<ingredient_name>French bread</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2-2 oz</quantity>
+			<ingredient_name>Gruyere or cheddar cheese</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Quarter onions before rendering them into 1/4" pieces.  Heat oil and butter together in a heavy saucepan.  Fry the onions briskly for a few minutes while stirring constantly before reducing the heat and cooking gently for 45-60 minutes.  As the onions begin to turn in color they will need more requent stirring. 
+
+When the onions are mahogany brown, add the stock and a bit of  salt and peper.  Simmer partly covered(?) for 30 minutes and season to taste.  
+
+Toast the french bread under a preheated broiler.  Serve broth in ovenproof bowls and top with a piece of bread and a mound of cheese on each.  Return to broiler until cheese is golden brown.</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>152</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Classic_French_Onion_Soup</safe_name>
+</recipe>

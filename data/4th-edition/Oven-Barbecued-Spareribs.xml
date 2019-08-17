@@ -1,0 +1,75 @@
+<recipe>
+	<name>Oven Barbecued Spareribs</name>
+	<notes>From notes of 11/12/2008 -- "Good times here.  The ribs come out amazingly tender like little pot roasts -- the sauce is probably applicable there as well.  Those not opposed to unseemly gnawing an easily separate meat from bone and so forth. 
+
+An interesting mashup as always from the Senshin Busshist Church. This is a differnt tradtion from Western BBQ but there are some cheerful similarities. </notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 lb</quantity>
+			<ingredient_name>spareribs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>catsup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cup</quantity>
+			<ingredient_name>cider or water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>chili powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>generous dash</quantity>
+			<ingredient_name>Tabasco</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>sliced or grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>dry mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Separate spareribs and place meatier side up in a large baking pan.  Roast in 450F oven for 30 minutes and drain fat.  Mix other ingredients and pour over ribs.  Cook an additional 1 hour at 350F</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<source_name><![CDATA[ From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Toshiko Hirashima & Sumi Unno]]></source_name>
+	<source_page>37</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/03/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Oven_Barbecued_Spareribs</safe_name>
+</recipe>

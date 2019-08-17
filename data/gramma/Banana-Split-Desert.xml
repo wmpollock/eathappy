@@ -1,0 +1,84 @@
+<recipe>
+  <name>Banana Split Desert</name>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**CRUST</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>Graham cracker crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>melted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**PIE</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 box</quantity>
+      <ingredient_name>powdered sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 sticks</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>melted*</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>bananas</ingredient_name>
+      <preparation>sliced and dipped in lemon juice#</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>strawberries</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>nuts</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>whipped cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Crust:  Mix ingredients in a bowl.  Put in 9x13 pan.  Put in refrigerator to cool while making filling.
+
+Filling: Beat together powdered sugar, butter and eggs until smooth and creamy.
+
+Place a layer of sliced bananas on crust then a layer of filling, then a layer of crushed pineapple, a layer of sliced strawberries.  Top with chipped cream them sprinkle with chopped nuts & Graham cracker crumbs.
+
+NOTE:  While most of the recipes in this collection are kept as true to the original as possible, some notes on this recipe are required.  * - The original recipe lists this as "melted", though "softened" is probably more correct.  Additionally, a modern reference recipe omits the eggs and uses instead 8 oz. of cream cheese.  # -- the measurement here is from the reference recipe and may be a bit overkill given the use of a strawberry layer.]]></preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0008</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/18/2005</cdate>
+  <safe_name>Banana_Split_Desert</safe_name>
+</recipe>

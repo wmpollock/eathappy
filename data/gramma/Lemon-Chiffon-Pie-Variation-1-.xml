@@ -1,0 +1,72 @@
+<recipe>
+  <name>Lemon Chiffon Pie (Variation 1)</name>
+  <ingredients>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>separated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>juice from 1 large lemon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>rind from one large lemon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pkg</quantity>
+      <ingredient_name>lemon jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>additional 1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>whipped cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>strawberry</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together 4 egg yolks, sugar, lemon juice and rind and cook until thickened in double boiler.  Add 1/2 pkg lemon jello dissolved in 1 cup boiling water.  
+
+Place in refrigerator until it starts to set.
+
+Add 4 egg whites beaten into 1/2 cup sugar and pinch salt.
+
+Pour into baked pie shell.  Top with whipped cream and a strawberry.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>50s Goodness</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_page>52-53</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/13/2006</cdate>
+  <mdate>03/13/2006</mdate>
+  <safe_name>Lemon_Chiffon_Pie_Variation_1_</safe_name>
+</recipe>

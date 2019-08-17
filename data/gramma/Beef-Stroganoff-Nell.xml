@@ -1,0 +1,92 @@
+<recipe>
+  <name>Beef Stroganoff - Nell</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 1/2 lb</quantity>
+      <ingredient_name>round steak</ingredient_name>
+      <preparation>cut into 1/2" strips</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>salad oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sherry</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>cut</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cup</quantity>
+      <ingredient_name>sliced mushrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>consume</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 carton</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can </quantity>
+      <ingredient_name>tomato paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 </quantity>
+      <ingredient_name>bay leaf</ingredient_name>
+      <preparation>crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>accent</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown meat in oil.  Put in casserole.  Add salt, pepper and sherry.  Saute onions in drippings until golden brown. Mix together paste, consume and flour.  Add bay leaf, garlic and accent.  Mix and pour over meat.  350F for 1 hour or until meat is tender.  Stir in sour cream when ready to serve.  Serve over rice.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0070-0071</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2016-02-09</mdate>
+  <user>billp</user>
+</recipe>

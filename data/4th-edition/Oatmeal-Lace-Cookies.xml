@@ -1,0 +1,62 @@
+<recipe>
+	<name>Oatmeal Lace Cookies</name>
+	<yield_count>4</yield_count>
+	<yield_measure>dozen?</yield_measure>
+	<notes>These were well received when I made this for the Moore's '04 Holiday Party.
+
+Needs research:  I've had better.  Try Cookie Book, etc.
+</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 1/2 cup</quantity>
+			<ingredient_name>rolled oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large eggs</ingredient_name>
+			<preparation>separated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation>packed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 350 degrees.  Mix together oats, baking powder and salt; set aside.  Beat egg whites until fluffy (But not to peaks).  Beat yolks into sugar.  Fold in whites, melted butter and vanilla.  With spoon, stir in rolled oats mixture.
+
+Grease cookie sheets.  Drop batter by half tablespoonfuls onto cookie sheets.  Smooth out lightly with back of spoon.  Do not crowd cookies. Bake until lightly browned, about 10 minutes.  Remove from baking sheets immediately.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<source_name>"Family Favorites", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Lynn Faina.</source_name>
+	<source_page>57</source_page>
+	<source_date>1987</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/10/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Oatmeal_Lace_Cookies</safe_name>
+</recipe>

@@ -1,0 +1,42 @@
+<recipe>
+  <name>Margarita (Mascilla)</name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>6 oz</quantity>
+      <ingredient_name>can frozen limeade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>tequila</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 can</quantity>
+      <ingredient_name>triple sec</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>ice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 jigger</quantity>
+      <ingredient_name>Grand Mariner</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Blend all ingredients.  Rim glass with lime and salt.</preparation>
+  <primary_category>Beverages</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Mascilla</source_name>
+  <source_page>54</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/13/2006</cdate>
+  <mdate>03/13/2006</mdate>
+  <safe_name>Margarita_Mascilla_</safe_name>
+</recipe>

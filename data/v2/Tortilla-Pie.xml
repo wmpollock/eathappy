@@ -1,0 +1,63 @@
+<recipe>
+  <name>Tortilla Pie</name>
+  <yield_measure>Servings</yield_measure>
+  <notes>I had bad recollections about hard, rubbery tortillas with this recipe but I found the recipe de-lish when I finally found the nerve to try it.  I'm not quick to rate something the first time I've made it as a "Favorite", but we're reheating leftovers of it tonight...</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>hamburger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbsp(-ish)</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>tomato sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>nibblets corn</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>tortillas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>cheddar cheese</ingredient_name>
+      <preparation>grated</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown hamburger and onion together in skillet.  Combine other ingredients (except olives, tortillas and cheese) with meat.  Arrange a layer of tortillas on the bottom of casserole.  Put half of the sauce in a layer and top with chopped olives and grated cheese.  Next put in another layer of tortillas and repeat as above.  Bake at 325F for 30 minutes.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys>
+    <secondary_category>70s Flashback</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categorys>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/03/2005</cdate>
+  <mdate>02/02/2005</mdate>
+  <safe_name>Tortilla_Pie</safe_name>
+</recipe>

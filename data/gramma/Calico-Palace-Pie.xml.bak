@@ -1,0 +1,72 @@
+<recipe>
+	<name>Calico Palace Pie</name>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Crust</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>egg whites</ingredient_name>
+			<preparation>beaten stiff</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>14</quantity>
+			<ingredient_name>soda crackers</ingredient_name>
+			<preparation>grated fine</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Filling</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>whipping cream</ingredient_name>
+			<preparation>whipped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>10oz</quantity>
+			<ingredient_name>rasberries or strawberries</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbsp</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Crust: Beat egg whites stiff.  Fold in sugar and vanilla, then cracker crumbs, baking poder and nuts.  Grease 9" pie tin.  Fill with batter and backe 325F for 30 minutes.
+
+Filling: Fold berries into whipped cream.  Add powdered sugar.  Spread on top of cooked crust.  Refrigerate for at least 4 hours.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Mel Waters</source_name>
+	<source_page>0062</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/12/2009</cdate>
+	<safe_name>Calico_Palace_Pie</safe_name>
+</recipe>

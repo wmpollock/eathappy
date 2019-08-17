@@ -1,0 +1,64 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Cream_Of_Greens_Soup</safe_name>
+  <primary_category>Soup</primary_category>
+  <preparation>Trim the stem ends of the chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.
+
+Saute onions in olive oil until softened.  Add the potatoes and stock and bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.
+
+Add the sour cream, reheat gently and season to taste.  </preparation>
+  <yield_count>8</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Cream Of Greens Soup</name>
+  <secondary_categories>
+    <secondary_categorie>Vegetables</secondary_categorie>
+  </secondary_categories>
+  <source_date>14 May 2003</source_date>
+  <source_name>San Francisco Chronicle</source_name>
+  <notes>Originally  this recipe called for 6-8 slices of bacon to be cooked first in the  pan, using the rendered oil to saute the onions and the cooked bacon as a serving-time garnish, but I didn't find it added much to the recipe other than the horrible knowledge that one had added 8 slices of bacon unnecessarily.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>green chard</ingredient_name>
+      <quantity>1 large bunch</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onions or leeks</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>olive oil</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>potatoes</ingredient_name>
+      <quantity>3 large</quantity>
+      <preparation>peeled and cubed 1/2 inch</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken stock</ingredient_name>
+      <quantity>1 6 cup can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vegetable stock</ingredient_name>
+      <quantity>1 cup can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sour cream</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <quantity/>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

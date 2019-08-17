@@ -1,0 +1,54 @@
+<recipe>
+	<name>Pico de Gallo</name>
+	<yield_count>6</yield_count>
+	<yield_measure>servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1 Lb</quantity>
+			<ingredient_name>ripe tomatoes</ingredient_name>
+			<preparation>seeded and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>chopped onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>chopped cilantro</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>jalepenos</ingredient_name>
+			<preparation>seeded and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>lime juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine ingredients.  Mixture can be refrigerated for up to 3 days.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"Healthy Latino Recipes", Champions for Change, Public Health Institute</source_name>
+	<source_date>2008</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/09/2009</cdate>
+	<user>billp</user>
+	<safe_name>Pico_de_Gallo</safe_name>
+</recipe>

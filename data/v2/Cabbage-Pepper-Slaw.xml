@@ -1,0 +1,66 @@
+<recipe>
+  <source_page>9</source_page>
+  <safe_name>Cabbage_Pepper_Slaw</safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <preparation>Add other ingredients to prepared vegetables and toss.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>12/30/2004</cdate>
+  <prep_time></prep_time>
+  <name>Cabbage-Pepper Slaw</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Sets Horiba</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>cabbage</ingredient_name>
+      <quantity>4 cup</quantity>
+      <preparation>shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>green pepper</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>celery seed</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>wine vinegar</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>dash of pepper</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>yellow mustard</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salad dressing</ingredient_name>
+      <quantity>3/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

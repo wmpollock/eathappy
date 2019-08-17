@@ -1,0 +1,103 @@
+<recipe>
+	<name>Spring Rolls</name>
+	<yield_count>20</yield_count>
+	<yield_measure>rolls</yield_measure>
+	<notes>Needs Research: beets seem a bit untraditional.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Filling</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 oz</quantity>
+			<ingredient_name>cellophane noodles</ingredient_name>
+			<preparation>cooked per package</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>bean sprouts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 carrots</quantity>
+			<ingredient_name>julienned</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>carrots</ingredient_name>
+			<preparation>julienned</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large beet</ingredient_name>
+			<preparation>julienned</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>fresh red chili</ingredient_name>
+			<preparation>cut into disks</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 handfulls</quantity>
+			<ingredient_name>fresh cilantro</ingredient_name>
+			<preparation>hand torn</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>chopped unsalted peanuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>sesame oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>lime</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Other Ingredients</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>boiling water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>20</quantity>
+			<ingredient_name>8" round rice paper wrappers</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>40</quantity>
+			<ingredient_name>mint leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Filling: toss all ingredients until well mixed.
+
+Assembly: Pour boiling water into a shallow container and immerse each wrapper for ten seconds to soften before placing on a moist towel.  Stuff with "less filling than you think you should" and roll as a burrito, sticking two mint leaves within the rolled layers.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Tyler Florence - Food Network</source_name>
+	<source_page>http://www.foodnetwork.com/recipes/tyler-florence/summer-rolls-with-sweet-chili-dipping-sauce-recipe/index.html</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/09/2009</cdate>
+	<user>billp</user>
+	<safe_name>Spring_Rolls</safe_name>
+</recipe>

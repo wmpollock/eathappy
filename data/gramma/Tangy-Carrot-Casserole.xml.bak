@@ -1,0 +1,68 @@
+<recipe>
+  <name>Tangy Carrot Casserole</name>
+  <notes>This is one of the few prepared cards in my Grandmother's collection, though no publisher is indicated.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pound</quantity>
+      <ingredient_name>carrots</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried sweet basil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium onion</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>butter or margarine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>prepared mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash</quantity>
+      <ingredient_name>depper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pound</quantity>
+      <ingredient_name>cheddar cheese</ingredient_name>
+      <preparation>grated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>croutons</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Slice carrots diagonally.  Add basil and cook in salted water until tender.  Drain.
+
+Saute onion in butter.  Mix flour, salt, mustard, pepper and milk; add to onion and cook, stirring constnatly, over medium heat until thick.
+
+Place a layer of carrots in a casserole.  Cover with grated cheese.  Alternate layers of carrots and cheese until al used.  Pour sauce over top.  Sprinkle with croutons.  Bake at 350 degrees 15 minutes.</preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0017-0018</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>Tangy_Carrot_Casserole</safe_name>
+</recipe>

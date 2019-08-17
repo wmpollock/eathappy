@@ -1,0 +1,74 @@
+<recipe>
+	<name>Mustard Pickles</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 quart</quantity>
+			<ingredient_name>large cucumbers</ingredient_name>
+			<preparation>quartered</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 quart</quantity>
+			<ingredient_name>small cucumbers</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 quart</quantity>
+			<ingredient_name>button onions</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>cauliflower</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>**SAUCE</quantity>
+			<ingredient_name></ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 small Tbl*</quantity>
+			<ingredient_name>mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>tumeric</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 quarts</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Stand vegetables overnight in strong salt water.
+
+Wet flour and mustard which have been sifted with sugar and tumeric with small amount of vinegar and rub to a smooth paste.  Add rest of vinegar and cook until smooth being very careful not to burn.  Add pickles and heat thoroughly.
+
+* -- it should be noted that "small tablespoon", as written in the book could very well mean "spoon from the table", apparently an issue with older recipes.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Choice Recipes Edited and Complied by Members of the Eastern Star of Sacramento, Mrs. Potter contributor</source_name>
+	<source_page>60</source_page>
+	<source_date>1928</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/10/2006</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Mustard_Pickles</safe_name>
+</recipe>

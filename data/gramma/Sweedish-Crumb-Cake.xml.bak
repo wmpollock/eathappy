@@ -1,0 +1,55 @@
+<recipe>
+  <name>Sweedish Crumb Cake</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>quick oats</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>margarine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>jam</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Blend well with hands or pastry cutter.
+
+Spread 2/3 or mixture on greased 9x 13 pan, pressing down firmly.
+
+Spread over this 1/2 pint of jam and nuts and voer with remaining mixture.
+
+Bake 30 minutes in 350F oven if aluminum of 325F if glass is used.  Cut when cool.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Mr. Matthews</source_name>
+  <source_page>32</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/04/2005</cdate>
+  <safe_name>Sweedish_Crumb_Cake</safe_name>
+</recipe>

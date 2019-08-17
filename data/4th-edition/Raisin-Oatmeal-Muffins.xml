@@ -1,0 +1,69 @@
+<recipe>
+	<name>Raisin Oatmeal Muffins</name>
+	<yield_count>12</yield_count>
+	<yield_measure>muffins</yield_measure>
+	<notes>In my book, raisin+oatmeal = crazy delicious.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>old fashioned oats</ingredient_name>
+			<preparation>uncooked</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/3 cups</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation>firmly packed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg white</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>raisins</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Prepare oven to 400F and line muffin tin with paper cups or shortening.  Combine oats, flour, cinnamon, baking powder and baking soda.  Mix in milk, brown sugar, oil and egg white before adding raisins.  Mix until ingredients are moist.  Fill cups and bake 18-20 minutes.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ralph's Grocery brand Old Fashioned Oats</source_name>
+	<source_date>2003?</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/06/2009</cdate>
+	<safe_name>Raisin_Oatmeal_Muffins</safe_name>
+</recipe>

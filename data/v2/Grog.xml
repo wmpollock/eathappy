@@ -1,0 +1,49 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Grog</safe_name>
+  <primary_category>Beverages</primary_category>
+  <preparation>The simplest preparation is to pour 3/4 mug's worth of water, the lemon juice and sugar into a microwave-safe mug and heat in the microwave oven until near-boiling, then add the rum on top. This ensures that the restorative value of the alcohol is not burned off.
+
+Those who happen to have a tea kettle are encouraged to change the order of ingredients to be added: sugar first, lemon followed by rum with the hot water on top of that.
+
+Stir briskly.
+
+At some unknown point at the Golden Eagle House we started buying our way through the liquor department and came across "Redrum", a powerful rum-and-fruit fermentation offset nicely by lime juice and ever since the "official House recipe".</preparation>
+  <yield_count>1</yield_count>
+  <yield_measure>mug</yield_measure>
+  <cdate>12/29/2004</cdate>
+  <prep_time>5-10 minutes</prep_time>
+  <name>Grog</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Made For Butter</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>Unknown:  original inspiration believed to be from either "Mr. Boston's" or else "Trader Vic's Bartender's Guide"</source_name>
+  <notes>While we don't have the biting cold of what one would consider a "real" winter, we do suffer a bit of the deep, penetrating fog now and again here in the central valley.  Back in my college days I found that this was a heavenly treat both on nights when I could use some warming as well as some sound sleep.
+
+As legend has it, grog originated as a drink in the days of the sailing ships, where the ship's surgeon wanted to ensure everyone got a proper dose of vitamin C and, well, since they had to drink their rum portion in *some* way.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>3/4 mug</quantity>
+      <preparation>boiling</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemon or lime</ingredient_name>
+      <quantity>1/2</quantity>
+      <preparation>juiced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>rum</ingredient_name>
+      <quantity>2 oz</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/09/2005</mdate>
+</recipe>

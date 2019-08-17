@@ -1,0 +1,54 @@
+<recipe>
+	<name>Fresh Strawberry Ice Cream</name>
+	<notes>Recipe notes peach ice cream could be obtained by substituting an equal measure of peaches.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>ripe strawberries</ingredient_name>
+			<preparation>stemmed and sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>feshly squeezed lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cups</quantity>
+			<ingredient_name>whole milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 2/4 cups</quantity>
+			<ingredient_name>heavy cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>pure vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine the strawberries with the lemon juice and 1/2 cup of sugar in a small bowl.  Stir gently and alow the strawberries to soak for two hours.  Strain the beries, reserving the huice.  Mash or puree half the berries.
+
+Use a mixer on low speed to combine the mlilka nd remaning 1 cup of sugar until the sugar is dissolved.  Stir in the heavy cream, reserved strawbery juice, mashed strawberries and vanilla.
+
+Add the mixture to the machine and let mix until thickened, 20 to 25 minutes. Five minutes before the mixing is completed ad the reserved sliced stawberries and let mix in.  Serve soft or carton up and let ripen in freezer for two hours.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Ice Cream</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Peaches</secondary_category>
+		<secondary_category>Strawberries</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Fresh_Strawberry_Ice_Cream</safe_name>
+</recipe>

@@ -1,0 +1,104 @@
+<recipe>
+  <name>Tucson Meat Pie</name>
+  <safe_name>Tucson_Meat_Pie</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>This recipe book gets crazy with the variations, such as adding a #2 can of corn kernels or black eyed peas or butter beans or 1 package lima beans or frozen carrots or...
+
+A paper-clipped entry.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 lbs</quantity>
+      <ingredient_name>hamburger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 </quantity>
+      <ingredient_name>large pepper</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 8oz can</quantity>
+      <ingredient_name>tomato sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>sweet basil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>Accent (MSG)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Biscuit Topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>Bisquick</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>melted butter or margraine.</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Slowly saute hamburger in the olive oil until the meat is evenly light brown.  Add the onion and the gren pepper to the pan.  Add the tomato sauce and refill the sauce can with water and add to pan.  Add salt, pepper, chili powder, sweet basil and Accent.  Simmer 15 minutes.  Put mixture in a casserole with enough room to add biscuit topping.
+
+Biscuit topping: Mix the milk and the Bisquick and knead until smooth and shiny.  Cut regular shapes (disks, squares, etc) out of 2" dough.  Lay in evenly over stew.
+
+Bake at 425F forn 30 minutes or until biscuits are golden </preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Beef</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>"The New Ground Beef Cookbook", Alpha Beta edition</source_name>
+  <source_page>83</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>01/05/2011</mdate>
+  <user>billp</user>
+</recipe>

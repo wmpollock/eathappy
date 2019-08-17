@@ -1,0 +1,56 @@
+<recipe>
+  <name>Italian Meat Loaf</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 lb</quantity>
+      <ingredient_name>ground chuck</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cans</quantity>
+      <ingredient_name>tomato sauce*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>bread crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>oregano</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>grated mozarella cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Mix all ingredients except 1 can sauce & grated cheese.  Roll in rectangle.  Spread cheese over top and roll to form loaf.  Bake in loaf pan 350F 1/2 hour.  Put other can of sauce over meat and bake another 1/2 hour.
+
+* -- The original recipe appears to say "tomato sauce with cheese", something I've never heard of but perhaps was not paying appropriate attention to in the food aisle or else has dissappeared into the realm of charming grandmothers.]]></preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Jane Schuller</source_name>
+  <source_page>44</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/10/2006</cdate>
+  <safe_name>Italian_Meat_Loaf</safe_name>
+</recipe>

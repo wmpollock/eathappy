@@ -1,0 +1,58 @@
+<recipe>
+	<name>Apple Merengue</name>
+	<notes>Whoa!  -Apples-?!?</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 tbsp</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>tart apples</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Separate 2 eggs and beat whites.  To yolks add 3/4 cup sugar, 5 tbl flour, 1/2 tsp baking powder, 1/4 tsp salt, 1/2 cup chopped nuts and 1 cup chopped tart apple.
+
+Add beaten egg whites.  Bake in 8"x8" buttered cake pan for 40 minutes at 325F.  Serve with whipped cream.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>**Needs review</secondary_category>
+		<secondary_category>Apples</secondary_category>
+		<secondary_category>Inspires Curiosity</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Betty Lilley</source_name>
+	<source_page>card 3</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Apple_Merengue</safe_name>
+</recipe>

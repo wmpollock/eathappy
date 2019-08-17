@@ -1,0 +1,68 @@
+<recipe>
+  <name>Lamb Curry</name>
+  <safe_name>Lamb_Curry</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>This may be closest described as "English Curry", an appropriation which shares some ingredients but is generally simpler than its Asian counterparts.  This was a staple food my crowing up.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>margarine or butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 large</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 tsp</quantity>
+      <ingredient_name>curry powder</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>13 oz can</quantity>
+      <ingredient_name>chicken broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>light cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2-2 lbs</quantity>
+      <ingredient_name>lamb</ingredient_name>
+      <preparation>cubed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a saucepan cook the lamb and reserve.  In the same or another saucepan. melt butter and saute onion, garlic and curry until onions are soft.  Gradually stir in flour.  Mix in the chicken broth and light cream.  Stir over low heat until sauce bubbles and thickens to desired consistency.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Indian (BAWM)</secondary_category>
+    <secondary_category>Curry</secondary_category>
+    <secondary_category>Lamb</secondary_category>
+    <secondary_category>Asst'd Comfort Food</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/27/2009</cdate>
+  <mdate>10/28/2010</mdate>
+  <user>billp</user>
+</recipe>

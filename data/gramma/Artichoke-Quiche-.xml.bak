@@ -1,0 +1,74 @@
+<recipe>
+	<name>Artichoke "Quiche"</name>
+	<ingredients>
+		<ingredient>
+			<quantity>2 jars</quantity>
+			<ingredient_name>marinated artichokes</ingredient_name>
+			<preparation>chopped fine</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small onion</ingredient_name>
+			<preparation>diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>sharp cheddar cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>oregano</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>tabasco</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>breadcrumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tbl</quantity>
+			<ingredient_name>parsley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Saute onion in liquid saved from one jar of artichokes.  Beat eggs, add seasonings, mix with other ingredients.  Bake 30 minutes in 375 degree oven in greased 7x11 pan.
+
+Cut in squared -- serve hot or cold.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>**Needs review</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Lorianne? Nolan</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Artichoke_Quiche_</safe_name>
+</recipe>

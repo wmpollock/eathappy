@@ -1,0 +1,47 @@
+<recipe>
+	<name>Yorkshire Pudding</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>A long history of "YP" in my family, allegedly dating back to my never-met English grampa.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>shortening</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Beat mixture and let stand for 1/2 hour.  Heat 13x9" glass dish in 400F oven until hot, remove from oven and add Crisco or suet and wait for it to render into oil.  Re-beat the dough mixture and pour into still-hot glass dish. Bake for 30-45 minutes.  Use 1/4 cup Crisco.  Make sure ingredients are room temperature.  Glass dish should be already hot before putting batter in.
+
+The original gramma recipe calls for suet at 1/4 cup and I recall it makes a somewhat livelier dish than the Crisco-enabled one but suet is mighty hard to find in 21st century California and probably isn't all that good for you anyways.  Power to you if you can find it.
+
+My good friend Lori asked after my first-ever attempt at this at Pollock Christmas '04 whether I'd made it in muffin tins for individual servings and I must say that the times I've had it served this way I've enjoyed it greatly.  I'd assume you'd want something on the order of 1 Tbl shortening per tin or so.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<source_name>Gum (attributed)</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/29/2004</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Yorkshire_Pudding</safe_name>
+</recipe>

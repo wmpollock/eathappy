@@ -1,0 +1,88 @@
+<recipe>
+  <name>Eggs Benedict light</name>
+  <safe_name>Eggs_Benedict_light</safe_name>
+  <yield_count>2</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>For how to poach eggs, search sunset.com for "perfect poached eggs"</notes>
+  <prep_time>15 min</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>large eggs</ingredient_name>
+      <preparation>poached</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>thin slices Canadian bacon</ingredient_name>
+      <preparation>browned</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>whole-wheat English muffins</ingredient_name>
+      <preparation>split and toasted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>SAUCE</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>low-fat Greek yogurt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large egg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbsp</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>GARNISH</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>fresh ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Melt butter in a small saucepan over low heat. Whisk remaining sauce ingredients in a small bowl. Gradually whisk yogurt mixture into butter, heating just until warmed, 25 seconds (if overcooked, sauce will curdle.)
+Assemble by topping each muffin half with a slice of bacon and an egg. Pour some sauce on top and serve extra sauce on the side. Add pepper and parsley to taste.</preparation>
+  <primary_category>Breakfast</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Sunset Magazine</source_name>
+  <source_page>67</source_page>
+  <source_date>Jan 2011</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/28/2011</cdate>
+  <user>hilaryp</user>
+</recipe>

@@ -1,0 +1,27 @@
+<recipe>
+  <name>Leah's Cake</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>fruit cocktail</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 box</quantity>
+      <ingredient_name>Jiffy cake mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Bake at 350F
+
+When bubbling drizzle melted butter over.
+
+Or make crumb topping of butter and some of cake mix</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0027</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>Leahs_Cake</safe_name>
+</recipe>

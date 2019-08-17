@@ -1,0 +1,78 @@
+<recipe>
+  <name>Bacardi Rum Cake Nell</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>chopped nuts, walnuts or pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>yellow cake mix*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>instant pudding mix*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>cold water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>cream sherry</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Glaze</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 or 1/8 lb</quantity>
+      <ingredient_name>margarine (1/2 cube)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>rum</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Grease and flour cake pan.  Sprinkle nuts on bottom of pan, pour batter over nuts.  Bake 1 hour at 325F.
+
+Glaze: Mix together margarine, water and rum and boil to a light syrup -- 4 minutes.  Add 1/2 cup rum.  Punch holes in cake.  Drizzle glaze over it.
+
+[* -- Its exceptionally hard these days to find yellow cake mix without the pudding included as part of the mix.  Assuming that's what you'll find, you can exclude the additional pudding]</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Nell Boylin</source_name>
+  <source_page>0038-0039</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <safe_name>Bacardi_Rum_Cake_Nell</safe_name>
+</recipe>

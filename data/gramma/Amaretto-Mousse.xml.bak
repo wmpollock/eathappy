@@ -1,0 +1,58 @@
+<recipe>
+  <name>Amaretto Mousse</name>
+  <ingredients>
+    <ingredient>
+      <quantity>24</quantity>
+      <ingredient_name>Vanilla Oreo Cookies</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>melted margerine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>knox Gelatine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>cold milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 eggs</quantity>
+      <ingredient_name>separated</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation>whipped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>Amaretto</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine crushed cookies with margarine.  Pub in the bottom of a spring form pan.  Chill.  Soften gelatine in cold milk.  Soften gelatine in cold milk.  Dissolve over hot water.  Beat eggs [yolks] with sugar until thick and light.  Add Amaretto.
+
+Beat egg whites until stuff but _not_ dry.  Fold in yolk mixture then.
+
+</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Margaret Nutt</source_name>
+  <source_page>0005</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/02/2005</cdate>
+  <safe_name>Amaretto_Mousse</safe_name>
+</recipe>

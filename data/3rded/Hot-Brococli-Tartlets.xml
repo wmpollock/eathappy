@@ -1,0 +1,98 @@
+<recipe>
+	<name>Hot Brococli Tartlets</name>
+	<notes>Needs research: butter into Tbl, if possible.  Rare usage, even if we -are- baking.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>** Pastry</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 oz</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>pinch</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 oz</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 </quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>** Filling</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>leek</ingredient_name>
+			<preparation>finely sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 oz</quantity>
+			<ingredient_name>brocoli</ingredient_name>
+			<preparation>broken into florets</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 oz</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 oz</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 oz</quantity>
+			<ingredient_name>cheddar cheese</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>fresh chevril</ingredient_name>
+			<preparation>to garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Pastry - mix the flour and salt together in a large bowl.  Mix in the butter and egg to form a dough, adding some cool water if needed.  Knead lightly and cover with plastic wrap before refrigerating for an hour.
+
+Let the dough return to room temperature for 10 minutes and then roll out on a floured surface.  Line 8-10 deep muffin pans.  Prick the bases with a fork and bake at 375F for 10-15 minutes or until the pastry is lightly browned.  
+
+HEat the oil in a small saucepan and sautee leek for 4-5 minutes before adding broccoli.  Strif fry an additional minute and then add a "little" water.  Cover and steam for 34 minutes until broccoli becomes a bit tender.
+
+Melt butter into a clean saucepan and stir in the flour, stirring constantly for a minte.  Slowly add milk and stir utnil smooth.  
+
+Add half the cheese and season with salt and pepper.
+
+Spoon leek and broccoli in each tartlet crust and spoon over with sauce.  Cover with remaining cheese and bake at 400F for 10 minutes.  Serve garnished with chevril.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Hot_Brococli_Tartlets</safe_name>
+</recipe>

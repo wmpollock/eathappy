@@ -1,0 +1,61 @@
+<recipe>
+	<name>Curried Vegetable Couscous</name>
+	<yield_count>4</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>Y'all know the spinach dip one by heart, I'm sure, but this was the other interesting sounding recipe on the back of the vegetable mix card.  (The hot artichoke one souned kind of interesting too, but I've got my reservations about hot mayonaise).</notes>
+	<prep_time>15 minutes</prep_time>
+	<ingredients>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 package</quantity>
+			<ingredient_name>Knorr Vegetable recipe mix</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>raisins or currants</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>curry powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>plain couscous</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>slivered almonds</ingredient_name>
+			<preparation>optional</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix water, vegetable soup powder, raisins, currants, curry powder and olive oil, and bring to a boil stirring frequently. Reduce heat to simmer and cover for two minutes.  Add couscous, remove from heat, re-cover and let stand for five minutes. 
+
+Fluff before serving and garnish with almonds</preparation>
+	<primary_category>Other</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Rice, Grains</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Knorr's vegetable soup (recipe) mix</source_name>
+	<source_date>Christmas 2005</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>04/13/2006</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Curried_Vegetable_Couscous</safe_name>
+</recipe>

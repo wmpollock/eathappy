@@ -1,0 +1,77 @@
+<recipe>
+	<name>Dicken's Wassail</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>I never had a chance to get into this, preferring mulled wine or spiced (and spiked) cider for my yuletide  inebriation needs.  Still -- Dickens, Wassail, how can you go wrong?</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>baking apples, cored</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 qts</quantity>
+			<ingredient_name>ale</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>ground cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>ground ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>nutmeg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 qt</quantity>
+			<ingredient_name>sherry</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>lemons</ingredient_name>
+			<preparation><![CDATA[juiced & peeled]]></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Put apples into a deep casserole.  Combine 1/4 cup sugar and the water in a saucepan; bring to boil.  
+
+Pour syrup over apples.  Cover casserole and bake at 350F 30 to 40 minutes or until apples are tender, basting occasionally.  
+
+Pour ale into a saucepan and heat on low heat until it foams.  
+
+Add spices, sherry and 1 1/2 cups sugar, lemon peel and lemon juice.  Heat, stirring until sugar is dissolved.  
+
+Remove from heat and allow to cool for 20 minutes. 
+
+Reheat mixture and pour through a double thickness of cheesecloth into a heat resistant punch bowl.  Float apples and serve, garnished with lemon peel.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/24/2009</cdate>
+	<user>billp</user>
+	<safe_name>Dickens_Wassail</safe_name>
+</recipe>

@@ -1,0 +1,83 @@
+<recipe>
+  <name>Doris' Hot Chicken Salad</name>
+  <safe_name>Doris_Hot_Chicken_Salad</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I found this a bit heavy for my taste.  It makes an awful lot.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>hard-boiled eggs</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>cooked chicken breast</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 10.8oz can</quantity>
+      <ingredient_name>condensed cream of chicken soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>diced celery</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small jar</quantity>
+      <ingredient_name>pimentos</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>slivered almonds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>cooked rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 tbl</quantity>
+      <ingredient_name>minced onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbl</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix all ingredients and place in a baking dish.  Bake at 350F for 20-25 minutes.</preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>"World Ag Expo Favorites", recipe contributed in memory of Doris Minyard</source_name>
+  <source_page>19</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2005</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

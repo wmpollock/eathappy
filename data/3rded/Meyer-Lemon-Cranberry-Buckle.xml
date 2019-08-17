@@ -1,0 +1,119 @@
+<recipe>
+  <name>Meyer Lemon-Cranberry Buckle</name>
+  <safe_name>Meyer_Lemon_Cranberry_Buckle</safe_name>
+  <yield_count>8-10</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>The buckle is a cake with lovely streusel topping.  Looks gorgeous.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup + 2 Tbl</quantity>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup + 2 Tbl</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 Tbl</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>cold</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Cake</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 3/4 cup</quantity>
+      <ingredient_name>all-pupose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>at room temperatore</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>Meyer lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>Meyer lemon</ingredient_name>
+      <preparation>zested</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>whole milk yogurt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>cranberries</ingredient_name>
+      <preparation>fresh or thawed</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat oven to 350F.  Butter 9" cake pan.
+
+Topping:  Combine flour, sugar and salt and rub in the butter by hand until the mixture becomes crumbly.  Refrigerate until needed.
+
+Cake:  Cream together butter and sugar before adding eggs one at a time.  Incorporate vanilla, lemon juice and zest, and yogurt.  Mix on low speed until ingredients are just combined and a bit lumpy.
+
+Evenly smooth batter into pan and evenly cover with struesel.  Bake until no longer jiggly, 55-65 minutes.  Cake will be moist and may not pass toothpick test.
+
+Let atand for 15 minutes before serving.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Meyer Lemon-Cranberry Buckle, The San Franscisco Chronicle</source_name>
+  <source_page>http://www.sfgate.com/food/recipes/detail/?p=detail&amp;rid=18948&amp;sorig=qs</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/23/2013</cdate>
+  <user>billp</user>
+</recipe>

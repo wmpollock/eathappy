@@ -1,0 +1,47 @@
+<recipe>
+  <name>Hawaiian Yogurt Muffins</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>Biscuit Mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 8oz carton</quantity>
+      <ingredient_name>apricot-pineapple or other flavor yogurt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>slightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>coconut</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine all ingredients in a bowl and fold together until thoroughly moistened but DO NOT BEAT.  Mixture will seem too dry at first, but resist adding more liquid.  Do not over mix.  Makes 11 muffins using a #20 scoop to fill creased muffin tins.  Bake 15 minutes at 350F.</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categorys>
+    <secondary_category>Bisquick</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Casa de los Ninos</source_name>
+  <source_page>54</source_page>
+  <source_date>4/82</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/13/2006</cdate>
+  <safe_name>Hawaiian_Yogurt_Muffins</safe_name>
+</recipe>

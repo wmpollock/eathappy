@@ -1,0 +1,69 @@
+<recipe>
+	<name>Sex In A Pan</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>Known in some circles as "Chocolate Pudding Desert", a favorite of my mom's that she'd often make to go alongside lasagna for  the camp-wide cookout at Almanor.
+
+Its a pretty quick build -- I managed to do it in under an hour for James and Molly's Memorial Day dinner '05 and didn't even have time to leave for the store until 4 and still made it in time for six.
+
+Its mighty creamy and makes a mighty big pan.  Good for large-scale company and full of good, road-safe ingredients.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 1/2 sticks</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg (8 oz)</quantity>
+			<ingredient_name>Philadelphia cream cheese</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>cool whip</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>instant vanilla pudding</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>instant chocolate pudding</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Melt margarine,  mix with flour and nuts.  Press into 13" x 9" pan. Bake at 350F for 20 minutes, cool.  Mix sugar and cream cheese.  Fold in Cool Whip and spread on top of pastry.  Mix pudding and milk and pour over cheese layer.  Put remainder of 12 oz container of Cool Whip on top and sprinkle more nuts on top of that.
+</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>70s Flashback</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/25/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Sex_In_A_Pan</safe_name>
+</recipe>

@@ -1,0 +1,70 @@
+<recipe>
+  <name>Macaroni Salad</name>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>small shell</ingredient_name>
+      <preparation>cooked 18 minutes</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>chopped celery</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>chopped parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>chopped stuffed olives (pimento)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>shrimp</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Dressing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>garlic wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>garlic salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Kathleen El--wl</source_name>
+  <source_page>48</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/12/2006</cdate>
+  <safe_name>Macaroni_Salad</safe_name>
+</recipe>

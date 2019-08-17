@@ -1,0 +1,65 @@
+<recipe>
+  <name>Orange Nut Bread</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large orange</ingredient_name>
+      <preparation>[juiced]</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>dates</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbl</quantity>
+      <ingredient_name>soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>[No preparation was included on the original.  It is assumed that one would make this as one would other breads:  mix all ingredients evenly and pour batter into a 9"x5"x3" loaf pan and bake at 350F for 50-60 minutes or until a toothpick inserted into the center pulls out cleanly.]</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Gretchen Christensen</source_name>
+  <source_page>0005</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/02/2005</cdate>
+  <mdate>07/02/2005</mdate>
+  <safe_name>Orange_Nut_Bread</safe_name>
+</recipe>

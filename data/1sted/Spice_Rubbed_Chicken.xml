@@ -1,0 +1,73 @@
+<recipe>
+  <notes>A tasty from my modern version of "The Joy Of Cooking".  The rub works pretty well on pork tenderloin  as well.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <unknown_1>02047</unknown_1>
+      <quantity>3/4 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dry Mustard</ingredient_name>
+      <quantity>3/4 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Fennel Seeds</ingredient_name>
+      <unknown_1>02018</unknown_1>
+      <quantity>1 1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ground Coriander</ingredient_name>
+      <quantity>1 1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ground Cinnamon</ingredient_name>
+      <unknown_1>02010</unknown_1>
+      <quantity>1/4 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ground Red Pepper</ingredient_name>
+      <unknown_1>02031</unknown_1>
+      <quantity>1/4 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Boneless And Skinless Chicken Breasts</ingredient_name>
+      <quantity>4</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Olive Oil</ingredient_name>
+      <unknown_1>04053</unknown_1>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Minced Cilantro</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Fresh Lemon Juice</ingredient_name>
+      <quantity>3 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic</ingredient_name>
+      <quantity>1 Small Clove</quantity>
+      <preparation>Minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <unknown_1>02047</unknown_1>
+      <quantity>Dash</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Spice-Rubbed Chicken</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>BBQ</category>
+    <category>BBQ</category>
+  </category>
+  <preparation><![CDATA[Mix together salt, mustard fennel, coriander, cinnamon and red pepper; crushing in the fennel seeds in a mortar & pestle or against the side of the bowl with a strong metal spoon. 
+
+Rinse and pat dry chicken breasts and evenly coat all sides with spice mixture.
+
+Grill chicken and prepare sauce:  mix olive oil, cilantro, lemon juice, garlic and a dash of salt in a small bowl.  Drizzle oil mixture over chicken just prior to serving.
+
+Olive oil mix may be made ahead of time and chilled -- the difference in temperatures between the oil and the chicken is rather pleasant.]]></preparation>
+</recipe>

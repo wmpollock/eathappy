@@ -1,0 +1,74 @@
+<recipe>
+  <name>Saucy Cocktail Meatballs</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pound</quantity>
+      <ingredient_name>ground beef</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tablespoon</quantity>
+      <ingredient_name>butter or margerine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tablespoon</quantity>
+      <ingredient_name>bread crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>Campbell's tomato soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 egg</quantity>
+      <ingredient_name>slightly beaten</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tablespoon</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp </quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cups</quantity>
+      <ingredient_name>finely chopped green pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 tsp</quantity>
+      <ingredient_name>Worchestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tablespoon</quantity>
+      <ingredient_name>prepared mustartd</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tablespoon</quantity>
+      <ingredient_name>prepared vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix beef, crumbs, egg, salt, sahpe into 50 meatballs, place in shallow baking pan, broil until browned turn once.  Drain on paper towel.  In saucepan add 2 tablespoon fat, cook pepper and onion until tender.  Stir in remaining ingredients.  Pour over meatballs.  Cover, bake at 350 oven for 20 minutes.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Betty Werre</source_name>
+  <source_page>00015</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/19/2005</cdate>
+  <safe_name>Saucy_Cocktail_Meatballs</safe_name>
+</recipe>

@@ -1,0 +1,65 @@
+<recipe>
+  <name>Sausage Seasoning</name>
+  <safe_name>Sausage_Seasoning</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I'm a fan of fresh turkey sausage patties but finding ones that have any flavor in the store is a non-starter.  After several months of tinkering around trying to concoct my own recipe I cracked open Joy and found their seasoning to be mighty tasty with a little tinkering.  The trimmings from a normally butchered set of spareribs makes some truly excellent ground pork suitable for grilling with this recipe</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 lbs</quantity>
+      <ingredient_name>ground pork or turkey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>coarsly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>dried sage</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp </quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried marjoram</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>dried savory or thyme</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>ground ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch or two</quantity>
+      <ingredient_name>ground red pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Place ground meat in a large bowl.  Combine dry ingredients and integrate into meat, tossing with a fork to ensure even coverage before forming patties.</preparation>
+  <primary_category>Breakfast</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+    <secondary_category>Turkey</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categories>
+  <source_name>Joy of Cooking</source_name>
+  <source_page>727</source_page>
+  <source_date>1997</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>10/31/2009</cdate>
+  <mdate>10/28/2010</mdate>
+  <user>billp</user>
+</recipe>

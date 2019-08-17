@@ -1,0 +1,63 @@
+<recipe>
+  <name>Pork Adobo</name>
+  <preparation>Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.</preparation>
+  <main_ingredient>Pork</main_ingredient>
+  <yield_count>7</yield_count>
+  <notes>I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using low  sodium soy sauce may  rectify this some.  
+
+Originally from the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Boneless Pork Or Pork Ribs</ingredient_name>
+      <quantity>1 Lb</quantity>
+      <preparation>Cut Into 1 1/2-2" Chunks</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Water</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Soy Sauce</ingredient_name>
+      <unknown_1>16123</unknown_1>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Vinegar</ingredient_name>
+      <unknown_1>02048</unknown_1>
+      <quantity>4 Tbsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic</ingredient_name>
+      <quantity>6 Cloves</quantity>
+      <preparation>Minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Peppercorns</ingredient_name>
+      <unknown_1>02030</unknown_1>
+      <quantity>10</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Bay Leaf</ingredient_name>
+      <unknown_1>02004</unknown_1>
+      <quantity>2</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>White Wine</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Lemon Juice</ingredient_name>
+      <unknown_1>09152</unknown_1>
+      <quantity>2 Tbsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <unknown_1>19335</unknown_1>
+      <quantity>1 Tbsp</quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Mexican</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

@@ -1,0 +1,60 @@
+<recipe>
+	<name>Rum-Baked Bananas</name>
+	<ingredients>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>bananas</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>orange</ingredient_name>
+			<preparation>juiced and rind grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>dark rum</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation>optional</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>generous pinch</quantity>
+			<ingredient_name>ground ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>grated nutmeg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Peel and slice bananas into four small ramekins.  Spoon orange juice and rum over bananas.  Sprinkle with the sugar, orange rind and spices.  Needs research: "Dot with butter".  
+
+Cover ramekins with foil and bake for 15min at 350F.
+
+Allow to cool slightly before serving with cream or yogurt, or maybe that ice cream stuff if you go that far.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Bananas</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Butter!</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>470</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Rum_Baked_Bananas</safe_name>
+</recipe>

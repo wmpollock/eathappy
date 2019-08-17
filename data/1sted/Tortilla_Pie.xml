@@ -1,0 +1,51 @@
+<recipe>
+  <main_ingredient>70s Flashback</main_ingredient>
+  <notes>**UNTRIED** 
+
+My mom would make up a few of these and freeze 'em in advance.  I remember at times the tortilla layer  kinda freaked me out but its a kind of fun oldschool casserole.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Hamburger</ingredient_name>
+      <quantity>1 Lb</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Onion, Diced</ingredient_name>
+      <quantity>1</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt And Pepper</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Chili Powder</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tomato Sauce</ingredient_name>
+      <quantity>2 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Nibblets Corn</ingredient_name>
+      <quantity>1 Small Can</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Olives</ingredient_name>
+      <quantity>1 Small Can</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tortillas</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Cheddar Cheese, Grated</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <name>Tortilla Pie</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Mexican</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Brown hamburger and onion together in skillet.  Combine other ingredients (except olives, tortillas and cheese) with meat.  Arrange a layer of tortillas on the bottom of casserole.  Put half of the sauce in a layer and top with chopped olives and grated cheese.  Next put in another layer of tortillas and repeat as above.  Bake at 325º for 30 minutes.</preparation>
+</recipe>

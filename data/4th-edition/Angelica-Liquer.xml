@@ -1,0 +1,61 @@
+<recipe>
+	<name>Angelica Liquer</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>fennel seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>anise seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>20</quantity>
+			<ingredient_name>corriander seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2-3</quantity>
+			<ingredient_name>cloves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>crystalized anglica stems</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>superfine sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>bottle vodka</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>cheesecloth</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Crush together fennel, anise, corriander seeds and cloves a bit.  Chop the angelica stems and mix with seeds in a large preserving jar.  Add the sugar and vodka and let sit someplace sunny for two weeks, swirling the mixture daily.
+
+Strain through a cheesecltoh into a sterilized bottle and seal.  Let set up for at least four months.  The final note is "drink in small quantities with a piece of angelica in each glass"</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>393</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Angelica_Liquer</safe_name>
+</recipe>

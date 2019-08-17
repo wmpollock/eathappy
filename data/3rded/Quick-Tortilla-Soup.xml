@@ -1,0 +1,52 @@
+<recipe>
+	<name>Quick Tortilla Soup</name>
+	<yield_count>6</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>A tasty little number.  I don't know if calling for "cooked chicken breast" fully qualifies as "quick", but whatev'.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 14 oz can</quantity>
+			<ingredient_name>black beans</ingredient_name>
+			<preparation>drained and rinsed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 cups</quantity>
+			<ingredient_name>unsalted chicken broth</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 ozs</quantity>
+			<ingredient_name>chicken breast</ingredient_name>
+			<preparation><![CDATA[cooked & cut into 1/2" cubes]]></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>frozen corn</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>fresh salsa</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 ozs</quantity>
+			<ingredient_name>tortilla chips</ingredient_name>
+			<preparation>roughly broken</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine beans and broth in a large pot, simmer and season.  Add chicken and corn.  Return soup to a simmer and cook gently until chicken is cooked through, about 7 minutes.
+
+Remove pot from heat and add 1 cup salsa -- add more salsa to taste. Simmer until hot.
+</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>Quickie</secondary_category>
+	</secondary_categorys>
+	<source_name> San Francisco Chronicle</source_name>
+	<source_date> 23 April 2003</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>10/31/2008</mdate>
+	<safe_name>Quick_Tortilla_Soup</safe_name>
+</recipe>

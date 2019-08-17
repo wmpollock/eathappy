@@ -1,0 +1,52 @@
+<recipe>
+	<name>Muesli Bars</name>
+	<notes>I'm 100% behind the Vegetarian cookbook authors when they say "make your own bars, brother". Their preparation lists a brief "oatmeal, barley and wheat flakes and nuts of your choice" as its primary guide to the complex world of muesli construction which is kind of weak sauce. I love this cookbook but detest some of the lazy steps that it takes which unecessarily cloud a kitchen under a bottle of, say "pumpkin pie spice" and not of its reagents which are probably also required to held in fresh quantities.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>museli</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 Tbl</quantity>
+			<ingredient_name>sunflower oil or substitute</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 Tbl</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>pumpkin pie spice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 egg</quantity>
+			<ingredient_name>beaten</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>dark brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine all ingredients and mix in a 7"x11" pan.  Level mixture and bake for 30-35 minutes or until  light brown at 325F. 
+
+Allow bars to cool slightly and scribe 12-16 pieces.  Allow to cool completely before breaking.  Needs research: The source says to turn it out on a wire rack after it is totally cool, which doesn't make much sense except to be fussy.  Maybe its not -quite- totally cool, so it'll come out easy.  Just cool enough to be totally safe, allright?</preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>470</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Muesli_Bars</safe_name>
+</recipe>

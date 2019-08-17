@@ -1,0 +1,84 @@
+<recipe>
+  <name>Tomato Shrimp Aspic Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 envelope</quantity>
+      <ingredient_name>unflavored gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>tomato soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 3-oz pkg</quantity>
+      <ingredient_name>lemon flavored gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>sweet pickle relish</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 stalks</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 1/2 oz can</quantity>
+      <ingredient_name>tiny shrimp</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>hard boiled eggs</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12</quantity>
+      <ingredient_name>stuffed olives</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>cold water</ingredient_name>
+      <preparation>for gelatin</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation>for gelatin</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Stir together unflavored gelatin + water.  Dissolve jello in hot tomato juice.  
+
+Arrange vegetables in bottom of dish.  Pour liquid over it.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>93-94</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-10</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

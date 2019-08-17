@@ -1,0 +1,59 @@
+<recipe>
+	<name>Guacamole Dressing</name>
+	<yield_count>8</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>So, like, I had this in my back pocket for a -long- time, believing it the whole while a damned -lie-.  It certainly could not be any good.
+
+Well, Hilary who usually will only politely consume my various experiments in dressing actually went back for SECONDS!  In the same sitting!</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>split</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>avocados</ingredient_name>
+			<preparation>peeled and sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>small onion</ingredient_name>
+			<preparation>finely diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 clove</quantity>
+			<ingredient_name>small tomato</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2-4 tsp</quantity>
+			<ingredient_name>diced green chiles (poblanos)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>mayonnaise</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Rub a bowl with the garlic and the mash avocados in engarlicked bowl.  Mix onion, tomato, chiles, salt and mayonnaise to a smooth, sauce-like consistency.  Chill and serve.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Mexican</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Lily Domoto</source_name>
+	<source_page>12</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/31/2004</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Guacamole_Dressing</safe_name>
+</recipe>

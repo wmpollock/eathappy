@@ -1,0 +1,65 @@
+<recipe>
+	<name>Blueberry Swirl Cheesecake</name>
+	<yield_count>16</yield_count>
+	<yield_measure>smallish pieces</yield_measure>
+	<notes>Blueberry anything is all right in my book.</notes>
+	<prep_time>15 minutes plus 45 minutes bake and 4+ hours cooling</prep_time>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>graham cracker crumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup, 3 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 lb (4x8oz pkgs)</quantity>
+			<ingredient_name>cream cheese</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>blueberries</ingredient_name>
+			<preparation>fresh or defrosted</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 325.  Combine crumbs, 3 Tbl sugar and butter and press firmly onto bottom of foil-lined 13x9" pan.  Bake for ten minutes and let cool.  Combine cream cheese, sugar and vanilla in an electric mixer until well blended.  Mix in sour cream and then eggs, one at a time at low speed until each addition is well blended.  Pour mixture over crust.  Puree the blueberries and pour in spoonfulls into the batter.  Cut pockets of blueberries into the batter a few times to create a marbelled effect.
+
+Bake for 45 minutes or until the center is almost set and refrigerate at least 4 hours before serving.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Philly-Brand Cream Cheese box</source_name>
+	<source_date>2007?</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Blueberry_Swirl_Cheesecake</safe_name>
+</recipe>

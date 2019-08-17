@@ -1,0 +1,67 @@
+<recipe>
+  <name>Dog Biscuits</name>
+  <safe_name>Dog_Biscuits</safe_name>
+  <yield_count>100</yield_count>
+  <yield_measure>biscuits</yield_measure>
+  <notes>This appears boosted from Schlegel Whitman's "Dog Parties", per the attribution.  I don't know exactly if Whitman is a dog nutritionist or has had one, um, "vet" this, but it sounds marginally doable. Liver powder, surely a work of evil, is said to be available from health and nutrition stores.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lbs</quantity>
+      <ingredient_name>white flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>wheat flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>cornmeal</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>rolled oats</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>liver powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>garlic powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>onion powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 gallon</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine dry ingredients.  In a mixer at medium speed, slowly add water to dry ingredients. Remove from bowl and allow to set for one hour before rolling out to 1/2" and forming with cookie cutters.  Bake at 400F for 20 minutes.</preparation>
+  <primary_category>Other</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Spirit Magaine</source_name>
+  <source_page>101</source_page>
+  <source_date>June 2010</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/02/2010</cdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,66 @@
+<recipe>
+  <name>Corned Beef &amp; Cabbage w/Apple Juice  </name>
+  <safe_name>Corned_Beef_Cabbage_w_Apple_Juice_</safe_name>
+  <yield_count>4-6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time>3-10 hours per method</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>corned beef brisket</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 gallon</quantity>
+      <ingredient_name>apple juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>prepared mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>peeled and sectioned</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8</quantity>
+      <ingredient_name>small red potatoes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 medium</quantity>
+      <ingredient_name>carrots</ingredient_name>
+      <preparation>peeled and sectioned</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 head</quantity>
+      <ingredient_name>cabbage</ingredient_name>
+      <preparation>sectioned</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Prepare either a large coverable stockpot or slow cooker.  If cooking on a slow cooker combine all ingredients and cook on high for 4-5 hours or on low for 8-10 hours.  
+
+If cooking on the stovetop bring meat, apple juice, brown sugar and mustard to a boil and reduce to simmer for 40 minutes per pound of meat.  Add vegetables at last 30 minutes.
+
+Serve with veg and measure of cooking fluid.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Beef</secondary_category>
+    <secondary_category>Buttermilk</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Barsotti's apple juice; "St. Patty's Day Recipe"</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/29/2013</cdate>
+  <user>billp</user>
+</recipe>

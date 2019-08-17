@@ -1,0 +1,62 @@
+<recipe>
+	<name>Mocha Toffee Ice Cream</name>
+	<yield_count>10</yield_count>
+	<yield_measure>1/2 cup servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>whole milk</ingredient_name>
+			<preparation>well chilled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>granulated sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>insttant espresso</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>unsweetened cocoa powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups </quantity>
+			<ingredient_name>heavy cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>toffee bits</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup </quantity>
+			<ingredient_name>mini chocolate morsels</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Whisk together milk, granulated sugar, espresso powder and cocoa until dissolved.  Stir in the heavy cream and vanilla.  Cover and refrigerate if not using immediately.
+
+Pour mix into ice cream maker and let mix 25-30 minutes until thickened.  Add toffee and mini cohcolate during the last five minutes of mixing.  Ice cream can be removed from mixer to an airtight container for two hours to ripen.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Cuisinart Frozen Yogurt Maker guide(?)</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<mdate>05/26/2009</mdate>
+	<user>billp</user>
+	<safe_name>Mocha_Toffee_Ice_Cream</safe_name>
+</recipe>

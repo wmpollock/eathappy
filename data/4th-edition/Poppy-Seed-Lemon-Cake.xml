@@ -1,0 +1,99 @@
+<recipe>
+	<name>Poppy Seed Lemon Cake</name>
+	<yield_measure>Servings</yield_measure>
+	<notes><![CDATA[I have a note here that says "25->(27) minutes".  I believe this is the results of my testing using this same recipe as a muffin recipe.  This, of course, Needs Research]]></notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 1/4 cups</quantity>
+			<ingredient_name>cake flour</ingredient_name>
+			<preparation>measured before sifting</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>big pinch</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>poppy seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>lemon extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>zest of 1/2 large lemon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>at room temperature</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cups</quantity>
+			<ingredient_name>superfine sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 ozs (1 stick)</quantity>
+			<ingredient_name>unsalted butter</ingredient_name>
+			<preparation>melted and cooled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>powdered sugar</ingredient_name>
+			<preparation>for dusting</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 325 degrees.  Sift together the flour, baking powder, baking soda and salt.  Stir in the poppy seeds.
+
+Combine the sour cream, lemon extract and lemon zest in a small bowl.
+
+By hand or using a stand mixer, beat the eggs until light and foamy. Add the sugar and beat again until light;  there should be no graininess from the sugar remaining.  Beat in the melted butter and oil.
+
+Beat in a quarter of the flour mixture then a third of the sour cream mixture.  Beat until just incorporated.  Repeat until all the flour and sour cream are used, ending with flour.  Do not over-beat.  If there are any streaks of flour left in the batter, do a final blending with a large rubber spatula.
+
+Evenly spray a bundt pan with baking spray.  Spoon the batter into the pan; smooth the top with a rubber spatula.  Sharply rap the pan on the counter several times to eliminate air bubbles.  Place in the lower third of the oven and bake until a cake tester inserted near the center of the cake ring comes out clean, 50 minutes to an hour.
+
+Place the pan on a rack to cool for ten minutes before loosening the cake from the pan.
+
+Cool completely then wrap tightly in plastic wrap and leave overnight at room temperature.  Do not refrigerate.
+
+Before serving, dust with powdered sugar.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<source_name> San Francisco Chronicle </source_name>
+	<source_date>16 April 2003</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Poppy_Seed_Lemon_Cake</safe_name>
+</recipe>

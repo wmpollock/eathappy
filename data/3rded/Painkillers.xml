@@ -1,0 +1,44 @@
+<recipe>
+	<name>Painkillers</name>
+	<notes>Dad Beck was famous for making this in large batches and for a long while it was considered something of a state secret.  I believe that these measures were largely relaxed by 2005 or so, written recipes being spotted "in the open" around the Bryan household a time or two with D.B. allowing them to be copied so long as the key ingredient is obscured.  It is reproduced here in the interests of its longevity.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name>creme de coconut</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name>oj</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name>pineapple juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 parts</quantity>
+			<ingredient_name>navy rum</ingredient_name>
+			<preparation>151 proof if available</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>nutmeg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix liquid ingredients, pour over ice and serve with a dashing of nutmeg.  Drink until pain goes away.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Dad Beck provided this recipe he obtained on a Carribean cruise.</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>08/03/2007</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Painkillers</safe_name>
+</recipe>

@@ -1,0 +1,63 @@
+<recipe>
+  <name>Brussels sprout and prosciutto skewers</name>
+  <safe_name>Brussels_sprout_and_prosciutto_skewers</safe_name>
+  <yield_count>24</yield_count>
+  <yield_measure>skewers</yield_measure>
+  <notes>Brussels sprouts are a good source of fiber and vitamin K. Prosciutto provides the smoky flavour of bacon with a lot less fat.</notes>
+  <prep_time>30 minutes</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 T</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 T</quantity>
+      <ingredient_name>maple syrup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 t</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 t</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation>freshly ground</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>24</quantity>
+      <ingredient_name>small brussels sprouts (3/4 to 1 lb.)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>prosciutto</ingredient_name>
+      <preparation>thinly sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>24</quantity>
+      <ingredient_name>decorative toothpicks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>1. Preheat oven to 450 degrees. In a large bowl, whisk oil, syrup, salt, and pepper to blend. Trim brussels sprouts at base and remove any leathery outer leaves. Toss sprouts in oil mixture to coat well. Line a rimmed baking pan with foil and put sprouts in pan in a single layer. 
+2. Roast, tossing every 5 minutes, until sprouts are browned but tender-crisp, 10 to 12 minutes total. Remove from oven and let cool 10 minutes
+3. Meanwhile, cut each prosciutto slice into strips about 1 in. wide. Gently wrap each sprout lengthwise in a prosciutto strip. Insert a toothpick into the base of each sprout. Serve at room temperature.
+
+Make ahead: Prepare through step 2 up to 1 day ahead; chill, covered. Bring to room temperature, then proceed.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categories>
+    <secondary_category>Vegetables</secondary_category>
+    <secondary_category>Good For You!</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Sunset Magazine</source_name>
+  <source_page>102</source_page>
+  <source_date>November 2009</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/24/2009</cdate>
+  <mdate>11/24/2009</mdate>
+  <user>hilaryp</user>
+</recipe>

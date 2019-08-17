@@ -1,0 +1,67 @@
+<recipe>
+	<name>Eggplant Parmesan</name>
+	<notes>I distrust the eggplant as an ingredient because I never feel that I know what I'm doing with it.  Its large, not often used, not entirely easy to work with and just plain weird looking.  Despite this, the vegetable makes a wonderfully tasty dish in this oldschool-simple recipe.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large eggplant</ingredient_name>
+			<preparation>sliced into 1/4" pieces</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>oregano</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 lb</quantity>
+			<ingredient_name>jack cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cans</quantity>
+			<ingredient_name>tomato sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Beat into eggs salt, oregano and pepper.  Dip eggplant slices into egg mixture and dredge in flour.  Heat skillet with 3 Tbl oil to medium-high heat.  Fry both sides of eggplant until brown, placing cooked eggplant in a baking dish.  Alternate layers of eggplant with layers of jack cheese and tomato sauce.
+
+Back at 350F for 35 minutes.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+		<secondary_category>Italian</secondary_category>
+	</secondary_categorys>
+	<source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Faye Iacchei </source_name>
+	<source_page>15</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/03/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Eggplant_Parmesan</safe_name>
+</recipe>

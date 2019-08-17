@@ -1,0 +1,82 @@
+<recipe>
+  <name>Chicken in Paprika Sauce</name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>4 lbs</quantity>
+      <ingredient_name>chicken pieces</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 lb</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>large tomatoes or 12 cherry tomatoes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>green peppers</ingredient_name>
+      <preparation>cut into large pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>10</quantity>
+      <ingredient_name>small onions</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>celery stalks</ingredient_name>
+      <preparation>cut into small pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 of 10 1/2 oz</quantity>
+      <ingredient_name>cream of chicken soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2-3 tsp</quantity>
+      <ingredient_name>Hungarian paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>red pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 Tbsp</quantity>
+      <ingredient_name>corn starch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>cold water</ingredient_name>
+      <preparation>mixed with cornstarch</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Brown chicken.  Add green peppers, onions, tomatos & celery.  Simmer covered for 15 minutes.
+
+Combine remaning ingredients except cornstarch and water in a small saucepan.  Heat just to boiling point, stirring constantly.
+
+Pour sauce over chicken and vegetables.  Cover and cook over low heat for about an hour or until chicken is fork-tender.
+
+If sauce is thin, thicken with corn starch dissolved in cold water]]></preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Gretchen</source_name>
+  <source_page>0021-0022</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>Chicken_in_Paprika_Sauce</safe_name>
+</recipe>

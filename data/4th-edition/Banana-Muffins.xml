@@ -1,0 +1,71 @@
+<recipe>
+  <name>Banana Muffins</name>
+  <safe_name></safe_name>
+  <primary_category>Breakfast</primary_category>
+  <untried></untried>
+  <secondary_categories>
+    <secondary_category>Bananas</secondary_category>
+  </secondary_categories>
+  <yield_count>12</yield_count>
+  <yield_measure>muffins</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/ sp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>overripe bananas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>melted and cooled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla extract</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Whisk together flour, baking soda and salt.  Mash and mix together bananas, brown sugar, melted butter, eggs and vanilla.  Fold in flour mixture and pecans until just incorporated. 
+
+Fill muffin tins.  Cook at 350F for 18-20 minutes.</preparation>
+  <source_author>Tyler Florence</source_author>
+  <source_name>Banana Nut Muffins</source_name>
+  <source_page>https://www.foodnetwork.com/recipes/tyler-florence/banana-nut-muffins-recipe-1915828</source_page>
+  <source_date>August, 2018</source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2018-08-13</mdate>
+  <user>billp</user>
+</recipe>

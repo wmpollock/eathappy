@@ -1,0 +1,46 @@
+<recipe>
+  <name>Lemon Ice Cream Pie</name>
+  <notes><![CDATA[There's some questionable text on this one and I'm nearly certain the glaze ingredients are supposed to go with the rest of this and that the "Celery & green peper and lit..." that's mostly struck out is supposed to be perhaps ignored...]]></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/3 cup</quantity>
+      <ingredient_name>corn flakes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>melted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Glaze?</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>orange marmilade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 or 3 Tbsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Mix & spread into 9 inch pie tin.  Soften one quart vanilla ice cream.  Add 6oz can frozen lemonade.  Mix + spread on crust.  Put in freezer while making glaze.
+
+Glaze: Dilute marmalade with lemon juice.]]></preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>50</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/12/2006</cdate>
+  <safe_name>Lemon_Ice_Cream_Pie</safe_name>
+</recipe>

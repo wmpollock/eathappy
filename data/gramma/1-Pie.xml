@@ -1,0 +1,98 @@
+<recipe>
+  <name>1 Pie</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>**Needs review</secondary_category>
+    <secondary_category>Turkey</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup(?)</quantity>
+      <ingredient_name>diced pieces of turkey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup(?)</quantity>
+      <ingredient_name>thinly sliced mushrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>minced onions (dry)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sliced water chestnuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup </quantity>
+      <ingredient_name>all purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/8 cup</quantity>
+      <ingredient_name>shredded natural Swiss cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>cayenne</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Quiche crust</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>9" pie tin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 1/2oz bag</quantity>
+      <ingredient_name>Pepperidge Farm stuffing</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>melted butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Quiche crust:  Mix together ingredients and press into pie tin.
+
+Mix turkey, mushrooms, onion and water chestnuts.  Put 2 cups of mixture into each pan.  Toss cheese with flour.  Sprinkle 1 1/4 cup of cheese on top of each filled pie pan.  Combine eggs, milk and seasonings into large bowl.  Pour 1 3/4 cup of mixture in each shell.  Bake 30-35 minutes at 350F.  Let sit 15 minutes.
+</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page></source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-11</mdate>
+  <user>billp</user>
+</recipe>

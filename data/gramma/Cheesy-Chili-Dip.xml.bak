@@ -1,0 +1,40 @@
+<recipe>
+  <name>Cheesy Chili Dip</name>
+  <notes>God forgive me that there may be a commercial that featured this very recipe with a mind-blowing jingle that went "easy, cheesy, easy cheesy!"
+
+I suppose you had to be there.  Still, it looked and looks pretty good.</notes>
+  <prep_time>15 minutes</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>Cream Cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>One 10.5 oz can</quantity>
+      <ingredient_name>chili</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>shredded cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>cilantro</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>[No official preperation]</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Philladelphia Brand Creek Cheese package</source_name>
+  <source_date>Summer, 2006</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2006</cdate>
+  <safe_name>Cheesy_Chili_Dip</safe_name>
+</recipe>

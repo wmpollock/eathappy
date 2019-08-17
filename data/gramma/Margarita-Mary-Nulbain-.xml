@@ -1,0 +1,32 @@
+<recipe>
+	<name>Margarita (Mary Nulbain)</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name>tequila</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name>triple sec</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 part</quantity>
+			<ingredient_name><![CDATA[sweet & sour mix]]></ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Blend with lots of ice.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Mary Nulbain, we presume</source_name>
+	<source_page>55</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/13/2006</cdate>
+	<mdate>05/19/2009</mdate>
+	<user>billp</user>
+	<safe_name>Margarita_Mary_Nulbain_</safe_name>
+</recipe>

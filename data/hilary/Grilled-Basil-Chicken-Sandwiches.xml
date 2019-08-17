@@ -1,0 +1,73 @@
+<recipe>
+  <name>Grilled Basil Chicken Sandwiches</name>
+  <safe_name>Grilled_Basil_Chicken_Sandwiches</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Coated with a simple basil mayo, the chicken in this open-face sandwich would also be good chopped and tossed into a salad or served alongside rice and fresh vegetables.</notes>
+  <prep_time>30 min</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 large bunch</quantity>
+      <ingredient_name>basil</ingredient_name>
+      <preparation>leaves</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 c</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>clove garlic</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>Balsalmic vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>chicken breast halves</ingredient_name>
+      <preparation>boned, skinned, and halved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 wide slices</quantity>
+      <ingredient_name>ciabatta bread</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>heirloom tomato</ingredient_name>
+      <preparation>cut into 4 slices</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>1. Heat grill to high (450-550 degrees). Reserve 4 basil leaves. Whirl mayonnaise, remaining basil, garlic, vinegar, salt, and pepper in a food processor until smooth.
+2. Sandwich chicken breasts between 2 pieces of plastic wrap and pound with a mallet until 1/4 inch thick.
+3. Grill chicken, basting each side with some of mayo mixture and turning as needed, until cooked through and well browned, about 8 minutes.
+4. Brush one side of bread with a little mayo mixture; grill bread on both sides. 
+5. Lay chicken on mayo side of bread. Top each remaining sandwich with a tomato slice and a basil leaf and serve the remaining mayo on the side.
+</preparation>
+  <primary_category>Sandwiches</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Sunset Magazine</source_name>
+  <source_page>unknown</source_page>
+  <source_date>September 2010</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/30/2011</cdate>
+  <user>hilaryp</user>
+</recipe>

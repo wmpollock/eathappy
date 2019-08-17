@@ -1,0 +1,45 @@
+<recipe>
+	<name>Cheesy Chili Dip</name>
+	<notes>I'm still looking for the chili dip of my dreams -- is this it? Sounds good, right from the microwave!</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 8oz pkg</quantity>
+			<ingredient_name>cream cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 8.5oz can</quantity>
+			<ingredient_name>chili</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>shredded cheddar cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>chopped cilantro</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>crackers</ingredient_name>
+			<preparation>for the serving</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>On a microwaveable pie dish, spread cream cheese and top with chili thence cheddar cheese.  Microwave(!) on high for 45 seconds to a minute or until cheddar cheese is melted and sprinkle with cilantro.  </preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Philly-Brand Cream Cheese box</source_name>
+	<source_date>2007?</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Cheesy_Chili_Dip</safe_name>
+</recipe>

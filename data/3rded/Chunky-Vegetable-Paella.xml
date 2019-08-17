@@ -1,0 +1,97 @@
+<recipe>
+	<name>Chunky Vegetable Paella</name>
+	<ingredients>
+		<ingredient>
+			<quantity>generous pinch</quantity>
+			<ingredient_name>saffron strands</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>eggplant</ingredient_name>
+			<preparation>cut into thick chunks</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 Tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large onion</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>crushed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>yellow bell pepper</ingredient_name>
+			<preparation>siced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>red bell pepper</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>paprika</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cups</quantity>
+			<ingredient_name>Arborio rice (risotto rice)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>vegetable stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>fresh tomatoes</ingredient_name>
+			<preparation>peeled and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sliced mushrooms</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>cut green beans</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 14oz can</quantity>
+			<ingredient_name>chickpeas (garbanzos)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Hydrate the saffron in 3 Tbl hot water.  Salt the eggplant and leave to drain in a colander for 30 minutes before rinsing and drying.  In a large frying pan heat oil and fry onion, garlic and peppers and eggplant for about 5 minutes. 
+
+Stir occasionally.  Add paprika and thence the rice, stock, tomatoes, saffron and salt and pepper to taste.  Bring to a boil and reduce to simmer for 15 minutes uncovered, stirring occasionally and shaking the pan frequently.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+		<secondary_category>Rice, Grains</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>266</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Chunky_Vegetable_Paella</safe_name>
+</recipe>

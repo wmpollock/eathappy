@@ -1,0 +1,44 @@
+<recipe>
+  <name>Fannie's Gelatine Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>fruit cocktail</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>lime + lemon Jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>mayonaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>oranges &amp; bannanas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation></preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page></source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

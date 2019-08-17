@@ -1,0 +1,74 @@
+<recipe>
+  <name>Tortilla Pie</name>
+  <safe_name>Tortilla_Pie</safe_name>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>I stood in fear of this recipe for some time, having horrible recollections about a dish involving tortillas and worrying that this one was perhaps it.  I've made it several times and under several conditions including make-ahead freezing and have not yet come up with a mystery method for fouling this thing up.  Delicious 70s goodness!
+
+The original recipe called for a "small can of niblets" which I like for sentimental reasons but we roll with big bags of frozen kernels at our house and that works fine too.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>hamburger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>tomato sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 Tbl</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1+ cup</quantity>
+      <ingredient_name>corn</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>tortillas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>cheddar cheese</ingredient_name>
+      <preparation>grated</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown hamburger and onion together in skillet.  Remove from heat and mix in chili powder, tomato sauce, and corn.  Season with salt and pepper to taste.
+
+Arrange a layer of tortillas on the bottom of casserole.  Put half of the sauce in a layer and top with chopped olives and grated cheese.  Repeat.
+
+Bake at 325F for 30 minutes.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>70s Flashback</secondary_category>
+    <secondary_category>Lots Of Cheese</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/03/2005</cdate>
+  <mdate>01/02/2013</mdate>
+  <user>billp</user>
+</recipe>

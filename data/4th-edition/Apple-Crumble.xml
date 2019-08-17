@@ -1,0 +1,58 @@
+<recipe>
+	<name>Apple Crumble</name>
+	<yield_count>4</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>The Pampered Chef claims that this and their other Small Oval Baker recipe are preparable in a toaster oven of equivalent temperature.  This is probably notable in their belief that one might have a toaster oven of such quality.  I suppose if you are a Pampered Chef type, you've got a quality toaster oven I suppose.  As for me, I have never been so fortunate.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>medium granny smith appples</ingredient_name>
+			<preparation>cored and sliced into bite-sized chunks</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>granulated sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>ground cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4</quantity>
+			<ingredient_name>all purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation>firmly packed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>oats</ingredient_name>
+			<preparation>quick or old fashioned</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat the oven to 375F.  Toss with sugar and cinnamon and deposit in oval or other 4 cup casserole.  Microwave butter for 30-40 seconds or until melted and to it mix the flour, brown sugar, walnuts and oats to make topping.  Sprinkle toping evenly over apples and cook 30-35 minutes or until apples and topping are done.
+</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Oval Pan!</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Pampered Chef, Small Oval Baker, New Traditions Collection</source_name>
+	<source_date>2002</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Apple_Crumble</safe_name>
+</recipe>

@@ -1,0 +1,76 @@
+<recipe>
+  <name>Salavari Casserole</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>hamburger (ground chuck)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>black olives </ingredient_name>
+      <preparation>[as Pitted Olives (Ripe Oloives)]</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>noodles (bow ties)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>corn</ingredient_name>
+      <preparation>cream style, medium an</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 lb</quantity>
+      <ingredient_name>Tillamook cheese</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cans</quantity>
+      <ingredient_name>tomato sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 </quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>chopped finely</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity>
+      <ingredient_name>green pepper</ingredient_name>
+      <preparation>chopped finely</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>large cloves garlic</ingredient_name>
+      <preparation>smashed [? no preparation given]</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name></ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Boil, rinse and drain nooodles.  Fry onion, pepper and garlic, fry slightly.  Add meat.  Fry until no longer red.  Add tgomato sauce.  Combine with noodles, diced cheese -- reserving some for topping -- corn, olives and the olive liquid and brown in oven.  Remove garlic gloves before putting into casserole.
+
+No salt need be added.
+
+Cook in oven at 350F for 45 minutes.</preparation>
+  <source_author>Marge Lerken[?]</source_author>
+  <source_name></source_name>
+  <source_page>85-86</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-11</mdate>
+  <user>billp</user>
+</recipe>

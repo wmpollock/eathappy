@@ -1,0 +1,114 @@
+<recipe>
+	<name>Streusel Topped Apple Bread</name>
+	<yield_count>10-12</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Strusel Topping</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup (1/2 stick)</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>chopped walnuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Bread</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>room temperature</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>buttermilk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 cups</quantity>
+			<ingredient_name>chopped apple</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped walnuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Butter a 9x5" loaf pan and preheat oven to 350F.
+
+Mix together the brown sugar, cinnamon and flour and crea-in butter.  Mix to coarse crumb consistency and stir in nuts.  Set aside.
+
+For the bread, mix the flour, baking soda and salt.  Cream butterwith sugar and beat until fluffy.  Add eggs in and alternate flour mixture and buttermilk, folkding until smooth.  Fold in apples and nuts, pouring batter into loaf pan.
+
+Top bread with mixture.  Bake for 50 minutes at 350F.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Buttermilk</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Challenge Buter Package</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>09/23/2007</cdate>
+	<mdate>05/27/2009</mdate>
+	<user>billp</user>
+	<safe_name>Streusel_Topped_Apple_Bread</safe_name>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+  <name><![CDATA[Egg & Cheese Strub]]></name>
+  <ingredients>
+    <ingredient>
+      <quantity>6 slices</quantity>
+      <ingredient_name>day-old bread</ingredient_name>
+      <preparation>buttered</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>shredded cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>slightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>dry mustard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash</quantity>
+      <ingredient_name>cayenne</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Greast bottom of baking dish.  Butter bread and cut into cubes.  Layer 1/2 of bread cubes in bottom of casserole.  Cover with 1/2 cup cheddar cheese.  Repeat and set aside.  Mix other ingredients.  Pour over bread and cheese.  Cover and refrigerate several hours or overnight.
+
+Bake 1/2 hour.  Let satnd 7-10 minutes before serving.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0036-0037</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <mdate>12/18/2005</mdate>
+  <safe_name>Egg_Cheese_Strub</safe_name>
+</recipe>

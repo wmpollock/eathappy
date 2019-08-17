@@ -1,0 +1,67 @@
+<recipe>
+	<name>Cabbage-Pepper Slaw</name>
+	<notes>I'm a hard-sell on green peppers.  Not much for the flavor, not much for the consistency in any form, but the small pieces of pepper in this recipe give the slaw a nice crisp zing.
+
+The dressing is quite tasty but one should probably be careful with the measure of salt and sugar -- the salad dressing mixture I use has plenty of both.  My first making of this came out both overly salty and overly sweet. This was remedied some by some dashes of lemon juice.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cup</quantity>
+			<ingredient_name>cabbage</ingredient_name>
+			<preparation>shredded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>green pepper</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>celery seed</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>wine vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>dash of pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>yellow mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>Italian salad dressing</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Add other ingredients to prepared vegetables and toss.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Sets Horiba</source_name>
+	<source_page>9</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/30/2004</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Cabbage_Pepper_Slaw</safe_name>
+</recipe>

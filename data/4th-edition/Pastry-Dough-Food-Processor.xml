@@ -1,0 +1,58 @@
+<recipe>
+  <name>Pastry Dough, Food Processor</name>
+  <safe_name>Pastry_Dough_Food_Processor</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I have a dough blender and its kind of sexy to create dough from scratch but the food processor does a nice job and its ever so much simpler to deal with.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>all purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 Tbl</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>cut into 1/2" pieces and well chilled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>shortening</ingredient_name>
+      <preparation>cut into 1/2" pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2-4 Tbl</quantity>
+      <ingredient_name>ice water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Process flour, salt and baking powder for 10 seconds to integrate.  Add unsalted butter and shortening and five 15-20 short pulses until mixture resembles coarse corn meal.  Any balls of butter should be no larger than a pea.  Sprinke half the ice water and pulse 5-6 times.  Add enough ice water to create a dough that will hold together but not to be sticky.  Do not allough dough to form a ball in the mixer.
+
+Turn the dough out into a floured surface and roll into a ball.  Flatten dough into a 6" disc and refrigerate for at least one hour before rolling out to 1/8" for use.
+
+Dough will keep 3 days refrigerated or up to a month in the freezer.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Cuisinart Food Processor Instruction and Recipe Booklet</source_name>
+  <source_page>63</source_page>
+  <source_date>2004</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>10/31/2009</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

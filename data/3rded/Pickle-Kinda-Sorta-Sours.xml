@@ -1,0 +1,89 @@
+<recipe>
+	<name>Pickle:  Kinda Sorta Sours</name>
+	<notes>If there were a picnic battle, fall in behind General Brown.  Alton serves up "Kinda Sorta Sours" which sound like something pulled from a cooler reverentially at certain BBQs.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>medium cucumbers</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>smashed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>cider vineager</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>champagne vinegar (or other light vinnegar?)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl + 2 tsp</quantity>
+			<ingredient_name>kosher salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>mustard seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>tumeric</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>celery seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>pickling spice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a clean spring-top jar combine onion, cucumbers and garlic cloves.
+
+Boil water, cider and champagne vinegar, sugar, salt, mustard seeds, tumeric, celery seeds and pickling spice together in a non-reactive pot or pan.  Bring to a boil and simmer for four minutes.
+
+Carefully pour pickling liquid over vegetable mixture, filling to top of jar.
+
+Cool to room temperature before adding any additional liquid and refrigerate.
+
+[Should note:  there should likely be some notes on the shelf life of such a product and its general care and handling during its lifetime]</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>BBQ</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>http://www.foodnetwork.com/recipes/alton-brown/kinda-sorta-sours-recipe/index.html</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/27/2009</cdate>
+	<user>billp</user>
+	<safe_name>Pickle_Kinda_Sorta_Sours</safe_name>
+</recipe>

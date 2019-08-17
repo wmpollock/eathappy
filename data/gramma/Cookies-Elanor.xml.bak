@@ -1,0 +1,75 @@
+<recipe>
+  <name>Cookies Elanor</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cubes</quantity>
+      <ingredient_name>margarine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>fbrown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>white sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>flour*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>Wheaties</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>nuts</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Drop about 1 tsp**
+
+Bake at 375F for about 8 minutes.
+
+* - note reads "decreased to 1 3/4 cups"
+** - probably really 1 Tbsp.</preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Elanor</source_name>
+  <source_page>0028-0029</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/28/2005</cdate>
+  <mdate>11/28/2005</mdate>
+  <safe_name>Cookies_Elanor</safe_name>
+</recipe>

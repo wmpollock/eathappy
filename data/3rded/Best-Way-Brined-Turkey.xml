@@ -1,0 +1,89 @@
+<recipe>
+  <name>Best Way Brined Turkey</name>
+  <safe_name>Best_Way_Brined_Turkey</safe_name>
+  <yield_count>1</yield_count>
+  <yield_measure>roasted bird</yield_measure>
+  <notes>Alton Brown makes a good case that because the skin is waterproof the only thing being done by basting is opening the door and letting the hot out.  While one would hope that the Cron had tried it without basting to find its "Best Way," its hard to argue with science so I've left it out.</notes>
+  <prep_time>12-24 hours</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>turkey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**BRINE</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 1/2 gallons</quantity>
+      <ingredient_name>cold water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>bay leaves</ingredient_name>
+      <preparation>torn into pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 bunch</quantity>
+      <ingredient_name>fresh thyme</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 head</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>separated and peeled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5</quantity>
+      <ingredient_name>allspice berries</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>juniper berries</ingredient_name>
+      <preparation>smashed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5-10 lbs</quantity>
+      <ingredient_name>ice</ingredient_name>
+      <preparation>as necessary</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brining:  doublebag two unscented, non-antibacterial trash bags (or better, mystical brining bags) and place into an ice chest.  Degiblet and wash turkey before placing into bags.  Mix together brine ingredients and pour enough into the bags to cover the bird:  this may not use all the brine.  Press out the air and knot each bag separately.  Cover bird with bags ice and brine for 12-24 hours.
+
+Drying, slow way:  remove turkey from brine, rinse and pat dry.  Place turkey in a roasting pan and refrigerate 12-24 hours uncovered.  Make sure to give bird clearance to prevent cross-contamination.  Rotate bird once during drying.  Allow to dechill before roasting.
+
+Drying, fast way:  as above: rinse and dry.  Place bird tail-down in a rack over roasting pan and dry with a fan for 40-60 minutes, turning once.  Position bird for roasting (breast up) and continue to dry each end of the bird.  Roast immediately.  (I worry that this goes a little long for unrefrigerated raw meat:  not so much that I wouldn't do it but enough to mention.)
+
+Roasting:  Heat oven to 400F.  Coat turkey with butter, season, and roast for one hour, rotating once.  Begin measuring at 1 hour, roasting until internal thigh tmperature reaches 165F, 2 to 2 3/4 hours total.  Let bird stand 30 minutes before serving.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Thanksgiving</secondary_category>
+    <secondary_category>Turkey</secondary_category>
+  </secondary_categories>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>http://www.sfgate.com/recipes/article/Back-to-basics-for-Thanksgiving-issue-4044569.php</source_page>
+  <source_date>November 22, 2006</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <user>billp</user>
+</recipe>

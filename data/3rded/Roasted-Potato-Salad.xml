@@ -1,0 +1,81 @@
+<recipe>
+	<name>Roasted Potato Salad</name>
+	<yield_count>8</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>This is a very full-flavored cold potato salad that works well for summertime potlucks.  It also contains no white nastiness that I and others sometimes might find less than potable given the wretched afternoon weather we sometimes have here in the Sacramento Valley.</notes>
+	<prep_time>1:15</prep_time>
+	<ingredients>
+		<ingredient>
+			<quantity>6 tbl</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 garlic cloves</quantity>
+			<ingredient_name>chopped</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2-1 cup</quantity>
+			<ingredient_name>fresh thyme leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>fresh rosemary leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 lbs</quantity>
+			<ingredient_name>russet potatoes</ingredient_name>
+			<preparation>diced large</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tbl</quantity>
+			<ingredient_name>white vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>dijon mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>chopped shallots</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>chopped basil leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix olive oil, garlic, salt, pepper and fresh herbes and toss with chopped potatoes.  Roast potatoes on a baking sheet in 375F oven for 55 minutes or until golden brown, occasionally stirring.
+
+Let potatoes cool and remove from pan, reserving remaining oil and scrapings.
+
+Wisk together vinegar and mustard.  Add olive oil to reserved drippings to make 6 tbl and gradually mix into vinegar and mustard.  Fold chopped shallots into dressing and toss with potatoes.  Add chopped basil and let stand at one hour at room temperature before serving.  
+</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Potatoes</secondary_category>
+	</secondary_categorys>
+	<source_name>Food Network: "Ann's Roasted Potato Salad"</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/05/2007</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Roasted_Potato_Salad</safe_name>
+</recipe>

@@ -1,0 +1,59 @@
+<recipe>
+  <name>Snow on the Mountain</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categories>
+  <yield_count>10-12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes>After putting in a great number of entries I can say with a certainty that this is the finest name I ever have come across.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small angel food cake</ingredient_name>
+      <preparation>cubed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 pkgs</quantity>
+      <ingredient_name>lemon flavored gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cups</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>orange juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pt</quantity>
+      <ingredient_name>heavy cream</ingredient_name>
+      <preparation>divided, whipped stiff</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 sm can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation>drained well</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>shredded coconut</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dissolve gelatin and sugar in 1/2 cup boiling water.  Let cool + add 1 cup orange juice.  Refrigerate + when congealed, whip thorougly.  Fold in 1/2 pt heavy cream, whipped stiff.  Fold in 1 sm can of crushed pineapple, well drained.  Add cubed cake.  Pour into pring-forkm pan + chill overnight.  Before serving, spread tops + sides with 1/2 pt whipped cream.  Sprinkle with coconut.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>85-86</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

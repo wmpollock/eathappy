@@ -1,0 +1,47 @@
+<recipe>
+  <name>Best Way Mashed Potatoes</name>
+  <safe_name>Best_Way_Mashed_Potatoes</safe_name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>
+</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 ls</quantity>
+      <ingredient_name>russet potatoes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Peel and cut potatoes into eights.  Place in a large pot and cover with water.  Add 1 salt and simmer over medium-high heat.  Simmer until poatoes are cooked through, about 12-15 minutes.  Drain and shake to remove moisture.
+
+Warm cream over low heat or in 30 seconds of microwaving.
+
+Mash potatoes in a large bowl to preference.  Fold in butter and cream.  Season to taste.</preparation>
+  <primary_category>Side</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>L8</source_page>
+  <source_date>November 14, 2010</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/02/2013</cdate>
+  <user>billp</user>
+</recipe>

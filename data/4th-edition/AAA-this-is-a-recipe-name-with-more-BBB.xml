@@ -1,0 +1,46 @@
+<recipe>
+  <name>AAA, this is a recipe name with more BBB</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Christmas</secondary_category>
+    <secondary_category>Dubious</secondary_category>
+    <secondary_category>Lots Of Cheese</secondary_category>
+  </secondary_categories>
+  <yield_count>quantitu</yield_count>
+  <yield_measure>yunits</yield_measure>
+  <prep_time>prep tim</prep_time>
+  <notes>Look!  I have modified this record!</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1m</quantity>
+      <ingredient_name>1i</ingredient_name>
+      <preparation>1p</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>2m</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>3i</ingredient_name>
+      <preparation>3p</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4m</quantity>
+      <ingredient_name>4i</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preparationspreadfa asdf adf asdofaisdf adfoad f</preparation>
+  <source_author>author</source_author>
+  <source_name>title</source_name>
+  <source_page>page</source_page>
+  <source_date>publi</source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2015-02-18</mdate>
+  <user>billp</user>
+</recipe>

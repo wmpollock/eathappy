@@ -1,0 +1,51 @@
+<recipe>
+  <name>Grand Marnier Souffle</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categories>
+  <yield_count>8-10 servings</yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sweet butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup + 2 Tbsp</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 tsp</quantity>
+      <ingredient_name>Grand Mariner</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Melt butter.  Add flour, egg yolks + Grand Marnier.  Beat egg whites with sugar, stiff but not dry.  Fold into flour mixture.  May refrigerate until wanted.  Bake at 350F for 40-45 minutes if in a large dish or 20-35 min for individual souffles.
+
+Can be topped with Grand Marnier Sauce [see also].</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>85-86</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

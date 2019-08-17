@@ -1,0 +1,71 @@
+<recipe>
+  <name>Kathleen's Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>lemon jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>lime jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 4oz can</quantity>
+      <ingredient_name>evaporated milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 16 oz can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 16 oz</quantity>
+      <ingredient_name>small curd cottage cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>creamed horseradish</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbsp</quantity>
+      <ingredient_name>pineapple juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dissolve jello in 2 cups hot water and and 2 cups cold water.  Mix with evaporated milk, pineapple, cottage cheese, horseradish, and mayonnaise.  Refrigerate.  Decorate with cream cheese dissolved in pineapple juice.  Max in 9" x 13" pan.
+
+May cut in half.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0077-0078</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

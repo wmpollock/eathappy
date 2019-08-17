@@ -1,0 +1,27 @@
+<recipe>
+  <name>Green Devil</name>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Frozen lemonade mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 canful</quantity>
+      <ingredient_name>vodka</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>crushed ice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0040</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <safe_name>Green_Devil</safe_name>
+</recipe>

@@ -1,0 +1,72 @@
+<recipe>
+  <name>Strawberry Meringue Cake</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>yellow cake mix</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>orange juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>egg yolks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>grated orange peel</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>cream of tartar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 quart</quantity>
+      <ingredient_name>fresh strawberries</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine cake mix, orange juice, water, egg yolks and orange peel.  Beat 4 minutes on medium speed.  Grease + line (2) pans with wax paper (9x1 1/2")  Beat egg whites and cream of tartar to soft peaks.  Gently spread meringue lightly over batter.  Bake at 350F for 35-40 minutes.   Cool completely.  With flexible spatula carefully remove layer from pan, keeping meringue right-side up.  Spread 1/2 whipping cream over meringue of bottom layer, then 1/2 sliced berries.  Add top layer, cream + berries.</preparation>
+  <source_author>Nell Leuders</source_author>
+  <source_name></source_name>
+  <source_page>79-80</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-03</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

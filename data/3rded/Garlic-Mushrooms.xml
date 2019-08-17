@@ -1,0 +1,51 @@
+<recipe>
+	<name>Garlic Mushrooms</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>I consider this a fairly "short" recipe, meaning we're a little light on the mixture here, at least for 20 standard  supermarket mushrooms.  I usually just eyeball this one until the proportions look right:  twice as much parsley  as cheese and enough butter to hold it all together. 
+
+I generally like making the butter mixture ahead of time and leave it formed in a ball overnight to let the flavors  develop a bit before removing it and re-softening to use. 
+
+They serve these by the truckload at Gilroy's annual Garlic festival, from whence this recipe is derived.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>20</quantity>
+			<ingredient_name>mushrooms</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>parsley</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>grated Parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Soften butter.  Mix garlic, parsley, Parmesan and butter together and let sit to let the flavors develop.  Meanwhile, clean and remove stems from the mushrooms.  Fill caps with mixture and set in a 13"x9" glass dish.  
+
+Cook at 400F or under the broiler until the mushrooms begin to soften a bit.  The crust will likely brown a bit, especially in the broiler.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Butter!</secondary_category>
+	</secondary_categorys>
+	<source_name>"Garlic Lover's Cookbook"</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Garlic_Mushrooms</safe_name>
+</recipe>

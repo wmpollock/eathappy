@@ -1,0 +1,51 @@
+<recipe>
+  <name>Ice Cream Pie</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 quart</quantity>
+      <ingredient_name>vanilla ice cream</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>frozen lemonade</ingredient_name>
+      <preparation>partly thawed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>apricot or peach nectar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>18</quantity>
+      <ingredient_name>vanilla wafers</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 stick</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Make pie crust from crushed vanilla wafers.  Bake in moderately hot overn for about 10 minutes.
+
+Blend ice cream, lemonade and nectar.  Put in pie shell and transfer to freezer and forget about it.  Can be eaten right from freezer if freezer is kept at temperature you keep ice cream.
+
+[additional note]
+National Hotel - Nevada City - 80 to Auburn, 49 to Nevada City.  Lunch</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Florence Boyd</source_name>
+  <source_page>0040-0041</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <safe_name>Ice_Cream_Pie</safe_name>
+</recipe>

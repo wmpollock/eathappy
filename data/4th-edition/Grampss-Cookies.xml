@@ -1,0 +1,111 @@
+<recipe>
+  <name>Gramps's Cookies</name>
+  <safe_name>Grampss_Cookies</safe_name>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>For a long time I'd thought the recipe for my grandfather's cookies were lost to the kitchens of time.  They were  such good cookies and are one of the most memorable things from our weekend visits.  
+
+While cleaning out my father's office several years back I came across my Grandmother's old recipe box,  in  which I found this gem in my Grandmother's distinctive hand.  I've substituted sunflower seeds for the walnuts successfully and generally leave out the coconut. Gramps would swap the wanuts out for candied cherry halves around:  maybe you will too.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>uncooked rolled oats</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation>firmly packed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>granulated sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>corn oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>honey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>chopped walnuts or sunflower seeds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>raisins</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>candied lemon peel</ingredient_name>
+      <preparation>dieced, optional</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>coconut</ingredient_name>
+      <preparation>optional</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>pecans</ingredient_name>
+      <preparation>optionally for topping</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>additional honey</ingredient_name>
+      <preparation>optionally for topping</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together oats, sugars, flour, salt and baking soda.  Mix in eggs, corn oil, water, honey and vanilla.  Add remaining ingredients and mix one final time.
+
+Spoon dough out into double spoonfulls or -- if you're sloppy like me - 1/4 cups -- and top each with pecan and 1 teaspoon of honey.
+
+Cook 14-18 minutes at 350F degrees.</preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categories>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

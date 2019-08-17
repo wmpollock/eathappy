@@ -1,0 +1,42 @@
+<recipe>
+  <name>Peppermint Bark</name>
+  <yield_count>32</yield_count>
+  <yield_measure>pieces, about</yield_measure>
+  <notes>Yet another chapter in my ongoing bout with labelholia.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>10-12 oz</quantity>
+      <ingredient_name>white baking pieces</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>peppermint extract</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8-10 drops</quantity>
+      <ingredient_name>red food color</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>crushed peppermint candies</ingredient_name>
+      <preparation>optional</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Line baking sheet with foil.  
+
+Heat baking pieces in a saucepan until nearly melted and remove from heat.  Stir in extract and mix until smooth.  Spread mixture onto baking sheat evenly -- use a spatula -- and spread mixture to 1/3 inch thick.  If so desired, sprinkle the bark with food coloring and gently swirl to make o-so-pretty colors.
+
+Chill for 10 minutes or until set and break into pieces.  Cover and store in the fridge for up to five days.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Mc Cormick Pure Pepperment Extract box</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/15/2007</cdate>
+  <safe_name>Peppermint_Bark</safe_name>
+</recipe>

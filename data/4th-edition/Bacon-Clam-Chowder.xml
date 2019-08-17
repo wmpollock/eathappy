@@ -1,0 +1,106 @@
+<recipe>
+  <name>Bacon Clam Chowder</name>
+  <safe_name>Bacon_Clam_Chowder</safe_name>
+  <yield_count>10</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Hilary went big on the bacon in the inaugural batch which went over quite well.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>7 slices</quantity>
+      <ingredient_name>bacon</ingredient_name>
+      <preparation>cut down into thin slices</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 medium</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>diced small</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 stalks</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced small</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>chicken stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 5-oz. cans</quantity>
+      <ingredient_name>minced baby clams</ingredient_name>
+      <preparation>liquid reserved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>white wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>thyme</ingredient_name>
+      <preparation>fresh preferred</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5</quantity>
+      <ingredient_name>russet potatoes</ingredient_name>
+      <preparation>minced, diced and cubed in equal proportion</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>heavy cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Roux</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a soup pot over medium heat, lightly brown bacon, reserving up to two tablespoons rendered bacon fat for later incorporation.  Add onion and celery, cooking until translucent.  Add chicken stock, clams and their juice, white wine, garlic and thyme.  
+
+Heat to a simmer, stirring carefully.  Add potatoes, cover and cook, stirring occasionally, until largest are fork-tender in between fifteen to twenty minutes. 
+
+While heating the soup, melt the butter over medium heat in a small saucepan.  When melted add the flour and mix together, removing from heat.
+
+When potatoes are done, add cream and milk while stirring and heat to a slow boil.  Add in the roux a bit at a time until soup reaches its desired thickness.
+
+Reduce heat to a bare simmer and let cook for an additional 25 minutes.
+
+</preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Big Oven: Carey's Rich &amp; Creamy New England Clam Chowder</source_name>
+  <source_page>http://www.bigoven.com/recipe/173094/careys-rich-creamy-new-england-clam-chowder</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/06/2013</cdate>
+  <user>billp</user>
+</recipe>

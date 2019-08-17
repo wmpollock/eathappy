@@ -1,0 +1,51 @@
+<recipe>
+	<name><![CDATA[Leek & Potato Soup]]></name>
+	<ingredients>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>leeks</ingredient_name>
+			<preparation>white part only</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>unsalted butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>32 oz</quantity>
+			<ingredient_name>unsalted chicken stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 lg</quantity>
+			<ingredient_name>potatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2-3 cups</quantity>
+			<ingredient_name>milk or half and half</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>freshly chopped parsley</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a large soup pot over medium heat add butter and leeks and saute for five minutes, stirring often to prevent browning.  Add stock and bring to a boil.  Add potatoes and pepper and reduce to a simmer to cook for 15 minutes or until potatoes are tender.  Add milk and parsley and warm another 2-3 minutes before serving.</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Lower Sodium</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Kitchen Basics Unsalted Chicken Cooking Stock package, 2009</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<safe_name>Leek_Potato_Soup</safe_name>
+</recipe>

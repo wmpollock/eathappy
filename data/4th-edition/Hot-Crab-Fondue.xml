@@ -1,0 +1,61 @@
+<recipe>
+	<name>Hot Crab Fondue</name>
+	<yield_count>4</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>Hilary went out on New Year's Day 2005 in search of a fondue pot to make this recipe, crab season running high at the time.  This is an amazingly rich recipe.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>5 oz jar American cheese spread (Old English)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8oz</quantity>
+			<ingredient_name>cream cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 71/2 oz can</quantity>
+			<ingredient_name>crab</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>light cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>Worcestershire sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>garlic powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp or less</quantity>
+			<ingredient_name>cayenne pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>French bread</ingredient_name>
+			<preparation>cubed</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Melt first 2 ingredients in a fondue pot, add remaining ingredients and stir.  Serve with French bread cubes.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Lots Of Cheese</secondary_category>
+		<secondary_category>Asst'd Comfort Food</secondary_category>
+		<secondary_category>Salt-Tastic!</secondary_category>
+	</secondary_categorys>
+	<source_name>"High Country Recipes from the Chester High Ski Team", 1992 -- recipe by Glenda Grant</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Hot_Crab_Fondue</safe_name>
+</recipe>

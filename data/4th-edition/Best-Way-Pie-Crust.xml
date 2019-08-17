@@ -1,0 +1,53 @@
+<recipe>
+  <name>Best Way Pie Crust</name>
+  <safe_name>Best_Way_Pie_Crust</safe_name>
+  <yield_count>1</yield_count>
+  <yield_measure>shell</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>all purpose flour</ingredient_name>
+      <preparation>additional for dusting</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>vegetable shortening</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>cut into small pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3-4 Tbl</quantity>
+      <ingredient_name>ice water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together flour, salt, shortening and butter with food processor until mixture resembled breadcrumbs.  Cut in just enough water with a fork so dough holds together.  Form a disk and let refrigerate firmly wrapped for one hour.  
+
+Roll out dough on 2 sheets of waxed paper until 1/8 inch thick and has (roughly) a 13" diameter.  Place in pan and trim to 2" extra diameter total (1" all around).  Roll the end under and crimp.
+
+Pies can be prebaked by lining shell with aluminum foil shiny-side down and filling with beans or rice at 425F for 15 minutes then an additional 10-15 minutes after removing foil and weight.  Pan should be rotated "a couple of times" for max win.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>http://www.sfgate.com/recipes/article/Back-to-basics-for-Thanksgiving-issue-4044569.php#page-4</source_page>
+  <source_date>November 16, 2012</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <mdate>02/04/2013</mdate>
+  <user>billp</user>
+</recipe>

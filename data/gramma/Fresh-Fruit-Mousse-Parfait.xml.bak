@@ -1,0 +1,69 @@
+<recipe>
+  <name>Fresh Fruit Mousse Parfait</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count>12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 small package</quantity>
+      <ingredient_name>gelatin</ingredient_name>
+      <preparation>any flavor</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pint</quantity>
+      <ingredient_name>fresh fruit</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 3/4 cup</quantity>
+      <ingredient_name>frozen whipped topping</ingredient_name>
+      <preparation>thawed</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Place jello, boiling water and &amp; 1/2 cup sugar in blender and blend at low speed for about 1 minute, until sugar and jello are completely dissolved.  
+
+Add fruit, a few pieces at a time, and blend at high speed until thoroughly pureed.  Chill mixture until syrupy, about two hours.
+
+Beat egg whites, adding 1/4 cup sugar gradually until stiff peak stage.  Fold in whipped topping, then fold in fruit mixture, working gently so as not to break down egg whites.  Mound into stemmed glassware.  Garnish with additional whipped topping and serve with cookies.
+
+Suggested fruit and gelatin combinartions:
+Strawberry/strawberry
+Peaches (peeled, pitted &amp; quartered)/peach
+Plums (ditto)/lemon
+Pears(ditto)/lime</preparation>
+  <source_author></source_author>
+  <source_name>The Sacramento Bee</source_name>
+  <source_page>0066-0067</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

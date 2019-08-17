@@ -1,0 +1,68 @@
+<recipe>
+	<name>Blender Ceasar Dressing</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>Far, far away from the traditional, bowl-turned recipe but nobody eats in restaurants like that anymore.  As far as quick-prep Ceasar goes, this is the goods and it gets better as time goes on.
+
+In addition to dressing it makes a great impromptu sauce for meats and vegetables.  Its easy to use as a casual sauce but be warned that there is a fair amount of salt in the measure and in ingredients such as Parmesan cheese and Worcestershire sauce among its negative yet oh-so-tasty blandishments.
+
+RAW EGG WARNING:
+Uncooked eggs are known to occasionally carry diseases such as salmonella which may put sensitive groups at risk.  As such, its best to forewarn any of your guests that there's a bit of the very previously really fresh raw egg product before serving it and having an alternative on hand.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>grated Parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>minced or pressed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>Worcestershire sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>salad oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In blender, combine egg, Parmesan cheese, lemon juice, garlic, Worcestershire, salt and pepper.  Mix until blended.  With the blender on its lowest speed, gradually add oil in a thin stream and continue to blend until dressing is thick and creamy.  Pour into jar.  Cover and refrigerate for at least one hour.  Per the original, "Keeps up five days" -- your risk tolerance may vary.
+
+Let stand at room temperature for fifteen minutes before using.  Shake well.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Raw Eggs</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<source_name>Sunset Favorite Recipes I</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Blender_Ceasar_Dressing</safe_name>
+</recipe>

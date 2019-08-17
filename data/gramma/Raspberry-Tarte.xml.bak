@@ -1,0 +1,69 @@
+<recipe>
+  <name>Raspberry Tarte</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>Surprise!  This recipe didn't mention the measure for nuts, but I'm guessing its pretty close to "Rasberry Tart (25 Pie)".</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>14</quantity>
+      <ingredient_name>crackers</ingredient_name>
+      <preparation>finely crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>chopped nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small jar</quantity>
+      <ingredient_name>rasberry jam</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 pint</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Beat egg whites till stiff and gradually beat in the sugar.  Slowly add crackers, baking powder, salt and vanilla.  Fold in nuts and spoon into a 9" greased pan.  Bake at 325F for 25 or 30 minutes.  Let cool.
+
+Spread 1 small jar rasberry jam onto the crust.  Beat 1/4 pint whipping cream till stiff.  Frost.  Chill before serving.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0066-0067</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2016-02-10</mdate>
+  <user>billp</user>
+</recipe>

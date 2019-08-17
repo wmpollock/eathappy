@@ -1,0 +1,65 @@
+<recipe>
+  <name>Cinnamon Sticks</name>
+  <safe_name>Cinnamon_Sticks</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Found on the back of a Tillamook butter package, this looks suspiciously similar to other butter package cinamon-stick recipes.  But, if it is indeed that common, how bad can it be?</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>salted butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>powdered sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped walnuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>powdered sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix all dry ingredients and cut in butter to form ball.  Chill 5 minutes and roll out to 1/2".  Cut into strips 2"x1/2".  Space 1" apart on baking sheets and cook at 350F for 8-10 minutes or until brown.
+
+Allow to cool for five minutes then roll in topping mixture.</preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categories>
+    <secondary_category>Box Recipe</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Tilamook Butter Package -- Credited to Jan Marti, Tillamook Dairy Farmer</source_name>
+  <source_date>Summer, 2006</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2006</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

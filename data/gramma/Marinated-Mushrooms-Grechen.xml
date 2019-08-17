@@ -1,0 +1,29 @@
+<recipe>
+	<name>Marinated Mushrooms Grechen</name>
+	<notes>Yeah -- doesn't seem like there's much to this recipe, does there?  It should be mentioned for the record that the Italian dressing specifically mentioned in the recipe was "Wishbone", which does contain a unique blend of herbs and spices, but not like the ol' packet kind wouldn't probably also work fine -- not like Wishbone is all that fine a recipe since canola oil went all big in '89...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>8oz</quantity>
+			<ingredient_name>Italian dressing</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbsp</quantity>
+			<ingredient_name>wine vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Marinate mushrooms 3-4 days.  Upend from time to time.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>**Needs review</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Gretchen Christensen</source_name>
+	<source_page>46-47</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/10/2006</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Marinated_Mushrooms_Grechen</safe_name>
+</recipe>

@@ -1,0 +1,49 @@
+<recipe>
+  <main_ingredient>Mushrooms</main_ingredient>
+  <notes>**UNTRIED** I have no clue where this recipe comes from.  Could be my mom's collection but I think I'd be a lot more  excited about it if it  were.  I always associated marinated mushrooms with my gramma's guests coming  over as a child. My gramma was from an  entirely different era in Sacramento history than my own and I  think this may have been a customary bring-along among their  set.  "Make not the marinated  mushrooms in the summertime, for they shall be Brought Along."  A good policy.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Tarragon Vinegar</ingredient_name>
+      <quantity>2/3 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salad Oil</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic, Minced</ingredient_name>
+      <quantity>1 Medium Clove</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <quantity>1 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <quantity>1 1/2 Tsp.</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Water</ingredient_name>
+      <quantity>2 Tbl</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tobacco</ingredient_name>
+      <quantity>Dash</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>White Onion</ingredient_name>
+      <quantity>1 Medium</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Mushrooms, Sliced In 1/4" Slices</ingredient_name>
+      <quantity>1 Lb</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Marinated Mushrooms</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Appetizer</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.</preparation>
+</recipe>

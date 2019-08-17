@@ -1,0 +1,66 @@
+<recipe>
+  <name>Cream Of Greens Soup</name>
+  <safe_name>Cream_Of_Greens_Soup</safe_name>
+  <yield_count>8</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>Originally  this recipe called for 6-8 slices of bacon to be cooked first in the  pan, using the rendered oil to saute the onions and the cooked bacon as a serving-time garnish, but I didn't find it added much to the recipe other than the horrible knowledge that one had added 8 slices of bacon unnecessarily.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 large bunch</quantity>
+      <ingredient_name>green chard</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>onions or leeks</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>large potatoes</ingredient_name>
+      <preparation>peeled and cubed 1/2 inch</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 6 cup can</quantity>
+      <ingredient_name>chicken stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup can</quantity>
+      <ingredient_name>vegetable stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Trim the stem ends of the chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.
+
+Saute onions in olive oil until softened.  Add the potatoes and stock and bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.
+
+Add the sour cream, reheat gently and season to taste.  </preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categories>
+    <secondary_category>Bachelor Food</secondary_category>
+    <secondary_category>Vegetables</secondary_category>
+  </secondary_categories>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_date>14 May 2003</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/09/2005</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

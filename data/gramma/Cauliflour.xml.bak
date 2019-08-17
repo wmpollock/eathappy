@@ -1,0 +1,43 @@
+<recipe>
+  <name>Cauliflour</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>cauliflour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 recipe</quantity>
+      <ingredient_name>white sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>green pepper</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small can mushrooms</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 small can</quantity>
+      <ingredient_name>sliced pimentoes</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Separate cauliflour, cookin in boiling salted water until just tender.
+
+Put above ingredients into casserole dish, add white sauce, mix.  Sprinkle with grated cheese over top, and sprinkle paprika on top.
+
+Bake 20-25 minutes in 325F oven.</preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0028</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/28/2005</cdate>
+  <mdate>11/28/2005</mdate>
+  <safe_name>Cauliflour</safe_name>
+</recipe>

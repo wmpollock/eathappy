@@ -1,0 +1,45 @@
+<recipe>
+  <name>Chocolate Caramel Cookie Bars</name>
+  <safe_name>Chocolate_Caramel_Cookie_Bars</safe_name>
+  <yield_count>117</yield_count>
+  <yield_measure>cookies (allegedly)</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Cookie Layer</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>all purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>cold and cubed 1/2"</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>** Cookie Layer</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation></preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Danish Creamery Butter package</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>07/07/2013</cdate>
+  <user>billp</user>
+</recipe>

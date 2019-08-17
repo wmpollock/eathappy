@@ -1,0 +1,65 @@
+<recipe>
+	<name>Potato Chip Cookies</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cube</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cube</quantity>
+			<ingredient_name>margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>crushed potato chips</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>vanilla</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 3/4 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>pinch</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation>for sprinkling</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cream together shortening, sugar and vanilla.  Add chips and nuts.  Stir in flour and  a pinch of salt.  Chill dough to slightly firm.
+
+Form dough into small balls and press flat.  Sprinkle cookes with sugar using a fork and bake at 350F until light brown.  </preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Inspires Curiosity</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_page>0064-0065</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/18/2009</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Potato_Chip_Cookies</safe_name>
+</recipe>

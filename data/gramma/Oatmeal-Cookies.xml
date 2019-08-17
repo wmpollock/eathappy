@@ -1,0 +1,60 @@
+<recipe>
+	<name>Oatmeal Cookies</name>
+	<notes>This recipe was the scene of no small amount of controversy in my house for many years and it a rather poor transcription of a man's recipe and legacy.  Problem is that the cookie recipe is "as it is on the back of the box", along with these other ingredients.
+
+Maybe this is so, but I've got a secret suspicion you'll find a more accurate representation of this recipe around here someplace else.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>oatmeal box recipe</ingredient_name>
+			<preparation>on the back</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>extra egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tbs</quantity>
+			<ingredient_name>honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>raisins</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>candied lemon peel</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>coconut</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped walnuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>whole pecans</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix together all ingredients except the pecans.  Drop standard-sized cookies on a covered sheet tray and top each with a 1/2 pecan.  Bake 13 minutes, or maybe 19 -- horrible writing at the bottom.</preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>50s Goodness</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_page>58</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>08/04/2007</cdate>
+	<safe_name>Oatmeal_Cookies</safe_name>
+</recipe>

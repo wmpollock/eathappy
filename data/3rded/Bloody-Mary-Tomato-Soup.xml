@@ -1,0 +1,92 @@
+<recipe>
+  <name>Bloody Mary Tomato Soup</name>
+  <safe_name>Bloody_Mary_Tomato_Soup</safe_name>
+  <yield_count>4-6</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>The Cron says this is better cold than hot but starts at "very good" at hot.  Tomatoes, it suggest, are the seasoning driver.  They suggest a celery garnish.  Seems wasteful</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>creme fraiche</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>prepared horseradish</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 lbs</quantity>
+      <ingredient_name>tomatoes</ingredient_name>
+      <preparation>cored if tough and halved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>red wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl (to taste)</quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp (to taste)</quantity>
+      <ingredient_name>tabasco sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl (to taste)</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>low sodium chicken broth or water.</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat oven to 400F.
+
+Mix together creme fraiche and 1/2 tsp horseradish.  Season to taste and set aside.
+
+Toss the tomatoes with 1 1/2 Tbl olive oil.  Liberally salt and pepper.  Arrange on a pan and roast in 400F oven until skins peel away and tomatoes have softened, about 25 minutes.  Discard skins.
+
+While tomatoes roast, sweat the celery and onions, 4-6 minutes.  Add Worcestershire sauce and red wine vinegar and cook to reduce by half, about 30 seconds.
+
+Run tomatoes, celery-onion mixture, Tabasco sauce, lemon juice, 1 1/2tsp horseradish and water or broth and process until mostly smooth.  Thin with liquid as desired and season to taste.
+</preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Tomatoes</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_date>Unknown 2011</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>10/21/2011</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,76 @@
+<recipe>
+	<name>Chef Jessica's Scones</name>
+	<yield_count>16</yield_count>
+	<yield_measure>scones</yield_measure>
+	<notes>We're not sure where this one came from but the copy came with Susan's handwriting on a dot-matrix...</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 rinds</quantity>
+			<ingredient_name>of orange</ingredient_name>
+			<preparation>freshly grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>buttermilk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>egs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>raw sugar</ingredient_name>
+			<preparation>for garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix toether flour, sugar, baking soda, baking poser and salt.  Cut in orange rind and butter.  Add in buttermilk and eggs nad hand mix.
+
+On a floured surface divide dough into two 6"-8" rounds and cut each round into 8 wedges.
+
+Place each esdge on a baking sheet and sprinkle with sugar before baking at 325F for 12-15 minutes or until golden.</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>Buttermilk</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Chef Jessica riddle of Villa Toscana in Paso Robles by way of Susan Haubert maybe?</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<mdate>05/27/2009</mdate>
+	<user>billp</user>
+	<safe_name>Chef_Jessicas_Scones</safe_name>
+</recipe>

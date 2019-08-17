@@ -1,0 +1,47 @@
+<recipe>
+	<name>Kasutera (Japanese Tea Cake)</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 dozen</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>separated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation>sifted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>lemon rind</ingredient_name>
+			<preparation>grated fine</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/4 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 325F.  Beat egg whites in a large bowl until stiff.  Beat yolks in another bowl and cream in sugar gradually.  Beat in lemon rind and juice.  Fold in egg whites.  Sift in flour, folding in.  
+
+Pour into 9x13" pan lined with baking parchment.  Bake 50 minutes or until golden brown.  Cover surface with wax paper and invert pan and remove parchment.  Return to pan to let cool.
+
+Slice into rectangular pieces.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Japanese</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Kik Nishida</source_name>
+	<source_page>57</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/04/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Kasutera_Japanese_Tea_Cake_</safe_name>
+</recipe>

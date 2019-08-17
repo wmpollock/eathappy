@@ -1,0 +1,113 @@
+<recipe>
+  <name>Sausage Bread</name>
+  <safe_name></safe_name>
+  <primary_category>Bread</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <yield_count>1</yield_count>
+  <yield_measure>loaf</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>Brigeford frozen dough loaves (2 lbs dough)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>Ground breakfast  sausage</ingredient_name>
+      <preparation>Tube style</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>Cheddar </ingredient_name>
+      <preparation>Shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>Eggs</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Breakfast</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>Jack</ingredient_name>
+      <preparation>Shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>Maple syrup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Italian</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb </quantity>
+      <ingredient_name>Italian style sausage </ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb </quantity>
+      <ingredient_name>Mozzarella </ingredient_name>
+      <preparation>Shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>Italian seasoning </ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>Salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>Black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 lb</quantity>
+      <ingredient_name>Shredded Parma </ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Thaw loaves in fridge twelve hours. Some might say overnight. 
+
+Brown sausage and cool.
+
+Knead bread and poof at 170F with bowl of water (1qt) to double -- one and a half hours.
+
+Punch down bread.  Let rise a second time,  30 minuets. 
+
+Reserve egg.  For Italian, reserve Parma.  Combine other ingredients.
+
+Roll dough 12"x4".
+
+Align filling along center longitudinal third.  Roll up longitudinally and form into a ring,  seam-side down.
+
+Wash with beaten eggs.  Top with Parma for Italian.
+
+Bake 375F, 1 hour 15 minutes for breakfast.  Bake until Parma cooks for Italian, perhaps 15 minutes longer.
+
+</preparation>
+  <source_author>Geoff Dawe</source_author>
+  <source_name></source_name>
+  <source_page></source_page>
+  <source_date>15 September 2017</source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-16</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,151 @@
+<!-- Necessary placement also done in standard.tmpl - zoh  -->
+<!-- oh for PHP, or at least SETVER $md_size -->
+<!--
+Accesskeys:
+n - recipe name
+c - primary category
+u - untried
+s - secondary categories
+y - yield
+t - prep time
+n - notes
+i - ingredients
+p - preparation
+S - source
+-->
+<div class="editor">
+
+  <form action="/eathappy/save/<!--TMPL_VAR NAME="collectionName"-->" method="post">
+    <input name="collectionName" type="hidden" value="<!--TMPL_VAR NAME="collectionName"-->"/>
+    <input name="original_name" type="hidden" value="<!--TMPL_VAR NAME="recipeName"-->"/>
+
+<!--
+    <div class="input-group well-sm well">
+      <strong>Collection</strong>:
+      <TMPL_VAR NAME='collectionLabel'>
+    </div>
+-->
+
+
+    <!-- ENTRY NAME -->
+    <div class="input-group">
+      <span class="input-group-addon" id="basic-addon1">Entry name</span>
+      <input type="text" class="form-control" placeholder="Enter the name of the recipe" name="recipeLabel" aria-describedby="basic-addon1" accesskey="n">
+    </div>
+
+    <!-- PRIMARY CATEGORY-->
+    <div class="input-group">
+      <span class="input-group-addon">Primary category</span>
+      <select name="primary_category" class="form-control" accesskey="c">
+          <option value="">Please select</option>
+          <!--TMPL_LOOP NAME="category_loop"-->
+            <option value="<!--TMPL_VAR NAME="categoryLabel"-->"><!--TMPL_VAR NAME="categoryLabel"--></option>
+          <!--/TMPL_LOOP-->
+       </select>
+    </div><!-- /input-group -->
+
+    <!-- UNTRIED TOGGLE -->
+    <div class="input-group">
+      <span class="input-group-addon">Untried</span>
+      <input type="checkbox" class="switch" checked='yes' data-on-text='Yes' data-off-text="No" name="untried" value="yes" accesskey="u"/>
+    </div><!-- /input-group -->
+
+    <!-- SECONDARY CATEGORIES -->
+<!--TODO: start/toggle collapse-->
+    <div class="panel panel-default secondary-categories">
+      <div class="panel-heading" role="tab" id="headingOne"  data-toggle="collapse" data-parent="#accordion" href="#collapse-second-categories" aria-expanded="false" aria-controls="collapse-second-categories">
+        <span class="expand-content control glyphicon glyphicon-collapse-up"></span>
+        <span class="badge count"><!--TMPL_VAR NAME="count"--><!--TMPL_UNLESS NAME="count"-->0<!--/TMPL_UNLESS--></span>
+        <span class="collapse-content control glyphicon glyphicon-collapse-down"></span>
+        <h4 class="panel-title">
+	  Secondary Categories
+        </h4>
+      </div>
+
+      <div id="collapse-second-categories" class="panel-collapse collapseX secondary-categories" role="tabpanel" aria-labelledby="headingOne">
+        <div class="container-fluid">
+          <div class="row">
+          <!--TMPL_LOOP NAME="secondary_category_loop"-->
+            <div class="col-xs-6 col-md-3">
+	      <input type="checkbox" id="catlabel-<!--TMPL_VAR NAME="__counter__"-->" name="secondary_categories" value="<!--TMPL_VAR NAME="categoryLabel"-->">
+              <label for="catlabel-<!--TMPL_VAR NAME="__counter__"-->">
+		     <!--TMPL_VAR NAME="categoryLabel"-->
+              </label>
+            </div>
+          <!--/TMPL_LOOP-->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="input-group">
+      <span class="input-group-addon" id="basic-addon1">Yield</span>
+      <input type="text" class="form-control" placeholder="quantity" name="yieldQuant" aria-describedby="basic-addon1" accesskey="y">
+      <input type="text" class="form-control" placeholder="units" name="yieldUnit" aria-describedby="basic-addon1">
+    </div>
+
+    <div class="input-group">
+      <span class="input-group-addon" id="basic-addon1">Prep time</span>
+      <input type="text" class="form-control" placeholder="time" name="prepTime" aria-describedby="basic-addon1" accesskey="t">
+    </div>
+
+    <div class="form-group">
+      <label for="comment">Notes:</label>
+      <textarea class="form-control" rows="5" name="notes" placeholder="Enter any commentary you'd like to include" accesskey="n"></textarea>
+    </div>
+
+    <div class="form-horizontal">
+      <label for="comment">Ingredients:</label>
+      <ul class="list-group ingredients">
+
+        <li class='list-group-item'>
+          <div class="form-group row">
+	    <span class="edit">
+              <div class="col-md-2 col-xs-12">
+                <input type="text" class="form-control" placeholder="meas." name="measureQuant" aria-describedby="basic-addon1" accesskey="i"/>
+              </div>
+              <div class="col-md-4 col-xs-12">
+                <input type="text" class="form-control" placeholder="ingredient or **Separator" name="ingredientName" aria-describedby="basic-addon1"/>
+              </div>
+              <div class="col-md-4 col-xs-12">
+                <input type="text" class="form-control" placeholder="preparation" name="ingredientPrepName" aria-describedby="basic-addon1"/>
+	      </div>
+              <div class="col-md-1 col-xs-6 icons">
+		<a><span class="delete glyphicon glyphicon-trash"></span></a>
+	      </div>
+              <div class="col-md-1 col-xs-6 text-right icons">
+		<span class="sort glyphicon glyphicon-sort"></span>
+	      </div>
+
+            </span>
+	  </div> <!-- form group -->
+        </li>
+
+     </ul>
+    </div>
+
+    <div class="form-group">
+      <label for="comment">Preparation:</label>
+      <textarea class="form-control" rows="5" name="preparation" placeholder="Describe how to prepare the recipe." accesskey="p"></textarea>
+    </div>
+
+    <div class="input-group">
+      <span class="input-group-addon" id="basic-addon1">Source</span>
+      <input type="text" class="form-control" placeholder="author" name="sourceAuthor" aria-describedby="basic-addon1" accesskey="s"/>
+      <input type="text" class="form-control" placeholder="title" name="sourceTitle" aria-describedby="basic-addon1"/>
+      <input type="text" class="form-control" placeholder="page or url" name="sourcePage" aria-describedby="basic-addon1"/>
+      <input type="text" class="form-control" placeholder="publication date" name="sourceDate" aria-describedby="basic-addon1"/>
+    </div>
+
+    <div class="input-group">
+       <input type="submit" class="btn btn-primary" name="Submit" value="Submit"/>
+       <input type="submit" class="btn php-feed" name="Submit" value="DevSubmit"/>
+       <div class='status'/>
+    </div>
+  </form>
+</div>
+
+<script>
+  var formState <!--TMPL_IF NAME="formState"-->= <!--TMPL_VAR NAME="formState"--><!--/TMPL_IF-->;
+</script>
+

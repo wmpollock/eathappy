@@ -1,0 +1,38 @@
+<recipe>
+  <name>Mushrooms, Deep Fried</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>fresh mushrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/c cup</quantity>
+      <ingredient_name>club soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>garlic salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>cooking oil for deep frying</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dip mushrooms in batter.  Fry at 400F for about 5 minutes or until golden brown.  Drain on paper towel.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>46</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/10/2006</cdate>
+  <safe_name>Mushrooms_Deep_Fried</safe_name>
+</recipe>

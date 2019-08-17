@@ -1,0 +1,77 @@
+<recipe>
+  <name>Oatmeal-Banana cookies</name>
+  <safe_name>Oatmeal_Banana_cookies</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>dozen</yield_measure>
+  <notes>Banana is one of those little-added ingredients that just seems to make things happier when it can find a ride to the party.  I've yet to try these cookies but its certainly an interesting place to imagine that fruit to live.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>shortening</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>white or light brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>baking soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 3/4 cups</quantity>
+      <ingredient_name>old fashioned oats</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>mashed bananas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>raisins or nus</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat oven to 375F and combine all ingredients until thoroughly blended.  Drop rounded teaspoons 1 1/2" apart on greased or lined baking sheet.  Bake for 12 to 15 minutes.</preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Asst'd Comfort Food</secondary_category>
+    <secondary_category>Bananas</secondary_category>
+    <secondary_category>Box Recipe</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Ralph's Grocery brand Old Fashioned Oats</source_name>
+  <source_date>2003?</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/06/2009</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

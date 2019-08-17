@@ -1,0 +1,83 @@
+<recipe>
+	<name>Spice-Rubbed Chicken</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>A tasty from my modern version of "The Joy Of Cooking".  The rub works pretty well on pork tenderloin as  well.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 tsp</quantity>
+			<ingredient_name>dry mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>fennel seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>ground coriander</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>ground cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>ground red pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>boneless and skinless chicken breasts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>minced cilantro</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>fresh lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 small clove</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>minced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>dash</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation><![CDATA[Mix together salt, mustard fennel, coriander, cinnamon and red pepper; crushing in the fennel seeds in a mortar & pestle or against the side of the bowl with a strong metal spoon. 
+
+Rinse and pat dry chicken breasts and evenly coat all sides with spice mixture.
+
+Grill chicken and prepare sauce:  mix olive oil, cilantro, lemon juice, garlic and a dash of salt in a small bowl.  Drizzle oil mixture over chicken just prior to serving.
+
+Olive oil mix may be made ahead of time and chilled -- the difference in temperatures between the oil and the chicken is rather pleasant.]]></preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>BBQ</secondary_category>
+		<secondary_category>Chicken</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/03/2005</cdate>
+	<mdate>05/11/2009</mdate>
+	<safe_name>Spice_Rubbed_Chicken</safe_name>
+</recipe>

@@ -1,0 +1,78 @@
+<recipe>
+  <name>Beef Stroganoff (Pepperidge Farms)</name>
+  <yield_count>6</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>Most of my grandmother's recipes are handwritten or types, though this is one of the few cut-from-the-box cards.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/4 pounds</quantity>
+      <ingredient_name>beef chuck</ingredient_name>
+      <preparation>cut into 1 x 1/4" x 1/4" julienne strips</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 package</quantity>
+      <ingredient_name>Pepperidge Farm Patty Shells</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>peeled and sliced thinly</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 lb</quantity>
+      <ingredient_name>fresh mushooms</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>butter or margerine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sherry wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>tomato juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a bowl mix beef with oil and vinegar; marinate 30 minutes and drain well.  Discard marinade.  Prepare Patty Shells according to package directions.  In a large skillet saute onion and mushrooms in butter until soft.  Add well-drained beef and cook over high heat, stirring constantly, until meat is browned.  Add sherry, tomato juice, salt and pepper and cook, uncovered for 30 to 45 minutes or until beef is tender.  Just before serving, stir in sour cream and spoon into Patty Shells.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Pepperidge Farms card</source_name>
+  <source_page>0006</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/17/2005</cdate>
+  <mdate>11/21/2005</mdate>
+  <safe_name>Beef_Stroganoff_Pepperidge_Farms_</safe_name>
+</recipe>

@@ -1,0 +1,49 @@
+<recipe>
+  <name>Memphis-style Rub</name>
+  <safe_name>Memphis_style_Rub</safe_name>
+  <yield_count>1/2</yield_count>
+  <yield_measure>cup</yield_measure>
+  <notes>Made of things common to nearly all kitchens, this rub also works well on pork shoulder and -- in smaller measures -- as a season-all.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>onion powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>fresh ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Dry meat before applying.  Let sit on meat until it appears moist.</preparation>
+  <primary_category>Seasonings/Sauces</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Beef</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>About.com:  Memphis Style Rib Rub</source_name>
+  <source_page>http://bbq.about.com/od/rubrecipes/r/bl90710b.htm</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/03/2013</cdate>
+  <mdate>03/03/2013</mdate>
+  <user>billp</user>
+</recipe>

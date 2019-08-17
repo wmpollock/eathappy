@@ -1,0 +1,61 @@
+<recipe>
+	<name>Bill's Bloody Marys, Rosemont New Year Stylee</name>
+	<notes>Another cursed recipe.  Over the course of a week at Sea Ranch I'd come up with the killer Bloody Mary recipe that took me the better part of a week to sus out.  
+
+And man, it had a little of everything.  When condiments are use-or-loose, suddenly pouring through that horseradish sounds like a good idea, doesn't it?
+
+Its was kind of a fussy recipe and while this one is maybe not as ambrosial, it is certainly serviceable enough to fly in Italy where I'd wanted it most.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>12 oz pint glass</ingredient_name>
+			<preparation>full of ice</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 oz</quantity>
+			<ingredient_name>vodka</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4-5 dashes</quantity>
+			<ingredient_name>Tabasco</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 dashes</quantity>
+			<ingredient_name>Worchestershire</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 dashes</quantity>
+			<ingredient_name>garlic salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5-6 grinds</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>celery stalk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix all ingredients together except the celery stalk and find a "capping cup", something that will fit over the top to allow you to shake the cocktail (else one could probably use a cocktail shaker, but man, the cleanup".  Garnish with celery.</preparation>
+	<primary_category>Beverages</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+		<secondary_category>Makes You Drunk</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/26/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Bills_Bloody_Marys_Rosemont_New_Year_Stylee</safe_name>
+</recipe>

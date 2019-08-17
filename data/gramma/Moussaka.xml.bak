@@ -1,0 +1,85 @@
+<recipe>
+  <name>Moussaka</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>eggplant</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>butter or margerine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>choped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 pound</quantity>
+      <ingredient_name>ground beef</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tsp</quantity>
+      <ingredient_name>tomato paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>chopped parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt or pepper to taste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5 oz</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>beaten until frothy</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>nutmeg</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>fine bread crumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>Parmesan cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Peel eggplant and slice 1/2 inch thick.  Brown in butter.  Cook untions until slightly brown.  Cook meat 10 minutes.  Combine tomato past and other ingredients.  Make sauce of 3 Tbsp buter, flour and milk.  Stir in beaten eggs.
+
+[sadly this is the end of the instructions.  Similar reference recipes from The Internet sugest all remaining ingredients layer into a deep pan and are baked 30-40 minutes.  Perhaps these things were transparent to my grandmother.  Else she should have used a bigger card]</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>48-49</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/12/2006</cdate>
+  <safe_name>Moussaka</safe_name>
+</recipe>

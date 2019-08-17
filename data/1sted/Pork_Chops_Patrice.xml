@@ -1,0 +1,43 @@
+<recipe>
+  <main_ingredient>Pork Chops</main_ingredient>
+  <notes>**UNTRIED** 
+
+A recipe from my Uncle Patrick's "bachelor days", which were long and varied.  Somewhere exists a recipe  for Tuna  Surprise which contained lots of strange things such as peas (not to mention "hot tuna") but  was generally pretty tasty.  Sadly I wouldn't rediscover this recipe until well -after- college.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Nice Chops</ingredient_name>
+      <quantity>6-8</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>White Wine</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Green Onion, Finely Chopped</ingredient_name>
+      <quantity>1</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sour Cream</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sliced Raw Mushrooms</ingredient_name>
+      <quantity>3/4 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Cream Of Mushroom Soup</ingredient_name>
+      <quantity>1 Can</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Fresh Mushrooms</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <name>Pork Chops Patrice</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Main Dish</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Brown pork chops, add wine and simmer for a while.  In a large pyrex baking dish, spread soup evenly and add rest of ingredients.  Place chops on top of sauce and bake at 350º for 15 minutes.  When sauce has thinned a little and is bubbly, spoon over chops and continue to bake another 10 minutes.</preparation>
+</recipe>

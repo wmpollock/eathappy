@@ -1,0 +1,75 @@
+<recipe>
+  <name>Barbecued Spareribs, Eastern</name>
+  <safe_name>Barbecued_Spareribs_Eastern</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>These ribs were rated better than the Peach Sauce ribs by the Bryans and the Dawes who'd had a little of each.  I found this recipe personally a bit on the salty side but otherwise serviceably tasty.
+
+Working on a hunch I tried this as a jerky marinade and it worked great! The flavor lasted a goodly while in the fridge, usually the signature problem of homemade jerky.  Next time I'm going to double-dip 'em and see how that goes.</notes>
+  <prep_time>1:20</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 slab (2 1/2-3 lbs)</quantity>
+      <ingredient_name>ribs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>rice wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>hoisin sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>catsup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>honey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2-3 slices</quantity>
+      <ingredient_name>candied ginger</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>ajinomoto/accent</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Remove inner lining of ribs, wash, and place in a pan deep enough to cover ribs with water, vinegar and salt to taste.  Bring to a boil and reduce to simmer for 20 minutes or until ribs are tender.  Drain ribs and marinate in remaining ingredients for 1 hour.  Cook over BBQ or under a broiler until glazed.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Spareribs</secondary_category>
+    <secondary_category>Chinese</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Sadaka Nagao</source_name>
+  <source_page>38</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/03/2005</cdate>
+  <mdate>06/19/2010</mdate>
+  <user>billp</user>
+</recipe>

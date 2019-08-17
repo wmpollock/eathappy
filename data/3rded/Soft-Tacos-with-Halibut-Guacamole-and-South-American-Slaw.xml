@@ -1,0 +1,145 @@
+<recipe>
+  <name>Soft Tacos with Halibut, Guacamole and South American Slaw</name>
+  <safe_name>Soft_Tacos_with_Halibut_Guacamole_and_South_American_Slaw</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Truly a trio of fine recipes here.  You could probably bring your own guac to the party without offending anyone.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Guacamole</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>large ripe avacados</ingredient_name>
+      <preparation>mashed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>finely chopped fresh cilantro</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>fresh lime juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>minced garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp </quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**South American Slaw</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>jicama</ingredient_name>
+      <preparation>peeled and coarsely shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium carrot</ingredient_name>
+      <preparation>corsely shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small red bell pepper</ingredient_name>
+      <preparation>stemed and seeded, cross-cut thinly.</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small red onion</ingredient_name>
+      <preparation>cut half and then thinly crosswise</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>extra virgin olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>fresh lime juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>granulated sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>geshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Other ingredients</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>8oz-ish halibut or cod fillets</ingredient_name>
+      <preparation>1/4" thick</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>extra virgin olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Using a fork, mash together guacamole in a medium bowl.  Combine slaw in a medium bowl.
+
+Brush the fish with oil and dust with chile power, kosher salt and pepper.  Grill over direct high heat until begins to flake: 6 tgo 8 minutes.  Turn once.
+
+Heat tortillas over direct high for 20 seconds, flip and toast for an aditional 20 seconds.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <source_name>Webber's Real Grilling</source_name>
+  <source_page>236</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>02/04/2011</mdate>
+  <user>billp</user>
+</recipe>

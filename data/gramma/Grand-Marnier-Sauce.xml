@@ -1,0 +1,68 @@
+<recipe>
+  <name>Grand Marnier Sauce</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 quart</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup + 1 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>sweet butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>vanilla beat</ingredient_name>
+      <preparation>split</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>whole egg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>egg yolks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbsp</quantity>
+      <ingredient_name>cornstarch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>10 Tbsp</quantity>
+      <ingredient_name>Grand Mariner</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>[No preparation provided!  Just service notes.  Its likely that this mess should be heated until thickened and then allowed to cool some, the vanilla bean strained/removed.]
+
+Make sauce, reheat before serving.
+
+Add 4 Tbsp Grand Marnier to 2 c sauce [nb:  this seems kind of crazy-town given that we're already in for +1 cup at this point]</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>86</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-11</mdate>
+  <user>billp</user>
+</recipe>

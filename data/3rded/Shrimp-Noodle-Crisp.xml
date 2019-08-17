@@ -1,0 +1,71 @@
+<recipe>
+  <name>Shrimp Noodle Crisp</name>
+  <safe_name>Shrimp_Noodle_Crisp</safe_name>
+  <yield_count>5</yield_count>
+  <yield_measure>generous servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>thin egg noodles</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 lb or more</quantity>
+      <ingredient_name>shrimp</ingredient_name>
+      <preparation>cooked</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>green pepper</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>potato chips</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook noodles in 3 quarts boiling water, drain and rinse.   Mix all ingredients in 1 1/2 quart casserole and top with crushed potato chips.  Bake at 350F for 30 minutes</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Shrimp</secondary_category>
+  </secondary_categories>
+  <source_name> From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Mrs. Mollie Yoneyama</source_name>
+  <source_page>28</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/03/2005</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

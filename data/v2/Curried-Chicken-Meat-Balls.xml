@@ -1,0 +1,88 @@
+<recipe>
+  <source_page>6</source_page>
+  <safe_name>Curried_Chicken_Meat_Balls</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Mix meatball mixture together and roll balls in flour.  Saute in butter until throughly cooked.
+
+Sauce:  saute crushed clove of garlic in 2 tbsp butter until soft and discard.  Add remaining ingredients and reduce until thick.  Season with salt and pepper to taste.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>01/20/2005</cdate>
+  <prep_time></prep_time>
+  <name>Curried Chicken Meat Balls</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date>1958</source_date>
+  <source_name>"A Book Of Appetizers", Helen Evans Brown</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>**MEATBALLS</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground chicken or turkey</ingredient_name>
+      <quantity>2 lbs</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation>grated</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>curry powder</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>egg</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>breadcrumbs</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>**CURRY SAUCE</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>clove garlic</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>butter</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>curry powder</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken stock</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

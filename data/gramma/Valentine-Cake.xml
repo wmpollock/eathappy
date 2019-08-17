@@ -1,0 +1,42 @@
+<recipe>
+  <name>Valentine Cake</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count>10-12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>12</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>separated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 1/8 cups</quantity>
+      <ingredient_name>confectioner's sugar</ingredient_name>
+      <preparation>sifted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>finely chopped pecans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Beat whites and salt until foamy.  Gradually add sugar and continue beating until stiff but not dry.  Beat yolks until very thick and creamy.  Fold yolks carefully but very thoroughly into whites.  Gently fold in pecans.  Pour into a 10-inch tube pan.  Bake in a 350F oven for 50 minutes.  Remove from oven; invert pan to cool cake before removing from pan.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>90</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-10</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

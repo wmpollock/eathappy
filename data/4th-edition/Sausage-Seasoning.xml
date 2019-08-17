@@ -1,0 +1,112 @@
+<recipe>
+  <name>Sausage Seasoning</name>
+  <safe_name></safe_name>
+  <primary_category>Breakfast</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Pork</secondary_category>
+    <secondary_category>Turkey</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>I started with dissatisfaction with the preparation and availability of turkey sausage and ended with the ultimate solution to pork rib trimmings, ground coarse.  This is a bit of a kitchen sink recipe largely intact from The Joy of Cooking.  I find that it is easier to mix up a large batch and have it on hand:  I'll mark it below as "parts":  I use a small measuring cup in tablespoon gradients but you could use ounces or cups or buckets for all it would matter.  Pick a unit.
+
+At present I am favoring swapping out a quarter of the salt for Accent (ALL HAIL MSG).
+
+ </notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 lbs</quantity>
+      <ingredient_name>ground pork or turkey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>coarsly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>dried sage</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp </quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried marjoram</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>dried thyme</ingredient_name>
+      <preparation>alternately savory</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>ground ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch or two</quantity>
+      <ingredient_name>ground red pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Proportional Measure</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 parts</quantity>
+      <ingredient_name>ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 parts</quantity>
+      <ingredient_name>dried sage</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 parts</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation>alternately swap 1->1.25 parts salt for 1 part Accent </preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 parts</quantity>
+      <ingredient_name>dried marjoram</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 part</quantity>
+      <ingredient_name>thyme</ingredient_name>
+      <preparation>savory if you're fancy</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 part</quantity>
+      <ingredient_name>ground ginger</ingredient_name>
+      <preparation>but be generous</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 part</quantity>
+      <ingredient_name>ground red pepper</ingredient_name>
+      <preparation>or forget about it.</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Place ground meat in a large bowl or dish.  Combine dry ingredients and integrate into meat, tossing and fluffing with a fork to ensure even coverage before forming patties.
+
+Some pureists -- myself included -- cut in a little water prior to adding the seasoning.  Depending on your preparation and the moisture content of your meat, you may want to do likewise.</preparation>
+  <source_author></source_author>
+  <source_name>Joy of Cooking</source_name>
+  <source_page>727</source_page>
+  <source_date>1997</source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2016-09-28</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,77 @@
+<recipe>
+  <name>Do-ahead gravy</name>
+  <safe_name>Do_ahead_gravy</safe_name>
+  <yield_count>2 1/2</yield_count>
+  <yield_measure>cups</yield_measure>
+  <notes>At the end of the process I had a completely serviceable, drama-free gravy from this recipe.  No lumps, no scalding, easy-peasy.  I'm curious now, if not for strong hubris, how so many gravies go meh.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Roux</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Gravy</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 to 6 Tbl</quantity>
+      <ingredient_name>roux</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>poultry broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 up</quantity>
+      <ingredient_name>white wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>turkey drippings</ingredient_name>
+      <preparation>to taste, fine bits only</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation>to taste.</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Roux: melt butter in small skillet over medium-low heat and whisk in flour. Stir occasionally. Cook to taste:  five to ten minutes for golden to dark brown, two or less for white.  Can be prepared ahead and refrigerated or simply kept cool for short durations.
+
+Gravy:  Roux and poultry should be of enough combined temperature to be slightly warm -- cool broth, hot roux or vice versa.  Simmer moderately until halved.  Chill until turkey is prepared.
+
+Deglaze roasting pan with white wine.  Heat gravy to simmering and incorporate drippings to taste.  Season with salt and pepper.</preparation>
+  <primary_category>Seasonings/Sauces</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle</source_name>
+  <source_page>L7</source_page>
+  <source_date>Novemer 18, 2012</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/02/2013</cdate>
+  <user>billp</user>
+</recipe>

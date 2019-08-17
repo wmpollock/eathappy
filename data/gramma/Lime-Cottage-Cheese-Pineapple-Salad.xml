@@ -1,0 +1,60 @@
+<recipe>
+  <name>Lime Cottage Cheese Pineapple Salad</name>
+  <safe_name></safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <untried>1</untried>
+  <secondary_categories>
+    <secondary_category>Jello/Jello Mold</secondary_category>
+  </secondary_categories>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>lime jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>hot water (only)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 carton</quantity>
+      <ingredient_name>cottage cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 large can</quantity>
+      <ingredient_name>crushed pineapple</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation>unwhipped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>additional 1/2 cup</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation>whipped</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together hot water and lime jello.  Let cool -- do not let it start to set.
+
+Add cottage cheese, crushed pineapple and 1/2 cup whipping cream unwhipped.
+
+Mix 1/2 cup whipping cream mix and fold into above mixture.
+
+Pour into 15x9 pyrex dish to set.</preparation>
+  <source_author></source_author>
+  <source_name>54</source_name>
+  <source_page></source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-09</mdate>
+  <user>billp</user>
+</recipe>

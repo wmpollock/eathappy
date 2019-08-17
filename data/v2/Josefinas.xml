@@ -1,0 +1,51 @@
+<recipe>
+  <source_page>9</source_page>
+  <safe_name>Josefinas</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation>Mix butter with chiles and garlic and coat bread slices.  Mix cheddar cheese and mayonnaise and top bread slices, spreading to edges.  Broil until browned and serve hot.</preparation>
+  <yield_count>5</yield_count>
+  <yield_measure>dozen</yield_measure>
+  <untried>1</untried>
+  <cdate>01/20/2005</cdate>
+  <prep_time></prep_time>
+  <name>Josefinas</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date>1958</source_date>
+  <source_name>"A Book Of Appetizers", Helen Evans Brown</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>small baguette loaf</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>sliced 1/4"</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>butter</ingredient_name>
+      <quantity>1/2 lb</quantity>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>canned green chiles</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>1 clove</quantity>
+      <preparation>pressed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cheddar cheese</ingredient_name>
+      <quantity>1/2 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

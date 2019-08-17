@@ -1,0 +1,53 @@
+<recipe>
+  <name>Cheese Cake Phyllis</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 stick</quantity>
+      <ingredient_name>margarine or butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>large carton</quantity>
+      <ingredient_name>cool shipe</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>instant buterschootch pudding</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together flour, margarine or butter, salt and chopped nuts and press into pan.  Bake 8-10 minutes at 400F.  Mix together cream cheese and cool whip and spread over crust.  Mix together pudding mix and milk and spread over top.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>32-33</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/04/2005</cdate>
+  <safe_name>Cheese_Cake_Phyllis</safe_name>
+</recipe>

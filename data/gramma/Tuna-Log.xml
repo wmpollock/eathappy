@@ -1,0 +1,47 @@
+<recipe>
+  <name>Tuna Log</name>
+  <safe_name></safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>Two words that don't necessarily go great together...</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cans</quantity>
+      <ingredient_name>tuna</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>a little</quantity>
+      <ingredient_name>hot sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 little</quantity>
+      <ingredient_name>milk or cream or mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Blend + mold.  Put in oiled bowl + shape roll.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page></source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-09</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

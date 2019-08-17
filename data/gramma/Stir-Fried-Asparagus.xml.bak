@@ -1,0 +1,64 @@
+<recipe>
+  <name>Stir Fried Asparagus</name>
+  <yield_count>4-6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lbs</quantity>
+      <ingredient_name>fresh asparagus</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation>boiling, salted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbl</quantity>
+      <ingredient_name>oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>mashed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>grated ginger root</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbsp</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>sliced, including tops (optional)</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Snap off tough ends from asparagus and cut spears into thin diagonal slices.  Drop into boiling salted water and cook 2 minutes.  Drain immediately and set aside.
+
+Prepare remaining ingredients.  Heat oil in large frying pan or wok over high heat.  Add garlic and ginger and stir about 30 seconds.  Add asperagus, water, sugar and salt.  Stir-fry, turning with spatula until heated through, about 1 minute.  Turn out on warm serving dish and garnish with green onions if desired.
+
+</preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0001-R</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/01/2005</cdate>
+  <safe_name>Stir_Fried_Asparagus</safe_name>
+</recipe>

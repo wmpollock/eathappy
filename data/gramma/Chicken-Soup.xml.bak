@@ -1,0 +1,86 @@
+<recipe>
+  <name>Chicken Soup</name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 lbs</quantity>
+      <ingredient_name>chicken breasts</ingredient_name>
+      <preparation>split, skinned and boned</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cans</quantity>
+      <ingredient_name>chicken broth (43 oz)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>small carrots</ingredient_name>
+      <preparation>sliced crosswise</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>medium onions</ingredient_name>
+      <preparation>cut up (not too small)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>stalks celery</ingredient_name>
+      <preparation>cut up (not too small)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small green pepper</ingredient_name>
+      <preparation>cut up</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name><![CDATA[salt & pepper]]></ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>elbow macaroni</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 stick</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Put into stockpot:  water, chicken broth, tomatoes, onions, garlic, celery, green pepper, parsley, salt & pepper.  Let come to a boil then turn fire to low & cook slowly (covered) for 1/2 hr.
+
+Add carrots, let simmer 10 minutes longer.  Add chicken breasts (whole) & cook 15 minutes longer or until done.  Add macaroni & butter.  Cook until macaroni is done (do not overcook).  Stir now and then to keep from sticking.
+
+Before serving, cut chicken up into bite-size pieces.
+
+Have butcher split, skin & bone chicken for you.
+
+Freezes well.
+
+Nell's note: S&W puts ojut a can of tomatoes that are peeled & cut up, but I cut them a little more.   For a 16-oz can, I just use half of the can.]]></preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Nell Boylin</source_name>
+  <source_page>0017-0018</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <safe_name>Chicken_Soup</safe_name>
+</recipe>

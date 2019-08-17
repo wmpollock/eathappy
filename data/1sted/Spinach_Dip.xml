@@ -1,0 +1,36 @@
+<recipe>
+  <main_ingredient>Dips</main_ingredient>
+  <notes>Another one with possible lineage from my Gramma Jackson else my Mom -- they traded quite a few back  and forth over the years.   Always best if served into a hacked-up monster loaf of sourdough.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Sour Cream</ingredient_name>
+      <quantity>2 Large Cartons</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Knorr's Vegetable Soup</ingredient_name>
+      <quantity>2 Packages</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Scallion Onions (for Chives)</ingredient_name>
+      <quantity>3</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Pkg Cream Cheese, Softened</ingredient_name>
+      <quantity>1 Pkg (16 Oz)</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Pkg Frozen Chopped Spinach, Drained</ingredient_name>
+      <quantity>1 Pkg</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Diced Water Chestnuts</ingredient_name>
+      <quantity>1 Can</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Spinach Dip</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Appetizer</category>
+  </category>
+  <preparation>Refrigerate to allow flavor to develop.  Hollow out round loaf of French bread.  Cut bread into squares and fill hollow with dip.</preparation>
+</recipe>

@@ -1,0 +1,79 @@
+<recipe>
+  <name>Muth Dal</name>
+  <safe_name>Muth_Dal</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Raj says this brown lentil is a tender bean dish -- not saucy at all -- and good to eat alongside rice or nan or tortilla.
+
+Raj adds that hing tastes a bit like onion and garlic and used by some vegetarians in India as a replacement for those vegetables which they eschew because of their strength.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>muth dal</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>hing</ingredient_name>
+      <preparation>optionally</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>tumeric</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>cayenne</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>corriander</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>fresh lemon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Soak the muth in 2 cups of warm water for six hours in a covered bowl.  Rinse.
+
+Heat oil in a heavy frying pan or pot over medium heat.  Brown the garlic in the hot oil and add the hing and muth.  Saute for five minutes and add hing, salt, tumeric, cayenne and coriander.  Mix and continue to saute for two minutes until ingredients are well integrated.  Add 2 cups water and reduce heat to low.
+
+Stir once before covering and cooking for 1 hour.  Check halfway through and add a few tablespoons of water if it appears too dry.  Cook uncovered for a few minutes at the end if any water remains.  When done, remove from heat and top with lemon juice.  Can be served at any temperature.
+</preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Indian (Authentic)</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Vegetarian Cooking, Shanta Nimbark Sacharoff</source_name>
+  <source_page>141</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/03/2010</cdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,61 @@
+<recipe>
+	<name>Confetti Potato Salad</name>
+	<yield_count>8-10</yield_count>
+	<yield_measure>generous servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>6 cups</quantity>
+			<ingredient_name>potatoes</ingredient_name>
+			<preparation>cooked, chopped up</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>celery slices</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>thin carrot slices</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped green pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>chopped red onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1-2</quantity>
+			<ingredient_name>hard boiled eggs</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>dash</quantity>
+			<ingredient_name>pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>mayonnaise</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine ingredients and mix lightly.  Chill before serving.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Marian (Pollock)</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/12/2009</cdate>
+	<safe_name>Confetti_Potato_Salad</safe_name>
+</recipe>

@@ -1,0 +1,60 @@
+<recipe>
+  <name>454 "Go Deep" Dip</name>
+  <safe_name>454_Go_Deep_Dip</safe_name>
+  <yield_count>~16</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time>10 min</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>16 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8</quantity>
+      <ingredient_name>Skor or Heath Bars</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tub</quantity>
+      <ingredient_name>Mrs. Richardson's Butterscotch or Caramel topping</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 each</quantity>
+      <ingredient_name>red and green apples</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Put ingredients in a 9x13 pan as follows:
+
+Layer 1: Mix cream cheese with brown sugar and vanilla
+Layer 2: Break and spread five candy bars
+Layer 3: Spread container of Mrs. Richardson's topping
+Layer 4: Break and spread remaining three candy bars
+
+Cut apples into wedges and serve with plenty of napkins (and maybe spoons!)</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Dips</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+    <secondary_category>Apples</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Lisa Thornton, via Cheryl Bryan</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/13/2011</cdate>
+  <user>hilaryp</user>
+</recipe>

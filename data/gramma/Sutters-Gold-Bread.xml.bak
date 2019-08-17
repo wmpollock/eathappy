@@ -1,0 +1,104 @@
+<recipe>
+  <name>Sutter's Gold Bread</name>
+  <notes>Proving the value of a second proof, the handwriting on this looks to my tired eye like "Breadu", though damn if I can find any bread except in the making of the...
+
+Oh wait, there it is...</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>slightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>toasted bread cubes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>butter or margerine</ingredient_name>
+      <preparation>melted</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>grated lemon peel</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>seedless raisins</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>grated nutmeg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>** LEMON SAUCE</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>cornstartch</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>butter or margerine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>grated lemon peel</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>fresh lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine milk and eggs.  Pour over bread.  Stir in sugar, butter, lemon peel, salt and raisins.  Pour into 2 quart greased baking dish.  Sprinkle with grated nutmeg.  Place dish in shallow pan:  pour hot watter around dish one inch deep.  Bake 350F oven 50 to 55 minutes or until knife inserted in center comes out clean.  Searve warm or cold with lemon sauce.
+
+Lemon sauce:  Combine sugar and cornstartch thoroughly in a small saucepan until smooth.  Bring to a boil over medium heat, stirring constantly:  cook 1 to 2 minutes.  Stir in butter, lemon peel and juice.  Serve warm over bread.
+
+Try it you'll like it!! [original note]</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Inspires Curiosity</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>Edna M. Rapp</source_name>
+  <source_page>0011</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/18/2005</cdate>
+  <mdate>03/13/2006</mdate>
+  <safe_name>Sutters_Gold_Bread</safe_name>
+</recipe>

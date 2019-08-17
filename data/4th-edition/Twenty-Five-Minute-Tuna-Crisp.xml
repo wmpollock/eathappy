@@ -1,0 +1,47 @@
+<recipe>
+  <name>Twenty-Five Minute Tuna Crisp</name>
+  <safe_name>Twenty_Five_Minute_Tuna_Crisp</safe_name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>I'm not certain how the "crisp" vanished from our cultural food landscape.  Perhaps they were crushed under "light cooking" or are the simple sort of fare one guiltily does not share outside of one's family.  In any case, I adventured into crisps with this recipe and was quite happy with the results.</notes>
+  <prep_time>25 minutes?</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>wide egg noodles</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 oz can</quantity>
+      <ingredient_name>tuna</ingredient_name>
+      <preparation>packed in oil</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>pimento (optional)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>condensed cream of mushroom soup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>potato chips</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook noodles in boiling salted water until tender and drain.  Mix with entire contents of tuna can, pimento (as desired) and mushroom soup.  Crush half of chips to cover the bottom of a shallow casserole, covering with tuna mixture and top with remaining chips, still whole.  Bake at 350F until thoroughly cooked, about 25 minutes.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Kay Ogawa</source_name>
+  <source_page>43</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/04/2005</cdate>
+  <mdate>01/06/2011</mdate>
+  <user>billp</user>
+</recipe>

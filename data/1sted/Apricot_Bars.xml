@@ -1,0 +1,57 @@
+<recipe>
+  <name>Apricot Bars</name>
+  <preparation>Cream butter, sugar and vanilla.  Add flour and mix well.  
+
+Spread in 13" by 9" ungreased pan and bake 15 minutes at 350F.  
+
+Spread jam over crust gently.  Beat egg whites and 1/2 tsp almond extract slightly, then beat powdered sugar in gradually until stiff.  Spread carefully over jam. 
+
+Top with almonds and bake 20 minutes at 400F.</preparation>
+  <main_ingredient>Apricot Jam</main_ingredient>
+  <yield_count>16-</yield_count>
+  <notes>**UNTRIED** But they sound good, don't they?  Most likely bogarted from my mom's collection.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Butter</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Vanilla</ingredient_name>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Flour</ingredient_name>
+      <quantity>2 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Apricot Jam</ingredient_name>
+      <quantity>12 Oz</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Egg Whites</ingredient_name>
+      <unknown_1>01124</unknown_1>
+      <quantity>2</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Almond Extract</ingredient_name>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Powdered Sugar</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Slivered Almonds</ingredient_name>
+      <quantity>1/4 Cup</quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Dessert</category>
+    <category>Untried</category>
+  </category>
+  <yield_measure>Pieces</yield_measure>
+</recipe>

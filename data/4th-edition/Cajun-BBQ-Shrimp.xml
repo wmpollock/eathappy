@@ -1,0 +1,71 @@
+<recipe>
+  <name>Cajun BBQ Shrimp</name>
+  <safe_name>Cajun_BBQ_Shrimp</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I must admit no small reservation about poaching in a sauce that was in initial stages largely just Worcestershire sauce.  The two sticks of butter (cubed) greatly enriches the sauce and -- as advertised -- having french bread on hand for dipping into the sauce</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>medium shrimp</ingredient_name>
+      <preparation>peeled to preference</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>Cajun or  Creole seasoning</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>minced garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>lemon</ingredient_name>
+      <preparation>juiced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>cubed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>french bread</ingredient_name>
+      <preparation>cubed</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Heat large skillet over high heat and add shrimp, Worchetershire sauce, Cajun seasoning, balck pepper, minced garlic, water and lemon juice.  Stir to combine ingredients and cook, turning once.  (Original recipe states potentially conflicting goals of "just pink" shrimp and halved fluid volume).  Cut in butter gradually.  Serve when butter is incorporated.
+
+Serve with cubed french bread for dipping into provided bowls.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Shrimp</secondary_category>
+  </secondary_categories>
+  <source_name>Tilamook Sweet Cream Salted Butter Package</source_name>
+  <source_date>ca. 2012</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/02/2013</cdate>
+  <mdate>03/03/2013</mdate>
+  <user>billp</user>
+</recipe>

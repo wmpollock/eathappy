@@ -1,0 +1,69 @@
+<recipe>
+  <name>Greek Spinach Pies</name>
+  <safe_name>Greek_Spinach_Pies</safe_name>
+  <yield_count>8</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>8 oz</quantity>
+      <ingredient_name>fresh leaf spinach</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>scallions</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 oz</quantity>
+      <ingredient_name>feta cheese</ingredient_name>
+      <preparation>crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>fresh dill</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 small</quantity>
+      <ingredient_name>sheets of filo pasty (4 large)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation>for brushing.</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Blanch the spinach with a small amount of water until just wilterd, then drain well.  Finely chop spinach and mix with scallions, feta, egg, dill and ground pepper.  
+
+Cut large pastry sheets in half and use two halves or two small filo pasty stacked on top one another with a layer of olive oil brushed in between.  Orient the sheets to that "top" is a corner. 
+
+Spread a quarter of the filling on the lower portion of the filo and roll up about the size of an egg roll; 1 1/2" or so.
+
+Brush the pastry well with oil and cook for 20-25 minutes in a 375F oven or until golden and crisp.  Cool on a wire rack.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Vegetables</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+  <source_page>266</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>05/13/2012</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,57 @@
+<recipe>
+	<name>Sweet Chili Dipping Sauce</name>
+	<notes>I'm a big fan of sweet chili sauce, though sadly not a big fan of the sodium content in some of the prepared ones.  I don't know if this is going to end up being a placeholder or what:  the amount of fish sauce contains about a day's worth of sodium, so my mileage may vary.
+
+Plus, thi is one of those world-sufficiency things and I don't know that fish sauce is going to make it into my "ten ingredients" bag.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>rice wine vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>fish sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>hot water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>lime</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>minced garlic</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>red chili paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Puree ingredients together and serve.</preparation>
+	<primary_category>Seasonings/Sauces</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Tyler Florence - Food Network</source_name>
+	<source_page>http://www.foodnetwork.com/recipes/tyler-florence/summer-rolls-with-sweet-chili-dipping-sauce-recipe/index.html</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/09/2009</cdate>
+	<mdate>06/09/2009</mdate>
+	<user>billp</user>
+	<safe_name>Sweet_Chili_Dipping_Sauce</safe_name>
+</recipe>

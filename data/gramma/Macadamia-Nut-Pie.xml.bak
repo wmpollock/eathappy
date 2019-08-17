@@ -1,0 +1,61 @@
+<recipe>
+  <name>Macadamia Nut Pie</name>
+  <notes>So good you'll be begging your friends and relatives to keep bringing the fresh ones...</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>gelatine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pt</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbl</quantity>
+      <ingredient_name>banana flavoring</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 oz</quantity>
+      <ingredient_name>macadamia nuts, crushed</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Disolve 1 tsp gelatine in 1/2 cup cold water, 1/2 cup sugar, 1/2 tsp salt, 1 1/2 cups milk.  Cook over low heat, strirring frequently until scalded but -do not boil-.  Remove from heat.
+
+Beat eagg yolks and stir in 1/2 of this mixture.    Blend remaining half in.  Cook ---- it begins to boil, then simmer.  Remove from heat, stir in softened gelatine then macadamia nuts.  Cool until pratically set then beat well with roatary egg beater.  Blend in banana flavoring and 1/2 cup whipping cream, beaten stiff.
+
+Meringue (the method) three egg whites, 1/4 tsp cream of tartar and 1/2 cup sugar.  Folkd into the mixture.  Place in cooled baked pie crust.  Refrigerate three or more hours.
+
+Serving:  cover with whipped cream and sprinkle with ground macadamia nuts immediately prior to serving.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys>
+    <secondary_category>Bill's Favorite</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/13/2006</cdate>
+  <safe_name>Macadamia_Nut_Pie</safe_name>
+</recipe>

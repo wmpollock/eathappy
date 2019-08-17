@@ -1,0 +1,61 @@
+<recipe>
+  <source_page>6</source_page>
+  <safe_name>Valley_of_the_Sun_Soup</safe_name>
+  <primary_category>Soup</primary_category>
+  <preparation>Brown beef and add onion and chili powder, cooking until onion is tender.  Add soup and water and simmer 5 minutes, stirring often.  Add macaroni and bring again to a simmer.  Serve garnished with corn curls</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <untried>1</untried>
+  <cdate>12/30/2004</cdate>
+  <prep_time></prep_time>
+  <name>Valley of the Sun Soup</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Ann Pennington</source_name>
+  <notes>Great name, if nothing else...</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>ground beef</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>onion</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chili powder</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>condensed vegetable bean soup</ingredient_name>
+      <quantity>1 can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>condensed tomato soup</ingredient_name>
+      <quantity>1 can</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>1 1/2 cans</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>cooked elbow macaroni</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Fritos-style corn chips</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

@@ -1,0 +1,88 @@
+<recipe>
+  <name>Company Casserole</name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>2 1/2 cups</quantity>
+      <ingredient_name>egg noodles</ingredient_name>
+      <preparation>green</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>cooking oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pint</quantity>
+      <ingredient_name>small curd cottage cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pt</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>oregano</ingredient_name>
+      <preparation>crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>thyme</ingredient_name>
+      <preparation>crumbled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>minced parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>ground beef</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>unknown quantity (guess 1/2 small)</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>additional 1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 6oz can</quantity>
+      <ingredient_name>tomato paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>grated parmeasan</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cook noodles 10 minutes.  Rinse in cold water.  Mix with oil.  Place in 3 quart baking dish.  Mix cottage cheese, sour cream, oregano, thme and 1/2 tsp salt.  Spoon in layers over noodles.  Sprinkle with parsley.  Saute beef with onion and garlic in skillet.  Mix in 1/4 tsp salt and tomato paste.  Spoon over cheese layer.  Sprinle with parmesan*.  Bake in 400F oven for 30 minutes.
+
+* - Original recipe read "sprinkle with tomato paste" which I'm sure wasn't what she meant.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0028-0029</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/28/2005</cdate>
+  <mdate>11/28/2005</mdate>
+  <safe_name>Company_Casserole</safe_name>
+</recipe>

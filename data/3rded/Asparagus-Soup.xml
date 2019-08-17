@@ -1,0 +1,76 @@
+<recipe>
+  <name>Asparagus Soup</name>
+  <safe_name>Asparagus_Soup</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>young asparagus</ingredient_name>
+      <preparation>for garnish</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>shallots</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 1/2 cups</quantity>
+      <ingredient_name>vegetable stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>light cream or half and half</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>chopped fresh chervil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Cut top 1 1/2" off the tops of half the asperagus and reserve.  Slice remaining asparagus.
+
+Melt 2 Tbl of butter in a large saucepan.  Gently fry the sliced shallots until soft but not brown, 2-3 minutes.  Add the asparagus and fry for about 1 minute before adding flour.  Wait an addtional minute before adding stock or water, lemon juice and seasoning to taste.  Bring to a boil before reducing to simmer partially covered for 15-20 minutes or until asparagus is exceptionally tender.
+
+Puree soup.   In another pan, melt the remaining butter fry the reserved asparagus tips for 3-4 minutes.  Bring soup back up to temperature and add cream and asparagus, heating slowly. Garnish with chervil.</preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+  <source_page>153</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>12/03/2010</mdate>
+  <user>billp</user>
+</recipe>

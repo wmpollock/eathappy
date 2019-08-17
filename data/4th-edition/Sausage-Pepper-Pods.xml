@@ -1,0 +1,54 @@
+<recipe>
+	<name>Sausage Pepper Pods</name>
+	<notes>Yeah, stuffed peppers are awfully tasty, but do they really have to be GD cream cheese in 'em every time.  Points off here for pork product placement, but one could probably fake it with turkey equivalents, well prepared.  Also, read the prep:  the meaty bits go on the, huh, outside?  Zoot alors -- this may need investigating.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>16 oz</quantity>
+			<ingredient_name>pork sausage</ingredient_name>
+			<preparation>crumbled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>sharp cheddar cheese</ingredient_name>
+			<preparation>shredded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>12</quantity>
+			<ingredient_name>jalepenos</ingredient_name>
+			<preparation>cored</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>Bisquick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation>beaten</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name><![CDATA[6 oz. packages Shake & Bake for Pork]]></ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation><![CDATA[Stuff the peppers with cheese and set aside.    Combine remaining cheese, Bisquick and sausage in a bowl and mix well.  Form mixture -around- peppers to form outer pods.
+
+Glaze the pods in the egg mixture and roll in Shake & Bak mixture and place on large baking sheet.
+
+Cook at 350F for 30 minutes or until brown and crispy.]]></preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Farmer John Sausage package</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/16/2007</cdate>
+	<mdate>06/09/2009</mdate>
+	<user>billp</user>
+	<safe_name>Sausage_Pepper_Pods</safe_name>
+</recipe>

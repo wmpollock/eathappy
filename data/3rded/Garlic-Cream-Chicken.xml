@@ -1,0 +1,103 @@
+<recipe>
+	<name>Garlic Cream Chicken</name>
+	<notes>This is pretty danged good but some warnings.  One:  its heavy.  Don't think you'll go having the leftovers twice in one day.  You simply cannot.  Secondly, this is the sort of fussy preparation recipe my mother loves.  Some may find the process involved.  (She labeled it "awesome!")</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>whole boneless, skinless chicken breasts</ingredient_name>
+			<preparation>halved</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>fresh ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 1/2 Tbl</quantity>
+			<ingredient_name>Dijon mustard</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 1/2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 cloves</quantity>
+			<ingredient_name>garlic</ingredient_name>
+			<preparation>finely chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chicken stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>16 oz package bow-tie pasta</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>parsley</ingredient_name>
+			<preparation>finely chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>fresh basil</ingredient_name>
+			<preparation>finely chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>heavy cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>freshly ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>grated Parmesan cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Pound chicken breasts to 3/8" and lightly salt and pepper.  Coat chicken with mustard and allow to set for 10 minutes.  In a large skillet over medium heat, melt 2 1/2 Tbl butter and quickly brown chicken.  Transfer chicken to baking dish and bake at 10 minutes at 350F until chicken is done.
+
+Melt 1 Tbl butter in a skillet over medium heat.  Saute garlic until softened and add stock.  Simmer until broth is reduced by half.
+
+Cook pasta and drain.  Melt 1 1/2 Tbl butter in pot and add pasta, 1 1/2 tbsp parsley and basil.  Remove from heat and cover to keep warm.
+
+Add cream, remaining parsley, salt and pepper to reduced chicken stock.  Reduce at a simmer until sauce thickens to a light gravy consistency.
+
+Plate pasta and sprinkle with Parmesan cheese.  Top with chicken and smother with sauce.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Chicken</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<source_name>"Almanor Westshore Cooks" as "Garlic Chicken", Holly Finkbeiner</source_name>
+	<source_page>113</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Garlic_Cream_Chicken</safe_name>
+</recipe>

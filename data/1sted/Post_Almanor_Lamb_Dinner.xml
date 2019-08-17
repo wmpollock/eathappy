@@ -1,0 +1,39 @@
+<recipe>
+  <main_ingredient>Lamb</main_ingredient>
+  <notes>Almanor is pretty much just eating and drinking for several days straight.  The drive back along I5 is  grueling and usually leaves on arriving at suppertime with a good starve on while leaving one rather  tired.  This was a one-skillet meal that turned the tide of starvation quite nicely. (15 Aug 2004)</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Rosemary</ingredient_name>
+      <unknown_1>02063</unknown_1>
+      <quantity>4 Sprigs</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Olive Oil</ingredient_name>
+      <unknown_1>04053</unknown_1>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Lamb Chops</ingredient_name>
+      <unknown_1>17237</unknown_1>
+      <quantity>4</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic Salt</ingredient_name>
+      <unknown_1>02020</unknown_1>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Hash Browns</ingredient_name>
+      <unknown_1>11391</unknown_1>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <name>Post-Almanor Lamb Dinner</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Main Dish</category>
+  </category>
+  <preparation>In a medium-hot pan, saute rosemary in olive oil until soft.  Rub lamb chops with garlic salt and fry.  When done, cover with foil and place in ar warm pan.
+
+Add additional rosemary and olive oil to the pan and fry hashbrowns in the "dirty' pan.  Remove, drain and serve with lamb chops.</preparation>
+</recipe>

@@ -1,0 +1,76 @@
+<recipe>
+	<name>Potato Salad</name>
+	<notes>This is a difficult recipe to decipher.  The back of the card includes a number of repeated ingredients and the front's last line reads either "From pg Good Seasons Dressing - [obsc] 1T French" or maybe "1 pg" or maybe "2 pg" -- hard to say if its crossed out or not.  The rest seems to indicate Italian dressing, so that's what's left below.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 pts</quantity>
+			<ingredient_name>salad greens</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4-5</quantity>
+			<ingredient_name>medium potatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>unknown amount (1 Tbsp? 11Tbsp?)</quantity>
+			<ingredient_name>Italian dressing</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>sliced olives</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>green onions</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>bacon bits</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 to 1 1/2 cups</quantity>
+			<ingredient_name>slided mushrooms</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Orange vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 quart</quantity>
+			<ingredient_name>white vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>granulated sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>orange peel from one orange</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Boil potatoes until tender and allow to cool.  Slice and marinate for 1-2 hours in Italian dressing.  Assemble remaining ingredients and coat with marinade dressing.
+
+An additional note reads "use orange vinegar" with the above listed recipe.  Presumably this is to mix-down the dressing.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>**Needs review</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Good Seasons French Dressing</source_name>
+	<source_page>0063</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/12/2009</cdate>
+	<mdate>05/22/2009</mdate>
+	<user>billp</user>
+	<safe_name>Potato_Salad</safe_name>
+</recipe>

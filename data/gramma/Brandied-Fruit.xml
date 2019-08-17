@@ -1,0 +1,29 @@
+<recipe>
+  <name>Brandied Fruit</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 3oz can</quantity>
+      <ingredient_name>pineapple chunks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 jar</quantity>
+      <ingredient_name>cherries</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Drain fruit -- add sugar -- stir every day for 3 weeks.  Do not cover tightly as air is needed to help ferment.  Add Brandy later -- 1/4 cup or more.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Betty Lillley</source_name>
+  <source_page>0008-0009</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/18/2005</cdate>
+  <safe_name>Brandied_Fruit</safe_name>
+</recipe>

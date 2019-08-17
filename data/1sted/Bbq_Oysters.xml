@@ -1,0 +1,32 @@
+<recipe>
+  <name>Bbq Oysters</name>
+  <preparation>One day ahead:  In medium bowl, combine butter, garlic, lemon peel and juice, and pepper.  Beat until light and thoroughly mixed.  Form into a thin log on a sheet of waxed paper, roll in paper and wrap tightly in plastic wrap.  Refrigerate until 1 hour before using.  
+
+Day of:  Build a hot charcoal fire and let it burn down to red-hot coals.  Place unopened oysters on grill, deeper shell down.  As soon as shells begin to open, remove top shell with an oyster knife, and cut oyster free from bottom shell.  Place a pat of garlic butter in shell and return oyster to fire. Serve as soon as juices are bubbly and butter is melted.</preparation>
+  <main_ingredient>Oysters</main_ingredient>
+  <yield_count>6</yield_count>
+  <notes>**UNTRIED** I'm generally down with the idea of anything and BBQ and oysters seem like they'd be fun, especially with  some butter.  Living rather far from the coast, my local market's selection tends to be kind of crap and  I've yet to have a burning need to seek out a reputable seafood store to fill my need.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Oysters In The Shell</ingredient_name>
+      <quantity>2 Dozen</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Butter, Softened</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic, Minced Or Pressed</ingredient_name>
+      <quantity>4 Cloves</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Juice And Grated 1/2 Lemon</ingredient_name>
+      <quantity></quantity>
+    </ingredient>
+  </ingredients>
+  <category>
+    <category>Appetizer</category>
+    <category>BBQ</category>
+  </category>
+  <yield_measure>Servings</yield_measure>
+</recipe>

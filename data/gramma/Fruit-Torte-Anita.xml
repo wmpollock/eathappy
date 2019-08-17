@@ -1,0 +1,54 @@
+<recipe>
+  <name>Fruit Torte Anita</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>soda</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 large can</quantity>
+      <ingredient_name>fruit cocktail</ingredient_name>
+      <preparation>drained</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>chopped nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Sift together, flour, sugar soda and salt.  Add one egg.  Mix well -- the mixture will become like crumb.  May use a slotted spoon.  Add large can fruit cocktail, drained.  Put into greased pan or pyrex dish.  Sprinkle generously with brown sugar.
+
+Spread nut meats over sugar.  
+
+Bake 1 hour & 20 minutes at 300F.  Serve topped with whipped cream or cool wip.]]></preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Anita</source_name>
+  <source_page>0038-0039</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <mdate>12/18/2005</mdate>
+  <safe_name>Fruit_Torte_Anita</safe_name>
+</recipe>

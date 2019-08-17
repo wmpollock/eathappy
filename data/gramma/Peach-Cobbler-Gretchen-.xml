@@ -1,0 +1,52 @@
+<recipe>
+	<name>Peach Cobbler (Gretchen)</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1 cube</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3-4 cups</quantity>
+			<ingredient_name>sliced peaches (or apples)</ingredient_name>
+			<preparation>sweetened to taste</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Melt butter into a 9"x13" pan.  Make batter of sugar, flour, baking powder, milk and pour over sliced peaches.  Bake for about an hour at 350F.  Serve warm with whipped cream or ice cream.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Gretchen Christensen</source_name>
+	<source_page>0064-0065</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/18/2009</cdate>
+	<mdate>05/19/2009</mdate>
+	<user>billp</user>
+	<safe_name>Peach_Cobbler_Gretchen_</safe_name>
+</recipe>

@@ -1,0 +1,65 @@
+<recipe>
+  <name>Grilled fingerlings with dill</name>
+  <safe_name>Grilled_fingerlings_with_dill</safe_name>
+  <yield_count>12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Grilled potatoes free up room in the oven!</notes>
+  <prep_time>45 min</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>6 lbs.</quantity>
+      <ingredient_name>fingerling potatoes</ingredient_name>
+      <preparation>halved lengthwise (or kept whole if very small)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 c.</quantity>
+      <ingredient_name>EVOO</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 t</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 t</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation>freshly ground</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 T</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>softened</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 c</quantity>
+      <ingredient_name>fresh dill</ingredient_name>
+      <preparation>roughly chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>to taste</quantity>
+      <ingredient_name>coarse sea salt</ingredient_name>
+      <preparation>optional</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>1. Prepare a grill for medium heat (350-450 degrees). In a large bowl, toss potatoes with oil, kosher salt, and pepper.
+2. Set out 4 sheets heavy-duty foil (each about 12 by 26 in.). Oil foil; divide potatoes among sheets, arranging them cut side down in a single layer on the short half of each sheet. Fold other half of each sheet over potatoes and crimp edges to seal. 
+3. Grill packets, crimped sides up, covered, rotating halfway through, until potatoes are tender when pierced through foil, 20 minutes. Open packets; if potatoes aren't brown on cut sides, cook longer.
+4. Transfer potatoes to a large bowl. Toss with butter and dill. Arrange on a platter; sprinkle with coarse sea salt if you like. 
+
+Make ahead: Up to 3 days ahead, grill potatoes, remove from foil, and chill. Reheat in an oiled baking pan in a 450 degree oven until hot, 15 minutes, then proceed with step 4. </preparation>
+  <primary_category>Vegetables</primary_category>
+  <secondary_categories>
+    <secondary_category>BBQ</secondary_category>
+    <secondary_category>Thanksgiving</secondary_category>
+    <secondary_category>Vegetables</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Sunset Magazine</source_name>
+  <source_page>69</source_page>
+  <source_date>November 2009</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/24/2009</cdate>
+  <mdate></mdate>
+  <user>hilaryp</user>
+</recipe>

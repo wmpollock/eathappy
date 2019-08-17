@@ -1,0 +1,67 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Oven_Fried_Garlic_Chicken</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>In a shallow bowl, blend together bread crumbs, Parmesan cheese, parsley salt and pepper.  Heat butter in garlic in a small saucepan over low heat until butter melts.  Remove from heat.  
+
+Brush chicken pieces with butter mixture and dredge in bread crumb mixture.  In a shallow baking pan, arrange chicken skin-side up.  
+
+Mix together remaining butter and bread crumb mixture and sprinkle over the top of chicken.  Bake uncovered at 350F for one hour.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <cdate>01/23/2005</cdate>
+  <prep_time></prep_time>
+  <name>Oven Fried Garlic Chicken</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Bill's Favorite</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>My mom mad a recipe remarkably similar to this. I suspected that her original source was either one of her Gilroy Garlic Festival cookbooks from her garlic periods or else a seemingly healthier alternative to normal fried chicken, but this recipe is fairly ubiquitous across the Internet with uncited sources, so hard to tell.  Perhaps its what passes for Modern American Home Cooking in 2005.
+
+Truly a fantastic recipe.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>bread crumbs</ingredient_name>
+      <quantity>2/3 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>grated Parmesan cheese</ingredient_name>
+      <quantity>2/3 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>fresh parsley</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground pepper</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>butter or margarine</ingredient_name>
+      <quantity>5 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>minced</ingredient_name>
+      <quantity>3 garlic cloves</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken parts</ingredient_name>
+      <quantity>3 lbs</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/23/2005</mdate>
+</recipe>

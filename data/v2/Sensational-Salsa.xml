@@ -1,0 +1,74 @@
+<recipe>
+  <name>Sensational Salsa</name>
+  <notes>A hell of a lot of standing around an oven and thence chopping.  Probably makes for a better afternoon grill kind of project.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>anaheim chilies</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>pasilla chiles</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>serrano chili</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>jalepeno chili</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>guero (wax yellow) chili</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>large tomatoes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>handful</quantity>
+      <ingredient_name>cilantro</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name><![CDATA[salt & pepper]]></ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Arrange washed chilies, tomates and onion on a tray, preferably in an arrangement easy to clean yet not dependent on tinfoil which will likely glaze to the vegetables.  Then again, since you're removing the skins, maybe this is not such a big deal.
+
+Ensure even the small ingredients have enough room to get roasted.  Roast ingredients under broiler, turning frequently until evenly charred.   Some ingredients will char faster than others.  Tomatoes will lose this race, being as they are mostly water.
+
+Remove skin from chilies and tomoatoes, placing the former between two damp towels or thicknesses of paper towel to steam any attached skin off.
+
+Chop all ingredients (including cilantro), removing stem and seeds from chiles. 
+
+Mix ingredients and let rest for a few hours to let flavors develop.  Add salt and pepper to taste.
+
+There is some debate as to whether the onions should be served raw or likewise roasted.  Roasting doesn't do much for their flavor as it mostly dessicates the outer layers without providing much additional char flavor, though the roasting does bring out a different element than the raw onion.  I chose the former for my first run and was pleasantly entertained enough to continue it forward in this revision.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categorys>
+    <secondary_category>**New05</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categorys>
+  <source_name>"Almanor Westshore Cooks", contributed by Larrie Cipra, Bahia, Mexico</source_name>
+  <source_page>11</source_page>
+  <source_date>1992</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/20/2005</cdate>
+  <mdate>02/02/2005</mdate>
+  <safe_name>Sensational_Salsa</safe_name>
+</recipe>

@@ -1,0 +1,103 @@
+<recipe>
+  <name>Beef tri-tip with salsa</name>
+  <safe_name>Beef_tri_tip_with_salsa</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Part of the 2009 tri-tip shootout.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>beef tri-tip</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity> </quantity>
+      <ingredient_name>**Marinade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>fresh lime juice (about 2 lg. limes)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>bourbon whiskey</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>freshly grated or shaved ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>currant jelly</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>crushed red chili peppers</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity> </quantity>
+      <ingredient_name>**Salsa</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 </quantity>
+      <ingredient_name>medium tomatoes</ingredient_name>
+      <preparation>peeled</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 bunches</quantity>
+      <ingredient_name>green onions</ingredient_name>
+      <preparation>thinly sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 </quantity>
+      <ingredient_name>medium jalapeno pepper</ingredient_name>
+      <preparation>washed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium avocado</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>chopped fresh cilantro</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation>freshly ground</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>sea salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together marinade ingredients and marinate beef overnight.  Prepare salsa the day ahead.  Grill beef and serve with salsa.
+</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>BBQ</secondary_category>
+    <secondary_category>Beef</secondary_category>
+  </secondary_categories>
+  <source_name>http://www.cooks.com/rec/view/0,1627,155188-235207,00.html</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>08/10/2009</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

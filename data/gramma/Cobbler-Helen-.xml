@@ -1,0 +1,42 @@
+<recipe>
+	<name>Cobbler (Helen)</name>
+	<notes>This recipe is bereft of significant construction methodology.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>cherry pie filling</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>crushed pineapple</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 box</quantity>
+			<ingredient_name>white cake mix</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cube</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>crushed nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>[This construction is the pure invention of the editor based on the order of ingredients on the card and similar recipes.  My guess: mixing the fruit into a 9"x13" pan, top with with cake mix, drizzle butter over the top and thence the nuts.] </preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_page>0064</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/18/2009</cdate>
+	<mdate>05/18/2009</mdate>
+	<user>billp</user>
+	<safe_name>Cobbler_Helen_</safe_name>
+</recipe>

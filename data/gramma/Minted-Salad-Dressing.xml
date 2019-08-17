@@ -1,0 +1,41 @@
+<recipe>
+  <name>Minted Salad Dressing</name>
+  <yield_count>50</yield_count>
+  <yield_measure>servings (allegedly)</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/2 cup</quantity>
+      <ingredient_name>salad oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>red or white vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup or 2 Tbsp</quantity>
+      <ingredient_name>fresh mint</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix in blender.  Cover.  Chill 2 hours or more.</preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Casa de los Ninos</source_name>
+  <source_page>54</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/13/2006</cdate>
+  <safe_name>Minted_Salad_Dressing</safe_name>
+</recipe>

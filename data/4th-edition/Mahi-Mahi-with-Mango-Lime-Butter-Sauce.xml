@@ -1,0 +1,81 @@
+<recipe>
+	<name>Mahi Mahi with Mango/Lime Butter Sauce</name>
+	<notes>This comes from the Challenge folks: in my country a large deer stands before an alpine lake while in the background a glacier-covered crag-top is rendered in blue.  This is to signify that it is the milk product of another animal and that it has not been additionally salted.  Also, we package it in silver.  Gold is for oleomargarine.  I think they wrap "European Style" in paper, just like the salty kind.
+
+My guess is that in a pinch, butter will be butter.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>unsalted butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>cornstarch</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp </quantity>
+			<ingredient_name>red peper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>ripe mango</ingredient_name>
+			<preparation>peeled and diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>dry sherry or mango nectar</ingredient_name>
+			<preparation>as you like it</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl (juice of one lime)</quantity>
+			<ingredient_name>fresh lime juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>fresh lime zest</ingredient_name>
+			<preparation>optionallly</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>Fish</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 to 1 1/2 lb</quantity>
+			<ingredient_name>mahi mahi fillets</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2-3 Tbl</quantity>
+			<ingredient_name>unsalted butter (additional)</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a saucepan over low heat; melt butter, blend cornstarch and pepper gradually.  Ad mango, sugar and sherry or mango nectar and bring to a boil before reducing via simmer five mninutes or until fruit is soft and sauce is thick.
+
+Brush fish with melted buter and grill or broil in the presence of medium heat for five minutes before flipping and cooking the other side.  Fish is done when it flakes easily (and maybe is no longer translucent?  I think so but I'm just a cook, not a chef...)</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Fish</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+		<secondary_category>Butter!</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Challenge Unsalted Butter pack</source_name>
+	<source_date>ca. 2006</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/02/2009</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Mahi_Mahi_with_Mango_Lime_Butter_Sauce</safe_name>
+</recipe>

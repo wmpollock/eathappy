@@ -1,0 +1,76 @@
+<recipe>
+  <name>Jaime Oliver's Pizza Dough</name>
+  <safe_name>Jaime_Olivers_Pizza_Dough</safe_name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>Pizzas</yield_measure>
+  <notes>This was back when Jaime was just a wee lad with a motorbike. 
+
+I find that you can do some interesting things with the flour though you need to be aware in all instances of hydration and its relative times.  I used unbleached flour today and it was nearly half again the water recommended below. 
+
+I've had good success substituting about half the bread flour with whole wheat flour.  Its gives the crust an interesting texture and flavor.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lb</quantity>
+      <ingredient_name>bread flour</ingredient_name>
+      <preparation>extra for dusting the kneading surface/normalizing the ix</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 oz</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1oz</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 oz</quantity>
+      <ingredient_name>yeast</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pint</quantity>
+      <ingredient_name>lukewarm water</ingredient_name>
+      <preparation>more as necessary</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>semoina flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>topings</ingredient_name>
+      <preparation>as necessary (1lb+ of cheese), salty+sweet</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>You can do this by hand by making a volcano or through skillfull use of the dough hook and a scraper to form a dough ball in the electric mixer.
+
+Mix flour, sugar and yeast with dough hook at medium speed.  Altnerately form a mixed mound in with a well in the center for water.  Gradually add water making sure that as the dough comes together all ingredients are getting equally wet.  Add the water gradually, adding or subtracting as your flour requires.
+
+Hand kneeding seems impossible to avoid for the last stretch.  You'll have some extra grindings maybe in the flour mixer that aren't quite A-quality:  that's fine, they'll only spoil things later
+
+For a airier crust, form into a neat ball by folding in on itself and rolling in a lightly oiled bowl before covering it with a wet tea cloth for 90 minutes.  Dough can be used pretty nearly immediately for more cracker-like crusts.
+
+Tonight I think I rendered six nice medium risen balls and had best crust on a stone at 450F.
+
+Some topping suggestions:  salty+sweet (pineapple and salty meat (prosciutto), olives, etc), tomato+basil, mushroom and olive, spinach+ feta.  Meatza: salami, pepperoni, loose sausage, linguisa. chorizo, "back bacon," bacon-bacon.  
+
+Sauce is a matter under development:  paste is overly thick and raw tomato sauce is a bet wit.  Some ratio of the two is required.  Also:  seasonings.
+</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categories>
+    <secondary_category>Italian</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>07/06/2013</mdate>
+  <user>billp</user>
+</recipe>

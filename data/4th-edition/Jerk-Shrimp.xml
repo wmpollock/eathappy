@@ -1,0 +1,105 @@
+<recipe>
+  <name>Jerk Shrimp</name>
+  <safe_name>Jerk_Shrimp</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Needs Research:  The marinade is pretty similar to the side sauce they serve at the Tower Cafe.  Out of the mixer this stuff is pretty oniony and might improve with sitting if an additional amount was set aside for an accompanying sauce.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Marinade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>roughly choped yellow onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>jalepeno chilie</ingredient_name>
+      <preparation>roughly chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>white wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>ground allspice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>Tabasco sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>granulated garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>ground cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp </quantity>
+      <ingredient_name>ground nutmeg</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Other ingredients</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>40 count (~2lbs)</quantity>
+      <ingredient_name>large chrimp</ingredient_name>
+      <preparation>peeled and deveined</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>lime</ingredient_name>
+      <preparation>cut into wedges</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine marinade ingredients in a food processor until smooth.  Bag marinade the shrimp for 30-45 minutes.  Skewer the shrimp and grill over direct high heat until shrimp are just cooked through: 2-4 minutes, turned once.
+
+Add a bit of lime juice to the shrimp at serving time. </preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Shrimp</secondary_category>
+  </secondary_categories>
+  <source_name>Webber's Real Grilling</source_name>
+  <source_page>233</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>03/03/2013</mdate>
+  <user>billp</user>
+</recipe>

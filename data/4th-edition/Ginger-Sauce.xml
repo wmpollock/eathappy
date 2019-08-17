@@ -1,0 +1,48 @@
+<recipe>
+	<name>Ginger Sauce</name>
+	<notes>I've had data projects where I become concerned about source longevity and this has become one of them:  When I originally printed this (11 Sept 2006) it came directly from their website.  They've since redesigned and not only is the link not their, their delightful collection of recipes is also gone!  I mean, this thing is all about preserving a delicate cultural heritage, but this is redonkulous!
+
+I'd have never thought to actually go looking for this recipe, point of the matter.  Its available a hundred places on the 'Web, but so is an equal amount of back engineering.  Nice to get it from the source and unfortunate its no longer available -- hopefully they'll redesign again in the future.
+
+Also, big ups on 15 minutes worth of blanching - yikes!</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>5 oz</quantity>
+			<ingredient_name>sliced onion</ingredient_name>
+			<preparation>rinsed in running water for 15 minutes</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 oz</quantity>
+			<ingredient_name>ginger</ingredient_name>
+			<preparation>peeled and sliced thinly</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>lemon</ingredient_name>
+			<preparation>juiced, peeled and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Blend ingedients well, stir again before serving. Will keep refrigerated up to a week.</preparation>
+	<primary_category>Seasonings/Sauces</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Benihana</source_name>
+	<source_page>http://www.benihana.com/recipe.asp?what=benihana-ginger-sauce</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/09/2009</cdate>
+	<user>billp</user>
+	<safe_name>Ginger_Sauce</safe_name>
+</recipe>

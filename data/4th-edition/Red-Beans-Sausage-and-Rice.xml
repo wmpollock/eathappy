@@ -1,0 +1,107 @@
+<recipe>
+  <name>Red Beans, Sausage and Rice</name>
+  <safe_name>Red_Beans_Sausage_and_Rice</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>My mom had this labeled "Good!" in her copy of this book.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>dry kidney beans</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>smoked sausage</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 Tbl</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 oz-4 oz</quantity>
+      <ingredient_name>salt pork</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 large</quantity>
+      <ingredient_name>yellow onion</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 stalks</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity>
+      <ingredient_name>green bell pepper</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>crushed tomato</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>chicken stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>chopped parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Place beans in 2 inches of water and bring to a boil.  Let sit for 1 hour and drain. 
+
+Boil sausage in skillet with 1 cup water until water has boiled off.  Add 2 tablespoons vegetable oil and brown sausage.  Remove and allow to cool before halving lengthwise and then into 1 1/4 inch pieces.
+
+Cube salt pork into 1" pieces and render in sausage skillet and set aside, reserving drippings.
+
+Saute onion, celery and bell pepper* in remaining 2 Tbl vegetable oil in a separate pan.  Add black pepper and cayenne pepper when mixture is softened.  Remove from heat and set aside.
+
+Mix tomatoes and beans and add 2-2 1/2 cups water to cover.  Bring to boil and add vegetables, salt pork and 1/2 of rendered drippings.  Bring to a boil and add sausage.  Simmer gently covered for 1 1/2 hours, stirring frequently until beans are tender.  Salt to taste.
+
+Boil chicken stock and crushed garlic and add rice.  Cover and reduce heat, simmering until liquid is absorbed (about 20 minutes).  Mix in parsley and cover with red beans and sausage.
+
+* referred to as "the trinity" in Cajun cooking
+</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Salt-Tastic!</secondary_category>
+    <secondary_category>Asst'd Comfort Food</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>"Almanor Westshore Cooks", contributed by Julie Azevedo</source_name>
+  <source_page>140</source_page>
+  <source_date>1992</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/19/2005</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

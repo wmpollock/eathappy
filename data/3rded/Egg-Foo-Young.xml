@@ -1,0 +1,83 @@
+<recipe>
+  <name>Egg Foo Young</name>
+  <safe_name>Egg_Foo_Young</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>generous pinch</quantity>
+      <ingredient_name>five spice powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>peanut or sunflower oil</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>green onion</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>garlic clove</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small green bell pepper</ingredient_name>
+      <preparation>seeded and chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>fresh bean sprouts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>cooked white rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>light soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>sesame oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix eggs, salt, pepper and five spice powder.  In a large frying pan heat one Tbl of oil until quite hot.  Fry the egg mixture like an omelet, pulling the mixture away from the sides.  
+
+Remove egg from pan when firm then chop into small strips.
+
+Heat remaining oil and fry the onion, garlic, bell pepper and bean sprouts for 2 minutes before stirring in rice, soy sauce, sesame oil and egg.
+
+Serve immediately.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chinese</secondary_category>
+  </secondary_categories>
+  <source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+  <source_page>229``</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

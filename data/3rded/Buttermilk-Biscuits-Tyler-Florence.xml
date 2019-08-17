@@ -1,0 +1,56 @@
+<recipe>
+	<name>Buttermilk Biscuits, Tyler Florence</name>
+	<notes>I find Food TV's Tyler Florence kind of disgusting for some reason -- its a personality thing.  His food always seems kind of intersting and it would be worth doing a recipe shotout with another batch.  This breaks biscuit flour down for us a ways, which is nice and marginally better for us.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>all-purpose flour </ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>vegetable shortening</ingredient_name>
+			<preparation>cut into 1/2 pieces and cold</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 - 2 cups</quantity>
+			<ingredient_name>buttermilk</ingredient_name>
+			<preparation>divided, some additional for brushing</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>In a large bowl mix together flour, salt, baking poder and baking soda.  Cut in the shortening until the mixture forms coarse crumbs.  
+
+Make a well and add 1 cup buttermilk.  Quickly cut dry ingredients into the buttermilk to form a sticky dough.  Add more buttermilk as necesary.
+
+Turn out the dough on a floured surfaceand foldover itself 3-4 times.   Press out to 1 1/2 inches thick and section with a 3-inch cutter.  Arrange biscuis on an ungreased cooke sheet and brush with buttermilk before baking 20-25 minutes or until risen and golden at 375F.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Buttermilk</secondary_category>
+		<secondary_category>Biscuits</secondary_category>
+		<secondary_category>Made For Butter</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>http://www.foodnetwork.com/recipes/tyler-florence/buttermilk-biscuits-recipe/index.html</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/27/2009</cdate>
+	<mdate>05/27/2009</mdate>
+	<user>billp</user>
+	<safe_name>Buttermilk_Biscuits_Tyler_Florence</safe_name>
+</recipe>

@@ -1,0 +1,52 @@
+<recipe>
+	<name>Rice-A-Roni Artichoke Salad</name>
+	<notes>Rice-a-Roni tends not to be the the healthiest thing in the pantry.  It probably could be replaced with an equivalent or similar rice preparation: rice prepared with chicken stock, saffron rice, etc.
+
+Needs research:  Allegedly this recipe works with chicken as well,b ut hard to say if that's in additon to or in as a replacement for the rice.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>chicken flavored Rice-A-Roni</ingredient_name>
+			<preparation>cooked</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 </quantity>
+			<ingredient_name>green onions</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 small jars</quantity>
+			<ingredient_name>marinated artichoke hearts</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>celery</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>curry powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup </quantity>
+			<ingredient_name>mayonnaise</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine rice, onions, artichoke hearts, celery and curry powder.  Mix mayonnaise with oil from one jar of artichoke hearts and pour over rice mixture.  Chill.</preparation>
+	<primary_category>Salad/Dressing</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"World Ag Expo Favorites", Kathleen Aguiar contributor</source_name>
+	<source_page>18</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Rice_A_Roni_Artichoke_Salad</safe_name>
+</recipe>

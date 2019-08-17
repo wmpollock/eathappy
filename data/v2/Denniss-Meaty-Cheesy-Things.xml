@@ -1,0 +1,51 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Denniss_Meaty_Cheesy_Things</safe_name>
+  <primary_category>Appetizers</primary_category>
+  <preparation><![CDATA[Saute the beef, sausage and onions in a pan over medium heat and drain off the fat.  Add the Italian seasoning & Velveeta and stir over low heat until the Velveeta has softened and the ingredients have mixed together.  
+
+Spoon a tablespoon or two of mixture onto each rye toast and place on a cooking sheet.
+
+Can be made ahead and frozen.  Heat mixture under a broiler until the rye browns slightly.]]></preparation>
+  <yield_count>30</yield_count>
+  <yield_measure></yield_measure>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Dennis's Meaty Cheesy Things</name>
+  <source_date></source_date>
+  <source_name>Dennis Gross</source_name>
+  <notes>Dennis made these for a string of appearances, occasionally command performances.  They are mighty tasty  down-home stylee (I mean, yeah -- Velveeta!).  Two packages of rye might be a bit much depending on how  much you spoon on there.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>ground beef</ingredient_name>
+      <quantity>1 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Italian sausage</ingredient_name>
+      <quantity>1 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Velveeta cheese</ingredient_name>
+      <quantity>1 lb</quantity>
+      <preparation>cut into small cubes</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>yellow onion, diced</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Italian seasoning</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>party rye bread</ingredient_name>
+      <quantity>2 pkgs</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

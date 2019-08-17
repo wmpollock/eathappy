@@ -1,0 +1,94 @@
+<recipe>
+	<name>Ex-Texas Chili</name>
+	<yield_count>8</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>A wonderful Chili originally found on Xeney's weblog described as "best chili ever".  A nice chili from an interesting person.
+
+James and Molly report that this thing is Salt-o-riffic when the RoTel comes into play.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 lbs</quantity>
+			<ingredient_name>turkey, ground</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 10 oz cans</quantity>
+			<ingredient_name>Ro-tel</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>10 oz</quantity>
+			<ingredient_name>mushrooms</ingredient_name>
+			<preparation>sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8</quantity>
+			<ingredient_name>jalapenos, chopped</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 whole bulb</quantity>
+			<ingredient_name>garlic, minced</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>oregano</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>cayenne pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>cumin</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>chili powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Lightly brown ground meat in a skillet. Drain all fat. 
+
+Pour water and Ro-Tel into large pot.
+
+Add onions, mushrooms, jalapenos, garlic, and spices.  Simmer for one to two hours, stirring occasionally.  Add more water as needed. 
+
+Ro-Tel is pretty easy to come by in Northern California, usually it lurks in the lower corner the canned tomato products or in the Mexican food aisle.  You can kind of approximate it by substituting a can of diced tomatoes and a can of diced chiles.  Not quite as good but -will- do in the pinch.
+
+The original recipe had a safety note about (specifically) getting jalapeno juice on your hands and the rather unpleasant business that is.  I've found that you can give yourself real scorching hands (and any other part of your body you might inadvertently touch like, say, your eye) if you don't take steps to prevent getting your hands in not just that but onion and garlic juice as well.
+
+I minimize the effects by starting with the jalapenos, then the garlic then the onions, being sure to clean the board and my implements between cuttings.  Rubbing some coarse salt over moist hands seems to resolve a good deal of the burn issue as well.
+</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Chinese</secondary_category>
+		<secondary_category>Turkey</secondary_category>
+		<secondary_category>Salt-Tastic!</secondary_category>
+	</secondary_categorys>
+	<source_name>Karawynn Long (http://karawynn.net)</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/03/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Ex_Texas_Chili</safe_name>
+</recipe>

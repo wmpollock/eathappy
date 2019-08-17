@@ -1,0 +1,152 @@
+<recipe>
+	<name>Smoked Ham Hocks and White Beans</name>
+	<notes>The Chronicle's white bean of choice was "cranberry beans" which I'd not heard of before.  Their substitute was "other white been like cannellinis."  Foodreference.com sugests flavor alternates as pinto before red kidney bean.
+
+The thing is all sort of overblown, really. TODO: STILL WORKING IT
+
+NEEDS RESEARCH:  While its nice of the Chron to include a recipe for Onion Confit, one that scales to the size of the recipe would be better.  The author says that you can break this recipe down "in half or even thirds" to hit the mark (which you'd be cheating .25 either way).  Since but they always find "plenty of uses" for a pile of soggy onions they provided the Big Recipe.  I'd rather be a .5 cup over than .25 cup under as that gives me an extra half to fiddle with.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>dried white bean</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>bay leaf</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 sprigs</quantity>
+			<ingredient_name>savory </ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>minced savory</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>kosher or coarse sea salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4</quantity>
+			<ingredient_name>smoked ham hocks, 1/2 - 3/4 lb each</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>tonion confit</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 Tbl</quantity>
+			<ingredient_name>tomato paste</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>minced fresh thyme leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Onion Confit (makes 4 cups)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 lb</quantity>
+			<ingredient_name>yellow or red onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>bay leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>fresh thyme leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>chopped fresh winter savory leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>** Onion Confit (2 cups -- closer to recipe)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 lb</quantity>
+			<ingredient_name>yellow or red onion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>fresh thyme leaves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>freshly ground pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>To prepare onion confit: Cube butter and melt on a large baking sheet in a 400F oven.  Remove the baking sheet from heat and spread an even 1" layer of onions: it is not the objective to fry.  Tuck the bay leaves in the onions and sprinkle with thyme, savory and pepper.  Evenly pour olive oil over the top and bake, turning every 10 to 15 minutes, until volume has reduced by half; 60 to 75 minutes.  Stores cooled for up to a week.
+
+To prepare beans:  combine beans, 8 cups water, bay leaf and winter savor sprigs.  Bring to a boil before simmering for 1 1/2 hours or until beans start to become tender.  Season with salt and 
+cook AN ADDITIONAL 1 and 1/2 hours until the beans are fully tender.  
+PARTIAL -- ENTRY TOOK A BREAK
+Section hocks when they are tender enough to separate meat from inedibles.
+</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>Pork</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Georgeanna Brennan, special to the SF Chronicle</source_name>
+	<source_page>F4</source_page>
+	<source_date>20090121</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/28/2009</cdate>
+	<user>billp</user>
+	<safe_name>Smoked_Ham_Hocks_and_White_Beans</safe_name>
+</recipe>

@@ -1,0 +1,56 @@
+<recipe>
+  <name>Grilled Chicken Parma</name>
+  <safe_name>Grilled_Chicken_Parma</safe_name>
+  <yield_count>4</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>A keeper recipe from a time Hilary was on a marginally successful menu planning email list.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>bonless skinless chicken breast halves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>shreeded Mozarella cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>grated Parmesan cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sliced basil leaves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>medium tomatoes</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>heavy duty aliminum foil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brush chicken wih oil.  Combine cheeses and basil in a dish and set aside Grill chicken for 4-5 minutes per side before topping with tomato slices and cheese mixture and covering in foil to cook for another 2 minutes or until cheese melts.  </preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+  </secondary_categories>
+  <source_name>Body Clutter Menu-Mailer, Vol 3, Week 32</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>01/29/2011</mdate>
+  <user>billp</user>
+</recipe>

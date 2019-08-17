@@ -1,0 +1,87 @@
+<recipe>
+	<name>Tempura Vegetables and Dipping Sauce</name>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>medium zuchhini</ingredient_name>
+			<preparation>julienned</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 </quantity>
+			<ingredient_name>bell pepper</ingredient_name>
+			<preparation>seeded and cut into weidges</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 </quantity>
+			<ingredient_name>medium egplant</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation>for deep frying</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**Sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>sherry</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>sesame seed oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>a few shreds</quantity>
+			<ingredient_name>ginger or scallion</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**batter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cup</quantity>
+			<ingredient_name>cold water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Prepare vegetables for frying.  Heat oil to 375F in deep-frying pan.  Whisk the batter ingredients together; do not overbeat.  Whisk together sauce ingredients.  
+
+Fry vegetables by dipping a few quickly in the batter then into the oil in the basket.  Fry for just a minute or until golden brown.  Keep additional vegetables in warm oven after they are fried.
+
+Serve and enjoy!</preparation>
+	<primary_category>Vegetables</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/25/2009</cdate>
+	<user>billp</user>
+	<safe_name>Tempura_Vegetables_and_Dipping_Sauce</safe_name>
+</recipe>

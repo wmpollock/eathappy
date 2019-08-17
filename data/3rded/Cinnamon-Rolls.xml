@@ -1,0 +1,89 @@
+<recipe>
+	<name>Cinnamon Rolls</name>
+	<notes>I like this recipe a lot because it comes from a time and a place:  Lake Almanor around the years you could get just plain yellow cake.  It'll throw in the refrigerator if you're feeling a bit tired in the night time like I always am.  Remember if you are making it up there that you -are- at Altitude and that may affect cooking.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 (18.5 oz)</quantity>
+			<ingredient_name>package yellow cake mix</ingredient_name>
+			<preparation>w/o pudding</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>dry yeast</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 cups</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>hot water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**TOPPING</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 stick</quantity>
+			<ingredient_name>margarine or butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>packed brown sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>light Karo syrup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>chopped nuts</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix together cake mix, yeast and flour in large bowl and stir in hot water.  Cover mixture with moist towel and let double.   At this point the dough should be smooth and elastic - if it is any other way you likely either have not mixed it long enough or if its kind of sloppy and slimey, then you've gotten a batch of "stealth pudding" cake mix.  Damn.
+
+In either case, since there are no raw ingredients in the mix at this point, go away and lick the mixer paddle for a while.
+
+Turn out onto a lightly floured surface and divide in two equal parts.  Roll each portion into rectangles and spread with softened butter.  Sprinkle with sugar and cinnamon.
+
+Roll length-wise in the longest direction with the coating on the inside like you would if anyone still made jelly rolls.  Slice rolls in 2" intervals.  Arrange in buttered pans and cover to double again.  
+
+Prepare topping by cooking ingredients until butter has melted and pour over rolls immediately before baking at 375F for 25 minutes.
+
+Turn out onto serving plate immediately after removing from oven.</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New05</secondary_category>
+		<secondary_category>Bill's Favorite</secondary_category>
+	</secondary_categorys>
+	<source_name>"Almanor Westshore Cooks", Contributed by Polly Justason, mother of Gary Kluge</source_name>
+	<source_page>162</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>08/03/2007</mdate>
+	<safe_name>Cinnamon_Rolls</safe_name>
+</recipe>

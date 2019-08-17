@@ -1,0 +1,81 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Dickens_Wassail</safe_name>
+  <primary_category>Beverages</primary_category>
+  <preparation>Put apples into a deep casserole.  Combine 1/4 cup sugar and the water in a saucepan; bring to boil.  
+
+Pour syrup over apples.  Cover casserole and bake at 350F 30 to 40 minutes or until apples are tender, basting occasionally.  
+
+Pour ale into a saucepan and heat on low heat until it foams.  
+
+Add spices, sherry and 1 1/2 cups sugar, lemon peel and lemon juice.  Heat, stirring until sugar is dissolved.  
+
+Remove from heat and allow to cool for 20 minutes. 
+
+Reheat mixture and pour through a double thickness of cheesecloth into a heat resistant punch bowl.  Float apples and serve, garnished with lemon peel.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <untried>1</untried>
+  <cdate></cdate>
+  <prep_time></prep_time>
+  <name>Dicken's Wassail</name>
+  <secondary_categories>
+    <secondary_categorie>Makes You Drunk</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>I never had a chance to get into this, preferring mulled wine or spiced (and spiked) cider for my yuletide  inebriation needs.  Still -- Dickens, Wassail, how can you go wrong?</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>baking apples, cored</ingredient_name>
+      <quantity>3</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ale</ingredient_name>
+      <quantity>4 qts</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground cinnamon</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>ground ginger</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>nutmeg</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sherry</ingredient_name>
+      <quantity>1 qt</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 1/2 cups</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemons</ingredient_name>
+      <quantity>2</quantity>
+      <preparation><![CDATA[juiced & peeled]]></preparation>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

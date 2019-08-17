@@ -1,0 +1,53 @@
+<recipe>
+	<name>Egg Casserole for Two</name>
+	<notes>An egg casserole was in fact one of the things I had in mind making.  I recalled ordering breakfast at a small pizza-parlor type place in Vancouver and having it be quite excellent.  That one, with Mediterranean flavors of garlic, spinach, eggs and goat cheese over what seemed like undercooked pizza dough was plain excellent.  This sounds like more American Style Cookin'.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 slices</quantity>
+			<ingredient_name>white bread</ingredient_name>
+			<preparation>cut into 1" cubes</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>green onion with top</ingredient_name>
+			<preparation>finely sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup (1 1/2 ounces)</quantity>
+			<ingredient_name>shredded cheddar cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>chopped ham*</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>* What am I, chopped ham?
+
+Preheat oven to 350F.  If using a stonewear baker precoat with it with oil.  Combine all ingrediens and pour into 4 cup casserole.  bake 20-25 minutes or until mixture is set.</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Oval Pan!</secondary_category>
+		<secondary_category>Egg</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>The Pampered Chef Small Oval Baker recipe card</source_name>
+	<source_date>2002</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Egg_Casserole_for_Two</safe_name>
+</recipe>

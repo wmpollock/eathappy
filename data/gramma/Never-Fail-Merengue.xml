@@ -1,0 +1,54 @@
+<recipe>
+  <name>Never Fail Merengue</name>
+  <ingredients>
+    <ingredient>
+      <quantity>2 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>cornstarch</ingredient_name>
+      <preparation>in saucepan</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>additional 6 Tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine 2 Tbsp sugar, 1 Tbsp con starch in saucepan, add 1/2 cup water.  Cook until clear.
+Allow to cool.
+
+Beat together 3 egg whites, 1/8 tsp salt and 1/2 tsp vanilla.  Add remaining 6 Tbsp sugar gradually while beating.
+
+Add the cooled corn start mixture.  Fold in and continue beating until meringue stands in stiff peaks.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_name>Mrs. Hagarty</source_name>
+  <source_page>46</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/10/2006</cdate>
+  <safe_name>Never_Fail_Merengue</safe_name>
+</recipe>

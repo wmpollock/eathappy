@@ -1,0 +1,65 @@
+<recipe>
+  <name>Caribbean Rice and Peas</name>
+  <safe_name>Caribbean_Rice_and_Peas</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I've not personally used creamed coconut, but</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 1/4 cups</quantity>
+      <ingredient_name>long rain rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>dried pigeon peas or red kidney beans</ingredient_name>
+      <preparation>soaked and cooked</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 2/3 cups</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 oz</quantity>
+      <ingredient_name>creamed coconut</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>dried thyme or 1 Tbl fresh</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>cloves</ingredient_name>
+      <preparation>studded into onion</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and ground pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine the rice, peas or beans, water, coconut, thyme, onion and salt and pepper in a large saucepan.  Stir constantly while bringing to a boil -- you can stop stirring when the creamed coconut has melted.  Simmer gently for 20 minutes. 
+
+Remove the lid and allow to finish cooking uncovered for 5 additional minutes to ensure any extra liquid is driven off.  Remove from heat and occasionally toss to keep the grains separated.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Rice, Grains</secondary_category>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+  <source_page>256</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

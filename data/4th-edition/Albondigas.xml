@@ -1,0 +1,128 @@
+<recipe>
+  <name>Albondigas</name>
+  <safe_name>Albondigas</safe_name>
+  <yield_count>10</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>Sr. Arturo used to run this cosy restaurant in Walnut Creek where they it always seemed had a pot on the back burner.   
+
+Some history on this recipe:  before I worked up my own database to do the task I kept my recipes in AccuChef.  This treatment is pretty close to the original there with some revisions based on a trip with Hoban, Gross &amp; Archer to Tres Hermanas 12/2004)
+</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**BROTH</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2</quantity>
+      <ingredient_name>small onions</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>clove garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 can</quantity>
+      <ingredient_name>tomato sauce (14 oz)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 qt</quantity>
+      <ingredient_name>beef stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>small zuchini</ingredient_name>
+      <preparation>halved and sliced 1/4" thick</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 sprig</quantity>
+      <ingredient_name>mint or cilantro (optional)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>small carrots (optional)</ingredient_name>
+      <preparation>halved and slized 1/4" thick.</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**MEATBALLS</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 lb</quantity>
+      <ingredient_name>ground beef</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 lb</quantity>
+      <ingredient_name>ground pork</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/3 cup</quantity>
+      <ingredient_name>raw rice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>oregano</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity>
+      <ingredient_name>small onion</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>slightly beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>fresh cilantro</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  
+
+While the stock is heating, form the meatballs: mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.
+
+Add meatballs, cilantro and optional zuchini to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.
+
+Ten minutes before serving add the sprig of mint to the broth and remove prior to serving.
+</preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categories>
+    <secondary_category>Cursed</secondary_category>
+    <secondary_category>Bill's Favorite</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categories>
+  <source_name>Sivart Software's ACCUCHEF, v. 6.56, "MEX" database</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/09/2005</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

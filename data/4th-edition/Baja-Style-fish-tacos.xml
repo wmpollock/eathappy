@@ -1,0 +1,127 @@
+<recipe>
+  <name>Baja-Style fish tacos</name>
+  <safe_name>Baja_Style_fish_tacos</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lbs</quantity>
+      <ingredient_name>mahi mahi</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Garnish salad</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>green cabbage</ingredient_name>
+      <preparation>shredded</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 bunch</quantity>
+      <ingredient_name>cilantro</ingredient_name>
+      <preparation>destemmed and chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity>
+      <ingredient_name>small red onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Lime mayonaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>mayonnaise</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>limes</ingredient_name>
+      <preparation>juiced (about 2 Tbl)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Batter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>16 oz</quantity>
+      <ingredient_name>lager</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg yolk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6</quantity>
+      <ingredient_name>ice cubes</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Assembly</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 qt</quantity>
+      <ingredient_name>vegetable oil</ingredient_name>
+      <preparation>as needed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>small tortillas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salsa</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>lime</ingredient_name>
+      <preparation>for seasoning</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine salad ingredients and set aside.  Mix together dressing components using just enough lime juice to lighten the dressing.  Season the dressing with salt and pepper.
+
+Cut fish into roughtly 1-inch by 2-inch sections.
+
+Heat three inches of oil to 350F.
+
+Mix together the batter ingredients until it just combined.  Dredge fish and place in hot oil, suspending for three seconds before releasing.  Cook, turning once, until the fish turns golden brown and floats.
+
+Drain on paper towels.
+
+Assemble with salad, lime mayo, salsa, lime juice &amp; fish
+
+</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,118 @@
+<recipe>
+  <name>Hot Rod Chili</name>
+  <safe_name>Hot_Rod_Chili</safe_name>
+  <yield_count>lots</yield_count>
+  <yield_measure>of servings</yield_measure>
+  <notes>This makes a hey-uge amount of food:  you might want to halve it unless you've got lots of friends coming over or want to freeze some.
+
+Intriguing in this context they describe the recipe as a meat preparation but are pretty loose on the meat, equating ground venison as being "just as good as" ground sirloin.
+
+Your mileage may vary.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 lb</quantity>
+      <ingredient_name>cubed meat</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 lb</quantity>
+      <ingredient_name>ground meat</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Main Ingredients</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>20</quantity>
+      <ingredient_name>garlic cloves</ingredient_name>
+      <preparation>peeled and diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>onions</ingredient_name>
+      <preparation>diced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>beef broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>chicken broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12 oz</quantity>
+      <ingredient_name>Spicy Vegetable Drink (Snap-e-Tom)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>"a good handful"</quantity>
+      <ingredient_name>seasoned salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>small red or pink beans</ingredient_name>
+      <preparation>pre-soaked</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Final Ingredients</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>California chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>New Mexico chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>pasilla chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>chipotle powder or canned chipotles in adobo sauce</ingredient_name>
+      <preparation>to optionally impart a significant smokiness</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown meat and then add main ingredients.  Bring to a low simmer and hold for two hours.  If dish becomes low in fluid, any strongish, darkish food-quality liquid will do it seems:  "broth, dark beer, or even strong coffee."
+
+The Final Ingredients should be added for the last 35-45 minutes of cook time.
+
+</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Chili</secondary_category>
+    <secondary_category>Beef</secondary_category>
+  </secondary_categories>
+  <source_name>Chester Progressive:  Chase off the chill with simmering pots of chowder and chili</source_name>
+  <source_page>1B</source_page>
+  <source_date>25 Feb 2009</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>01/30/2011</mdate>
+  <user>billp</user>
+</recipe>

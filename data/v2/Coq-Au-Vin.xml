@@ -1,0 +1,105 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Coq_Au_Vin</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>BOUQUET GARNI:  thyme, bay leaf and parsley in cloth cheese bag or teaball.
+
+Wash chicken and pat dry.  Mix flour, salt and pepper; coat chicken with flour mixture.  
+
+In large skillet, fry bacon until crisp; drain and set aside.  
+
+Brown chicken in hot bacon drippings.  Push chicken aside; add onions and mushrooms and cook and stir until onions are tender.  
+
+Drain off fat.
+
+Crumble bacon; stir in with remaining ingredients.  Cover; simmer about 1 hour or until chicken is tender.  Remove Bouquet Garni before serving.  Skim off excess fat.  If desired, sprinkle with snipped parsley.  </preparation>
+  <yield_count>5</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>12/29/2004</cdate>
+  <prep_time></prep_time>
+  <name>Coq Au Vin</name>
+  <secondary_categories>
+    <secondary_categorie>Chicken</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>From the Betty Crocker Recipe Card Library--Entertaining on a shoestring</source_name>
+  <notes>My mother loved making this dish when she was entertaining.  Its got a good amount of prep work ahead of it,  but once its going it can be pretty well left alone.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>broiler-fryer chicken, cut up</ingredient_name>
+      <quantity>3 lb</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>all-purpose flour</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>1/4 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>bacon</ingredient_name>
+      <quantity>6 slices</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>small onions</ingredient_name>
+      <quantity>6</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>mushrooms</ingredient_name>
+      <quantity>1/2 pound</quantity>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>carrots</ingredient_name>
+      <quantity>4</quantity>
+      <preparation>halved</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>chicken broth</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>red burgundy</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic, crushed</ingredient_name>
+      <quantity>1 clove</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>crushed thyme</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>parsley</ingredient_name>
+      <quantity>2 large sprigs</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>bay leaves</ingredient_name>
+      <quantity/>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

@@ -1,0 +1,57 @@
+<recipe>
+  <name>Raspbery Tart (25 Pie)</name>
+  <safe_name></safe_name>
+  <primary_category>Desserts</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes>Another "shorthand" recipe:  your only hope is that you've got a springform pan, some good luck, and perhaps a missing ingredient or two:  there's no mention of how to build a crust here.  The other rasberry tart recipe is remarkably similar and includes cracker crumbs and two less egg whites for the base.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>5</quantity>
+      <ingredient_name>egg whites</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>baking powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 Tbsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>chopped nuts</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Cup</quantity>
+      <ingredient_name>rasberry jam</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 pint</quantity>
+      <ingredient_name>whipping cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Put in a buttered springform pan.  Bake at 325F for 35 minutes.  Cool.</preparation>
+  <source_author></source_author>
+  <source_name></source_name>
+  <source_page>0066</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2016-02-10</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,76 @@
+<recipe>
+  <name>Tomato Aspic</name>
+  <yield_count>4-6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Any soup that contains a package of lemon jello is worth at least trying, no?</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 small package</quantity>
+      <ingredient_name>lemon Jello</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>boiling water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>pinch</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tbl</quantity>
+      <ingredient_name>white vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>onion juice</ingredient_name>
+      <preparation>to taste (onion juice??)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>tabasco</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 oz can</quantity>
+      <ingredient_name>tomato sauce*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>stuffed green olives</ingredient_name>
+      <preparation>sliced (optional)</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>chopped celery (optional)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>chopped bell peppers (optional)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>small shrimp or crab (optional)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Disolve Jello in boiling water.  Add salt, vinegar, onion juice, Tabasco and tomato sauce*.  Chill to thicken and add any of the optional ingredients.  Chill to set.
+
+* the prep and ingredients both listed a "6 oz. can of tomato sauce", though typically in that size its tomato paste.  Caveat preperator.</preparation>
+  <primary_category>Soup</primary_category>
+  <secondary_categorys>
+    <secondary_category>**New06</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>"World Ag Expo Favorites", Ruth Ann Hulbert contributor</source_name>
+  <source_page>23</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2005</cdate>
+  <safe_name>Tomato_Aspic</safe_name>
+</recipe>

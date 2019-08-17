@@ -1,0 +1,67 @@
+<recipe>
+  <name>Fish in Cornhusks</name>
+  <safe_name>Fish_in_Cornhusks</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>chipotle powder</ingredient_name>
+      <preparation>1 chile ground</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>at room temperature</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 heaping Tbl</quantity>
+      <ingredient_name>cilantro</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 ears</quantity>
+      <ingredient_name>corn</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>halibut or salmon filets</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together chipotle and salt.  Mix with butter, add cilantro and garlic.  Cover and set aside.
+
+Cut the corn ends to more easily remove the husks.  Middle husks are target but reserve as many as possible.  Blanch for 3 minutes in boiling water, drain and cool.  
+
+Arrange 3 husks per fillet on a baking sheet per fillet.  Pil leaves to help them stay together.  Arrange fillet on husks and cover with 1 tsp of chipotle butter.  Remaining butter can be used for service.
+
+Cook fish atop three-leaf arrangement over medium heat, covered, for 10-15 minutes -- until done.  Garnish with additional butter.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Fish</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle, "Grilled Fish on Fresh Cornhusks with Chipotle Cilantro Butter"</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <user>billp</user>
+</recipe>

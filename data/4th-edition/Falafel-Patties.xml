@@ -1,0 +1,65 @@
+<recipe>
+  <name>Falafel Patties</name>
+  <safe_name>Falafel_Patties</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>A disaster in the making -- some ingredient or prep is off and all that is made is a disgusting, unfryable mush -- at least in our Winter/Sprint 2011 cooking session.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>16 oz can</quantity>
+      <ingredient_name>garbanzos</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>onion powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground coriander</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>parsley</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>pita bread</ingredient_name>
+      <preparation>for serving</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix all ingredients except parsley in a food processor or blender.  Mix in parsley by hand.  Lightly oil a skillet and heat on medium-low.  Drop spoonfuls of falafel mixture onto lightly oiled skillet and brown. 
+
+Serve in pitas with lettuce, tomato, onion, radishes and creamy dressing.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**Deleted06</secondary_category>
+    <secondary_category>Rice, Grains</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+  </secondary_categories>
+  <source_name>"High Country Recipes", The Chester High Ski Team, contributed by Angel Isaacson</source_name>
+  <source_date>1992</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/19/2005</cdate>
+  <mdate>05/13/2012</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Pollock, 2015- -->
+  <head>
+    <!-- Based on teh BS 101 Template -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="y0ygVkJNw8JTwLyvnybKxWU18idPUlmbMzZ4mSoAtyU" />
+    <title>William Pollock's Eat Happy</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <!-- Needs more font-awsome -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/eathappy/Templates/css/eathappy.css">
+<!--TMPL_IF EXPR="dataset eq 'gramma'"-->
+    <link rel="stylesheet" href="/eathappy/Templates/css/dataset-gramma.css">
+<!--/TMPL_IF-->
+
+    <!--TMPL_IF EXPR="page_class eq 'editor'"-->
+      <link href="/eathappy/Templates/bootstrap-switch/css/bootstrap3/bootstrap-switch.css" rel="stylesheet">
+      <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <!--/TMPL_IF-->
+    <!-- requires early binding so as not to foul up per-template includes [BP -- 28 Dec 2015] -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Masthead -->
+    <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+
+
+    <!--[if lt IE 9]>
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Favicons
+	 Generate via:
+	 https://realfavicongenerator.net/
+
+	 Test via:
+	 https://realfavicongenerator.net/favicon_checker?protocol=http&site=billpollock.com%2Feathappy#.Wb1mXrKGOpp
+    -->
+    <link rel="apple-touch-icon" sizes="180x180" href="http://billpollock.com/eathappy/Templates/Favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://billpollock.com/eathappy/Templates/Favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://billpollock.com/eathappy/Templates/Favicons/favicon-16x16.png">
+    <link rel="manifest" href="http://billpollock.com/eathappy/Templates/Favicons/manifest.json">
+    <link rel="mask-icon" href="http://billpollock.com/eathappy/Templates/Favicons/safari-pinned-tab.svg" color="#fff700">
+    <link rel="shortcut icon" href="http://billpollock.com/eathappy/Templates/Favicons/favicon.ico">
+    <meta name="msapplication-config" content="http://billpollock.com/eathappy/Templates/Favicons/browserconfig.xml">
+    <meta name="theme-color" content="#fff700">
+
+    <!-- End Favicon Block -->
+
+  </head>
+
+  <body id='eathappy' class="<!--TMPL_VAR NAME="page_class"-->">
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="<!--TMPL_VAR NAME="view_primary_category"-->">
+	    <div class="name">William Pollock's</div>
+	    <em class="collectionLabel"><!--TMPL_VAR NAME="collectionLabel"--></em>
+          </a>
+
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">View<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                   <li><a href="<!--TMPL_VAR NAME="view_primary_category"-->">Primary Category</a></li>
+                   <li><a href="<!--TMPL_VAR NAME="view_secondary_category"-->">Secondary Category</a></li>
+                   <li><a href="<!--TMPL_VAR NAME="view_all"-->">All</a></li>
+		   <li class="nav-divider"></li>
+		   <li><a href="<!--TMPL_VAR NAME="show_intro"-->">Introduction</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Collection<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <!--TMPL_LOOP NAME="collection_loop"-->
+                   <li><a href="<!--TMPL_VAR NAME="collectionUrl"-->"><!--TMPL_VAR NAME="collectionLabel"--></a></li>
+                <!--/TMPL_LOOP-->   
+              </ul>
+            </li>
+
+            <li class="dropdown editor-controls">
+              <!--TMPL_UNLESS NAME="editor_page"-->
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="fa fa-cog"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="<!--TMPL_VAR NAME="new_entry_link"-->" class="blah">New entry</a></li>
+                  <li class="edit-link"><a href="<!--TMPL_VAR NAME="edit_link"-->">Edit entry</a></li>
+                </ul>
+              <!--/TMPL_UNLESS-->
+            </li>
+
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container core">
+      <!--TMPL_VAR NAME="content"-->
+    </div>
+
+    <div class="footer">
+      <div class="copyright text-right">Copyright &copy; 1999-><!--TMPL_VAR NAME="copyright_year"--> william Pollock, Sacramento, Calif</div>
+    </div>
+
+    <!-- Bootstrap: Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <!-- UX candy switches -->
+    <script src="/eathappy/Templates/bootstrap-switch/js/bootstrap-switch.js"></script>
+
+    <script src="/eathappy/Templates/js/eathappy.js"></script>
+
+
+    <!--TMPL_IF EXPR="page_class eq 'editor'"-->
+      <script src="/eathappy/Templates/js/editor.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+      <!-- http://touchpunch.furf.com/ 
+	   Touchpunch converts touch events to processes jquery is happier with
+	   [BP -- 28 Sep 2016]
+	-->
+      <script src="/eathappy/Templates/js/jquery.ui.touch-punch.min.js"></script>
+    <!--/TMPL_IF-->
+
+  </body>
+</html>

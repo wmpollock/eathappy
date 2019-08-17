@@ -1,0 +1,82 @@
+<recipe>
+  <name>Dutch Sauseasons</name>
+  <safe_name>Dutch_Sauseasons</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>The Alpha Beta book had a long song and dance that explains these as winter fare cooked after fall butchering, stored by fishermen all winter and thawed.  I approached this recipe with some trepidation -- so unseasoned!  Turns out its a pretty interesting little dish!
+
+Freezer-fare ho!  
+
+Added bonus:  MSG!!</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Filling</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>ground lean pork (or half pork, half beef)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>MSG</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Dough</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>sifted flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>lukewarm milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 tbl</quantity>
+      <ingredient_name>melted butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 pkg</quantity>
+      <ingredient_name>yeast</ingredient_name>
+      <preparation>dissolved in 1/2 cup water</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix filling ingredients and refrigerate.  Mix dough ingredients and kneed until dough is smooth.  Form a large ball and place in greased mixing bowl to double, about 2 hours.
+
+After doubling, kneed down and break off egg-sized pieces.  Flatten pieces and measure out 2tbl of meat mixture in a strip.  Fold dough over and smape to look like small loaf of bread about 3" long.  Ensure that meat is sealed within bread.
+
+Arrange loaves in two rows in a 7"x11" greased pan.  Allow dough to double in size and bake at 350F for 1 hour or until tops are golden brown.  Rolls will expand to fill and touch sides.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Salt-Tastic!</secondary_category>
+    <secondary_category>70s Flashback</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <source_name>"The New Ground Beef Cookbook", Alpha Beta edition,</source_name>
+  <source_page>74</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>06/26/2005</cdate>
+  <mdate>02/04/2011</mdate>
+  <user>billp</user>
+</recipe>

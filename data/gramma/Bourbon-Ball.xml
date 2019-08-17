@@ -1,0 +1,43 @@
+<recipe>
+  <name>Bourbon Ball</name>
+  <ingredients>
+    <ingredient>
+      <quantity>3 cups</quantity>
+      <ingredient_name>vanilla wafers</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>confectioner's sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>nuts</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 tsp</quantity>
+      <ingredient_name>light corn syrup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>cocoa</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>bourbon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Mix & make rolls]]></preparation>
+  <primary_category>Cookies</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0006</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/17/2005</cdate>
+  <safe_name>Bourbon_Ball</safe_name>
+</recipe>

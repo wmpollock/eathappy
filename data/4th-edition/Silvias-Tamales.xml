@@ -1,0 +1,69 @@
+<recipe>
+  <name>Silvia's Tamales</name>
+  <notes>If there is one belefit to living in Northern California, its that you get pretty nearly all the world's really good cuisines available to you, including various types of Mexican, perhaps some of the best Soul Food on the Planet.
+
+Silvia's Tamales first became well knwon by the occasional batch we'd receive.  She made up a monster batch of this stuff a few years back and Hilary and I became recipients of a large batch of this and masa.
+
+The training wheels are off now, though, man.  Food like this would quickly conquer local dishes pretty well whever you end up on the planet.
+
+The preparation is pretty rough but is "as written" until such time as I can come through with a weekend and jack around with the recipe some.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>8 lbs</quantity>
+      <ingredient_name>pork butt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>10 lbs</quantity>
+      <ingredient_name>Masa de Tamales</ingredient_name>
+      <preparation>premade</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 bag(?)</quantity>
+      <ingredient_name>New Mexico Chiles</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 bags</quantity>
+      <ingredient_name>corn husks</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4-5 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt and pepper</ingredient_name>
+      <preparation>to taste</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[In a pot with water cook pork butt & onion until tender and easily pulls apart (~4 hours).  When nearly done, add garlic, salt & pepper.
+
+De-seed chiles using a spoon and cook in a "lot" of water -- boil for one hour.  Blend with a small amount of water, add black pepper and blend again.  Strain.
+
+Strang instruction:  "In a pot w/oil, put chiles + boil - litl bit; add to meat (save some for masa)"
+
+In a bowl, put masa; add some of the chile for color 
+Soak husks in water for one hour->wash husks & drain
+
+assemble + steam until cooked
+when husks comes away from masa easiy]]></preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+    <secondary_category>Mexican</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/29/2005</cdate>
+  <mdate>08/26/2005</mdate>
+  <safe_name>Silvias_Tamales</safe_name>
+</recipe>

@@ -1,0 +1,51 @@
+<recipe>
+	<name>Stuffed Mushroom Caps</name>
+	<yield_count>24</yield_count>
+	<yield_measure>mushrooms</yield_measure>
+	<notes>The use of soup mix in this makes this recipe rather unfriendly to the sodium wary.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>24</quantity>
+			<ingredient_name>fresh mushrooms</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>seasoned salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 pkts</quantity>
+			<ingredient_name>French onion soup mix</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>bread crumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>sherry</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Wash and de-stem mushrooms (reserving stems) and dip in melted butter to coat the outside, arranging on a tray or in a glass casserole.  Dice the mushroom stems.  Saute diced stems in remaining butter until tender then add to seasoned salt, French onion soup, bread crumbs and sherry.  Load each cap with mixture and bake at 425F for 10 minutes.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Miki Nakayama contributor</source_name>
+	<source_page>1</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>12/30/2004</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Stuffed_Mushroom_Caps</safe_name>
+</recipe>

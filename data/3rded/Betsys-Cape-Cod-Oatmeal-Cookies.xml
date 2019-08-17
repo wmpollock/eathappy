@@ -1,0 +1,81 @@
+<recipe>
+	<name>Betsy's Cape Cod Oatmeal Cookies</name>
+	<notes>Betsy's note reads "yeah, so I use 100% hippie wheat instead of flour"</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground cloves</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>baking soda</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 3/4 cups</quantity>
+			<ingredient_name>old fashioned oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>brown sugar</ingredient_name>
+			<preparation>loosely packed</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup (1 stick)</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation>lightly beaten</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>molasses</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 350F.  Mix flour, spices, sugar, baking soda and salt and mix in wet ingredients, maing sure to break up any brown sugar lumps, then mix in "other goodies".  Betsy warns that the dough will be pretty wet and you can add a bit more flour if it gets too soppy. 
+
+With a small spoon, drop batter on cookie sheet or baking stone and bake for abougt 12 minutes or until brown.</preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Betsy Gribble, January 16, 2004 in an email to myself, d. Snarew Shumaker and Dennis Gross</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/11/2009</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Betsys_Cape_Cod_Oatmeal_Cookies</safe_name>
+</recipe>

@@ -1,0 +1,145 @@
+<indexes>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Heavenly_Angel_Dessert</entry_name>
+		<mdate>02/01/2005</mdate>
+		<cdate>02/01/2005</cdate>
+		<name>Heavenly Angel Dessert</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>French_Apple_Pie</entry_name>
+		<mdate>02/01/2005</mdate>
+		<cdate>02/01/2005</cdate>
+		<name>French Apple Pie</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+			<secondary_category>Bill's Favorite</secondary_category>
+		</secondary_categorys>
+		<entry_name>Cookies_Pat_Morrow_</entry_name>
+		<mdate>02/01/2005</mdate>
+		<cdate>02/01/2005</cdate>
+		<name>Cookies (Pat Morrow)</name>
+		<primary_category>Desserts</primary_category>
+		<untried>0</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Apple_2_Morrow</entry_name>
+		<mdate></mdate>
+		<cdate>02/01/2005</cdate>
+		<name>Apple 2 Morrow</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Stir_Fried_Asparagus</entry_name>
+		<mdate></mdate>
+		<cdate>02/01/2005</cdate>
+		<name>Stir Fried Asparagus</name>
+		<primary_category>Vegetables</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+			<secondary_category>Apples</secondary_category>
+		</secondary_categorys>
+		<entry_name>Apple_Crunch</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Apple Crunch</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+			<secondary_category>Apples</secondary_category>
+		</secondary_categorys>
+		<entry_name>Apple_Merengue</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Apple Merengue</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Apricot_Pineapple_Cream</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Apricot - Pineapple Cream</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Fannies_Gelatine_Salad</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Fannie's Gelatine Salad</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Almond_Tabbouleh</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Almond Tabbouleh</name>
+		<primary_category>Side Dish</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Artichoke_Quiche_</entry_name>
+		<mdate></mdate>
+		<cdate>06/26/2005</cdate>
+		<name>Artichoke "Quiche"</name>
+		<primary_category>Appetizers</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Amaretto_Mousse</entry_name>
+		<mdate></mdate>
+		<cdate>07/02/2005</cdate>
+		<name>Amaretto Mousse</name>
+		<primary_category>Desserts</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Orange_Nut_Bread</entry_name>
+		<mdate>07/02/2005</mdate>
+		<cdate>07/02/2005</cdate>
+		<name>Orange Nut Bread</name>
+		<primary_category>Bread</primary_category>
+		<untried>1</untried>
+	</index>
+	<index>
+		<secondary_categorys>
+		</secondary_categorys>
+		<entry_name>Pickled_Beets</entry_name>
+		<mdate></mdate>
+		<cdate>07/02/2005</cdate>
+		<name>Pickled Beets</name>
+		<primary_category></primary_category>
+		<untried>1</untried>
+	</index>
+</indexes>

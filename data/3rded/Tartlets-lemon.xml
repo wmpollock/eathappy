@@ -1,0 +1,66 @@
+<recipe>
+	<name>Tartlets: lemon</name>
+	<yield_count>8</yield_count>
+	<yield_measure>dozen</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>8 dozen</quantity>
+			<ingredient_name>baked tartlet shells</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>egg yolks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>lemons</ingredient_name>
+			<preparation>juiced and strained (6 ozs)</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>lemon zest</ingredient_name>
+			<preparation>finely grated</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>6 Tbl</quantity>
+			<ingredient_name>unsalted butter</ingredient_name>
+			<preparation>chilled and cut into 6 pieces</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/3 cup</quantity>
+			<ingredient_name>strained apricot jam</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Whisk together eggs and yolks in a medium-sized saucepan.  Individually whisk in  sugar, lemon juice and zest.  Add in butter and cook over medium heat until mixture begins to thicken -- around 140F on a candy thermometer.  **MAKE SURE FILLING DOES NOT BOIL**
+
+Remove immediately from heat and strain through a stainless sieve into a bowl.  Cover surface with plastic wrap and cut 5-7 small slits in wrap to allow steam to escape.  Refrigerate curd to thicken.  Filling will keep up to two weeks.
+
+To assemble:  arrange tartlet shells on baking sheet and fill with 1 tsp of chilled filling.  Cook for 5 minutes at 350F or until filling sets.  Remove to cooling rack.  Once cooled brush apricot jam over filling.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>Asst'd Comfort Food</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"Almanor Westshore Cooks", contributed by Phyllis Duckworth</source_name>
+	<source_page>170</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/19/2005</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Tartlets_lemon</safe_name>
+</recipe>

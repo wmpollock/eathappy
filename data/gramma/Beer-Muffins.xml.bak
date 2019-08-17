@@ -1,0 +1,29 @@
+<recipe>
+	<name>Beer Muffins</name>
+	<notes>I'm a big sucker for all recipes Bisquick.  Truly one of the modern miracles in the kitchen, that stuff -- whatever the hell is in it.  This is the first time I've seen substantiative changes to the fundamental structure of the mixture in the form of beer.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>bisquick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>beer</ingredient_name>
+			<preparation>room temperature</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix very little.  Grease muffin tins.  Heat in 450F oven, then fill about 2/3 full.  Bake 15-18 minutes.  Serve with lots of butter.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Bisquick</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Peg Bracken</source_name>
+	<source_page>48</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>03/12/2006</cdate>
+	<mdate>05/19/2009</mdate>
+	<user>billp</user>
+	<safe_name>Beer_Muffins</safe_name>
+</recipe>

@@ -1,0 +1,68 @@
+<recipe>
+	<name>Armenian Cracker Bread</name>
+	<yield_measure>Servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 cups</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/4 cup</quantity>
+			<ingredient_name>shortening</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 tsp</quantity>
+			<ingredient_name>sesame seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Preheat oven to 450F.  In a small bowl beat eggs and milk
+
+In a large bowl mix  flour, sugar and salt.  Cut in shortening until mixture resembles coarse crumbs.  Gradually blend in egg mixture and mix until dough pulls away from sides of bowl.
+
+On a floured board lightly knead dough to form a smooth ball.  Divide the dough into 4 parts -- wrap 3 of them in plastic wrap to keep them from drying out.  Roll out and bake one portion at a time.
+
+On the floured surface roll out a ball of dough to about 1/8 inch thick.  Add flour as needed to prevent sticking.  Reshape into a ball, then roll out again to a 14-inch circle.
+
+Transfer carefully to a greased baking sheet or pizza pan.  Brush lightly with water, then sprinkle with 1 teaspoon sesame seed.
+
+Place a shallow pan of hot water on bottom rack of oven.  Place baking sheet on rack above it and bake 3 minutes.  Remove water, reduce heat to 300F and bake until bread is blistered, feels dry to the touch, and is lightly browned (12 to 15 minutes).  Cool on a wire rack.
+
+Repeat rolling and baking with remaining portions of dough.
+
+When rounds of bread are crisp and cool, break into irregular pieces and serve.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>California Culinary Academy "Regional American Classics"</source_name>
+	<source_date>1987</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/09/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Armenian_Cracker_Bread</safe_name>
+</recipe>

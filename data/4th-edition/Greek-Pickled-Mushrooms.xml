@@ -1,0 +1,88 @@
+<recipe>
+  <name>Greek Pickled Mushrooms</name>
+  <safe_name>Greek_Pickled_Mushrooms</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>mushrooms</ingredient_name>
+      <preparation>trimmed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 cups</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tbl</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small clove garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 stalk</quantity>
+      <ingredient_name>celery</ingredient_name>
+      <preparation>diced fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>white wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>fennel seed</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>oregano</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 tsp</quantity>
+      <ingredient_name>coriander</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>bay leaf</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp </quantity>
+      <ingredient_name>whole black peppers</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine all ingredients except mushroom and simmer for fifteen minutes.  Add whole mushrooms and cook five additional minutes.  Refrigerate for at least 24 hours before serving at room temperature.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>70s Flashback</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Sunset Cook Book of Favorite Recipes 1</source_name>
+  <source_page>5</source_page>
+  <source_date>1969</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>04/22/2012</cdate>
+  <user>billp</user>
+</recipe>

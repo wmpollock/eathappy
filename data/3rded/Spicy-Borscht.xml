@@ -1,0 +1,104 @@
+<recipe>
+	<name>Spicy Borscht</name>
+	<notes>Another fantasic photo here:  a Very Interesting reddish purple is cut with a cream question mark, fresh dill marking its terminus.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 lb</quantity>
+			<ingredient_name>raw beets</ingredient_name>
+			<preparation>peeled and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large cooking apple</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>celery stalks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>red bell pepper</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chopped mushrooms</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>sunflower or substitute</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 cups</quantity>
+			<ingredient_name>stock or water</ingredient_name>
+			<preparation>divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>cumin seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>pinch</quantity>
+			<ingredient_name>dried thyme</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large bay leaf</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>fresh lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation>to taste</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>a few</quantity>
+			<ingredient_name>springs dill</ingredient_name>
+			<preparation>as garnish</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Plase onion, beets, apple, celery, bell pepper, mushrooms, butter, oil and 3Tbl of stock or ater and cook gently for 15 minutes.  Stir occasionally.  Add cumin seeds, remainig stock, dried thyme, bay leaf, leon juice and sald and pepper to taste.  Bring to a boil before covering and gently simmering for 30 minutes. 
+
+Strain vegetables and reserve stock.  Food-processor the vegetables and reintroduce both it and stock to pan to reheat.
+
+Serve with swirls of sour cream and dill.</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>156</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<mdate>05/26/2009</mdate>
+	<user>billp</user>
+	<safe_name>Spicy_Borscht</safe_name>
+</recipe>

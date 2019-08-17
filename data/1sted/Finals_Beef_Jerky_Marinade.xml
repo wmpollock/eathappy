@@ -1,0 +1,49 @@
+<recipe>
+  <main_ingredient>Bill's Favorite</main_ingredient>
+  <notes>**UNTRIED** I first made this back in High School when I was supposed to be studying for finals, inspiring my dad to  say "Shouldn't you be  studying for finals?"  Perhaps, but I had little occasion to cook back then and I  figured the snackens wouldn't hurt during the exams.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Soy Sauce</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worcestershire</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <quantity>1 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Dehydrated Onion</ingredient_name>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Garlic, Crushed</ingredient_name>
+      <quantity>2 Cloves</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Pepper</ingredient_name>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <quantity>5 Dashes</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tabasco</ingredient_name>
+      <quantity>6 Med Drops</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Finals Beef Jerky Marinade</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Appetizer</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Jerky is painfully easy to make.  The key is getting a nice lean cut of meat.  Any fatty bits need to be cut off or else they'll coat the jerky in grease which is "not good eats".  Trim the beef into 1 inch X 1/4 inch strips and marinate overnight.  Coat a cooking sheet in tinfoil to catch the drippings and arrange the jerky on cooling racks above the cooking sheet.  Turn the oven on as low as it will go -- you want warm, not hot.  You aren't -cooking- the meat, just drying the damned stuff. If the temperature is much above 180 degrees, you'll want to prop the door open with a wooden spoon to let a little extra heat out.
+
+Drying is a subjective thing.  Some people swear by overnight, but I like a little bit of chewiness in the final product so usually only go for 4 hours or so.
+
+Jerky keeps well in sealed, refrigerated containers and allegedly goes bad after a few weeks but I've never had any last long enough to find out.</preparation>
+</recipe>

@@ -1,0 +1,57 @@
+<recipe>
+  <name>Cheese Appetizers</name>
+  <safe_name></safe_name>
+  <primary_category>Appetizers</primary_category>
+  <untried></untried>
+  <secondary_categories/>
+  <yield_count>20</yield_count>
+  <yield_measure>toast squares/rounds</yield_measure>
+  <prep_time></prep_time>
+  <notes>This is the last of ~225 entries entered into the system.  It was added using a three-panel set of custom software built atop the 3rd generation Eat Happy software platform.  Between start and stop 13 years have elapsed.</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>6 oz</quantity>
+      <ingredient_name>cream cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 lb (1 cup)</quantity>
+      <ingredient_name>shredded provolone cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>chopped onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>oregano</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/8 tsp</quantity>
+      <ingredient_name>garlic salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>chopped pimento</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbsp</quantity>
+      <ingredient_name>chopped green pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Beat cream cheese until soft, then blend with remaining ingredients.  Spread on [miniature] toast, broil 1-2 minutes or until lightly browned.</preparation>
+  <source_author>Sacramento Bee</source_author>
+  <source_name>Cheese Appetizers Add Zest To The Holidays</source_name>
+  <source_page>101</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate>2017-09-11</cdate>
+  <mdate></mdate>
+  <user>billp</user>
+</recipe>

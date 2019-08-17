@@ -1,0 +1,56 @@
+<recipe>
+  <name>Spanish Cream</name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>1 envelope</quantity>
+      <ingredient_name>unflavored gelatin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>cold milk</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3</quantity>
+      <ingredient_name>eggs</ingredient_name>
+      <preparation>separated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>vanilla</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>cream of tartar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine gelatin, 1/4 sugar, 1/2 cup cold milk and salt.  Let stand 1 minute.  Beat egg yolks and remaining milk.  Stir into gelatin mixture.  Cook, stirring over *low* heat about 5 minutes.
+
+Remove from heat.  Stir in vanilla.  Chill until it mounds slightly when dropped from spoon.
+
+Beat egg whites and cream of tartar.  Beat in 1/4 cup sugar slowly.  Fold gelatin mixture into egg whites.  Pour into mold and chill at least 8 hours.  
+
+Top with custard sauce, whipped cream or crushed berries.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0030-0031</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/28/2005</cdate>
+  <safe_name>Spanish_Cream</safe_name>
+</recipe>

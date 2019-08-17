@@ -1,0 +1,40 @@
+<recipe>
+  <main_ingredient>Snackens</main_ingredient>
+  <notes>Dennis made these for a string of appearances, occasionally command performances.  They are mighty  tasty down-home stylee (I mean, yeah -- Velveeta!).  Two packages of rye might be a bit much depending  on how much you spoon on there.</notes>
+  <yield_count>30</yield_count>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Ground Beef</ingredient_name>
+      <quantity>1 Lb</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Italian Sausage</ingredient_name>
+      <quantity>1 Lb</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Velveeta Cheese, Cut Into Small Cubes</ingredient_name>
+      <quantity>1 Lb</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Yellow Onion, Diced</ingredient_name>
+      <quantity>1</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Italian Seasoning</ingredient_name>
+      <quantity>2 Tbsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Party Rye Bread</ingredient_name>
+      <quantity>2 Pgks</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Dennis's Meaty Cheesy Things</name>
+  <category>
+    <category>Appetizer</category>
+  </category>
+  <preparation><![CDATA[Saute the beef, sausage and onions in a pan.  Drain off the fat.  Add the Italian Seasoning & Velveeta and stir over low heat until the velveeta has softened and the ingredients have mixed togehter.  
+
+Spoon a tablespoon or two of mixture onto each rye toast and place on a cooking sheet.
+
+Can be made ahead and frozen.  Heat mixture under a broiler until the rye browns slightly.]]></preparation>
+</recipe>

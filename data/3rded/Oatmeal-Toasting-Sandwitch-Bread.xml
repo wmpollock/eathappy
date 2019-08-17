@@ -1,0 +1,75 @@
+<recipe>
+	<name><![CDATA[Oatmeal Toasting & Sandwitch Bread]]></name>
+	<yield_count>1</yield_count>
+	<yield_measure>loaf</yield_measure>
+	<notes>Purchased at the now defunct Ralph's.
+
+You must all now feel sad about this.  
+
+SAD! You bastards!!
+
+An interesting sounding recipe.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>Unbleached Bread Flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>rolled oats</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>butter</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>brown sugar or honey</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>instant yeast (alt: 1 pkt dry yeast)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/3 cups</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation>lukewarm</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3/4 cups</quantity>
+			<ingredient_name>raisins or currants</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix together all ingredients to create a shaggy dough.  Knead by hand 10 minutes or 45 minutes by machine until smooth.
+
+Put dough in a lightly greased bowl and allow to rest 1 hour, until not quight double.
+
+Proofing: Shape as cylinder and place in 9x5" pan and cover with greased plastic rap and allow to rise 45-60 minutes until crested 1-2 inches over the rim of the pam.
+
+Bake at 350F for 35-45 minutes.  They say the center will reach 190F, but we'll never know.</preparation>
+	<primary_category>Bread</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>King Arthur Flour Unbleached Bread Flour package</source_name>
+	<source_date>2005</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>04/13/2006</cdate>
+	<mdate>06/09/2009</mdate>
+	<user>billp</user>
+	<safe_name>Oatmeal_Toasting_Sandwitch_Bread</safe_name>
+</recipe>

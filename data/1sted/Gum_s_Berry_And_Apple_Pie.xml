@@ -1,0 +1,43 @@
+<recipe>
+  <main_ingredient>Bill's Favorite</main_ingredient>
+  <notes>Gum always made this for us when we'd come visiting.  She used a ceramic blackbird poking through the  center of the crust to  keep it from collapsing in on itself overly much and to work as a vent.  The little  bastards are hard to find, but well worth the  effort -- the pie wouldn't look the same without the little  head peeping out. 
+
+This being said, my crust generally falls in but its still tasty.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Flour</ingredient_name>
+      <quantity>2 1/2 Cups</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt</ingredient_name>
+      <quantity>1/2 Tsp</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Ice Water</ingredient_name>
+      <quantity>2/3 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Apples</ingredient_name>
+      <quantity>2-4</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Boysenberries</ingredient_name>
+      <quantity>1 Bag</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Sugar</ingredient_name>
+      <quantity>1 1/4 Cup</quantity>
+    </ingredient>
+  </ingredients>
+  <name>Gum's Berry And Apple Pie</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Dessert</category>
+  </category>
+  <preparation>Pare, slice and cook apples til soft (not mashed)--about 10 mins.
+
+Mix flour and salt and cut in ice water slowly to form crust.  Roll out and perhaps chill.  I don't know -- I never end up making this right and this is more information than *I* ever had, so be thankful :)
+
+Bake 35 to 45 minutes.  Start at 450F for 10 minutes then step down to 350F.
+</preparation>
+</recipe>

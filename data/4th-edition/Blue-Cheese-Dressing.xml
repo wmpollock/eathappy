@@ -1,0 +1,64 @@
+<recipe>
+  <name>Blue Cheese Dressing</name>
+  <safe_name>Blue_Cheese_Dressing</safe_name>
+  <yield_count>.75</yield_count>
+  <yield_measure>cup</yield_measure>
+  <notes>I think my first experiment with this would have been aided by having better cheese.  My bleu was nothing special and while the dressing was better-than-commercial, it wasn't especially memorable or exciting.  The base amount of buttermilk ended up being pretty pulpy and I ended going nearly double with the buttermilk.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>blue cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>sea salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>sour cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>buttermilk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>chives</ingredient_name>
+      <preparation>finely chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>lemon juice or white wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>a few drops</quantity>
+      <ingredient_name>red wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Combine blue cheese, salt and pepper, breaking up the cheese crumbles.  Mix in sour cream, buttermilk, lemon juice, chives and red wine vinegar.  Adjust seasonings and buttermilk as necessary.</preparation>
+  <primary_category>Salad/Dressing</primary_category>
+  <secondary_categories>
+    <secondary_category>Buttermilk</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Lots Of Cheese</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>http://www.davidlebovitz.com/2011/01/bleu-blue-cheese-dressing-recipe-salad/</source_name>
+  <source_date>24 Jan 2011</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>01/02/2013</mdate>
+  <user>billp</user>
+</recipe>

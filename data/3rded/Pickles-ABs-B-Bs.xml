@@ -1,0 +1,67 @@
+<recipe>
+	<name><![CDATA[Pickles: AB's B&Bs]]></name>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2</quantity>
+			<ingredient_name>onion</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>medium cucumbers</ingredient_name>
+			<preparation>thinly sliced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>cider vinegar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>pinch</quantity>
+			<ingredient_name>kosher salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>mustard seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>turmeric</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>celery seeds</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>pickling spice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Combine onion and cucumbers in a clean spring-top jar.  Bring water, cider vinegar, kosher salt, mustard seeds, turmeric, celery seeds and pickling spice to a boil in a large nonreactive pot or saucepan and reduce to simmer for 4 minutes.
+
+Pour pickling liquid over the onion and cucumbers, completely filling the jar.  Top off as necessary after jar cools. Refrigerate.</preparation>
+	<primary_category>Side</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>BBQ</secondary_category>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Alton Brown: http://www.foodnetwork.com/recipes/alton-brown/abs-b-and-bs-recipe/index.html</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/27/2009</cdate>
+	<user>billp</user>
+	<safe_name>Pickles_ABs_B_Bs</safe_name>
+</recipe>

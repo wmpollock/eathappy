@@ -1,0 +1,53 @@
+<recipe>
+	<name>Spinach Dip</name>
+	<yield_measure>Servings</yield_measure>
+	<notes>This is a favorite of my mother's and of my grandmothers as well.  Always best if served into a hacked-up monster loaf of sourdough, though one could be genteel and use a sectioned baguette and spreading knives if you positively had to.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 large cartons (32oz)</quantity>
+			<ingredient_name>sour cream</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 pkgs</quantity>
+			<ingredient_name>Knorr's vegetable soup</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>scallion onions (for chives)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg (16 oz)</quantity>
+			<ingredient_name>cream cheese, softened</ingredient_name>
+			<preparation>softened</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 pkg</quantity>
+			<ingredient_name>frozen chopped spinach</ingredient_name>
+			<preparation>drained</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 can</quantity>
+			<ingredient_name>water chestnuts</ingredient_name>
+			<preparation>diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>monster sourdough loaf</ingredient_name>
+			<preparation>hollowed</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Refrigerate to allow flavor to develop.  Hollow out round loaf of French bread.  Cut rremoved bread into squares and fill hollow with dip.</preparation>
+	<primary_category>Appetizers</primary_category>
+	<secondary_categorys>
+		<secondary_category>Bill's Favorite</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/24/2009</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Spinach_Dip</safe_name>
+</recipe>

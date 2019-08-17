@@ -1,0 +1,68 @@
+<recipe>
+  <name>Maple Pear Brown Betty</name>
+  <safe_name>Maple_Pear_Brown_Betty</safe_name>
+  <yield_count>8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>unsalted butter</ingredient_name>
+      <preparation>divided, additional reserved for greasing pan</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 cups</quantity>
+      <ingredient_name>breadcrumbs</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>ground cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 1/2 lbs</quantity>
+      <ingredient_name>pears</ingredient_name>
+      <preparation>peeled, cored, halved and sliced to 1/2 inch</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>maple syrup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat oven to 30F.  Brown 5 Tbl of the butter in large skillet of medium-low heat.  Add breadcrumbs, cinnamon and salt and stir occasionally until breadcrumbs are toasty, 8-10 minutes.  Remove from heat, cool and toss with brown sugar.
+
+Combine pear slices, lemon juice and maple syrup.
+
+Butter 2 quart baking dish.  Coat evenly with 1/2 cup breadcrumbs.  Place half of pear mixture on pan and dot [INSTRUCTIONS UNCLEAR: how?  melted?] 1 Tbl of butter.  Cover with half remaining breadcrumbs.  Spoon remaining pears and any juice and cover with remaining crumbs.  Dot [AGAIN, UNCLEAR] with remaining 1 Tbl butter.
+
+Bake until pears are soft and crumbs are dark brown, 45-60 minutes depending on taste.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>San Francisco Chronicle, "Maple Pear Brown Betty"</source_name>
+  <source_page>http://www.sfgate.com/food/recipes/detail/?p=detail&amp;rid=18951&amp;sorig=qs</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/29/2013</cdate>
+  <user>billp</user>
+</recipe>

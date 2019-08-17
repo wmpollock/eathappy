@@ -1,0 +1,78 @@
+<recipe>
+  <main_ingredient>Vegetables</main_ingredient>
+  <notes>**UNTRIED**
+
+From the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by DeDe Torres</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>Onion</ingredient_name>
+      <quantity>3/4 Cup</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Carrots</ingredient_name>
+      <unknown_1>11124</unknown_1>
+      <quantity>1 Cup</quantity>
+      <preparation>Diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Zucchini</ingredient_name>
+      <quantity>1 Cup</quantity>
+      <preparation>Diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Celery</ingredient_name>
+      <quantity>2/3 Cup</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Potatoes</ingredient_name>
+      <quantity>1 1/2 cup</quantity>
+      <preparation>Diced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Cut Italian Green Beans</ingredient_name>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>White Kidney Beans</ingredient_name>
+      <unknown_1>16051</unknown_1>
+      <quantity>1 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Pinto Beans</ingredient_name>
+      <unknown_1>16044</unknown_1>
+      <quantity>1 Cup (can)</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Salt And Pepper</ingredient_name>
+      <unknown_1>16026</unknown_1>
+      <quantity></quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tiny Star/other Small Pasta</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Basil</ingredient_name>
+      <quantity>1/2 Cup</quantity>
+      <preparation>Chopped W/2 Tbsp Olive Oil</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Leeks</ingredient_name>
+      <quantity>2/3 Cup</quantity>
+      <preparation>Chopped</preparation>
+    </ingredient>
+  </ingredients>
+  <name>De's Minestrone Soup</name>
+  <yield_measure>Servings</yield_measure>
+  <category>
+    <category>Soup</category>
+    <category>Untried</category>
+  </category>
+  <preparation>Soup stock:  add 3 beef knuckles or beef shank to 4 quarts cold water and 1 tablespoon salt.  Simmer slowly 3 to 4 hours;  remove bones.  Let cool overnight.  Remove fat.
+
+Add soup stock to large pot; bring to boil, 15 to 20 minutes.  Ad 1 1/2 to 2 cups water.  Salt and pepper; bring to boil.  Add carrots, zucchini,   celery, potatoes, green beans and pasta; simmer for 20 minutes.  Add basil; simmer 10 minutes.  Add beans; simmer 20 minutes or so, vegetables should be cooked.  Serve with Parmesan cheese.
+
+</preparation>
+</recipe>

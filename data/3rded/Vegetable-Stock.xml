@@ -1,0 +1,105 @@
+<recipe>
+	<name>Vegetable Stock</name>
+	<notes>Ahh, yes.  You can indeed get vegetable stock at the store, but how much of that crap is just salt passing itself off as flavor?  Oh, you betcha the photo in this here book more than does for the benefits of the effort, though to be sure the end of the ingredient list starts reading like some kind of damned Dr. Seuss story and I think stands for "what you have around, but boy howdy would it be nice if you had..."</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>leeks</ingredient_name>
+			<preparation>coarsely chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>celery stalks</ingredient_name>
+			<preparation>coarsely chapped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large onion</ingredient_name>
+			<preparation>chopped and allegedly with skin</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 pieces</quantity>
+			<ingredient_name>fresh ginger</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>garlic cloves</ingredient_name>
+			<preparation>unpeeled</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>yellow bell pepper</ingredient_name>
+			<preparation>seeded and chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>parsnip</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>mushroom stalks</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>tomato peelings</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 Tbl</quantity>
+			<ingredient_name>light soy sauce</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3</quantity>
+			<ingredient_name>bay leaves</ingredient_name>
+			<preparation>you old duffer</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>bundle of parsley stalks.</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>3 sprigs</quantity>
+			<ingredient_name>fresh thyme</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 sprig</quantity>
+			<ingredient_name>rosemary</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>14 cups</quantity>
+			<ingredient_name>cold water</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Ready?  Steady?  Chop like hell and integrate every single ingredient into the pot and bring slowly to a boil.  Simmer for an additional 30 minutes, stirring occasionally.  Strain out the vegetables and stock is ready to use, or so they say, but it sounds like a nasty end to the tasty parts...</preparation>
+	<primary_category>Soup</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Vegetables</secondary_category>
+		<secondary_category>Vegetarian</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>08/04/2007</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Vegetable_Stock</safe_name>
+</recipe>

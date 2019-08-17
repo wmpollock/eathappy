@@ -1,0 +1,63 @@
+<recipe>
+	<name>Three-Step Lemon Cheesecake Bars</name>
+	<yield_count>12</yield_count>
+	<yield_measure>servings</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1 1/2 cups</quantity>
+			<ingredient_name>macaroon cookie crumbs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>margerine</ingredient_name>
+			<preparation>melted</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 8oz. pkg</quantity>
+			<ingredient_name>cream cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 tsp</quantity>
+			<ingredient_name>grated lemon peel</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix together cookie crumbs and margerine and use to line th bottom of a 8" baking pan.  Blend together cream cheese, sugar, lemon juice, vanilla extract and lemon peel until well mixed.  Add eggs and blend until just mixed.  Pour cream cheese mixture over crust and cook at 350F for 20-25 minutes or until set.
+
+Cool for 3 hours or overnight.</preparation>
+	<primary_category>Desserts</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Lemon</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Philadelphia Cream Cheese Box, 2005</source_name>
+	<entry_app>Veronica</entry_app>
+	<cdate>11/09/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Three_Step_Lemon_Cheesecake_Bars</safe_name>
+</recipe>

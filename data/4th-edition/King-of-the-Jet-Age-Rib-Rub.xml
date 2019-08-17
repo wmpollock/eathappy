@@ -1,0 +1,54 @@
+<recipe>
+  <name>King of the Jet Age Rib Rub</name>
+  <safe_name>King_of_the_Jet_Age_Rib_Rub</safe_name>
+  <yield_count>1</yield_count>
+  <yield_measure>cup</yield_measure>
+  <notes>About says that this recipe comes di-rect from Walter Jeton, BBQ pitmaster to President Johnson.  A Texan, one would expect Johnson would, um, know his meat.
+
+Lemon powder can be made by depithing, drying and then grinding (after optionally roasting) lemon peel.  It can also be ordered from spice houses.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 Tbl</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 1/2 Tbl</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name> MSG</ingredient_name>
+      <preparation>optional but oldschool correct</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>lemon peel powder</ingredient_name>
+      <preparation>a miracle ingredient</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together ingredients.  Apply to patted down meat and let sit until rub is moist.</preparation>
+  <primary_category>Seasonings/Sauces</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>About.com:  Walter Jetton's Dry Rib Rub</source_name>
+  <source_page>http://bbq.about.com/od/rubrecipes/r/bln0310a.htm</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/03/2013</cdate>
+  <user>billp</user>
+</recipe>

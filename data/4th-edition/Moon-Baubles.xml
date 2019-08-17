@@ -1,0 +1,62 @@
+<recipe>
+	<name>Moon Baubles</name>
+	<yield_count>4</yield_count>
+	<yield_measure>dozen</yield_measure>
+	<ingredients>
+		<ingredient>
+			<quantity>1/2 cup (1 stick)</quantity>
+			<ingredient_name>butter or margarine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>sugar</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>vanilla extract</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>all-purpose flour</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>baking powder</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/2 cups</quantity>
+			<ingredient_name>toasted oats (like Cheerios)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name><![CDATA[cany coated chocolate pieces (like M&Ms)]]></ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cream together butter and sugar.  Add egg and vanilla extract andbeat until fluffy.  Stir in flour and baking powder and mix well before adding cereal and choclate pieces.  Stiru ntil just blended.
+
+Drop rounded teaspoons 2" apart onto ungreased cookie sheet.  Bake 9-11 minutes or until lightly brown in a 350F oven.  Let cool on cookie sheet 1 minute before removing to racks for final cooling</preparation>
+	<primary_category>Cookies</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Box Recipe</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Fine Foods Toasted Oats box</source_name>
+	<source_date>2009</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Moon_Baubles</safe_name>
+</recipe>

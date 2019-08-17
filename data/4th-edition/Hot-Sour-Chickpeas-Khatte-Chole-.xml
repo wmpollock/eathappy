@@ -1,0 +1,89 @@
+<recipe>
+	<name>Hot Sour Chickpeas (Khatte Chole)</name>
+	<ingredients>
+		<ingredient>
+			<quantity>12 ozs</quantity>
+			<ingredient_name>chickpeas (garbanzos)</ingredient_name>
+			<preparation>soaked overnight andd rained</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>vegetable oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>medium onions</ingredient_name>
+			<preparation>very finely chopped, divided</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 oz</quantity>
+			<ingredient_name>tomatoes</ingredient_name>
+			<preparation>peeled and finely chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>ground corriander</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>ground cumin</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground fenugreek</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 tsp</quantity>
+			<ingredient_name>ground cinnamon</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1-2</quantity>
+			<ingredient_name>hot green chiles</ingredient_name>
+			<preparation>seeded and finely diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 inch cube</quantity>
+			<ingredient_name>fresh ginger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>4 Tbl</quantity>
+			<ingredient_name>lemon juice</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 Tbl</quantity>
+			<ingredient_name>chopped fresh cilantro</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cover chickpeas with water in a large saucepan and bring to a boil.  Cover ans aimmer for 60-75 minutes or until the chickpeas are tender.  Drain, reserving any cooking fluid.
+
+Heat the oil in a large pot.  Reserve 2Tbl chopped onions and fry the rest over moderate heat for 4-5 mintes until onions start to carmelize.
+
+Add the tomatoes and cook an additional 5-6 minutes or until soft. Pulp the tomatoes in the pan and stir frequently.    Add corriander, cumin, fenugreek and cinnamon.  Stir and cook 30 seconds before adding the chickpeas and 12 oz of the reserved cooking liquid.  Season with salt to taste and gently simmer for 15-20 minutes, adding liquid if necessary.
+
+Mix reserved 2 Tbl chopped onions and chili with the ginger and lemon juice.  Immediately before serving stir the dressing into the chickpeas with the cilantro and serve.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Hilary's Dislikes</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>193</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Hot_Sour_Chickpeas_Khatte_Chole_</safe_name>
+</recipe>

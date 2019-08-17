@@ -1,0 +1,73 @@
+<recipe>
+  <name>Marinated Mushrooms</name>
+  <safe_name>Marinated_Mushrooms</safe_name>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <notes>I always associated marinated mushrooms with my gramma's guests coming over as a child.  Sadly, Needs Research:  is this THE recipe?  Its source is unknown but likely picked up through my mother's collection.
+
+These stand well alone or placed in salad though something (and we suspect it may be the vinegar or the tarragon or the two in combination) does strange things to the palate, especially when combined with avocados.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>salad oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3 cups</quantity>
+      <ingredient_name>white vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic, minced</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 sprigs</quantity>
+      <ingredient_name>tarragon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>dash</quantity>
+      <ingredient_name>tabasco or other hot sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 medium</quantity>
+      <ingredient_name>white onion</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>mushrooms</ingredient_name>
+      <preparation>sliced 1/4"</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.</preparation>
+  <primary_category>Appetizers</primary_category>
+  <secondary_categories>
+    <secondary_category>Mushrooms</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>70s Flashback</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/11/2005</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>

@@ -1,0 +1,94 @@
+<recipe>
+  <name>Coq Au Vin</name>
+  <yield_count>6-8</yield_count>
+  <yield_measure>servings</yield_measure>
+  <ingredients>
+    <ingredient>
+      <quantity>3-3 1/2 lb</quantity>
+      <ingredient_name>chicken</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>6 slices</quantity>
+      <ingredient_name>bacon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>5</quantity>
+      <ingredient_name>small onions</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4-6</quantity>
+      <ingredient_name>carrots</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 lb</quantity>
+      <ingredient_name>mushrooms</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup*</quantity>
+      <ingredient_name>chicken broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup*</quantity>
+      <ingredient_name>Burgundy wine</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 clove</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Bouquet Garni</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>bay leaf</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 sprigs</quantity>
+      <ingredient_name>parsley</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>crushed thyme leaves</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation><![CDATA[Mix flour, salt and pepper.  Coat chicken with this mixture.  Fry bacon until crisp.  Brown chicken in bacon fat.
+
+Bring chicken broth & Burgundy to boil.  Cook for about 1 hour or until chicken is tender.  Add vegetable, mushrooms and bouquet garni for last half hour of cooking.
+
+Serve with toasted sour french bread.
+
+Bouquet garni:  place spices in a tea ball or tie into cheesecloth.
+
+* - both broth and wine measurements had a notation reading "I use 2 cups"]]></preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0021-0022</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>11/21/2005</cdate>
+  <mdate>11/21/2005</mdate>
+  <safe_name>Coq_au_Vin</safe_name>
+</recipe>

@@ -1,0 +1,65 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Bills_Bloody_Marys_Rosemont_New_Year_Stylee</safe_name>
+  <primary_category>Beverages</primary_category>
+  <preparation>Mix all ingredients together except the celery stalk and find a "capping cup", something that will fit over the top to allow you to shake the cocktail (else one could probably use a cocktail shaker, but man, the cleanup".  Garnish with celery.</preparation>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <cdate>01/26/2005</cdate>
+  <prep_time></prep_time>
+  <name>Bill's Bloody Marys, Rosemont New Year Stylee</name>
+  <secondary_categories>
+    <secondary_categorie>**New05</secondary_categorie>
+    <secondary_categorie>Cursed</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name></source_name>
+  <notes>Another cursed recipe.  Over the course of a week at Sea Ranch I'd come up with the killer Bloody Mary recipe that took me the better part of a week to sus out.  
+
+And man, it had a little of everything.  When condiments are use-or-loose, suddenly pouring through that horseradish sounds like a good idea, doesn't it?
+
+Its was kind of a fussy recipe and while this one is maybe not as ambrosial, it is certainly serviceable enough to fly in Italy where I'd wanted it most.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>12 oz pint glass</ingredient_name>
+      <quantity>1</quantity>
+      <preparation>full of ice</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vodka</ingredient_name>
+      <quantity>2 oz</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemon juice</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Tabasco</ingredient_name>
+      <quantity>4-5 dashes</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worchestershire</ingredient_name>
+      <quantity>2 dashes</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic salt</ingredient_name>
+      <quantity>4 dashes</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>5-6 grinds</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>celery stalk</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/26/2005</mdate>
+</recipe>

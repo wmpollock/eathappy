@@ -1,0 +1,72 @@
+<recipe>
+	<name>LaScala Scampi</name>
+	<yield_count>6</yield_count>
+	<yield_measure>servings</yield_measure>
+	<notes>I imagine "La Scala" as being That Place on the Lake Almanor Peninsula back in 1978.
+
+I'll say that this recipe has a distinct "almost healthy except for that huge gob of olive oil bit."</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>24</quantity>
+			<ingredient_name>large prawns or shrimp</ingredient_name>
+			<preparation>peeled, de-veined and split lengthwise</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>olive oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>white wine</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>lemon</ingredient_name>
+			<preparation>juiced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>chicken stock</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>large shallots</ingredient_name>
+			<preparation>chopped</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>basil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 Tbl</quantity>
+			<ingredient_name>oregano</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Arrange butterflied prawns in baking pan.  Season to taste with salt and pepper.  Combine oil, wine, lemon juice, chicken stock, shallots, basil and oregano and pour over shrimp.  
+
+Cook under broiler for 10 minutes or until golden.
+
+**WARNING:  COMING OUT OF THE BROILER, THE COMBINATION OF SLOSHY FLUIDS WILL BE EXCEPTIONALLY HOT AND SHOULD BE EXPECTED A BURN RISK**</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Shrimp</secondary_category>
+	</secondary_categorys>
+	<source_name>"Almanor Westshore Cooks", contributed by Sandra and John Davey</source_name>
+	<source_page>117</source_page>
+	<source_date>1992</source_date>
+	<entry_app>Veronica</entry_app>
+	<cdate>01/20/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>LaScala_Scampi</safe_name>
+</recipe>

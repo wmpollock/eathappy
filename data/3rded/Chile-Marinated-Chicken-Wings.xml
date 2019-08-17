@@ -1,0 +1,90 @@
+<recipe>
+  <name>Chile-Marinated Chicken Wings</name>
+  <safe_name>Chile_Marinated_Chicken_Wings</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes></notes>
+  <prep_time>20 minutes, 2 hour marinade, 16-18min grill</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Meat</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>16 count or about 2 1/2 lbs</quantity>
+      <ingredient_name>chicken wings</ingredient_name>
+      <preparation>tips removed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**Marinade</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <ingredient_name>dried pasilla chili peppers</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>canola oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>catsup</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>soy sauce</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>basalmic vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 </quantity>
+      <ingredient_name>medium garlic cloves</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried oregano</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>freshly ground black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Marinade:  Stem and seed the chiles before sectioning into 2" strips.  Heat the oil in a medium skillet over high heat.  Add the chilis to teh warming oil and toast until the begin to change color.  Remove chiles and oil to a small bowl and cover with 1 cup of hot water to soak the chiles for 30 minutes.  Blend mixture in blender or food processor with remaining ingredients until smooth.  
+
+Bag marinde chicken for about 2 hours before discarding marinade and grilling over direct medium heat until chicken is cooked through, 16-18 minutes.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>BBQ</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+  </secondary_categories>
+  <source_name>Webber's Real Grilling</source_name>
+  <source_page>192</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

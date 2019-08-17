@@ -1,0 +1,61 @@
+<recipe>
+  <name>Carolina BBQ rub</name>
+  <safe_name>Carolina_BBQ_rub</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Nice for pork shoulder and as a general seasoning.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>brown sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>ground cumin</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>chili powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>fresh ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together ingredients before using.  Apply to surfaces that have been patted dry and let stand until moist.</preparation>
+  <primary_category>Seasonings/Sauces</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Pork</secondary_category>
+  </secondary_categories>
+  <source_name>About.com:  A Carolina BBQ Rub</source_name>
+  <source_page>http://bbq.about.com/od/rubrecipes/r/bln0224a.htm</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>03/03/2013</cdate>
+  <user>billp</user>
+</recipe>

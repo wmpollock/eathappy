@@ -1,0 +1,69 @@
+<recipe>
+  <name>Monkey Bread (formerly "Monkey Break")</name>
+  <yield_count>12</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes>Sadly no monkey is included in monkey bread</notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>milk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 pkg</quantity>
+      <ingredient_name>dry yeast</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 tbsp</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>melted butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 1/2 cup</quantity>
+      <ingredient_name>sifted flour</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 egg</quantity>
+      <ingredient_name>slightly beaten</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>additional butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Scald milk and allow to cool to lukewarm.  Dissolve yeast in scalded milk in a large bowl.  Beat in sugar, salt, butter, flour and egg.
+
+Let double in a warm place and punch down.  On a floured board, roll dough out to 1/4".  Cut in diamond pattern 2 1/2 inches apart.
+
+Dip each piece in a mixture of cooking oil and butter.  Arrange in a a 9-inch ring mold and let rise until almost double.  Bake 400F for 30 minutes or until golden brown.  Pull apart to serve.</preparation>
+  <primary_category>Bread</primary_category>
+  <secondary_categorys>
+    <secondary_category>**New05</secondary_category>
+  </secondary_categorys>
+  <untried>1</untried>
+  <source_name>From "Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA" -- Maurice C. Allen, Sr.</source_name>
+  <source_page>48</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/04/2005</cdate>
+  <mdate>02/02/2005</mdate>
+  <safe_name>Monkey_Bread_formerly_Monkey_Break_</safe_name>
+</recipe>

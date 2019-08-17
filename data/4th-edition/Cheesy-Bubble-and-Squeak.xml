@@ -1,0 +1,63 @@
+<recipe>
+	<name>Cheesy Bubble and Squeak</name>
+	<notes>Bubble and Squeak is very English and the sort of thing Hilary occasionally pines for.  I was introduced to it first alongside number of other rather ghastly "picnic" type dishes by the cooking programme "Two Fat Ladies".  This one looked rather edible, compared to how pork pies are made.
+
+Sadly I'd seen that episode and never had a pork pie to enjoy the footage with:  yes, children, despite this we still eat pork pies.  Instead it is with some guilt that I enjoy the foul litle buggers.
+
+These, however, can be enjoyed nearly guilt free.  Those cows wanted you to have their milk -- it gives them purpose.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>3 cups</quantity>
+			<ingredient_name>mashed potatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8 oz</quantity>
+			<ingredient_name>cooked cabbage or kale</ingredient_name>
+			<preparation>shedded</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation>beaten</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>grated cheddar cheese</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>grated nutmeg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>salt and freshly ground black pepper</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>flour</ingredient_name>
+			<preparation>for dredging</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Mix the potatoes with the cabbage or cale, cheese, nutmeg and salt and pepper to taste and form into eight patties. 
+
+Heat 1/2" of oil in a large frying pan. Dredge the patties in the flour before frying each side for 3 minutes or until crisp and golden brown.  Dry on paper towls. 
+
+Serve hot and crisp.</preparation>
+	<primary_category>Vegetables</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Potatoes</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+	<source_page>208</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>05/26/2009</cdate>
+	<user>billp</user>
+	<safe_name>Cheesy_Bubble_and_Squeak</safe_name>
+</recipe>

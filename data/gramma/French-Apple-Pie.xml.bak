@@ -1,0 +1,59 @@
+<recipe>
+  <name>French Apple Pie</name>
+  <ingredients>
+    <ingredient>
+      <quantity>6-7 cups</quantity>
+      <ingredient_name>apples</ingredient_name>
+      <preparation>thinly sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3-3/4 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 tbsp</quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation>full amount if juicy</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>grated lemon rind</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1-2 tbsp</quantity>
+      <ingredient_name>lemon juice</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>nutmet</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>cinnamon</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tbsp</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Heat oven to 425F.  Bake 20 minutes covered in foil.  Bake 20 minutes uncovered.  Serve warm.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0001</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/01/2005</cdate>
+  <mdate>02/01/2005</mdate>
+  <safe_name>French_Apple_Pie</safe_name>
+</recipe>

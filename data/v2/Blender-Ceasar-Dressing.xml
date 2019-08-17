@@ -1,0 +1,63 @@
+<recipe>
+  <source_page></source_page>
+  <safe_name>Blender_Ceasar_Dressing</safe_name>
+  <primary_category>Salad/Dressing</primary_category>
+  <preparation>In blender, combine egg, Parmesan cheese, lemon juice, garlic, Worcestershire, salt and pepper.  Mix until blended.  With the blender on its lowest speed, gradually add oil in a thin stream and continue to blend until dressing is thick and creamy.  Pour into jar.  Cover and refrigerate for at least one hour.  Keeps up five days.  
+
+Let stand at room temperature for fifteen minutes before using.  Shake well.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <untried>1</untried>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Blender Ceasar Dressing</name>
+  <secondary_categories>
+    <secondary_categorie>Raw Eggs</secondary_categorie>
+  </secondary_categories>
+  <source_date></source_date>
+  <source_name>Sunset Favorite Recipes I</source_name>
+  <notes>A favorite of my mom's.  I always shy away from serving my guests raw eggs but it is quite a tasty summertime  dressing over some crisp romaine.  Its also far, far away from the traditional, bowl-turned recipe.</notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>egg</ingredient_name>
+      <quantity>1</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>grated Parmesan cheese</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemon juice</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>2 cloves</quantity>
+      <preparation>minced or pressed</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>Worcestershire sauce</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salt</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>pepper</ingredient_name>
+      <quantity>1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>salad oil</ingredient_name>
+      <quantity>1/2 cup</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate></mdate>
+</recipe>

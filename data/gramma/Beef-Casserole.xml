@@ -1,0 +1,84 @@
+<recipe>
+  <name>Beef Casserole</name>
+  <safe_name></safe_name>
+  <primary_category>Casseroles/One Dish Meals</primary_category>
+  <untried>1</untried>
+  <secondary_categories/>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <prep_time></prep_time>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>large onion</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium green pepper</ingredient_name>
+      <preparation>chopped fine</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 lb</quantity>
+      <ingredient_name>ground chuck</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp </quantity>
+      <ingredient_name>Worcestershire</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 small cans</quantity>
+      <ingredient_name>tomato sauce*</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 medium pkg</quantity>
+      <ingredient_name>small shell pasta</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>grated cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>creamed corn</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>pitted ripe olives</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 dash</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Brown onion, garlic and green pepper in 1/2 cup olive oil.  Add meat and brown.  Add tomato sauce, cheese, corn and seasoning.  Stir and simmer a half hour.  Cook noodles, drain.  Add to meat mixture.  Add olives.  Mix well and put into buttered casserole.  Cover with more grated cheese.  Bake at 35 until thoroughly headed through.
+
+* may have meant "paste"</preparation>
+  <source_author></source_author>
+  <source_name>Muriel Cocker</source_name>
+  <source_page>0013-0014</source_page>
+  <source_date></source_date>
+  <entry_app>EH 3.0</entry_app>
+  <cdate></cdate>
+  <mdate>2017-09-20</mdate>
+  <user>billp</user>
+</recipe>

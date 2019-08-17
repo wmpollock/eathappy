@@ -1,0 +1,106 @@
+<recipe>
+  <name>Spicy Potato Strudel</name>
+  <safe_name>Spicy_Potato_Strudel</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>Not an</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>5 Tbl</quantity>
+      <ingredient_name>butter</ingredient_name>
+      <preparation>divided</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2</quantity>
+      <ingredient_name>carrots</ingredient_name>
+      <preparation>coarsley grated</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>zucchini</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12 oz</quantity>
+      <ingredient_name>potatoes</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>mild curry paste</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried thyme</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2/3 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>salt &amp; freshly ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>egg</ingredient_name>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>light cream</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>grated cheddar cheese</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>8 sheets</quantity>
+      <ingredient_name>phyllo pastry</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>sesame seeds</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Defrost the phyllo dough in the fridge for 24 hours or zap in the microwave for 60 seconds to prepare.
+
+In half the butter fry the onion, carrots, zucchini and potatoes until soft, then add curry paste and cook for an additional minute.
+
+Let the mixture cool and mix in egg, cream and cheese.  Use immediately or chill until filing.
+
+Lay out four sheets of filo pastry so that they slightly overlap and form a large rectangle.  Brush with butter and fit the additional sheets on top.  Brush tops with butter.
+
+Spoon the filling along a long edge and roll from there.  Form loaf into a circle and brush with remaining butter.  Sprinkle with sesame seeds and lay out on a baking sheet.
+
+Bake the studel at 375F for 25 minutes or until golden crisp.  Allow to stand for at least five minutes before cutting.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Vegetables</secondary_category>
+    <secondary_category>Vegetarian</secondary_category>
+    <secondary_category>Butter!</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142</source_name>
+  <source_page>400</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/25/2009</cdate>
+  <mdate>12/26/2009</mdate>
+  <user>billp</user>
+</recipe>

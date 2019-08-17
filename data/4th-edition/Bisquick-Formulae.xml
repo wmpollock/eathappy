@@ -1,0 +1,89 @@
+<recipe>
+	<name>Bisquick Formulae</name>
+	<yield_count>6-8</yield_count>
+	<yield_measure>Servings</yield_measure>
+	<notes>I can't tell you the number of times I've had to look this up on the damnable Internet, having long-since traded  the box for a canister.
+
+Bisquick turns out to be marginally unhealthy in levels of both fat and sodium -- probably why it tastes so good.  Add in butter, jam, syrup and other calorie-laden good times and you can see why it pays to keep this ingredient in check around the kitchen.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**BISCUITS (makes 6-8)</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 1/4 cups</quantity>
+			<ingredient_name>Bisquick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2/3 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**PANCAKES</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>Bisquick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2</quantity>
+			<ingredient_name>eggs</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity></quantity>
+			<ingredient_name>**WAFFLES</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 cups</quantity>
+			<ingredient_name>Bisquick</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1 1/3 cup</quantity>
+			<ingredient_name>milk</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>egg</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>2 tsp</quantity>
+			<ingredient_name>oil</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Cooking:   
+-- Biscuits: Cook at 450 degrees 8-10 minutes
+-- Pancakes: Until the bubbles stop coming to the surface and any surface ones have popped (1st side)
+-- Waffles:  'til the steam stops coming out of the 'maker
+
+
+</preparation>
+	<primary_category>Breakfast</primary_category>
+	<secondary_categorys>
+		<secondary_category>Salt-Tastic!</secondary_category>
+		<secondary_category>Makes You Fat</secondary_category>
+		<secondary_category>Retro</secondary_category>
+		<secondary_category>Bisquick</secondary_category>
+	</secondary_categorys>
+	<entry_app>Veronica</entry_app>
+	<cdate>10/26/2008</cdate>
+	<mdate>05/24/2009</mdate>
+	<user>billp</user>
+	<safe_name>Bisquick_Formulae</safe_name>
+</recipe>

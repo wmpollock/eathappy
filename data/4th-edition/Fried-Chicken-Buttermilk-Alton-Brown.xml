@@ -1,0 +1,71 @@
+<recipe>
+  <name>Fried Chicken, Buttermilk, Alton Brown</name>
+  <safe_name>Fried_Chicken_Buttermilk_Alton_Brown</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>I trust Alton Brown as he's a guy in the south who is kind of a universal foodie and knows good bad-for-you food when he sees it.  If he's going to put his finger on a buttermilk fried chicken recipe and you need one, he'll be your friend.
+
+In my family this was the Other Sort of Fried Chicken we only ever discreetly ate at regional greasy spoons of yore.  For some reason forbidden or unknown preparation in our house though our family has a fair amount of same-region heritage as these guys.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1 </quantity>
+      <ingredient_name>chicken</ingredient_name>
+      <preparation>sectioned 8 pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>buttermilk or 'low fat' buttermilk</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>vegetable shortening</ingredient_name>
+      <preparation>for frying</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>kosher salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>garlic powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 Tbl</quantity>
+      <ingredient_name>Hungarian paprika or as you like it</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>flour</ingredient_name>
+      <preparation>for dredging</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Soak chicken pieces in buttermilk and cover for 12-24 hours.
+
+Melt enough shortening to sink the fry pan 1/8"  in a 12" skillet.  Goal temperature should be at but not above 325F.  Combine salt, paprika, garlic powder, cayenne pepper, and [SOME RESEARCH NEEDED] amount of flour [MAYBE 2-3 CUPS?].  Dredge chicken and fry starting skin side down.  Oil should float to halfway mark on pan.
+
+Cook 10-12 minutes per side or until evenly brown.  Cook chicken fully to 180 degrees before removing from oil to drain on a rack over a sheet pan or foil or newspaper or something.
+
+Can be covered with foil to keep.  Should not be put into a hot oven.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>Buttermilk</secondary_category>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Chicken</secondary_category>
+    <secondary_category>Makes You Fat</secondary_category>
+  </secondary_categories>
+  <source_name>http://www.foodnetwork.com/recipes/alton-brown/fried-chicken-recipe/index.html</source_name>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/27/2009</cdate>
+  <mdate>01/23/2011</mdate>
+  <user>billp</user>
+</recipe>

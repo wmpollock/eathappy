@@ -1,0 +1,84 @@
+<recipe>
+  <name>Simple Paella</name>
+  <safe_name>Simple_Paella</safe_name>
+  <yield_count>6</yield_count>
+  <yield_measure>servings</yield_measure>
+  <notes></notes>
+  <prep_time>5.5 hrs</prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>Nonstick cooking spray</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3/4 cup</quantity>
+      <ingredient_name>sweet peppers</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>onions</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 1/2 cups</quantity>
+      <ingredient_name>low-sodium chicken broth</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>regular brown rice</ingredient_name>
+      <preparation>uncooked</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>dried thyme</ingredient_name>
+      <preparation>crushed</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>crushed red pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 tsp</quantity>
+      <ingredient_name>ground turmeric</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12 oz</quantity>
+      <ingredient_name>fresh or frozen shrimp</ingredient_name>
+      <preparation>thawed, peeled, deveined, and halved</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>12 oz</quantity>
+      <ingredient_name>tilapia fillets</ingredient_name>
+      <preparation>cut into 3/4 inch pieces</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>frozen peas</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>1. Coat a 4 quart slow cooker with cooking spray; add peppers, onion, and garlic. In a large microwave safe bowl, combine broth, rice, thyme, red pepper, and turmeric. Microwave on high for 4 minutes, or until just boiling. Pour over vegetables in cooker. 
+2. Cover; cook on low heat setting for 4 hours. About an hour before you'd like to eat, stir in shrimp, tilapia, and peas. Cover; cook 45 minutes more, stirring once, Remove cooker from liner, let stand, covered, for 10 minutes before serving.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Rice</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <source_name>Parents Magazine</source_name>
+  <source_page>36</source_page>
+  <source_date>Jan 2011</source_date>
+  <entry_app>Veronica</entry_app>
+  <cdate>02/04/2011</cdate>
+  <user>hilaryp</user>
+</recipe>

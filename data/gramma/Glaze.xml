@@ -1,0 +1,33 @@
+<recipe>
+  <name>Glaze</name>
+  <ingredients>
+    <ingredient>
+      <quantity>1/4 or 1/8 lb</quantity>
+      <ingredient_name>margarine (1/2 cube)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>water</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>sugar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>rum</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together margarine, water and rum and boil to a light syrup -- 4 minutes.  Add 1/2 cup rum.  Punch holes in cake.  Drizzle glaze over it.</preparation>
+  <primary_category>Desserts</primary_category>
+  <secondary_categorys></secondary_categorys>
+  <untried>1</untried>
+  <source_page>0038-0039</source_page>
+  <entry_app>Veronica</entry_app>
+  <cdate>12/18/2005</cdate>
+  <safe_name>Glaze</safe_name>
+</recipe>

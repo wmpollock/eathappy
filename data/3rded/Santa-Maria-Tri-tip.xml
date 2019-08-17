@@ -1,0 +1,88 @@
+<recipe>
+  <name>Santa Maria Tri-tip</name>
+  <safe_name>Santa_Maria_Tri_tip</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>There are about fifty different variations of what's effectively long-form season salt basted occasionally with an olive oil mixture.  This is the fifty-first.
+
+If you've got fresh rosemary you'll be targeting the basting sauce with it, otherwise it'll head to the rub.</notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>tri-tip</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**RUB</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>black pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 tsp</quantity>
+      <ingredient_name>granulated garlic</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp </quantity>
+      <ingredient_name>salt</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>onion powder</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 1/2 tsp</quantity>
+      <ingredient_name>paprika</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 tsp</quantity>
+      <ingredient_name>cayenne pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 tsp</quantity>
+      <ingredient_name>rosemary</ingredient_name>
+      <preparation>dry, or fresh to be used in baste below instead</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>**BASTE</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>red wine vinegar</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2 cup</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cloves</quantity>
+      <ingredient_name>garlic</ingredient_name>
+      <preparation>mashed</preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Mix together rub ingredients.  Rub on beef and let stand as it comes up to temperature from the refrigerator (20-30 minutes).  Put on the grill over direct medium heat (note:  basting is a bit dangerous in this condition as you're using oil.  Moving the meat/turning off gas under meat is advisable.)  Start blender with vinegar, and slowly add olive oil to make baste.  Baste twice per side, turning the meat once.  Will take ~30-35 minutes to reach internal temperature of 140F.  Let stand ten minutes before slicing and serving.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Beef</secondary_category>
+    <secondary_category>BBQ</secondary_category>
+  </secondary_categories>
+  <entry_app>Veronica</entry_app>
+  <cdate>01/22/2013</cdate>
+  <mdate>01/29/2013</mdate>
+  <user>billp</user>
+</recipe>

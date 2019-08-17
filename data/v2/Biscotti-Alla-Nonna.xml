@@ -1,0 +1,61 @@
+<recipe>
+  <source_page>47</source_page>
+  <safe_name>Biscotti_Alla_Nonna</safe_name>
+  <primary_category>Desserts</primary_category>
+  <preparation>Cream sugar and margarine; add extracts and seeds.  Beat until creamy. Sift flour and baking powder and add to mixture.  Bake in a 375 degree oven until brown.  Remove from oven and cut into slats and turn on cut side.  Put back into oven to brown.</preparation>
+  <yield_count></yield_count>
+  <yield_measure>Servings</yield_measure>
+  <untried>1</untried>
+  <cdate>01/09/2005</cdate>
+  <prep_time></prep_time>
+  <name>Biscotti Alla Nonna</name>
+  <secondary_categories>
+    <secondary_categorie>Italian</secondary_categorie>
+  </secondary_categories>
+  <source_date>1987</source_date>
+  <source_name>"Family Favorites", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Angeline Barsi.</source_name>
+  <notes></notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>eggs</ingredient_name>
+      <quantity>3</quantity>
+      <preparation>beaten</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>margarine</ingredient_name>
+      <quantity>1/2 lb (2 cups)</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>anise extract</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>almond extract</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>anise seed</ingredient_name>
+      <quantity>1 tsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>flour</ingredient_name>
+      <quantity>2 1/2 cup</quantity>
+      <preparation>sifted</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>baking powder</ingredient_name>
+      <quantity>2 1/2 tsp</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/19/2005</mdate>
+</recipe>

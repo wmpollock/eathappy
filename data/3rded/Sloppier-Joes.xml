@@ -1,0 +1,53 @@
+<recipe>
+	<name>Sloppier Joes</name>
+	<notes>There's nothing more American than Sloppy Joes, and these are made out of ingredients common to most of the Western World and is suprisingly sophisticated for an Alpha Beta publication.</notes>
+	<ingredients>
+		<ingredient>
+			<quantity>2 lb</quantity>
+			<ingredient_name>hamburger</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1</quantity>
+			<ingredient_name>large onion</ingredient_name>
+			<preparation>diced</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>20 oz can</quantity>
+			<ingredient_name>tomatoes</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>8</quantity>
+			<ingredient_name>hamburger buns</ingredient_name>
+			<preparation></preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>5 slices</quantity>
+			<ingredient_name>bacon</ingredient_name>
+			<preparation>diced and fried crisp</preparation>
+		</ingredient>
+		<ingredient>
+			<quantity>1/2 cup</quantity>
+			<ingredient_name>American cheese</ingredient_name>
+			<preparation>grated</preparation>
+		</ingredient>
+	</ingredients>
+	<preparation>Brown hamburger.  Add onion and glaze.  Add tomatoes and simmer uncovered for 25 minutes, stirring occasionally.
+
+Toast buns and spoon mix onto each bottom, reserving the tops.  Sprinkle with crisp bacon and top with cheese.  Place under broiler until cheese is melted and place tops.</preparation>
+	<primary_category>Main Dishes</primary_category>
+	<secondary_categorys>
+		<secondary_category>Needs Research</secondary_category>
+		<secondary_category>**New06</secondary_category>
+		<secondary_category>Beef</secondary_category>
+	</secondary_categorys>
+	<untried>1</untried>
+	<source_name>"The New Ground Beef Cookbook", Alpha Beta edition,</source_name>
+	<source_page>66</source_page>
+	<entry_app>Veronica</entry_app>
+	<cdate>06/26/2005</cdate>
+	<mdate>05/25/2009</mdate>
+	<user>billp</user>
+	<safe_name>Sloppier_Joes</safe_name>
+</recipe>

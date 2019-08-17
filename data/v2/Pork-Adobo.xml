@@ -1,0 +1,71 @@
+<recipe>
+  <source_page>12</source_page>
+  <safe_name>Pork_Adobo</safe_name>
+  <primary_category>Main Dishes</primary_category>
+  <preparation>Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.</preparation>
+  <yield_count>7</yield_count>
+  <yield_measure>Servings</yield_measure>
+  <cdate>01/03/2005</cdate>
+  <prep_time></prep_time>
+  <name>Pork Adobo</name>
+  <secondary_categories>
+    <secondary_categorie>Mexican</secondary_categorie>
+    <secondary_categorie>Pork</secondary_categorie>
+  </secondary_categories>
+  <source_date>1987</source_date>
+  <source_name>"Family Favorites",  Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.</source_name>
+  <notes>I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using  low-sodium soy sauce may  rectify this some.  </notes>
+  <ingredients>
+    <ingredient>
+      <ingredient_name>boneless pork or pork ribs</ingredient_name>
+      <quantity>1 lb</quantity>
+      <preparation>cut into 1 1/2-2" chunks</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>water</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>soy sauce</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>vinegar</ingredient_name>
+      <quantity>4 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>garlic</ingredient_name>
+      <quantity>6 cloves</quantity>
+      <preparation>minced</preparation>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>peppercorns</ingredient_name>
+      <quantity>10</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>bay leaf</ingredient_name>
+      <quantity>2</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>white wine</ingredient_name>
+      <quantity>1/4 cup</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>lemon juice</ingredient_name>
+      <quantity>2 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+    <ingredient>
+      <ingredient_name>sugar</ingredient_name>
+      <quantity>1 tbsp</quantity>
+      <preparation/>
+    </ingredient>
+  </ingredients>
+  <mdate>01/19/2005</mdate>
+</recipe>

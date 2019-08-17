@@ -1,0 +1,88 @@
+<recipe>
+  <name>Autumn Glory</name>
+  <safe_name>Autumn_Glory</safe_name>
+  <yield_count></yield_count>
+  <yield_measure></yield_measure>
+  <notes>This dish looks painter-perfect served in a baked pumpkin shell and full of seasonal vegetables.
+
+During the fall 2008 cooking season I came across an article that said that your typical grocery store pumpkin was good only for decoration and were generally tasteless and worthless for cooking - before you get big pumpkin shaped eyes this holiday. </notes>
+  <prep_time></prep_time>
+  <ingredients>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>small pumpkin (~4lb)</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>onion</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 inch cube</quantity>
+      <ingredient_name>fresh ginger</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>3 Tbl</quantity>
+      <ingredient_name>olive oil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <ingredient_name>medium zucchini</ingredient_name>
+      <preparation>sliced</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>4 oz</quantity>
+      <ingredient_name>sliced musrooms</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 14oz can</quantity>
+      <ingredient_name>tomatoes</ingredient_name>
+      <preparation>chopped</preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 cup</quantity>
+      <ingredient_name>pasta shells</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>2 cups</quantity>
+      <ingredient_name>vegetable stock</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity></quantity>
+      <ingredient_name>sald and freshly ground pepper</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1/4 cup</quantity>
+      <ingredient_name>fromage blanc</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+    <ingredient>
+      <quantity>1 Tbl</quantity>
+      <ingredient_name>chopped fresh basil</ingredient_name>
+      <preparation></preparation>
+    </ingredient>
+  </ingredients>
+  <preparation>Preheat the oven to 350F.  Cut the top off the pumpkin and hollow out strings and seeds.  Extract as much of the pumkin flesh with  smaller sharp knife.  Bake the shell with its lid on for 45-60 minutes or until it begins to soften on the inside.
+
+Prepare the filling by chopping the extracted pumpkin flesh into chunks.  Gently fry onion, ginger and pumpkin flesh in olive oil for 10 minutes, stirring occasionally.  Add zucchini and mushrooms and cook for an additional 3 minutes.   Finally add tomatoes, pasta and salt and pepper to taste before bringing pot to a boil.  Simmer gently for 10 minutes.
+
+Add the fromage blank and basil into the mix and add the mix to the pumpkin shell through the shell might not be able to hold it all.</preparation>
+  <primary_category>Main Dishes</primary_category>
+  <secondary_categories>
+    <secondary_category>**New06</secondary_category>
+    <secondary_category>Needs Research</secondary_category>
+    <secondary_category>Vegetables</secondary_category>
+  </secondary_categories>
+  <untried>1</untried>
+  <entry_app>Veronica</entry_app>
+  <cdate>05/26/2009</cdate>
+  <mdate>05/07/2012</mdate>
+  <user>billp</user>
+</recipe>
