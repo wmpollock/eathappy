@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Funnel Cakes",
+  "yield_count": "4",
+  "yield_measure": "cakes",
+  "notes": "I looooove funnel cakes.  I make a pilgrimage to the Dutch Funnel Cakes van at the State Fair every summer just to get my fill.  Before that it was the annual pilgrimage to the funnel cake booth at Knott's down in SoCal.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": "sifted"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cooking oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together eggs and milk.  In another bowl, sift flour, baking powder and salt.  Add to egg mixture and beat until smooth.  Test consistency by running through a funnel.Heat oil to 360F in a 8' skillet.  Stop the end of the funnel and pour in 1/2 cup batter.  Release batter near surface of the oil and distribute in a spiral shape.Fry until golden and remove to paper towel to cool.  Serve with cinnamon and sugar, sifted powdered sugar or syrup.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "Bill's Favorite"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Jeannette Smith",
+  "source_page": "149",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Funnel_Cakes"
+ }
+}

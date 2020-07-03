@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Pickles: AB's B&Bs",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2",
+     "ingredient_name": "onion",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium cucumbers",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "mustard seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "turmeric",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "celery seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pickling spice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine onion and cucumbers in a clean spring-top jar.  Bring water, cider vinegar, kosher salt, mustard seeds, turmeric, celery seeds and pickling spice to a boil in a large nonreactive pot or saucepan and reduce to simmer for 4 minutes.Pour pickling liquid over the onion and cucumbers, completely filling the jar.  Top off as necessary after jar cools. Refrigerate.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Needs Research",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Alton Brown: http://www.foodnetwork.com/recipes/alton-brown/abs-b-and-bs-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Pickles_ABs_B_Bs"
+ }
+}

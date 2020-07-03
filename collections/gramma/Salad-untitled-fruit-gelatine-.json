@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Salad (untitled fruit gelatin)",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "10-12",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 small pkg",
+     "ingredient_name": "lemon + orange jello",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "Mandarin oranges",
+     "preparation": null
+    },
+    {
+     "quantity": "1 2lb can",
+     "ingredient_name": "pineapple tidbits",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "miniature marshmallows",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipped cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Add 2 cups boiling water to jello then 2 scant cups drained fruit juice.  Place fruit on bottom of 3 quart pyrex pan.  Pour Jello over fruit (fruit will float). While warm cover with 1 pkg miniature marshmallows.  Combine with 1 cup mayonnaise + 1 cup whipped cream.",
+  "source_author": "Betty Lilly",
+  "source_name": null,
+  "source_page": "81-82",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-04",
+  "mdate": null,
+  "user": "billp"
+ }
+}

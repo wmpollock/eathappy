@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Lemon Chiffon Pie (Variation 2)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 oz pkg",
+     "ingredient_name": "lemon jello",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "lemon",
+     "preparation": "juiced and grated"
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "small can (2/3 cup)",
+     "ingredient_name": "evaporated milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "9\" graham cracker crust",
+     "preparation": "baked"
+    }
+   ]
+  },
+  "preparation": "Chill milk, bowl and beater very cold. Dissolve jello and sugar in boiling water, add lemon juice and rind.  Taste.  If too tart add enough sugar for pleasant taste.When the Jello is almost set whip the evaporated milk and fold into the Jello mixture.  Pour into the pastry shell.Sprinkle a little of the graham cracker mixture that has been reserved for that purpose over the top of the pie.Put pie into the refrigerator to set and then to keep firm.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "**Needs review"
+  },
+  "untried": "1",
+  "source_name": "I. Sturges(?)",
+  "source_page": "52-53",
+  "source_date": "10-7-82",
+  "entry_app": "Veronica",
+  "cdate": "03/13/2006",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Lemon_Chiffon_Pie_Variation_2_"
+ }
+}

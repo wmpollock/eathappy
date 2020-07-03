@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Dilled Chicken Medley",
+  "safe_name": "Dilled_Chicken_Medley",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can (13.75-14.5oz)",
+     "ingredient_name": "chicken broth",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "corn starch",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "fresh dill",
+     "preparation": "alternately 1 tsp dried"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "prepared mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium onion",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "boneless, skinless chicken breast halves",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "red potatoes",
+     "preparation": "quartered"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "frozen cut green beans",
+     "preparation": "thawed, drained"
+    }
+   ]
+  },
+  "preparation": "Mix together 1/4 cup broth, corn starch and mustard.  Heat corn oil over medium high heat in a large skillet.  Add onion and saute for three minutes.  Add chicken and cook for ten minutes or until done, turning once.Remove chicken and keep warm.  Add remaining broth and potatoes and simmer for 12 minutes or until potatoes are tender.  Stir in corn starch mixture and green beans.  Bring to boil over medium heat, stirring constantly and hold at boild for one minute. Pour over chicken breasts.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Kingsford Corn Starch box",
+  "entry_app": "Veronica",
+  "cdate": "06/29/2013",
+  "user": "billp"
+ }
+}

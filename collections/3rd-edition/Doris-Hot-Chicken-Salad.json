@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Doris' Hot Chicken Salad",
+  "safe_name": "Doris_Hot_Chicken_Salad",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I found this a bit heavy for my taste.  It makes an awful lot.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6",
+     "ingredient_name": "hard-boiled eggs",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cooked chicken breast",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1 10.8oz can",
+     "ingredient_name": "condensed cream of chicken soup",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "diced celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small jar",
+     "ingredient_name": "pimentos",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "slivered almonds",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cooked rice",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tbl",
+     "ingredient_name": "minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients and place in a baking dish.  Bake at 350F for 20-25 minutes.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Chicken",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "\"World Ag Expo Favorites\", recipe contributed in memory of Doris Minyard",
+  "source_page": "19",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

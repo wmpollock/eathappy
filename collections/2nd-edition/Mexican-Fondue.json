@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Mexican_Fondue",
+  "primary_category": "Main Dishes",
+  "preparation": "Combine cheeses with flour and chili powder in a large bowl until well blended.Halve, seed and cut peppers into thin strips; wash and stem tomatoes; halve, pit and peel avocados; cut into 1-inch cubes.Cut bread into 1-inch cubes, leaving some crust on each piece.When ready to serve, rub the garlic along the inside of a ceramic fondue pot or flameproof ceramic baking dish; add beer and heat slowly, just until beer stops foaming and the mixture begins to bubble.Gradually add cheese mixture a handful at a time, stirring constantly, until cheese is melted and smooth;   add hot green peppers.  Place pan over a candle warmer and serve on a tray with groups of pepper strips, avocado pieces; bread chunks, cherry tomatoes and corn chips.",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Mexican Fondue",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Lots Of Cheese",
+    "Mexican"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Another 70s favorite.  My mom always used Miller High Life in the recipe and was generally the only time she'd  ever be seen drinking any.  This recipe calls for cherry tomatoes and while good and fun, I was never able to  keep the cheese product on the shiny  tomato surface very long.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "cheddar cheese",
+     "quantity": "4 cups",
+     "preparation": "shredded"
+    },
+    {
+     "ingredient_name": "Monterey jack, shredded",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large green pepper",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large red pepper",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cherry tomatoes",
+     "quantity": "1 pint",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large avocados",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "French or sourdough bread",
+     "quantity": "1 loaf",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "beer",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hot green chili peppers",
+     "quantity": "1 can (4 oz)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "corn chips",
+     "quantity": "1 bag",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

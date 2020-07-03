@@ -1,0 +1,80 @@
+{
+ "recipe": {
+  "source_page": "37",
+  "safe_name": "Oven_Barbecued_Spareribs",
+  "primary_category": "Main Dishes",
+  "preparation": "Separate spareribs and place meatier side up in a large baking pan.  Roast in 450F oven for 30 minutes and drain fat.  Mix other ingredients and pour over ribs.  Cook an additional 1 hour at 350F",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Oven Barbecued Spareribs",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Toshiko Hirashima & Sumi Unno",
+  "notes": "There's something compelling yet Quixotic about \"Oven Barbecued\"...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "spareribs",
+     "quantity": "4 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "catsup",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cider or water",
+     "quantity": "1 1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brown sugar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "generous dash",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1",
+     "preparation": "sliced or grated"
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dry mustard",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

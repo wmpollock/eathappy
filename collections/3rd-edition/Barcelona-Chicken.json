@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Barcelona Chicken",
+  "safe_name": "Barcelona_Chicken",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Generally speaking, kinda okay.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5",
+     "ingredient_name": "scallions",
+     "preparation": "cut into 1\" pieces"
+    },
+    {
+     "quantity": "1 lightly packed cup",
+     "ingredient_name": "fresh basil",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "large garlic cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "serrano chile peppers",
+     "preparation": "seeded and chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "extra virgin olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbl",
+     "ingredient_name": "sherry vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "4-5 lb",
+     "ingredient_name": "whole chicken or parts",
+     "preparation": "2 breasts, whole legs and wings"
+    }
+   ]
+  },
+  "preparation": "Process all ingredients except the chicken in a blender or food processor until smooth: 1 to 2 minutes.  Bag-marinade sectioned chicken in the refridgerator for at least 4-6 and as many as 12 hours.  Grill chicken skin-side down over indirect medium heat until fully cooked:  breast and wings will be done first (~30 mins) the leg pieces next (~40 minutes). Webber suggests moving the pieces over direct heat for their last 10 minutes to brown the chicken fully.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Chicken"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "204",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "02/04/2013",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Beef Stroganoff Leta Morrow",
+  "notes": "The original \"From the kitchen of\" was listed as Nell Leuders and scratched out.  Also, the numbers 27, 31 and a circled 34 are on the page.",
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 1/2 lbs",
+     "ingredient_name": "round steak",
+     "preparation": "cut into 1/2\" strips"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt + pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "table wine or sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cut onions",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cut fresh mushrooms or canned with liquid",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "consume*",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "monosodium glutamate (Accent)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 carton",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown meat strips in oil.  Put in casserole and add salt, pepper and wine.  In drippings, saute onions and mushrooms to golden brown (5 minutes).Mix together paste, consume and flour.  Add to onions and mushrooms and add to this mixture the bay leaf, garlic and Accent.  Mix well and pour over meat.Bake 350F - 1 hour or until meat is tender.When ready to serve stir in sour cream.Use over cooked rice.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "34-35",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "mdate": "12/04/2005",
+  "safe_name": "Beef_Stroganoff_Leta_Morrow"
+ }
+}

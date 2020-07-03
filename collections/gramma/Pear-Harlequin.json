@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Pear Harlequin",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "A recipe from the Sacramento Bee, well yellowed.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 cups",
+     "ingredient_name": "peeled, cored and diced Bartlett pears",
+     "preparation": null
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can (8 1/4  oz)",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated peel and juice of 1 orange",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated peel and juice of 1 lemon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small jar",
+     "ingredient_name": "Maraschino cherries",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine pears, sugar, pineapple, grated orange peel and juice and grated lemon peel and juice.   Cover and let stand overnight.Next day, simmer fruit mixture slowly, stirring occasionally, until thick, about 1 hour.Add diced maraschino cherries and juice.  Pour into hot sterilized jars and seal",
+  "source_author": "The Sacramento Bee",
+  "source_name": null,
+  "source_page": "101-102",
+  "source_date": "October 3, 1984",
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

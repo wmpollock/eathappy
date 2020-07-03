@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "main_ingredient": "Vegetables",
+  "notes": "**UNTRIED**From the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by DeDe Torres",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Onion",
+     "quantity": "3/4 Cup",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Carrots",
+     "unknown_1": "11124",
+     "quantity": "1 Cup",
+     "preparation": "Diced"
+    },
+    {
+     "ingredient_name": "Zucchini",
+     "quantity": "1 Cup",
+     "preparation": "Diced"
+    },
+    {
+     "ingredient_name": "Celery",
+     "quantity": "2/3 Cup",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Potatoes",
+     "quantity": "1 1/2 cup",
+     "preparation": "Diced"
+    },
+    {
+     "ingredient_name": "Cut Italian Green Beans",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "White Kidney Beans",
+     "unknown_1": "16051",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Pinto Beans",
+     "unknown_1": "16044",
+     "quantity": "1 Cup (can)"
+    },
+    {
+     "ingredient_name": "Salt And Pepper",
+     "unknown_1": "16026",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Tiny Star/other Small Pasta",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Basil",
+     "quantity": "1/2 Cup",
+     "preparation": "Chopped W/2 Tbsp Olive Oil"
+    },
+    {
+     "ingredient_name": "Leeks",
+     "quantity": "2/3 Cup",
+     "preparation": "Chopped"
+    }
+   ]
+  },
+  "name": "De's Minestrone Soup",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Soup",
+    "Untried"
+   ]
+  },
+  "preparation": "Soup stock:  add 3 beef knuckles or beef shank to 4 quarts cold water and 1 tablespoon salt.  Simmer slowly 3 to 4 hours;  remove bones.  Let cool overnight.  Remove fat.Add soup stock to large pot; bring to boil, 15 to 20 minutes.  Ad 1 1/2 to 2 cups water.  Salt and pepper; bring to boil.  Add carrots, zucchini,   celery, potatoes, green beans and pasta; simmer for 20 minutes.  Add basil; simmer 10 minutes.  Add beans; simmer 20 minutes or so, vegetables should be cooked.  Serve with Parmesan cheese."
+ }
+}

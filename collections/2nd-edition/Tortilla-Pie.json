@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Tortilla Pie",
+  "yield_measure": "Servings",
+  "notes": "I had bad recollections about hard, rubbery tortillas with this recipe but I found the recipe de-lish when I finally found the nerve to try it.  I'm not quick to rate something the first time I've made it as a \"Favorite\", but we're reheating leftovers of it tonight...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "hamburger",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp(-ish)",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "tomato sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "nibblets corn",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "olives",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tortillas",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cheddar cheese",
+     "preparation": "grated"
+    }
+   ]
+  },
+  "preparation": "Brown hamburger and onion together in skillet.  Combine other ingredients (except olives, tortillas and cheese) with meat.  Arrange a layer of tortillas on the bottom of casserole.  Put half of the sauce in a layer and top with chopped olives and grated cheese.  Next put in another layer of tortillas and repeat as above.  Bake at 325F for 30 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "70s Flashback",
+    "Bill's Favorite",
+    "Mexican"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "02/02/2005",
+  "safe_name": "Tortilla_Pie"
+ }
+}

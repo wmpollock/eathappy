@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Sloppier Joes",
+  "notes": "There's nothing more American than Sloppy Joes, and these are made out of ingredients common to most of the Western World and is suprisingly sophisticated for an Alpha Beta publication.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "hamburger",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "20 oz can",
+     "ingredient_name": "tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "hamburger buns",
+     "preparation": null
+    },
+    {
+     "quantity": "5 slices",
+     "ingredient_name": "bacon",
+     "preparation": "diced and fried crisp"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "American cheese",
+     "preparation": "grated"
+    }
+   ]
+  },
+  "preparation": "Brown hamburger.  Add onion and glaze.  Add tomatoes and simmer uncovered for 25 minutes, stirring occasionally.Toast buns and spoon mix onto each bottom, reserving the tops.  Sprinkle with crisp bacon and top with cheese.  Place under broiler until cheese is melted and place tops.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Beef"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition,",
+  "source_page": "66",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Sloppier_Joes"
+ }
+}

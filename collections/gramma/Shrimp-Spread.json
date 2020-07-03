@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Shrimp Spread",
+  "safe_name": null,
+  "primary_category": "Appetizers",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "grated onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chili sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "drained shrimp",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "parsley flakes",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine first 5 ingredients well.  Place in baking dish.  Spread evenly, then spread chili sauce over top and sprinkle with shrimp then parsley flakes.  Bake at 350F for 10-15 minutes.  Serve hot.",
+  "source_author": "Patrick Morrow",
+  "source_name": null,
+  "source_page": "81-82",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-04",
+  "mdate": null,
+  "user": "billp"
+ }
+}

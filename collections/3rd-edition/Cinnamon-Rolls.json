@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "name": "Cinnamon Rolls",
+  "notes": "I like this recipe a lot because it comes from a time and a place:  Lake Almanor around the years you could get just plain yellow cake.  It'll throw in the refrigerator if you're feeling a bit tired in the night time like I always am.  Remember if you are making it up there that you -are- at Altitude and that may affect cooking.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 (18.5 oz)",
+     "ingredient_name": "package yellow cake mix",
+     "preparation": "w/o pudding"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "hot water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**TOPPING",
+     "preparation": null
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "margarine or butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "light Karo syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together cake mix, yeast and flour in large bowl and stir in hot water.  Cover mixture with moist towel and let double.   At this point the dough should be smooth and elastic - if it is any other way you likely either have not mixed it long enough or if its kind of sloppy and slimey, then you've gotten a batch of \"stealth pudding\" cake mix.  Damn.In either case, since there are no raw ingredients in the mix at this point, go away and lick the mixer paddle for a while.Turn out onto a lightly floured surface and divide in two equal parts.  Roll each portion into rectangles and spread with softened butter.  Sprinkle with sugar and cinnamon.Roll length-wise in the longest direction with the coating on the inside like you would if anyone still made jelly rolls.  Slice rolls in 2\" intervals.  Arrange in buttered pans and cover to double again.  Prepare topping by cooking ingredients until butter has melted and pour over rolls immediately before baking at 375F for 25 minutes.Turn out onto serving plate immediately after removing from oven.",
+  "primary_category": "Breakfast",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New05",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "\"Almanor Westshore Cooks\", Contributed by Polly Justason, mother of Gary Kluge",
+  "source_page": "162",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "08/03/2007",
+  "safe_name": "Cinnamon_Rolls"
+ }
+}

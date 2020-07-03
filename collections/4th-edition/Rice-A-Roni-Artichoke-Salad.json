@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Rice-A-Roni Artichoke Salad",
+  "notes": "Rice-a-Roni tends not to be the the healthiest thing in the pantry.  It probably could be replaced with an equivalent or similar rice preparation: rice prepared with chicken stock, saffron rice, etc.Needs research:  Allegedly this recipe works with chicken as well,b ut hard to say if that's in additon to or in as a replacement for the rice.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "chicken flavored Rice-A-Roni",
+     "preparation": "cooked"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "green onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 small jars",
+     "ingredient_name": "marinated artichoke hearts",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "celery",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "curry powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine rice, onions, artichoke hearts, celery and curry powder.  Mix mayonnaise with oil from one jar of artichoke hearts and pour over rice mixture.  Chill.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"World Ag Expo Favorites\", Kathleen Aguiar contributor",
+  "source_page": "18",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Rice_A_Roni_Artichoke_Salad"
+ }
+}

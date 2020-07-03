@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Cheese Appetizers",
+  "safe_name": null,
+  "primary_category": "Appetizers",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "20",
+  "yield_measure": "toast squares/rounds",
+  "prep_time": null,
+  "notes": "This is the last of ~225 entries entered into the system.  It was added using a three-panel set of custom software built atop the 3rd generation Eat Happy software platform.  Between start and stop 13 years have elapsed.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 lb (1 cup)",
+     "ingredient_name": "shredded provolone cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "chopped onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "garlic salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "chopped pimento",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "chopped green pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat cream cheese until soft, then blend with remaining ingredients.  Spread on [miniature] toast, broil 1-2 minutes or until lightly browned.",
+  "source_author": "Sacramento Bee",
+  "source_name": "Cheese Appetizers Add Zest To The Holidays",
+  "source_page": "101",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

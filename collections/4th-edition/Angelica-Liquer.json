@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Angelica Liquer",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "fennel seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "anise seed",
+     "preparation": null
+    },
+    {
+     "quantity": "20",
+     "ingredient_name": "corriander seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3",
+     "ingredient_name": "cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "crystalized anglica stems",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "superfine sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bottle vodka",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cheesecloth",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crush together fennel, anise, corriander seeds and cloves a bit.  Chop the angelica stems and mix with seeds in a large preserving jar.  Add the sugar and vodka and let sit someplace sunny for two weeks, swirling the mixture daily.Strain through a cheesecltoh into a sterilized bottle and seal.  Let set up for at least four months.  The final note is \"drink in small quantities with a piece of angelica in each glass\"",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Makes You Drunk"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "393",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Angelica_Liquer"
+ }
+}

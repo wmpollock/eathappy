@@ -1,0 +1,100 @@
+{
+ "recipe": {
+  "name": "Marinated Tri Tip with Mushrooms and Garlic",
+  "safe_name": "Marinated_Tri_Tip_with_Mushrooms_and_Garlic",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "This recipe sounds like it'd leave some funky-strong beef down at the bottom and I prefer grilling:  sadly one absolutely must walk through the recipe \"the right way\" the first time through just to see what it does.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 heads",
+     "ingredient_name": "garlic",
+     "preparation": "separated but not individually peeled"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "jalapeno pepper",
+     "preparation": "stemmed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lime",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "warm water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tri-tip",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "fresh shitake mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "red onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "6-8",
+     "ingredient_name": "cloves garlic",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1-2 cups",
+     "ingredient_name": "dry red wine",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine garlic, jalapeno, lime juice, water and salt and blend until well mixed.  Marinate tri-tip overnight before removing to de-chill.Prepare 500F oven.  Remove roast from marinade and reserve marinade.  Dubiously: oil tri-tip before placing in a roasting pan, fat-side up, and including up to 1/2\" of marinade into the roasting pan.  Cook for 20-40 minutes, as necessary.Sauce: Sautee mushrooms, onion and garlic in olive oil until softened.   Add wine to a volume sufficient to allow mushrooms to absorb most fluid.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef"
+   ]
+  },
+  "untried": "1",
+  "source_name": "http://www.elise.com/recipes/archives/004214marinated_tritip_roast_with_mushrooms_and_garlic.php",
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": "08/10/2009",
+  "user": "billp"
+ }
+}

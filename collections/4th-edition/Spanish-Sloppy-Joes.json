@@ -1,0 +1,99 @@
+{
+ "recipe": {
+  "name": "Spanish Sloppy Joes",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground chuck",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "Worchestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "celery",
+     "preparation": "chopped very fine"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "onion",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "condensed tomato soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "garlic juice(!)",
+     "preparation": "however you can get it"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "hamburger buns",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a deep covered skillet melt butter and lightly brown meat.  Add vinegar, lemon juice, worchester sauce, celery, onion, catsup and mix well.  Bring to a simmer and add tomato soup, sugar, garlic, salt and water.  Cover and simmer for 60 minutes.If mixture is still a bit moist at the end of an hour, uncover and allow water to cook off.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "70s Flashback",
+    "Beef"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition,",
+  "source_page": "68",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Spanish_Sloppy_Joes"
+ }
+}

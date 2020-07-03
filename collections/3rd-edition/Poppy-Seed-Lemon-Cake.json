@@ -1,0 +1,91 @@
+{
+ "recipe": {
+  "name": "Poppy Seed Lemon Cake",
+  "yield_measure": "Servings",
+  "notes": "I have a note here that says \"25->(27) minutes\".  I believe this is the results of my testing using this same recipe as a muffin recipe.  This, of course, Needs Research",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 1/4 cups",
+     "ingredient_name": "cake flour",
+     "preparation": "measured before sifting"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "big pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "poppy seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "lemon extract",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "zest of 1/2 large lemon",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "superfine sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "4 ozs (1 stick)",
+     "ingredient_name": "unsalted butter",
+     "preparation": "melted and cooled"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "powdered sugar",
+     "preparation": "for dusting"
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 325 degrees.  Sift together the flour, baking powder, baking soda and salt.  Stir in the poppy seeds.Combine the sour cream, lemon extract and lemon zest in a small bowl.By hand or using a stand mixer, beat the eggs until light and foamy. Add the sugar and beat again until light;  there should be no graininess from the sugar remaining.  Beat in the melted butter and oil.Beat in a quarter of the flour mixture then a third of the sour cream mixture.  Beat until just incorporated.  Repeat until all the flour and sour cream are used, ending with flour.  Do not over-beat.  If there are any streaks of flour left in the batter, do a final blending with a large rubber spatula.Evenly spray a bundt pan with baking spray.  Spoon the batter into the pan; smooth the top with a rubber spatula.  Sharply rap the pan on the counter several times to eliminate air bubbles.  Place in the lower third of the oven and bake until a cake tester inserted near the center of the cake ring comes out clean, 50 minutes to an hour.Place the pan on a rack to cool for ten minutes before loosening the cake from the pan.Cool completely then wrap tightly in plastic wrap and leave overnight at room temperature.  Do not refrigerate.Before serving, dust with powdered sugar.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "Needs Research"
+   ]
+  },
+  "source_name": "San Francisco Chronicle",
+  "source_date": "16 April 2003",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Poppy_Seed_Lemon_Cake"
+ }
+}

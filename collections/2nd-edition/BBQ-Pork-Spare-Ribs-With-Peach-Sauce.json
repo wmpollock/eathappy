@@ -1,0 +1,108 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "BBQ_Pork_Spare_Ribs_With_Peach_Sauce",
+  "primary_category": "Main Dishes",
+  "preparation": "Sauce: In 3 quart saucepan, mix all ingredients except ribs, onion and cloves.  Stir constantly while bringing sauce to boil over medium heat.  Reduce heat and simmer uncovered for 20 minutes.  Stir occasionally.  Cool sauce and puree.Ribs: Stud onion with cloves and place in 1 inch water with ribs and simmer for 30 minutes.  Drain ribs, brush generously with sauce and grill.** I remember there being some secret shortcut about only half-grilling the ribs and then doing the rest in a conventional oven after the crust had set, but some would properly consider this cheating.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "BBQ Pork Spare Ribs With Peach Sauce",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Spare Ribs"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I've yet to try this particular recipe myself but I remember my dad out grilling these on the old family BBQ.   They'd  come out with a tangy, crispy crust that was quite tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "pork spare ribs",
+     "quantity": "four lbs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whole cloves",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bay leaf",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato soup",
+     "quantity": "10 3/4 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "peaches",
+     "quantity": "2 cups",
+     "preparation": "peeled & chopped"
+    },
+    {
+     "ingredient_name": "light corn syrup",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cider vinegar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "firmly packed brown sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vegetable oil",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dry mustard",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "paprika",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh ground pepper",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic powder",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/04/2005"
+ }
+}

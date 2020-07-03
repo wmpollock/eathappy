@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Monkey Bread",
+  "safe_name": "Monkey_Bread",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "notes": "Sadly no monkey is included in monkey bread.  The bread does, however, pull apart charmingly and has a lovely crust. The basic recipe requires a bundt pan or ring mold:  the outside requires the pan be pretty narrow to ensure the maximum amount of exposed space on the bread.  I'd imagine while pie pans would generally be out, anything with a width around 2.5-3\" might work as well (think small loaf pans, brioche pans, etc).A good, but not truly extraordinary bread, it does appear to have other legs:  coating the balls in cinnamon sugar and topping with cream cheese  icing allegedly tastes \"just like a Cinnabon!\", not that I'd know either way.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4",
+     "ingredient_name": "melted butter",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "3 1/2 cup",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 egg",
+     "ingredient_name": "slightly beaten",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Scald milk and allow to cool to lukewarm.  Dissolve yeast in scalded milk in a large bowl.  Beat in sugar, salt, 1/2 cup of the melted butter, flour and egg.Let double in a warm place and punch down.  On a floured board, divide and form dough into 1 1/2\" to 2\" balls.Mix remaining 1/4 cup melted butter with oil and dip each piece in a  Arrange in a a 9-inch ring mold or bundt pan and let rise until almost double.  Bake 400F for 18-30 minutes or until golden brown.  Turn hot pan over a plate and allow ring to drop out.",
+  "primary_category": "Bread",
+  "secondary_categories": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Maurice C. Allen, Sr.",
+  "source_page": "48",
+  "entry_app": "Veronica",
+  "cdate": "01/04/2005",
+  "mdate": "10/28/2010",
+  "user": "billp"
+ }
+}

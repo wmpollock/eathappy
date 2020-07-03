@@ -1,0 +1,99 @@
+{
+ "recipe": {
+  "name": "Caribbean Spareribs",
+  "safe_name": "Caribbean_Spareribs",
+  "yield_count": "4 to 6",
+  "yield_measure": "Servings",
+  "notes": "While this recipe calls for two racks, I found the rub worked pretty well for just one -- though you'll probably want to halve the mop in that case too.",
+  "prep_time": "3:30-4 hrs",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground allspice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Mop",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "beer",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "yellow mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Meat",
+     "preparation": null
+    },
+    {
+     "quantity": "2 racks",
+     "ingredient_name": "pork spare ribs",
+     "preparation": "4-5 pounds each"
+    }
+   ]
+  },
+  "preparation": "Mix the rub ingredients together in a small bowl using fingertips.  Whisk together the mop ingredients into a medium bowl.Section the ribs: separate the flap and rib tips (separated by a line of fat).  De-membrane ribs.  Halve any full racks.Grill over indirect low heat for an hour beore mopping and basting every 30 minutes or so until the meat is tender: 2 1/2 to 3 hours total.  Transfer ribs to a baking sheet and cover in foil to let rest 30 minutes before serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Pork"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "163",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

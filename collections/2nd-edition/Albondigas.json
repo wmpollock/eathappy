@@ -1,0 +1,113 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Albondigas",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Albondigas",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Cursed",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "primary_category": "Soup",
+  "source_date": null,
+  "preparation": "Mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  Add meatballs to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.Ten minutes before serving add the sprig of mint to the broth and remove prior to serving.---In late December 2004 Greg Hoban, Dennis, Sam Archer and I took a trip down to Tres Hermanas and they were serving up a mix which still wasn't quite like Arturo's, but had carrots and zucchini in it.  I can't recall if the former was usually in there but I do recall the later from time to time.",
+  "source_name": "Sivart Software's ACCUCHEF, v. 6.56, \"MEX\" database",
+  "yield_count": "10",
+  "notes": "Sr. Arturo used to run this joint in Walnut Creek where they always had a pot of this stuff on the back burner.   Its not quite like Arturo's, but its a fine recipe to have come across nearly by accident.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**BROTH",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "clove garlic",
+     "quantity": "1",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato sauce (14 oz)",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "beef stock",
+     "quantity": "3 qt",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mint or cilantro",
+     "quantity": "1 sprig",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**MEATBALLS",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground beef",
+     "quantity": "3/4 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground pork",
+     "quantity": "3/4 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "raw rice",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oregano",
+     "quantity": "1/4 tsp",
+     "preparation": "crushed"
+    },
+    {
+     "ingredient_name": "small onion",
+     "quantity": "1/2",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "egg",
+     "quantity": "1",
+     "preparation": "slightly beaten"
+    },
+    {
+     "ingredient_name": "fresh cilantro",
+     "quantity": "2 tbsp",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "mdate": "01/26/2005",
+  "yield_measure": "Servings"
+ }
+}

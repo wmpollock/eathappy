@@ -1,0 +1,97 @@
+{
+ "recipe": {
+  "notes": "For a long time I'd thought the recipe for my grandfather's cookies were lost to the kitchens of time.   They were such good cookies and are one of the most memorable things from our weekend visits.  I recently found myself cleaning out my father's office and came across my Grandmother's old recipe box,   in which I found this jem in my Grandmother's distinctive hand.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Corn Oil",
+     "unknown_1": "04518",
+     "quantity": "3/4 Cup"
+    },
+    {
+     "ingredient_name": "Brown Sugar",
+     "quantity": "1 Cup",
+     "preparation": "Firmly Packed"
+    },
+    {
+     "ingredient_name": "Granulated Sugar",
+     "unknown_1": "19335",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Eggs",
+     "unknown_1": "01123",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Water",
+     "unknown_1": "14429",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Vanilla",
+     "unknown_1": "02050",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Uncooked Rolled Oats",
+     "quantity": "3 Cups"
+    },
+    {
+     "ingredient_name": "Baking Soda",
+     "unknown_1": "18372",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Flour",
+     "unknown_1": "20081",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Honey",
+     "unknown_1": "19296",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Chopped Walnuts",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Raisins",
+     "unknown_1": "09298",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Coconut",
+     "unknown_1": "12110",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Candied Lemon Peel",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Pecans",
+     "unknown_1": "12142",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Honey",
+     "unknown_1": "19296",
+     "quantity": null
+    }
+   ]
+  },
+  "name": "Gramps's Cookies",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Cookies"
+  },
+  "preparation": "Mix together oil, brown sugar, white sugar, eggs, water, vanilla, uncooked rolled oats, baking soda, flour, salt, honey, walnuts, raisins, coconut and lemon peel (if you can find it) together into an even dough.Spoon dough out into double spoonfools and top each with pecan and 1 teaspoon of honey.Cook 14-18 minutes at 350F degrees."
+ }
+}

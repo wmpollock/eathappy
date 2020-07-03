@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "source_page": "12",
+  "safe_name": "Pork_Adobo",
+  "primary_category": "Main Dishes",
+  "preparation": "Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.",
+  "yield_count": "7",
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Pork Adobo",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Mexican",
+    "Pork"
+   ]
+  },
+  "source_date": "1987",
+  "source_name": "\"Family Favorites\",  Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.",
+  "notes": "I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using  low-sodium soy sauce may  rectify this some.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "boneless pork or pork ribs",
+     "quantity": "1 lb",
+     "preparation": "cut into 1 1/2-2\" chunks"
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "6 cloves",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "peppercorns",
+     "quantity": "10",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bay leaf",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white wine",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

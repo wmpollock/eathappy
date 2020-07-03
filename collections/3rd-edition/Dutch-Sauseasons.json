@@ -1,0 +1,80 @@
+{
+ "recipe": {
+  "name": "Dutch Sauseasons",
+  "safe_name": "Dutch_Sauseasons",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The Alpha Beta book had a long song and dance that explains these as winter fare cooked after fall butchering, stored by fishermen all winter and thawed.  I approached this recipe with some trepidation -- so unseasoned!  Turns out its a pretty interesting little dish!Freezer-fare ho!  Added bonus:  MSG!!",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground lean pork (or half pork, half beef)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "MSG",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dough",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "lukewarm milk",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tbl",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "yeast",
+     "preparation": "dissolved in 1/2 cup water"
+    }
+   ]
+  },
+  "preparation": "Mix filling ingredients and refrigerate.  Mix dough ingredients and kneed until dough is smooth.  Form a large ball and place in greased mixing bowl to double, about 2 hours.After doubling, kneed down and break off egg-sized pieces.  Flatten pieces and measure out 2tbl of meat mixture in a strip.  Fold dough over and smape to look like small loaf of bread about 3\" long.  Ensure that meat is sealed within bread.Arrange loaves in two rows in a 7\"x11\" greased pan.  Allow dough to double in size and bake at 350F for 1 hour or until tops are golden brown.  Rolls will expand to fill and touch sides.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Salt-Tastic!",
+    "70s Flashback",
+    "Pork"
+   ]
+  },
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition,",
+  "source_page": "74",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "02/04/2011",
+  "user": "billp"
+ }
+}

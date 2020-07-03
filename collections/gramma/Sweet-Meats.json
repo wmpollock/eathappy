@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Sweet Meats",
+  "safe_name": null,
+  "primary_category": "Other",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "shortening",
+     "preparation": "alternately half butter + half margerine"
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "coarse chopped nutmeats",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream shortening + 1/2 cups brown sugar.   Add 1 cup flour + blend well.  Beat eggs till light + foamy.  Add vanilla, rest of brown sugar, 2 Tbsp flour.  Blend.  Add Coconut + nuts.Note:  Pat mixture of shortening, sugar + flour in 8x12 pan.  Bake 20 mins. 325F oven.  Remove from oven, pour egg mixture over baked crust + bake 25 minutes.  Cool + cut into squares.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "83-84",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

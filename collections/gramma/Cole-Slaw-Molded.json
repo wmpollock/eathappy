@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Cole Slaw: Molded",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "margerine",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "grated onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "prepared mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "shredded red cabbage",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "shredded carrots",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": null,
+  "source_author": null,
+  "source_name": "Pat Morrow",
+  "source_page": "0025",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

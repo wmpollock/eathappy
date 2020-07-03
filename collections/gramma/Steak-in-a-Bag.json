@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Steak in a Bag",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "4-6",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "egg bread crumbs",
+     "preparation": "3 or 4 slices, make in blender"
+    },
+    {
+     "quantity": "2-3 lb.",
+     "ingredient_name": "top sirloin steak",
+     "preparation": "about 2 1/2 inches"
+    },
+    {
+     "quantity": "4 Tbsp",
+     "ingredient_name": "margarine",
+     "preparation": "softened, not melted"
+    },
+    {
+     "quantity": "4 Tbsp",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "crushed garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 tsp",
+     "ingredient_name": "seasoned pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "shredded sharp cheddar cheese (4 oz)",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Prepare egg breadcrumbs, set aside.  Remove excess fat from steak.  In small bowl, mix margarine, oil, seasoned salt + pepper until well blended.  Spread on all sides of the steak.Mix breadcrumbs + cheese.  Press into butter mixture on steak.  Put steak in brown paper bag.  Fold end over + secure with staples or paper clips.  Steak may now be refrigerates for several hours.Before cooking, bring steak to room temperature.  Preheat oven to 375F.  Place bag in rimmed baking sheet + bake 30 minutes.  For medium-rare steak, increase oven temp to 425F + bake 15 min more, total of 45 min.  Remove steak from bag.  Let stand 5 minutes before carving into thin slices.Two steaks may be baked in same bag.  Double the recipe but keep baking time the same.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "101-102",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

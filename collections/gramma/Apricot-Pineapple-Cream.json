@@ -1,0 +1,52 @@
+{
+ "recipe": {
+  "name": "Apricot - Pineapple Cream",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "vanilla pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cans (4 3/4 oz)",
+     "ingredient_name": "strained apricots (baby food!)",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "crushed pineapple",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1/2 pint",
+     "ingredient_name": "heavy cream",
+     "preparation": "whipped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "apricots",
+     "preparation": "halved"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Prepare pudding with milk as directed on package.  While pudding is still hot, stir in apricots and pineapple.  Cool, fold in whipped cream and pour into sherbet glasses.  Chill & garnish with apricot halves and chopped pecans",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "card 3",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "safe_name": "Apricot_Pineapple_Cream"
+ }
+}

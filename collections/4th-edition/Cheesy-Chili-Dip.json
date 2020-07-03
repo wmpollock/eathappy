@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Cheesy Chili Dip",
+  "notes": "I'm still looking for the chili dip of my dreams -- is this it? Sounds good, right from the microwave!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 8.5oz can",
+     "ingredient_name": "chili",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "shredded cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "crackers",
+     "preparation": "for the serving"
+    }
+   ]
+  },
+  "preparation": "On a microwaveable pie dish, spread cream cheese and top with chili thence cheddar cheese.  Microwave(!) on high for 45 seconds to a minute or until cheddar cheese is melted and sprinkle with cilantro.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Philly-Brand Cream Cheese box",
+  "source_date": "2007?",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Cheesy_Chili_Dip"
+ }
+}

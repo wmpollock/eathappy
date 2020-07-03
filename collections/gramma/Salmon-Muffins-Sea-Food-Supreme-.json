@@ -1,0 +1,106 @@
+{
+ "recipe": {
+  "name": "Salmon Muffins (Sea Food Supreme)",
+  "safe_name": null,
+  "primary_category": "Bread",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 16oz. can cup",
+     "ingredient_name": null,
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "diced celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "English muffins",
+     "preparation": "split and toasted"
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "eggs",
+     "preparation": "poached"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "shredded Swiss cheese",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "** Mustard dill sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "chicken bullion",
+     "preparation": "crumbled"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "Dijon mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dill weed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Drain salmon.  Combine with celery + sour cream. Spread mixture over muffins and flatten.  Place a poached egg on each.  Top with cheese.   Place in oven at 400F to melt cheese.  Cover with mustard dill sauce.Mustard dill sauce:  cook until sauce thickens but do not permit to boil.  May add sour cream last.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "81-82",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-04",
+  "mdate": null,
+  "user": "billp"
+ }
+}

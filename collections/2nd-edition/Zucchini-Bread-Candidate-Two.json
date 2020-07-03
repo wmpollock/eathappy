@@ -1,0 +1,88 @@
+{
+ "recipe": {
+  "source_page": "41",
+  "safe_name": "Zucchini_Bread_Candidate_Two",
+  "primary_category": "Bread",
+  "preparation": "Sift together flour, cinnamon, baking soda, salt, baking powder and nutmeg and fold in remaining ingredients, stirring minimally.  Bake at 325F for 60 minutes.",
+  "yield_count": "2",
+  "yield_measure": "loaves",
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Zucchini Bread, Candidate Two",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Zucchini"
+   ]
+  },
+  "source_date": "1992",
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Vance Newell",
+  "notes": "My gut instinct says that Candidate One is the more likely favorite at the end of the day, however the fact that this one used both cinnamon and a whopping two -cups- of honey made it a bit more interesting sounding if only for the using of two -cups- of honey...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "flour",
+     "quantity": "3 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon",
+     "quantity": "3 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking soda",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "nutmeg",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "honey",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "3 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "zucchini",
+     "quantity": "2 cups",
+     "preparation": "grated"
+    },
+    {
+     "ingredient_name": "walnuts",
+     "quantity": "1/2 cup",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

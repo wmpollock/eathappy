@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "source_page": "169",
+  "safe_name": "Tartlets_pastry_shells",
+  "primary_category": "Desserts",
+  "preparation": "Mix together flour, salt and sugar.  In food processor or with pastry knives cut in butter until mixture has a cornmeal-like consistency.  Whisk together egg and vanilla and mix until the dough forms a ball, then kneed until a smooth consistency develops.Arrange 4 dozen ungreased small (1 1/2\") tartlet tins on a cookie sheet.With 1 tsp portions, roll dough into small balls and press evenly into tins.  Bake tartlets for 12-15 minutes or until golden brown.  Repeat process with remaining dough.  Dough can be refrigerated up to 1 week or frozen up to a month.  Restore to room temperature before working.",
+  "yield_count": "8",
+  "yield_measure": "dozen",
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Tartlets: pastry shells",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Phyllis Duckworth",
+  "notes": "Can't make tartlets without tartlet pastry shells, can you now?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "2 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/8 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "unsalted butter",
+     "quantity": "1 cup (2 sticks)",
+     "preparation": "chilled and cut into cubes"
+    },
+    {
+     "ingredient_name": "large egg",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

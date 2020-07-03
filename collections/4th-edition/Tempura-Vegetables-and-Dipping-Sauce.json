@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Tempura Vegetables and Dipping Sauce",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "medium zuchhini",
+     "preparation": "julienned"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bell pepper",
+     "preparation": "seeded and cut into weidges"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "medium egplant",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oil",
+     "preparation": "for deep frying"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sesame seed oil",
+     "preparation": null
+    },
+    {
+     "quantity": "a few shreds",
+     "ingredient_name": "ginger or scallion",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**batter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "cold water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Prepare vegetables for frying.  Heat oil to 375F in deep-frying pan.  Whisk the batter ingredients together; do not overbeat.  Whisk together sauce ingredients.  Fry vegetables by dipping a few quickly in the batter then into the oil in the basket.  Fry for just a minute or until golden brown.  Keep additional vegetables in warm oven after they are fried.Serve and enjoy!",
+  "primary_category": "Vegetables",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Tempura_Vegetables_and_Dipping_Sauce"
+ }
+}

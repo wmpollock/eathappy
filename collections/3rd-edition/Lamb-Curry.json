@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Lamb Curry",
+  "safe_name": "Lamb_Curry",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "This may be closest described as \"English Curry\", an appropriation which shares some ingredients but is generally simpler than its Asian counterparts.  This was a staple food my crowing up.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "margarine or butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 large",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1-2 tsp",
+     "ingredient_name": "curry powder",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "13 oz can",
+     "ingredient_name": "chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pint",
+     "ingredient_name": "light cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2-2 lbs",
+     "ingredient_name": "lamb",
+     "preparation": "cubed"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a saucepan cook the lamb and reserve.  In the same or another saucepan. melt butter and saute onion, garlic and curry until onions are soft.  Gradually stir in flour.  Mix in the chicken broth and light cream.  Stir over low heat until sauce bubbles and thickens to desired consistency.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Indian (BAWM)",
+    "Curry",
+    "Lamb",
+    "Asst'd Comfort Food",
+    "Bill's Favorite"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/27/2009",
+  "mdate": "10/28/2010",
+  "user": "billp"
+ }
+}

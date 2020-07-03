@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Falafel Patties",
+  "safe_name": "Falafel_Patties",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "A disaster in the making -- some ingredient or prep is off and all that is made is a disgusting, unfryable mush -- at least in our Winter/Sprint 2011 cooking session.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "16 oz can",
+     "ingredient_name": "garbanzos",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium onion",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "parsley",
+     "preparation": "minced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pita bread",
+     "preparation": "for serving"
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients except parsley in a food processor or blender.  Mix in parsley by hand.  Lightly oil a skillet and heat on medium-low.  Drop spoonfuls of falafel mixture onto lightly oiled skillet and brown. Serve in pitas with lettuce, tomato, onion, radishes and creamy dressing.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Deleted06",
+    "Rice, Grains",
+    "Needs Research"
+   ]
+  },
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Angel Isaacson",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/13/2012",
+  "user": "billp"
+ }
+}

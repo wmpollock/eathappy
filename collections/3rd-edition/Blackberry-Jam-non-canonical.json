@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Blackberry Jam, non-canonical",
+  "yield_count": "9",
+  "yield_measure": "1/2 pints/ \"8 cups\"",
+  "notes": "The Family has a blackberry jam recipe who I need to shake out of my mother.  This sufficed in a time of prior need.Seeds can be seived out before cooking either partially or in full.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "7 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "blackberries",
+     "preparation": "washed and stemmed or defrosted from that bag"
+    },
+    {
+     "quantity": "1 package",
+     "ingredient_name": "pectin",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Premeasure sugar.  Mix blackberries and pectin and bring to a boil over high heat.  Allow mixture to full boil and allow to hard boil for one minute.Remove from heat and skim surface for five minutes.Quickly jar, leaving 1/2\" head space.Further canning:Clean rim and seal with tops.  Tighten rings fully and set aside to cool.  The next day, if possible to wait that long or 'until cool', unset the rings and store loose ooff completely.  Tops cannot be reused.  Follow best canning practices.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Fruit"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Paul Noll @ http://www.paulnoll.com/Oregon/Canning/canning-jam-choices.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Blackberry_Jam_non_canonical"
+ }
+}

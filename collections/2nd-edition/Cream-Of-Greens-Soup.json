@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Cream_Of_Greens_Soup",
+  "primary_category": "Soup",
+  "preparation": "Trim the stem ends of the chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.Saute onions in olive oil until softened.  Add the potatoes and stock and bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.Add the sour cream, reheat gently and season to taste.",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Cream Of Greens Soup",
+  "secondary_categories": {
+   "secondary_categorie": "Vegetables"
+  },
+  "source_date": "14 May 2003",
+  "source_name": "San Francisco Chronicle",
+  "notes": "Originally  this recipe called for 6-8 slices of bacon to be cooked first in the  pan, using the rendered oil to saute the onions and the cooked bacon as a serving-time garnish, but I didn't find it added much to the recipe other than the horrible knowledge that one had added 8 slices of bacon unnecessarily.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "green chard",
+     "quantity": "1 large bunch",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onions or leeks",
+     "quantity": "1 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "potatoes",
+     "quantity": "3 large",
+     "preparation": "peeled and cubed 1/2 inch"
+    },
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "1 6 cup can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vegetable stock",
+     "quantity": "1 cup can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt and pepper",
+     "quantity": null,
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

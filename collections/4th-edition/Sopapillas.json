@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Sopapillas",
+  "yield_count": "16",
+  "yield_measure": "Servings",
+  "notes": "As a kid, sopapillas were the best thing about Culture Day at ol' Twin Creeks.   It might not have been a very  integrated place to grow up, but damnit, at least we were diverse enough to get sopapillas.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "lard or shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "hot tap",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cooking oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "confectioner's sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "honey",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Sift together flour, salt, baking powder and sugar.  With a pastry blender or your fingers, cut in lard to make an even, lumpy meal.  Add water, stirring with a fork until a dough is formed.  Flour your hands and rapidly knead the dough about 12 times.  If the dough sticks, sprinkle on more flour by tablespoons and knead it in until the dough is easily handled.  If dough is too crumbly and dry to knead, add more hot water by tablespoons.  After kneading, cover dough with plastic wrap and let stand at room temperature for about 30 minutes, or refrigerate overnight.Heat oven to 325F.  Pour at least 1 1/2 inches of oil into a deep skillet or dutch oven and heat to 375F to 380F.  Meanwhile, flour a work surface and roll out dough in a rectangle about 1/4 inch thick.  Cut dough into 3-inch squares.  Drop squares into hot oil, a few at a time, maintaining a temperature between 360F and 385F.  The squares will fall, then rise as they puff into \"pillows\".  Push them down and turn often until they are golden.  Remove with a slotted spoon, drain on paper towels and keep warm in oven.  Sprinkle with confectioner's' server and serve with honey to spoon into the cavities.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Makes You Fat"
+  },
+  "untried": "1",
+  "source_name": "California Culinary Academy's \"Regional American Classics\"",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Sopapillas"
+ }
+}

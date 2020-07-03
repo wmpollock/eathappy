@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Tomato Aspic",
+  "safe_name": null,
+  "primary_category": "Soup",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "unflavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cups",
+     "ingredient_name": "tomato juice",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Sprinkle gelatin on 1/2 cup of the tomato juice to soften.  Place over low heat and stir until gelatin is dissolved.  Remove from heat + stir in remaining 1 1/4 cups tomato juice + seasonings and lemon juice",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "93-94",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

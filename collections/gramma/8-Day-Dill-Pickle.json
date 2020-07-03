@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "8 Day Dill Pickle",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 dishpan full",
+     "ingredient_name": "small cukes",
+     "preparation": "cut into bite sizes"
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "alum",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 box",
+     "ingredient_name": "dill seed",
+     "preparation": null
+    },
+    {
+     "quantity": "3 quarts",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 quarts",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 box",
+     "ingredient_name": "pickling spice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "peppercorns",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "large bunch",
+     "ingredient_name": "dill",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "First day:  cut cukes into bite sized chunks.  Brine 2 cups salt, 1 1/2 gallon water and soak overnight.Second day:  Drain.  Pour boiling water to cover.  Add 3 Tbsp alum and 1/2 box dill seed.  Stand 2 days.Fourth day: Drain and rinse.  Boil 3 quarts vinegar, 2 quarts water, 3 quarts sugar, 1 box pickling spice, some peppercorns and 2 cloves garlic.  Add heads of large of dill.  Heat for 5 minutes and turn off heat.  Add pickles.  Stir daily for 4 days.Eighth day.  Remove pickle and peel in sterilized jars (makes 8 quarts).  Bring syrup to boil and pour over pickles.  Seal.",
+  "primary_category": "Side Dish",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "60-61",
+  "entry_app": "Veronica",
+  "cdate": "08/14/2007",
+  "safe_name": "8_Day_Dill_Pickle"
+ }
+}

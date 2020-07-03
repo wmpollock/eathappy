@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Tomato Shrimp Aspic Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "unflavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "tomato soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3-oz pkg",
+     "ingredient_name": "lemon flavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "sweet pickle relish",
+     "preparation": null
+    },
+    {
+     "quantity": "2 stalks",
+     "ingredient_name": "celery",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "green onions",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "4 1/2 oz can",
+     "ingredient_name": "tiny shrimp",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "hard boiled eggs",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "12",
+     "ingredient_name": "stuffed olives",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "cold water",
+     "preparation": "for gelatin"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "boiling water",
+     "preparation": "for gelatin"
+    }
+   ]
+  },
+  "preparation": "Stir together unflavored gelatin + water.  Dissolve jello in hot tomato juice.  Arrange vegetables in bottom of dish.  Pour liquid over it.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "93-94",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

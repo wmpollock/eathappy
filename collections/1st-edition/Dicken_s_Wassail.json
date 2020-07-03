@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "main_ingredient": "Makes You Drunk",
+  "notes": "**UNTRIED** I never had a chance to get into this, preferring mulled wine or spiced (and spiked) cider for my yuletide  inebriation needs.  Still -- Dickens, Wassail, how can you go wrong?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Baking Apples, Cored",
+     "quantity": "3"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Water",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Ale",
+     "quantity": "4 Quarts"
+    },
+    {
+     "ingredient_name": "Ground Cinnamon",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Ground Ginger",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Nutmeg",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Sherry",
+     "quantity": "1 Quart"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1 1/2 Cups"
+    },
+    {
+     "ingredient_name": "Lemons, Peeled & Juiced",
+     "quantity": "2"
+    }
+   ]
+  },
+  "name": "Dicken's Wassail",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Beverage",
+    "Untried"
+   ]
+  },
+  "preparation": "Put apples into a deep casserole.  Combine 1/4 cup sugar and the water in a saucepan; bring to boil.  Pour syrup over apples.  Cover casserole.  Bake at 350F 30 to 40 minutes or until apples are tender, basting occasionally.  Pour ale into a saucepan and heat on low heat until it foams.  Add spices, sherry and 1/12 cups sugar, lemon peel and lemon juice.  Heat, stirring until sugar is dissolved.  Set aside 20 minutes. Reheat mixture and pour through a double thickness of cheesecloth into a heatproof punch bowl.  Add apples.  Ladle wassail into cups, garnish with lemon peel."
+ }
+}

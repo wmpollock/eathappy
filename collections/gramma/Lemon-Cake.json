@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Lemon Cake",
+  "notes": "It should be noted that in my granmother's time \"pudding\" was not included as one of the selling ingredients.  Today's \"moist\" cake mixes are different consistency-wise and such recipes should be treated with caution.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "lemon gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Glaze",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bake cake at 325F for 60 minutes in 12x9x3 pan.Glaze:  Mix powdered sugar with lemon juice.  Make holes in cake with fork and pour glaze over cake.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "50",
+  "entry_app": "Veronica",
+  "cdate": "03/12/2006",
+  "safe_name": "Lemon_Cake"
+ }
+}

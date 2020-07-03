@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Valley of the Sun Soup",
+  "notes": "Great name, if nothing else...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "condensed vegetable bean soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "condensed tomato soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cans",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cooked elbow macaroni",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Fritos-style corn chips",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown beef and add onion and chili powder, cooking until onion is tender.  Add soup and water and simmer 5 minutes, stirring often.  Add macaroni and bring again to a simmer.  Serve garnished with corn curls",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": "Vegetables"
+  },
+  "untried": "1",
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Ann Pennington",
+  "source_page": "6",
+  "entry_app": "Veronica",
+  "cdate": "12/30/2004",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Valley_of_the_Sun_Soup"
+ }
+}

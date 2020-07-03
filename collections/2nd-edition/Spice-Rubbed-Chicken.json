@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Spice_Rubbed_Chicken",
+  "primary_category": "Main Dishes",
+  "preparation": "Mix together salt, mustard fennel, coriander, cinnamon and red pepper; crushing in the fennel seeds in a mortar & pestle or against the side of the bowl with a strong metal spoon. Rinse and pat dry chicken breasts and evenly coat all sides with spice mixture.Grill chicken and prepare sauce:  mix olive oil, cilantro, lemon juice, garlic and a dash of salt in a small bowl.  Drizzle oil mixture over chicken just prior to serving.Olive oil mix may be made ahead of time and chilled -- the difference in temperatures between the oil and the chicken is rather pleasant.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Spice-Rubbed Chicken",
+  "secondary_categories": {
+   "secondary_categorie": "BBQ"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "A tasty from my modern version of \"The Joy Of Cooking\".  The rub works pretty well on pork tenderloin as  well.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "salt",
+     "quantity": "3/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dry mustard",
+     "quantity": "3/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fennel seeds",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground coriander",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cinnamon",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground red pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "boneless and skinless chicken breasts",
+     "quantity": "4",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "minced cilantro",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh lemon juice",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 small clove",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "dash",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/03/2005"
+ }
+}

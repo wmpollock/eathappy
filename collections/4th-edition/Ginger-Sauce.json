@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "name": "Ginger Sauce",
+  "notes": "I've had data projects where I become concerned about source longevity and this has become one of them:  When I originally printed this (11 Sept 2006) it came directly from their website.  They've since redesigned and not only is the link not their, their delightful collection of recipes is also gone!  I mean, this thing is all about preserving a delicate cultural heritage, but this is redonkulous!I'd have never thought to actually go looking for this recipe, point of the matter.  Its available a hundred places on the 'Web, but so is an equal amount of back engineering.  Nice to get it from the source and unfortunate its no longer available -- hopefully they'll redesign again in the future.Also, big ups on 15 minutes worth of blanching - yikes!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5 oz",
+     "ingredient_name": "sliced onion",
+     "preparation": "rinsed in running water for 15 minutes"
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "ginger",
+     "preparation": "peeled and sliced thinly"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced, peeled and chopped"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend ingedients well, stir again before serving. Will keep refrigerated up to a week.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Benihana",
+  "source_page": "http://www.benihana.com/recipe.asp?what=benihana-ginger-sauce",
+  "entry_app": "Veronica",
+  "cdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Ginger_Sauce"
+ }
+}

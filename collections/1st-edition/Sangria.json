@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "notes": "**UNTRIED** Dennis's wife Maureen makes some of the BEST sangria on the planet and I've yet to really want to go  finding an alternate recipe just yet.  Since I don't have that one just yet, this'll hafta do...Originaly from the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Vicki Susoev.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Orange",
+     "quantity": "1",
+     "preparation": "Sliced"
+    },
+    {
+     "ingredient_name": "Lemon Or Lime",
+     "quantity": "1",
+     "preparation": "Sliced"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Water",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Club Soda Or Sparkling Water",
+     "quantity": "1 Bottle"
+    },
+    {
+     "ingredient_name": "Burgundy Wine",
+     "unknown_1": "14096",
+     "quantity": "1 Bottle"
+    },
+    {
+     "ingredient_name": "Brandy",
+     "unknown_1": "14052",
+     "quantity": "1/2 Cup"
+    }
+   ]
+  },
+  "name": "Sangria",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Beverage"
+  },
+  "preparation": "Put water and sugar in saucepan. Bring to boil, stirring constantly. Slice fruit thinly and put in sugar water.  Let stand at room temperature at least 2 hours.  Place in punch bowl or pitcher, reserving one slice of each fruit for each glass.  Add other ingredients; sparkling water last.  You may chill or add ice.  For a sweeter taste, add ginger ale, Sprite or 7-up with or instead of club soda.  Also, try orange juice and/or lemonade."
+ }
+}

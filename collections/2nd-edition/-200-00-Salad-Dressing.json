@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "_200_00_Salad_Dressing",
+  "primary_category": "Salad/Dressing",
+  "preparation": "In a double boiler, heat all ingredients except the grated onion.  Allow to cool to lukewarm and beat until creamy.  Add the grated onion and serve or refrigerate.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "$200.00 Salad Dressing",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Yasuyo Koike",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "salt",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "paprika",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dry mustard",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "celery seed",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/2-3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cider vinegar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salad oil",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "grated onion",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

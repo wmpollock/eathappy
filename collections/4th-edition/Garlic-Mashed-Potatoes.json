@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Garlic Mashed Potatoes",
+  "notes": "This was a sidecar recipe which I kind of love to hate.  Its the record's \"B\" side -- maybe not worth sticking out there by itself but man don't they go good together.Fortunately, as far as this goes, looks like its a standalone.The recipe is offline these days but came with a boilerplate warning about it having been scaled down from an industrial preparation but not tested inhouse.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Garlic Mashed Potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "potato",
+     "preparation": "quartered"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Boil a sufficient amount of water to boil the potato quarters and boil uarters for ten minutes or until fork tender.  Drain the potato and return it to the pan with milk, butter, garlic powder and parsley.  Mix to desired texture.  Season with salt and pepper, to taste.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "**New06",
+    "Buttermilk",
+    "Chicken",
+    "Bachelor Food"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Wendell Price: http://search.foodnetwork.com/recipes/date-plate/thyme-buttermilk-chicken-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Garlic_Mashed_Potatoes"
+ }
+}

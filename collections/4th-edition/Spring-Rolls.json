@@ -1,0 +1,107 @@
+{
+ "recipe": {
+  "name": "Spring Rolls",
+  "yield_count": "20",
+  "yield_measure": "rolls",
+  "notes": "Needs Research: beets seem a bit untraditional.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "cellophane noodles",
+     "preparation": "cooked per package"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "bean sprouts",
+     "preparation": null
+    },
+    {
+     "quantity": "2 carrots",
+     "ingredient_name": "julienned",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "carrots",
+     "preparation": "julienned"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large beet",
+     "preparation": "julienned"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "fresh red chili",
+     "preparation": "cut into disks"
+    },
+    {
+     "quantity": "2 handfulls",
+     "ingredient_name": "fresh cilantro",
+     "preparation": "hand torn"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "chopped unsalted peanuts",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "sesame oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lime",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other Ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "20",
+     "ingredient_name": "8\" round rice paper wrappers",
+     "preparation": null
+    },
+    {
+     "quantity": "40",
+     "ingredient_name": "mint leaves",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Filling: toss all ingredients until well mixed.Assembly: Pour boiling water into a shallow container and immerse each wrapper for ten seconds to soften before placing on a moist towel.  Stuff with \"less filling than you think you should\" and roll as a burrito, sticking two mint leaves within the rolled layers.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Tyler Florence - Food Network",
+  "source_page": "http://www.foodnetwork.com/recipes/tyler-florence/summer-rolls-with-sweet-chili-dipping-sauce-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Spring_Rolls"
+ }
+}

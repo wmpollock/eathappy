@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Lime Salad",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Gah.  I was fine until I got to \"fruit cocktail...\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "lime jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lime juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cottage cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "fruit cocktail",
+     "preparation": "strained"
+    }
+   ]
+  },
+  "preparation": "Mix together lime jello, water and lime juice and allow to cool until it starts to congeal.  Add remaining ingredients.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

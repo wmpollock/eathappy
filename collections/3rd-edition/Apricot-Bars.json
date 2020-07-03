@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Apricot Bars",
+  "yield_count": "16",
+  "yield_measure": "Pieces",
+  "notes": "A lovely little snack bar containing a ton of tasty sugar and butter.  I'm not entirely sure whether I love the egg-white topping.  I may have not made it fluffy enough -- my first attempt left a kind of patchy crustwork of eggwhite which was kind of -good-, but didn't seem entirely right.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "12 oz",
+     "ingredient_name": "apricot jam",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egg whites",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "almond extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "slivered almonds",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream butter, sugar and vanilla.  Add flour and mix well.  Spread in 13\" by 9\" ungreased pan and bake 15 minutes at 350F.  Spread jam over crust gently.  Beat egg whites and 1/2 tsp almond extract slightly, then beat powdered sugar in gradually until stiff.  Spread carefully over jam. Top with almonds and bake 20 minutes at 400F.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Apricot Jam",
+    "Made For Butter",
+    "Needs Research"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Apricot_Bars"
+ }
+}

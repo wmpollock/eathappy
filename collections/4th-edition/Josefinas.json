@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Josefinas",
+  "yield_count": "5",
+  "yield_measure": "dozen",
+  "notes": "Sadly, one of the two-publication holdovers for \"untried\".",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "small baguette loaf",
+     "preparation": "sliced 1/4\""
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "canned green chiles",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "pressed"
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix butter with chiles and garlic and coat bread slices.  Mix cheddar cheese and mayonnaise and top bread slices, spreading to edges.  Broil until browned and serve hot.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Needs Research"
+  },
+  "untried": "1",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "source_page": "9",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Josefinas"
+ }
+}

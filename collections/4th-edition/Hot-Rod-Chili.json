@@ -1,0 +1,116 @@
+{
+ "recipe": {
+  "name": "Hot Rod Chili",
+  "safe_name": "Hot_Rod_Chili",
+  "yield_count": "lots",
+  "yield_measure": "of servings",
+  "notes": "This makes a hey-uge amount of food:  you might want to halve it unless you've got lots of friends coming over or want to freeze some.Intriguing in this context they describe the recipe as a meat preparation but are pretty loose on the meat, equating ground venison as being \"just as good as\" ground sirloin.Your mileage may vary.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "cubed meat",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "ground meat",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Main Ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "20",
+     "ingredient_name": "garlic cloves",
+     "preparation": "peeled and diced"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "onions",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "beef broth",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "12 oz",
+     "ingredient_name": "Spicy Vegetable Drink (Snap-e-Tom)",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "\"a good handful\"",
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "small red or pink beans",
+     "preparation": "pre-soaked"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Final Ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "California chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "New Mexico chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "pasilla chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chipotle powder or canned chipotles in adobo sauce",
+     "preparation": "to optionally impart a significant smokiness"
+    }
+   ]
+  },
+  "preparation": "Brown meat and then add main ingredients.  Bring to a low simmer and hold for two hours.  If dish becomes low in fluid, any strongish, darkish food-quality liquid will do it seems:  \"broth, dark beer, or even strong coffee.\"The Final Ingredients should be added for the last 35-45 minutes of cook time.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Chili",
+    "Beef"
+   ]
+  },
+  "source_name": "Chester Progressive:  Chase off the chill with simmering pots of chowder and chili",
+  "source_page": "1B",
+  "source_date": "25 Feb 2009",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "recipe": {
+  "name": "It's It Revisited",
+  "notes": "In 2009 the San Francisco Chronicle was facing some hard times.  Their advertising revenue was draining way on all fronts and the paper had been bleeding money for some years.  In 2009 the paper reported that they had been told by their ownership that they would either be reformed, sold, or shuttered.Under this banner the Chron launched their \"144\" features; this being amongst the gala finales: local classics re-imagined.  It's-It is the mascot of every fat kid in Northern California and you cannot drive past the factory without wanting one.Extra bonus: you won't be driving by the factory too many times after eating a batch of these:  each one weighs in at 780 calories.  That being said, lots of interesting RESEARCH to  reconstruct more reasonable, future-forward fashions.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Ginger ice cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "heavy cream",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "2\" piece",
+     "ingredient_name": "ginger",
+     "preparation": "halved"
+    },
+    {
+     "quantity": "2\" piece",
+     "ingredient_name": "vanilla bean",
+     "preparation": "split"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "large egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "large pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Oatmeal Cookie",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "firmly packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 scant tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "old fashioned oats",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Assembly",
+     "preparation": null
+    },
+    {
+     "quantity": "6 1/2oz",
+     "ingredient_name": "bittersweet chocolate",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Ice Cream:  heat cream, milk and half the sugar {RESEARCH: better measure}, ginger and vanilla bean until milk is just scalded and remove from heat.Whisk together egg yolks, salt and remaining sugar and slowly induce the hot mixture.  Return mixture to pot and cook over medium heat until mixture reaches 175F; mixture will sheet the back of a spoon.Strain mixture into a bowl and cool in an ice bath until mixture is no warmer than room temperature.  Refrigerate 6 hours-overnight before processing in automatic icemaker.Cookie: Cream together butter, brown and granulated sugar.  Beat in egg and vanilla extract before mixing in the remaining ingrtedients.  Make 10 very large cookie batter balls on two baking sheets, five a piece, and bake at 350F for 10 minutes or until brown.Construction and finishing: bring together a scoop of ice cream and two cookies to form sandwitches and set sandwitches in freezer to set.Melt chocolate in a double boiler and allow to slightly cool until just loose.  Transfer chocolate to a dipping bowl and coat each sandwitch a half at a time before placing ona  lined baking sheet. Freeze sandwitches until chocolate hardens.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Ice Cream",
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "E3",
+  "source_date": "Sunday 31 May 2009",
+  "entry_app": "Veronica",
+  "cdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Its_It_Revisited"
+ }
+}

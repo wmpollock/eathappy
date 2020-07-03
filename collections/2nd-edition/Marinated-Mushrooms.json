@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Marinated_Mushrooms",
+  "primary_category": "Appetizers",
+  "preparation": "Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Marinated Mushrooms",
+  "secondary_categories": {
+   "secondary_categorie": "Mushrooms"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I have no clue where this recipe comes from.  Could be my mom's collection but I think I'd be a lot more excited  about it if it  were.  I always associated marinated mushrooms with my gramma's guests coming over as a child.  My gramma was from an  entirely different era in Sacramento history than my own and I think this may have  been a customary bring-along among their  set.  \"Make not the marinated mushrooms in the summertime, for  they shall be Brought Along.\"  A good policy.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "salad oil",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tarragon vinegar",
+     "quantity": "2/3 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic, minced",
+     "quantity": "1 medium clove",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tobacco",
+     "quantity": "dash",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white onion",
+     "quantity": "1 medium",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mushrooms",
+     "quantity": "1 lb",
+     "preparation": "sliced 1/4\""
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

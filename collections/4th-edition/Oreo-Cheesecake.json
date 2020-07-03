@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Oreo Cheesecake",
+  "safe_name": "Oreo_Cheesecake",
+  "yield_count": "16",
+  "yield_measure": "smallish pieces",
+  "notes": "This was an alternate recipe I tried and came out horrible.   Philly's website doesn't include the danged recipe anymore and even the closest one doesn't have a bake time!  I tried 425, had the thing come out an embarrassingly burnt mess and wish I hadn't made it.  I'm going to borrow the Bryan's as it only comes out better every time.",
+  "prep_time": "20 minute prep, 45 minute cook, 4 hour+ refrigeration",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1lb 2oz pkg",
+     "ingredient_name": "Oreos",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1/4 cup (1/2 stick)",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lb (4x8oz pkgs)",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Line 13x9\" baking pan with foil up and over the sides of the pan.  Whirl 30 cookies (~2/3rds the bag) in food processor until well blended.  Mix in butter until evenly processed.  Press firmly into bottom of pan.With an electric mixer, blend together cream cheese, sugar and vanilla.  Add eggs in one at a time until just blended.  Break or chop remaninig cookies and stir 1 1/2cups into batter.  Pour batter over crust and cover with remaining chopped cookies.  Bake for 45 minutes or until center is almost set and let cook for four or more hours.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Deleted06",
+    "**New06",
+    "Asst'd Comfort Food",
+    "Makes You Fat"
+   ]
+  },
+  "untried": null,
+  "source_name": "Philly-Brand Cream Cheese box",
+  "source_page": null,
+  "source_date": "2007?",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "mdate": "11/26/2009",
+  "user": "billp"
+ }
+}

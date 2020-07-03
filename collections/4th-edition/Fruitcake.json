@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "name": "Fruitcake",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "yield_count": "1",
+  "yield_measure": "loaf",
+  "prep_time": null,
+  "notes": "This recipe comes directly from my mother's collection (thanks to my dad I think) but the note suggests my grandmother may have made this. They traded recipes back and forth.  The original recipe calls for baking this in an angel's food pan but my mom used to use a (size?) loaf pan.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/3 cups",
+     "ingredient_name": "golden raisins",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/3 cups",
+     "ingredient_name": "currents",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/3 lbs(?)",
+     "ingredient_name": "candied fruit",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cups",
+     "ingredient_name": "almonds",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 2/3 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "slat",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "baking powser",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "grapefruit (or other) juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together flour, baking powder and salt.  Sift over combined fruit and nuts and toss..  Cream butter then cream in sugar, and eggs one at a time.  Add lemon extract, stir in floured fruit, lastly add fruit juice.  Line pan with wax paper.  Prepare oven with steam pan.  Bake 1 1/2 hrs at 300F before reducing heat to 250F for another half hour.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2018-08-13",
+  "mdate": null,
+  "user": "billp"
+ }
+}

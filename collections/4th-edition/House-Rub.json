@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "House Rub",
+  "safe_name": "House_Rub",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Based on Webber's Real Grilling's \"Pork Rub\", this is a nice middle-of-the-road base rub and season-all that stems from my interests in lower salt cooking.  The salt here has been reduced from the original and can be withheld altogether.  I've also upsized the recipe to give",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "freshly ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "dired oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Will make enough to mostly fill an normal spice bottle, though I like to keep mine in a slightly bigger old garlic powder shaker.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "source_name": "Webber's Real Griling",
+  "source_page": "27",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2010",
+  "mdate": "12/27/2010",
+  "user": "billp"
+ }
+}

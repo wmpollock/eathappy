@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "source_page": "162",
+  "safe_name": "Cinnamon_Rolls",
+  "primary_category": "Desserts",
+  "preparation": "Mix together cake mix, yeast and flour in large bowl and stir in hot water.  Cover mixture with moist towel and let double.  Turn out onto a lightly floured surface and divide in two equal parts.  Roll each portion into rectangles and spread with softened butter.  Sprinkle with sugar and cinnamon.Roll length-wise in the longest direction with the coating on the inside like you would if anyone still made jelly rolls.  Slice rolls in 2\" intervals.  Arrange in buttered pans and cover to double again.  Prepare topping by cooking ingredients until butter has melted and pour over rolls immediately before baking at 375F for 25 minutes.Turn out onto serving plate immediately after removing from oven.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Cinnamon Rolls",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", Contributed by Polly Justason, mother of Gary Kluge",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "package yellow cake mix",
+     "quantity": "1 (18.5 oz)",
+     "preparation": "w/o pudding"
+    },
+    {
+     "ingredient_name": "dry yeast",
+     "quantity": "1 pkg",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "5 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hot water",
+     "quantity": "2 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": null,
+     "preparation": "softened"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**TOPPING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "margarine or butter",
+     "quantity": "1 stick",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "packed brown sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "light Karo syrup",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chopped nuts",
+     "quantity": "1 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

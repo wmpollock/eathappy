@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Hershy's Favorite Hot Cocoa",
+  "notes": "Getting the Challenge Cocoa Brownies brought me in contact with other box-side recipes, such as this one from Hershy's.  You'd think they'd know a thing or two about cocoa.Their website (http://www.hershykitchens.com) is some serious mojo, best visited after near-complete satiation.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "hot water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "cocoa",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a saucepan, mix water, sugar, cocoa and salt.  Bring to a boil and stir at boil for two minutes.  Stir in milk and bring to heat but do not boil.Mix in vanilla and serve.",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Asst'd Comfort Food",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Hershey's Cocoa",
+  "entry_app": "Veronica",
+  "cdate": "02/23/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Hershys_Favorite_Hot_Cocoa"
+ }
+}

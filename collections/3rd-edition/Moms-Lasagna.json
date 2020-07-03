@@ -1,0 +1,105 @@
+{
+ "recipe": {
+  "name": "Mom's Lasagna",
+  "safe_name": "Moms_Lasagna",
+  "yield_count": "1",
+  "yield_measure": "Lasagne",
+  "notes": "I've found this same recipe or similar to it in both my mother's and grandmother's collection, though this may be a borrowed recipe on the latter's part.    A signature Mamma Pollock dish at Almanor and beyond.  I've sacrilegiously hacked this entry down by half as I can't imagine many would often wish TWO full tray lasagnes.Needs Research: The Lg. can tomatoes should be listed as measure.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "sweet Italian sausages",
+     "preparation": "optinally hot Italian sausage"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 14.5 oz can",
+     "ingredient_name": "tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "6 oz can",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Italian herbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pkg (9)",
+     "ingredient_name": "lasagna noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 10oz pkg",
+     "ingredient_name": "frozen chopped spinach",
+     "preparation": "thawed and drained"
+    },
+    {
+     "quantity": "8oz",
+     "ingredient_name": "cottage cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "sliced mozzarella",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown ground beef and sausages and remove from pan.  Pour off all but 3 Tbl of the fat.  Saute onion and garlic until soft.  Return browned meat to kettle with tomatoes, salt, herbs and pepper and simmer over low heat for 30 minutes, stirring occasionally.  While sauce simmers, cook lasagna noodles,  following label directions; drain and place in a bowl of cold water to keep separated.  In a large bowl, beat egg and add drained spinach, cottage cheese.  When ready to assemble: drain noodles and arrange 3 strips on the bottom of each  9 x 13 x 2-inch baking dishes.  Spoon half of the cheese-spinach mixture over noodles; add half of meat sauce; sprinkle with grated Parmesan cheese.  Assemble another layer as above and top with final three noodles.  Top each dish with slices of mozzarella cheese.  Bake in 350F oven 30 minutes or until bubbly-hot.  Garnish with sprigs of parsley, if you wish.   Lasagna can be assembled early and pulled from fridge an hour ahead of time.  Place cold lasagna in cold oven and heat to 350 and bake 1 hour.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Italian",
+    "70s Flashback",
+    "Asst'd Comfort Food",
+    "Tomatoes",
+    "Bill's Favorite",
+    "Retro"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "12/26/2009",
+  "user": "billp"
+ }
+}

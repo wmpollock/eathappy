@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Chicken Gorgonzola",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "clarified butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3 lb",
+     "ingredient_name": "Spanish onions",
+     "preparation": "julienned"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "12",
+     "ingredient_name": "boneless, skinless chicken breasts",
+     "preparation": "flattened"
+    },
+    {
+     "quantity": "1 1/2 lb",
+     "ingredient_name": "zucchini",
+     "preparation": "bias cut 1/4\" thick"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "herbed olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "18 oz",
+     "ingredient_name": "Gorgonzola cheese",
+     "preparation": "crumbled"
+    }
+   ]
+  },
+  "preparation": "Heat pan over medium heat and melt butter.  Add onions and sugar and cook until onions are well browned -- about 20 minutes.  Set aside.Marinate chicken and zucchini separately in 1 cup each herbed olive oil  Char-broil or grill chicken for 3-5 minutes per side or until done.For each chicken breast, arrange 3 slices zucchini and top with chicken breast.  Add 1/3 cup of caramelized onions and 1 1/2 oz Gorgonzola to each.  Bake at 325F for 3 minutes or until softened.Herbed oil:2 cups olive oil, heated to 325F.  Remove from heat and add 2 1/2 Tbl garlic, minced; 1 1/2 tbsp rosemary; 1 1/2 tbsp black peppercorns, cracked.  Cool and strain.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New05",
+    "Chicken"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", Arlene Schrum",
+  "source_page": "107",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/11/2009",
+  "safe_name": "Chicken_Gorgonzola"
+ }
+}

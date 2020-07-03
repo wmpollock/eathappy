@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "name": "Curried Chicken Meat Balls",
+  "notes": "Makes an awful, awful lot it seems.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**MEATBALLS",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "ground chicken or turkey",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "onion",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "curry powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "breadcrumbs",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**CURRY SAUCE",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "clove garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "curry powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix meatball mixture together and roll balls in flour.  Saute in butter until throughly cooked.Sauce:  saute crushed clove of garlic in 2 Tbl butter until soft and discard.  Add remaining ingredients and reduce until thick.  Season with salt and pepper to taste.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Chicken",
+    "Appetizer",
+    "Curry",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "source_page": "6",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Curried_Chicken_Meat_Balls"
+ }
+}

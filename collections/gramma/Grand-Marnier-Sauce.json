@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Grand Marnier Sauce",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup + 1 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "sweet butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "vanilla beat",
+     "preparation": "split"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "whole egg",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "10 Tbsp",
+     "ingredient_name": "Grand Mariner",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "[No preparation provided!  Just service notes.  Its likely that this mess should be heated until thickened and then allowed to cool some, the vanilla bean strained/removed.]Make sauce, reheat before serving.Add 4 Tbsp Grand Marnier to 2 c sauce [nb:  this seems kind of crazy-town given that we're already in for +1 cup at this point]",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-11",
+  "user": "billp"
+ }
+}

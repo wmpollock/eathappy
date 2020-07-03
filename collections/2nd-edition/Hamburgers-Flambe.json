@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Hamburgers_Flambe",
+  "primary_category": "Main Dishes",
+  "preparation": "Press fresh ground pepper well onto both sides of patty, let stand for 30 minutes.  Sprinkle light layer of salt in heavy pan. Heat until salt turns a light brown.  Place patties in pan and brown on each side.  When patty is well browned on other side add Worcestershire sauce, lemon juice and butter onto each patty.  Pour 1/3 cup of brandy over all patties, reduce heat and light brandy, being careful not alight oneself or one's kitchen.  Spoon brandy over all patties and serve immediately.",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "cdate": "12/29/2004",
+  "prep_time": null,
+  "name": "Hamburgers Flambe",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I grew up in the 70s when cooking was supposed to be a fairly calm affair.  The best part of this recipe as a kid is  when my mom  would call us over and the cooking would suddenly and intentionally be LIT AFLAME!  FOR  SEVERAL SECONDS!  It was a fairly punk-rock dish.While this seems like and -is- a very simple recipe, the lighting of Brandy in a hot dish is no joke -- I damned near singed off my arm hair the first time I made this in the test kitchen.  I believe speed with the match may be key.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**FOR EACH SERVING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground beef or turkey",
+     "quantity": "1/3 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "1 pat",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**FOR ENTIRE BATCH",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brandy",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground pepper",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

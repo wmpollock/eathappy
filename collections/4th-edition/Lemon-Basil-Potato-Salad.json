@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "name": "Lemon-Basil Potato Salad",
+  "safe_name": "Lemon_Basil_Potato_Salad",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "baby red potatoes",
+     "preparation": "cut into 1\" pieces"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "celery",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "red onion",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "green onions",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "4 slices",
+     "ingredient_name": "thick-cut bacon",
+     "preparation": "diced to 1/2\""
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "basil",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "basil",
+     "preparation": "chiffonade"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "black pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Insert potatoes into a large pot, covering with cold water and a pinch of salt.  Bring to a boil before lowering heat to simmer until fork-tender, 20-25 minutes.  Drain and cool before tossing with celery and onions.Fry bacon until godel brown and drain.  1 Tbl of bacon grease can be reserved and substituted for equal measure of olive oil.Whisk mayonnaise, sour cream, lemon juice, oil and/or backon fat and minced basil.  Season with salt and pepper.Toss vegetable mixture with dressing and stir in reserved bacon.  Garnish with chiffonaded basil.  Serve immediately or refrigerate.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Potatoes"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle, \"Lemon-Basil Potato Salad\"",
+  "source_page": "http://www.sfgate.com/food/recipes/detail/?p=detail&rid=18726&sorig=qs",
+  "entry_app": "Veronica",
+  "cdate": "01/29/2013",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "recipe": {
+  "name": "Cauliflower",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "cauliflower",
+     "preparation": null
+    },
+    {
+     "quantity": "1 recipe",
+     "ingredient_name": "white sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green pepper",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small can mushrooms",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "sliced pimentos",
+     "preparation": "drained"
+    }
+   ]
+  },
+  "preparation": "Separate cauliflower, cook in boiling salted water until just tender.Put above ingredients into casserole dish, add white sauce, mix.  Sprinkle with grated cheese over top, and sprinkle paprika on top.Bake 20-25 minutes in 325F oven.",
+  "primary_category": "Vegetables",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0028",
+  "entry_app": "Veronica",
+  "cdate": "11/28/2005",
+  "mdate": "11/28/2005",
+  "safe_name": "Cauliflower"
+ }
+}

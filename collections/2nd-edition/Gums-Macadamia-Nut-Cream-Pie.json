@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Gums_Macadamia_Nut_Cream_Pie",
+  "primary_category": "Desserts",
+  "preparation": "Dissolve gelatin in 1/3 cold water.  Mix 1 1/4 cup milk, 1/2 cup sugar, 1/2 tsp salt.  Cook over low heat, stirring constantly.  Do not boil. Remove from heat.  Slowly mix 1/2 of this mixture into 3 slightly beaten egg yolks, then add the other 1/2.  Cook until it begins to boil, then remove from heat.  Stir in softened gelatin.  Add crushed Macadamia nuts.  Let cool until partially set, then beat with rotary egg beater until smooth.  Blend in 1 tsp. banana flavoring and 1/2 cup cream whipped stiff.  Beat until stiff 3 egg white, 1/4 tsp. cream of tartar and 1/2 cup of sugar.  Fold this meringue into the mixture.  Pour into cool baked crust.  Just before serving cover with whipped cream and ground nut mix.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Gum's Macadamia Nut Cream Pie",
+  "secondary_categories": {
+   "secondary_categorie": "Macadamia Nuts"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I remember really liking this as a kid but have yet to actually make it myself.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "gelatin",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "1 1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": "divided"
+    },
+    {
+     "ingredient_name": "macadamia nuts",
+     "quantity": "1 oz",
+     "preparation": "crushed"
+    },
+    {
+     "ingredient_name": "banana flavoring",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whipping cream",
+     "quantity": "1/2 pint",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cream of tartar",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

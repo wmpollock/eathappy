@@ -1,0 +1,33 @@
+{
+ "recipe": {
+  "name": "Butterscotch Noodles",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "6 oz. pkg butterscotch or chocolate morsels",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "peanut butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "chow-mein noodles",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Met together morsels and peanut butter on top of double boiler.  Add chow-mein noodles.Drop on wax paper on cookie sheet.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": null,
+  "source_page": "0006",
+  "entry_app": "Veronica",
+  "cdate": "11/17/2005",
+  "safe_name": "Butterscotch_Noodles"
+ }
+}

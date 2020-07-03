@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Creme Brulee",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "half & half",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 good pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Heat half & half in double boiler until hot but not boiling.  Beat egg yolks, sugar and salt and gradually add hot half & half.  Put mixture into baking dish and put into preheated oven at 350F and bake until set.  Test like custard.  Put in refrigerator until cool.  Sprinkle a thin layer of brown sugar on top and put under the broiler  Let brown sugar melt.  Watch closely or it will burn.Take 2 boxes of fresh strawberries. Mix 1 tablespoon of honey, and 2 Tablespoons of Kirsch and serve with creme brulee, or can be served with canned green gage plums.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0074-0075",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-03-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

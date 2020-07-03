@@ -1,0 +1,32 @@
+{
+ "recipe": {
+  "name": "Chinese Cookies",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 six oz packages",
+     "ingredient_name": "butterscotch morsels",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "salted peanuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "Chinese noodles",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt butterscotch in pan at very low heat.  Mix in salted peanuts and noodles. Drop on cookie sheet.  Let sit approximately 5 minutes or until cool and hardened.",
+  "primary_category": "Cookies",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0027",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Chinese_Cookies"
+ }
+}

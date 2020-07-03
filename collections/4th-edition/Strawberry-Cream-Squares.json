@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "source_page": "8",
+  "safe_name": "Strawberry_Cream_Squares",
+  "primary_category": "Desserts",
+  "preparation": "Dissolve gelatin in boiling water and add strawberries, stirring until thawed.  Add pineapple and bananas.  Pour half into 8x8x2\" pan and chill until firm.  Evenly spread sour cream over first layer and add remaining mixture.  Chill again until firm.  Cut into squares and cover each with a small portion of sour cream.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "Strawberry Cream Squares",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "70s Flashback"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Kiyojo Ueda",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "3oz pkg strawberry gelatin",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "boiling water",
+     "quantity": "2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "10oz pkg. frozen strawberries",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crushed pineapple",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large ripe bananas",
+     "quantity": "2",
+     "preparation": "finely diced"
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "extra sour cream",
+     "quantity": null,
+     "preparation": "for topping"
+    }
+   ]
+  },
+  "mdate": "01/03/2005"
+ }
+}

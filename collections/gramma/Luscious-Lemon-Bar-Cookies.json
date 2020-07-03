@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Luscious Lemon Bar Cookies",
+  "safe_name": null,
+  "primary_category": "Cookies",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "soft butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Pour onto slightly cooled crust.  Bake at 350 for 25 minutes until set.  Cool and sprinkle with powdered sugar.  Makes 3 dozen 1 1/2 inch cookies.",
+  "source_author": null,
+  "source_name": "Betty Lilly",
+  "source_page": "50",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}

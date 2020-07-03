@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "name": "Tartlets: pecan",
+  "yield_count": "4",
+  "yield_measure": "dozen",
+  "notes": "Good lord, I love pecan pie.  The idea of dozens of -little- pecan pies makes me very, very happy",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**CRUST",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "almond extract",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "dark Karo syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "confectioners sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream margarine and sugar and mix in egg yolks and almond extract.   Fold in flour.  Press evenly into tart shells or muffin tins.  Bake 8 to 10 minutes at 400F.Boil margarine, Karo syrup and confectioner's sugar.  Stir in pecans and spoon into shells.  top with pecan halves.  Bake at 350F for 5 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "Pecans",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", recipe by Dee Matteucci, friend to Phyllis Duckworth",
+  "source_page": "170",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Tartlets_pecan"
+ }
+}

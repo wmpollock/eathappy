@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "French Apple Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6-7 cups",
+     "ingredient_name": "apples",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "2/3-3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2 tbsp",
+     "ingredient_name": "flour",
+     "preparation": "full amount if juicy"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "grated lemon rind",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2 tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Heat oven to 425F.  Bake 20 minutes covered in foil.  Bake 20 minutes uncovered.  Serve warm.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0001",
+  "entry_app": "Veronica",
+  "cdate": "02/01/2005",
+  "mdate": "02/01/2005",
+  "safe_name": "French_Apple_Pie"
+ }
+}

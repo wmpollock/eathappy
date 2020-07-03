@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Blender Ceasar Dressing",
+  "yield_measure": "Servings",
+  "notes": "Far, far away from the traditional, bowl-turned recipe but nobody eats in restaurants like that anymore.  As far as quick-prep Ceasar goes, this is the goods and it gets better as time goes on.In addition to dressing it makes a great impromptu sauce for meats and vegetables.  Its easy to use as a casual sauce but be warned that there is a fair amount of salt in the measure and in ingredients such as Parmesan cheese and Worcestershire sauce among its negative yet oh-so-tasty blandishments.RAW EGG WARNING:Uncooked eggs are known to occasionally carry diseases such as salmonella which may put sensitive groups at risk.  As such, its best to forewarn any of your guests that there's a bit of the very previously really fresh raw egg product before serving it and having an alternative on hand.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "minced or pressed"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In blender, combine egg, Parmesan cheese, lemon juice, garlic, Worcestershire, salt and pepper.  Mix until blended.  With the blender on its lowest speed, gradually add oil in a thin stream and continue to blend until dressing is thick and creamy.  Pour into jar.  Cover and refrigerate for at least one hour.  Per the original, \"Keeps up five days\" -- your risk tolerance may vary.Let stand at room temperature for fifteen minutes before using.  Shake well.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Salt-Tastic!",
+    "Makes You Fat",
+    "Raw Eggs",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "Sunset Favorite Recipes I",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Blender_Ceasar_Dressing"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "recipe": {
+  "name": "Sutter's Gold Bread",
+  "notes": "Proving the value of a second proof, the handwriting on this looks to my tired eye like \"Breadu\", though damn if I can find any bread except in the making of the...Oh wait, there it is...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "toasted bread cubes",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter or margerine",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "seedless raisins",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "** LEMON SAUCE",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "butter or margerine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "fresh lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine milk and eggs.  Pour over bread.  Stir in sugar, butter, lemon peel, salt and raisins.  Pour into 2 quart greased baking dish.  Sprinkle with grated nutmeg.  Place dish in shallow pan:  pour hot watter around dish one inch deep.  Bake 350F oven 50 to 55 minutes or until knife inserted in center comes out clean.  Serve warm or cold with lemon sauce.Lemon sauce:  Combine sugar and cornstarch thoroughly in a small saucepan until smooth.  Bring to a boil over medium heat, stirring constantly:  cook 1 to 2 minutes.  Stir in butter, lemon peel and juice.  Serve warm over bread.Try it you'll like it!! [original note]",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "untried": "1",
+  "source_name": "Edna M. Rapp",
+  "source_page": "0011",
+  "entry_app": "Veronica",
+  "cdate": "11/18/2005",
+  "mdate": "03/13/2006",
+  "safe_name": "Sutters_Gold_Bread"
+ }
+}

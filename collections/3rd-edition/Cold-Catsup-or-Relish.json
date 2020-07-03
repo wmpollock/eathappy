@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Cold Catsup or Relish",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "7 1/2 pounds",
+     "ingredient_name": "ripe tomatoes",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "horseradish",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mustard seed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "5 stalks",
+     "ingredient_name": "celery",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "red peppers",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "vinnegar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Seal in jars and will keep until used.  Very fine with meats.  Requires no cooking.[Ed: \"Until used\" may be a dicey proposition in the 21st century...]",
+  "primary_category": "Other",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Tomatoes"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Choice Recipes Edited and Complied by Members of the Eastern Star of Sacramento, Flora Ann Walkefield Contributor",
+  "source_page": "59",
+  "source_date": "1928",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Cold_Catsup_or_Relish"
+ }
+}

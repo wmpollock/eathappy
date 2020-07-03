@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": "9",
+  "safe_name": "Cabbage_Pepper_Slaw",
+  "primary_category": "Salad/Dressing",
+  "preparation": "Add other ingredients to prepared vegetables and toss.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "Cabbage-Pepper Slaw",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Sets Horiba",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "cabbage",
+     "quantity": "4 cup",
+     "preparation": "shredded"
+    },
+    {
+     "ingredient_name": "green pepper",
+     "quantity": "1/2 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "celery seed",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "wine vinegar",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dash of pepper",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "yellow mustard",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salad dressing",
+     "quantity": "3/4 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

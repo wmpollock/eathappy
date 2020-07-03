@@ -1,0 +1,44 @@
+{
+ "recipe": {
+  "name": "Blackberry Jam",
+  "notes": "My mom's jam is homespun simple and apparently off the ol' Certo box",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "blackberries",
+     "preparation": null
+    },
+    {
+     "quantity": "7 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pouch",
+     "ingredient_name": "pectin",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Preprep jars.  Crush blackberries: half the mixture can be sieved to remove the seeds.  Add berries, sugar and butter (to control foaming) and bring to a rolling boil over high heat, stirring constantly.   Stir in pectin and return to boil for 1 minute before removing from heat.Skim foam from the surface with a metal spoon and ladle immediately into prepared jars.  Water-process jars for 10 minutes.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Box Recipe"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Certo (http://www.kraftfoods.com/kf/recipes/certo-blackberry-jam-60821.aspx)",
+  "entry_app": "Veronica",
+  "cdate": "06/02/2009",
+  "user": "billp",
+  "safe_name": "Blackberry_Jam"
+ }
+}

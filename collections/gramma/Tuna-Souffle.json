@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Tuna Souffle",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "6-8",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "9 slices",
+     "ingredient_name": "while bread",
+     "preparation": "trim off crust and cube"
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "eggs",
+     "preparation": "beaten well"
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "tuna",
+     "preparation": "or shrimp, chicken, lobster, etc - 2 #1 cans lobster + 8 oz frozen shrimp)"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Let stand 3 hours or overnight.  Bake at 350F for 35-40 minutes.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "89-90",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

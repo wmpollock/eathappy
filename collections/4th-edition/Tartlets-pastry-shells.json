@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Tartlets: pastry shells",
+  "yield_count": "8",
+  "yield_measure": "dozen",
+  "notes": "Can't make tartlets without tartlet pastry shells, can you now?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup (2 sticks)",
+     "ingredient_name": "unsalted butter",
+     "preparation": "chilled and cut into cubes"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together flour, salt and sugar.  In food processor or with pastry knives cut in butter until mixture has a cornmeal-like consistency.  Whisk together egg and vanilla and mix until the dough forms a ball, then kneed until a smooth consistency develops.Arrange 4 dozen ungreased small (1 1/2\") tartlet tins on a cookie sheet.With 1 tsp portions, roll dough into small balls and press evenly into tins.  Bake tartlets for 12-15 minutes or until golden brown.  Repeat process with remaining dough.  Dough can be refrigerated up to 1 week or frozen up to a month.  Restore to room temperature before working.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Pie Crust",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Phyllis Duckworth",
+  "source_page": "169",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Tartlets_pastry_shells"
+ }
+}

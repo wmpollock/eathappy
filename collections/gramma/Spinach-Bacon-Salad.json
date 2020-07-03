@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Spinach & Bacon Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": "I had to double-double check that it was \"onion juice\" and not \"lemon juice\".  How one juices an onion especially in the pre-juicer days is a mystery!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "fresh spinach",
+     "preparation": null
+    },
+    {
+     "quantity": "2 heads",
+     "ingredient_name": "red leaf or iceberg lettuce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "bacon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "fresh onion juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "poppy seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "cottage cheese",
+     "preparation": "if desired"
+    }
+   ]
+  },
+  "preparation": "Break spinach & red lettuce into bite-sized pieces.  Fry bacon crisp, crumble and add to greens.  Dissolve sugar into vinegar.  Shake all dressing contents well before adding oil.  Add 1 1/2 cup large cottage cheese if desired.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0072-0073",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-02-10",
+  "user": "billp"
+ }
+}

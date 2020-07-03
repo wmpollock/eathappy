@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "name": "Painkillers",
+  "notes": "Dad Beck was famous for making this in large batches and for a long while it was considered something of a state secret.  I believe that these measures were largely relaxed by 2005 or so, written recipes being spotted \"in the open\" around the Bryan household a time or two with D.B. allowing them to be copied so long as the key ingredient is obscured.  It is reproduced here in the interests of its longevity.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 part",
+     "ingredient_name": "creme de coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1 part",
+     "ingredient_name": "oj",
+     "preparation": null
+    },
+    {
+     "quantity": "1 part",
+     "ingredient_name": "pineapple juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 parts",
+     "ingredient_name": "navy rum",
+     "preparation": "151 proof if available"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "nutmeg",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix liquid ingredients, pour over ice and serve with a dashing of nutmeg.  Drink until pain goes away.",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Drunk"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Dad Beck provided this recipe he obtained on a Carribean cruise.",
+  "entry_app": "Veronica",
+  "cdate": "08/03/2007",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Painkillers"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Corned Beef & Cabbage w/Apple Juice",
+  "safe_name": "Corned_Beef_Cabbage_w_Apple_Juice_",
+  "yield_count": "4-6",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": "3-10 hours per method",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "corned beef brisket",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 gallon",
+     "ingredient_name": "apple juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "prepared mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "peeled and sectioned"
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "small red potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2 medium",
+     "ingredient_name": "carrots",
+     "preparation": "peeled and sectioned"
+    },
+    {
+     "quantity": "1/2 head",
+     "ingredient_name": "cabbage",
+     "preparation": "sectioned"
+    }
+   ]
+  },
+  "preparation": "Prepare either a large coverable stockpot or slow cooker.  If cooking on a slow cooker combine all ingredients and cook on high for 4-5 hours or on low for 8-10 hours.  If cooking on the stovetop bring meat, apple juice, brown sugar and mustard to a boil and reduce to simmer for 40 minutes per pound of meat.  Add vegetables at last 30 minutes.Serve with veg and measure of cooking fluid.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef",
+    "Buttermilk"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Barsotti's apple juice; \"St. Patty's Day Recipe\"",
+  "entry_app": "Veronica",
+  "cdate": "06/29/2013",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Strawberries Fire + Ice",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Something of a data coup over many years:  the third side of this recipe was separated by a great many cards and the recipe had been left hanging without the table-side construction instructions.  The cards themselves were scanned ca. July 2004, initial entry was done in February 2016 and final entry was done September 2017.  The starship Enterprise would have performed nearly two and a half missions in this time.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "About 1 quart",
+     "ingredient_name": "vanilla ice cream",
+     "preparation": null
+    },
+    {
+     "quantity": "about 2 1/2 cups",
+     "ingredient_name": "strawberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "Cointreau",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sweetened whip cream",
+     "preparation": "optional"
+    }
+   ]
+  },
+  "preparation": "At least two hours in advance place eight scoops ice cream on baking sheet or in bowls that can withstand temperature change.  Freeze until solid. Wash, hull, half strawberries.In chafing dish or fondue pot mix sugar and cornstarch to blend.  Stir in orange juice a little at a time until smooth.  Place chafing dish directly over medium heat on range; stir constantly until mixture boils and thickens.  Set aside.For table presentation:  assemble on tray the chafing dish with cornstarch mixture, four serving dishes filled with two scoops of ice cream each, orange flavored liqueur in a small long-handled pan, the strawberries and whipped cream.At the table heat cornstarch mixture over direct flame until bubbles form, then add strawberries, stirring gently but thoroughly.heat the liqueur, ignite + pour into chafing dish.  Stir until flame dies down.  Spoon mixture over ice cream in dishes.  Serve immediately with whipped cream if desired.",
+  "source_author": "Marian",
+  "source_name": null,
+  "source_page": "0070-0071, 83",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-08",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Caliente Vermicelli",
+  "safe_name": "Caliente_Vermicelli",
+  "yield_count": null,
+  "yield_measure": "unknown",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "16 oz",
+     "ingredient_name": "Sunny Select vermicelli",
+     "preparation": null
+    },
+    {
+     "quantity": "2 T",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "pepperoni",
+     "preparation": "cut into thin strips"
+    },
+    {
+     "quantity": "10 oz",
+     "ingredient_name": "Canadian bacon",
+     "preparation": "cut into thin strips"
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "canned whole tomatoes",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 1/2 T",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 T",
+     "ingredient_name": "basil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 t",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 T",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 T",
+     "ingredient_name": "crushed red pepper flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 t",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 t",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "Parmesan cheese",
+     "preparation": "grated"
+    }
+   ]
+  },
+  "preparation": "Cook and drain pasta according to package directions. Meanwhile, heat oil in a large preheated skillet. Add pepperoni, Canadian bacon, and crushed tomatoes. Saute three minutes. Mix in garlic and spices; simmer on low for six minutes. Toss pasta with sauce. Sprinkle with Parmesan cheese and serve.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Sunny Select Vermicelli Package",
+  "entry_app": "Veronica",
+  "cdate": "01/18/2010",
+  "user": "hilaryp"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Bourbon Ball",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "vanilla wafers",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "confectioner's sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "nuts",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "light corn syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "cocoa",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "bourbon",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix & make rolls",
+  "primary_category": "Cookies",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0006",
+  "entry_app": "Veronica",
+  "cdate": "11/17/2005",
+  "safe_name": "Bourbon_Ball"
+ }
+}

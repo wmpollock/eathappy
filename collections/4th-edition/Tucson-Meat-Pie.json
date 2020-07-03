@@ -1,0 +1,104 @@
+{
+ "recipe": {
+  "name": "Tucson Meat Pie",
+  "safe_name": "Tucson_Meat_Pie",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "This recipe book gets crazy with the variations, such as adding a #2 can of corn kernels or black eyed peas or butter beans or 1 package lima beans or frozen carrots or...A paper-clipped entry.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lbs",
+     "ingredient_name": "hamburger",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large pepper",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "1 8oz can",
+     "ingredient_name": "tomato sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "sweet basil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Accent (MSG)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Biscuit Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "Bisquick",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "melted butter or margraine.",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Slowly saute hamburger in the olive oil until the meat is evenly light brown.  Add the onion and the gren pepper to the pan.  Add the tomato sauce and refill the sauce can with water and add to pan.  Add salt, pepper, chili powder, sweet basil and Accent.  Simmer 15 minutes.  Put mixture in a casserole with enough room to add biscuit topping.Biscuit topping: Mix the milk and the Bisquick and knead until smooth and shiny.  Cut regular shapes (disks, squares, etc) out of 2\" dough.  Lay in evenly over stew.Bake at 425F forn 30 minutes or until biscuits are golden",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition",
+  "source_page": "83",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "01/05/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "recipe": {
+  "name": "Ranch-Style Chunky Chili",
+  "yield_count": "6",
+  "yield_measure": "Servings",
+  "notes": "Our friend Lori asked us to game-sit her house while she was away during the early part of the 2004-2005  King's Season and in her absence we took to cooking up fine meals to keep up our strength during the game.  I  dusted off this recipe on a cold near-winter day and it proved pleasantly simple and wonderfully tasty.",
+  "prep_time": "00:30",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 3/4 lb",
+     "ingredient_name": "boneless beef chuck",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "cut into 1\" pieces"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": "16 oz can",
+     "ingredient_name": "stewed tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz can",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "12 oz can",
+     "ingredient_name": "beer",
+     "preparation": null
+    },
+    {
+     "quantity": "16 oz can",
+     "ingredient_name": "pinto beans",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "jalapeno pepper",
+     "preparation": "finely  chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cut boneless beef chuck pot roast into 1-inch pieces, cut each thence in half.  Brown beef (in 2 or 3 batches) in oil.  Remove beef, add onion, celery and garlic;  cook and stir 2 minutes.  Pour off drippings.  Reintroduce beef.  Sprinkle chili powder, cumin and salt over beef;  add bay leaf.  Ad tomatoes, tomato sauce and beer.  Bring to boil, reduce heat, cover tightly and slowly cook  1 to 1 1/2 hours or until beef is tender.  Add beans, jalapeno pepper and sugar and continue cooking uncovered 20 minutes.  Remove bay leaf.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Chili",
+    "Asst'd Comfort Food",
+    "Beef"
+   ]
+  },
+  "source_name": "\"Family Favorites\", The Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Elizabeth Arguello.",
+  "source_page": "17",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Ranch_Style_Chunky_Chili"
+ }
+}

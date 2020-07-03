@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "House Fresh-Grind Spice Mix",
+  "safe_name": "House_Fresh_Grind_Spice_Mix",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Based loosely on a grinder mixture we got while staying in Italy in 2004.  There it was labeled \"per bruscetta\" and contained mostly the same things.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "red pepper flakes",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "dried minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pepper corns",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "dried onion flakes",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients to roughly the same proportion save for the dill which should be used no more than a third.  I often go short on the fennel as well as it can be a jarring note at times.In a grinder this has a tendency to separate out with the larger corns of pepper and red pepper flakes hanging about. Its best to re-integrate the contents of a grinder when about a third is left.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Bill's Favorite"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

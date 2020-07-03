@@ -1,0 +1,109 @@
+{
+ "recipe": {
+  "name": "Shrimp Remoulade",
+  "safe_name": "Shrimp_Remoulade",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I'm sure it had some small measure to do with the fact that we were in the tourist quarter where things tended towards fried, but it seemed that remoulade was an ubuquitous condiment in New Orleans.  Its a more refined tartar sauce  While it seems more suited for fried food, it goes pretty nicely with the shrimp and seems to have legs.  Hilary dislikes taragon so we exchange it for thyme which can go in dry, as could the tarragon.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Remoulade",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "capers",
+     "preparation": "drained and minced"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sweet pickle relish",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh tarragon",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "minced shallot",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "tarragon vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dijon mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "40 count (~2 lbs)",
+     "ingredient_name": "large shrimp",
+     "preparation": "peeled and deveined"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "extra virgin olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Whisk the sauce ingredients and use immediately or cover and refrigerate for up to a day.  Skewer shrimp and oil, salt and pepper to taste.  Grill shrimp normally and serve with the sauce.  Webber's: \"ooo-wee\".",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Shrimp"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "232",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "02/23/2013",
+  "user": "billp"
+ }
+}

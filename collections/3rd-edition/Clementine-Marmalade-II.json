@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Clementine Marmalade II",
+  "safe_name": "Clementine_Marmalade_II",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Clementines are plentiful in Sacramento towards the end of winter.  Having an properly brought up English-Californian wife our household favors a good marmalade.   Given these two facts and this '03 era recipe lurking around, perhaps not a total success?  I do not recall.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "clementine peel",
+     "preparation": "cut 1\" long and simmered in 4 cups cold water for 30 minutes or until tender"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "boiling water",
+     "preparation": "in a vessel for other ingredients"
+    },
+    {
+     "quantity": "8-10",
+     "ingredient_name": "clementines",
+     "preparation": "juiced and pulped, pith removed, thence deseeded"
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine peel, fruit, and lemon juice and sugar in the boiling water.  Bring to a quick boil {RESEARCH} and cook until mixture is thick and reaches 220F, about 20 minutes.Remove from heat, skim foam and ladle into 1/2 pint jars.  Fill to 1/2\" from surface.  Seal in boiling water bath per standard instructions.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Fruit"
+   ]
+  },
+  "untried": "1",
+  "source_name": "HungryMonster Dot Com",
+  "source_page": "http://www.hungrymonster.com/recipe/recipe-search.cfm?Course_vch=Jams&ttl=1&Recipe_id_int=3277",
+  "entry_app": "Veronica",
+  "cdate": "06/09/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

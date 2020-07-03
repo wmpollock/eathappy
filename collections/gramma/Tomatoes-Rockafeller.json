@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Tomatoes Rockefeller",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Inspires Curiosity",
+    "Tomatoes"
+   ]
+  },
+  "yield_count": "6",
+  "yield_measure": "serving",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "large tomatoes",
+     "preparation": "cut in half"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "minced parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "butter or margarine",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "chopped fresh spinach",
+     "preparation": "drained (about 1/12 cups fresh spinach)"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "seasoned bread crumbs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Place tomatoes cut-side up in a lightly oiled baking dish.  Combine onion, parsley, butter, spinach, salt, pepper and paprika; spread evenly over tomatoes.  Top with crumbs.  Bake at 375F for 15 minutes.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "89",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-11",
+  "user": "billp"
+ }
+}

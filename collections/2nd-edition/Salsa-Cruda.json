@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Salsa_Cruda",
+  "primary_category": "Appetizers",
+  "preparation": "Combine all ingredients in a small bowl.  Taste for seasoning and correct if necessary.  Let stand at room temperature about 30 minutes to develop flavors.  Serve the same day, or tightly cover with plastic wrap and refrigerate for no more than 2 days.",
+  "yield_count": "3",
+  "yield_measure": "Cups",
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Salsa Cruda",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Mexican",
+    "Tomatoes"
+   ]
+  },
+  "source_date": null,
+  "source_name": "California Culinary Academy's \"Regional  American Classics\"",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "fresh ripe tomatoes",
+     "quantity": "1 lb",
+     "preparation": "seeded and diced"
+    },
+    {
+     "ingredient_name": "finely minced sweet red onion",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh jalapenos or serranos",
+     "quantity": "4",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "minced cilantro",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "small clove garlic",
+     "quantity": "1",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "salt and pepper",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

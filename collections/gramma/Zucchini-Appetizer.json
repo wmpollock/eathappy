@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Zucchini Appetizer",
+  "safe_name": null,
+  "primary_category": "Appetizers",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "4",
+  "yield_measure": "dozen",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "thinly sliced zucchini",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "Bisquick",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "thinly sliced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "parsley",
+     "preparation": "snipped"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "marjoram or oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": "slightly beaten"
+    }
+   ]
+  },
+  "preparation": "Combine all ingredients.  Spread in greased 13x9x2 inch pan.  Bake 350F for about 25 minutes or until golden brown.  Cut into 2x1 inch pieces.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "99-100",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

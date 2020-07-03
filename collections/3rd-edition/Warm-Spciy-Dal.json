@@ -1,0 +1,96 @@
+{
+ "recipe": {
+  "name": "Warm Spciy Dal",
+  "notes": "\"Warm Spicy\" is a gringo flag.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "split yelow peas",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "onions",
+     "preparation": "chopped and divided"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "stock or water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "black mustard seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1\" cube",
+     "ingredient_name": "ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small green bell pepper",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground tumeric",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "gaam masala",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "tomatoes",
+     "preparation": "peeled and chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh cilantro or parsley",
+     "preparation": "as garnish"
+    }
+   ]
+  },
+  "preparation": "Heat peas, half the onions and the bay leaf in the stock.  Bring to a boil and down to simmer 25 minutes.  Season lightly with salt and pepper towards the last few minutes.In a separate, largish pan, fry the mustard seeds in the melted butter for 30 seconds or until the kernels begin to pop.  Add reserved onion, and measures of garlic, ginger and bell pepper.Saute for 5 minutes or until vegetables have softened before adding remainig spices.  Add the split peas and tomatos and an additional water that may be needed before simering an aditional 10 minutes.Check for seasoning, salt and pepper to taste and serve with optional garnish.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Indian (BAWM)",
+    "**New06",
+    "Vegetables"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "363",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Warm_Spciy_Dal"
+ }
+}

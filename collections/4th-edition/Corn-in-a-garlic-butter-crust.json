@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Corn in a garlic butter crust",
+  "notes": "In the copyright-free future I'd be able to share this wonderful photograph with you as it is truly a gem:  the corn lies on its own cermic dish whose form follows its youthful self's.Now, older, wiser and a good bit more oily, Madame Corni s presented in her naked, bread crumbed form, her crumbing and flesh slightly seared at points to the point of blackness.--It looks handsomer than most fish you might prepare the same way and the cookbook does suggest using the butter-oil-garlic-pepper spread on french loaf which you'd bake in a moderate 300-350F oven for 30 minutes.  They also suggest the same mixture can be used as a panfried garlic crouton base as well.Research: BUT WHAT ABOUT THE FISH?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 ears",
+     "ingredient_name": "corn",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": "to prepare water"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "peeled and crushed"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Create a slightly salty bath for the corn and boil the corn until tender. In a shallow dish melt the butter and mix with oil, garlic adn black pepper.  In a similar dish, mix the bread crumbs and parsley.  Dredge the corn in the butter and then the bread crumbs.  Broil under high heat until the bread crumbs are golden.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Vegetables",
+    "Fish"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "322",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Corn_in_a_garlic_butter_crust"
+ }
+}

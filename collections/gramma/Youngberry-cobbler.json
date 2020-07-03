@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Youngberry cobbler",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "In case you, like me, weren't familiar with it, the youngberry is a hybrid of blackberries, raspberries and dewberries which are all similar fruit.  Its apparently got a short shelf life and not grown much here in the US but is more common in Australia, New Zealand and South Africa.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "water + juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Batter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": "heaping"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "baking powder",
+     "preparation": "level"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Syrup: boil syrup for 5 minutes and use hot.Batter:  Mix as for cake.  Spread in buttered pan about 9x13\"  Keep layer thin.Add berries.  Pour hot syrup over top of berries.  Bake in moderate oven 375F about 45 minutes.  Serve warm or cold with coconut ice cream.Batter rises and comes up through berries + syrup.May use cherries, apples, peaches or apricots.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "95-96",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

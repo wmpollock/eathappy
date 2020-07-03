@@ -1,0 +1,111 @@
+{
+ "recipe": {
+  "name": "BBQ Spareribs with Apple Cider Mop",
+  "safe_name": "BBQ_Spareribs_with_Apple_Cider_Mop",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": "2.5-3 hours",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Mop",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "apple cider",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "dijon mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "Worchestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Tabasco",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Meat",
+     "preparation": null
+    },
+    {
+     "quantity": "2 racks",
+     "ingredient_name": "pork spareribs",
+     "preparation": "3-4 lbs each"
+    }
+   ]
+  },
+  "preparation": "Remove ribs from the refrigerator and mix together rub ingredients. Trim the center flap, ribless end flaps and the tips, separated by a vein of fat from the rib tops.  This meat can be turned into sausage along with any trimmings.  Remove any prominent membrane.  Wait for meat to have 20-30 minutes at room temperature before covering with the rub.Grill over indirect low heat (300F) for one hour.  In the meantime, assemble the rub.   Whisk ingredients together in a medium saucepan and bring to a boil.  When ribs have been cooking for an hour, begin basting every 30 minutes until the meat has contracted a half inch from the rib bone and the meat is finger-tender, 2.5-3 hours total.Brush ribs with remaining mop, tightly cover in foil and allow to rest for 30 minutes before service.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Ribs",
+    "Bill's Favorite",
+    "Pork",
+    "BBQ"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "162",
+  "entry_app": "Veronica",
+  "cdate": "06/19/2010",
+  "mdate": "02/04/2013",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Mocha Toffee Ice Cream",
+  "yield_count": "10",
+  "yield_measure": "1/2 cup servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whole milk",
+     "preparation": "well chilled"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "insttant espresso",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "unsweetened cocoa powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "heavy cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "toffee bits",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mini chocolate morsels",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Whisk together milk, granulated sugar, espresso powder and cocoa until dissolved.  Stir in the heavy cream and vanilla.  Cover and refrigerate if not using immediately.Pour mix into ice cream maker and let mix 25-30 minutes until thickened.  Add toffee and mini cohcolate during the last five minutes of mixing.  Ice cream can be removed from mixer to an airtight container for two hours to ripen.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Cuisinart Frozen Yogurt Maker guide(?)",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Mocha_Toffee_Ice_Cream"
+ }
+}

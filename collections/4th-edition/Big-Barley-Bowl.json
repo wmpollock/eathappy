@@ -1,0 +1,104 @@
+{
+ "recipe": {
+  "name": "Big Barley Bowl",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "red onion",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "fennel bulb",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "carrots",
+     "preparation": "cut into sticks"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "parsnip",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "sunflower oil or substitute",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "pearl barley",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "sliced green beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 14oz can",
+     "ingredient_name": "pinto beans",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped parsley",
+     "preparation": "as garnish"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Croutons",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium-size baguette",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "olive oil",
+     "preparation": "for brushing"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "halved"
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large casserole or deep pot gently saute the onion, fennel, carrots and parsnip in the oil for ten minutes.  Stir barley and the stock and bring to a boil.  Add the thyme, parsley and salt and pepper to taste and reduce to simmer for 40 minutesAdd the green beans and drained pinto beans and cook covered for an additional 20 minutes. Brush the bauette slices with olive oil and broil before rubbing with garlic halves.  Cover slices with Parmesan cheese and heat to melt.Serve barley into bowls.  Sprinkle wih parsley and serve with croutons alongside.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Big_Barley_Bowl"
+ }
+}

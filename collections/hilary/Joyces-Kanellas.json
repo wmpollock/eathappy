@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Joyce's Kanellas",
+  "safe_name": "Joyces_Kanellas",
+  "yield_count": "90",
+  "yield_measure": "cookies",
+  "notes": null,
+  "prep_time": "2 hrs",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "dark brown sugar",
+     "preparation": "firmly packed"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "large eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "4 T",
+     "ingredient_name": "whipping cream or sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "maple syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "2 t",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "flour",
+     "preparation": "(about)"
+    },
+    {
+     "quantity": "2 t",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 t",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 t",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "hazelnuts",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "1. Preheat oven to 350 degrees. In a large bowl, cream together butter and sugars. Beat in eggs, cream, maple syrup, and vanilla.2. In a medium bowl, sift together flour, baking powder, cinnamon, and salt. In three batches, beat into wet ingredients. Stir in nuts with a wooden spoon.3. Roll the dough into 1 inch balls. Then roll out into fingers roughly the size of your pinkie, and lay out on ungreased baking sheets in the shape of a crescent. (If dough starts to get sticky, chill it for a few minutes; it will be easier to work with.)4. Bake cookies until they're medium brown underneath and on edges, 20 to 25 minutes, switching position of pans halfway through baking. Let cool on racks.",
+  "primary_category": "Cookies",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "76",
+  "source_date": "December 2009",
+  "entry_app": "Veronica",
+  "cdate": "01/18/2010",
+  "user": "hilaryp"
+ }
+}

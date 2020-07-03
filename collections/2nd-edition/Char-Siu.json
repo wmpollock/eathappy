@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "source_page": "15",
+  "safe_name": "Char_Siu",
+  "primary_category": "Appetizers",
+  "preparation": "Marinate tenderloin in whiskey, soy sauce, honey and garlic.  Bake at 300F for 1 1/2 hours.  Serve sliced thin.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Char Siu",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1958",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "pork tenderloin",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whiskey",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "honey",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": "crushed"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

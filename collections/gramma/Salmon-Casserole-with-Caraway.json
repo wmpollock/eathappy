@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Salmon Casserole with Caraway",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "6",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 up",
+     "ingredient_name": "nonfat dry milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can (16 oz)",
+     "ingredient_name": "salmon",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "parsley flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "onion",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "celery including leaves",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "caraway seed",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "shredded cheddar cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together eggs and dry milk until smooth.  Stir in salt, pepper, milk.  Add salmon, parsley, onion, celery and leaves + caraway seed and mix thoroughly.  Turn into 1 1/2 quart greased casserole.  Bake uncovered at 350F or until set.",
+  "source_author": "Florence Boyd",
+  "source_name": null,
+  "source_page": "79-80",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-03",
+  "mdate": null,
+  "user": "billp"
+ }
+}

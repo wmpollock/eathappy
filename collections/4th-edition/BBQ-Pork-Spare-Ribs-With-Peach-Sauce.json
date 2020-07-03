@@ -1,0 +1,108 @@
+{
+ "recipe": {
+  "name": "BBQ Pork Spare Ribs With Peach Sauce",
+  "safe_name": "BBQ_Pork_Spare_Ribs_With_Peach_Sauce",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "notes": "Geoff described this as a \"Texas Red Sauce\" - whadasheknow? At one time it reminded me of a less tangy rendition of Stubb's Moppin' Sauce. The sauce liberally covered 5lbs of meat.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "four lbs",
+     "ingredient_name": "pork spare ribs",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "whole cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": "10 3/4 oz",
+     "ingredient_name": "tomato soup",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "peaches (about 4 baseball-sized)",
+     "preparation": "peeled & chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "light corn syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "firmly packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "fresh ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Sauce: In 3 quart saucepan, mix all ingredients except ribs, onion and cloves.  Stir constantly while bringing sauce to boil over medium heat.  Reduce heat and simmer uncovered for 20 minutes.  Stir occasionally.  Cool sauce and puree.Ribs: Stud onion with cloves and place in 1 inch water with ribs and simmer for 30 minutes.  Drain ribs, brush generously with sauce and grill.** I remember there being some secret shortcut about only half-grilling the ribs and then doing the rest in a conventional oven after the crust had set, but some would properly consider this cheating.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Spareribs",
+    "Peaches",
+    "Pork",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "06/19/2010",
+  "user": "billp"
+ }
+}

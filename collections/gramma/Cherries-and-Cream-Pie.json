@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Cherries and Cream Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 3oz pkg",
+     "ingredient_name": "cherry jello",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pint",
+     "ingredient_name": "vanilla ice-cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 22oz can",
+     "ingredient_name": "cherry pie filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 -10f",
+     "ingredient_name": "Graham cracker crust",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipped desert topping",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine gelatin + boiling water.  Add ice cream & stir until melted.Set aside 5-6 cherries.  Blend remainder into ice cream mixture.  Pout into pie crust.  Chill.  Top with whipped topping and cherries.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0016/7H",
+  "entry_app": "Veronica",
+  "cdate": "11/19/2005",
+  "safe_name": "Cherries_and_Cream_Pie"
+ }
+}

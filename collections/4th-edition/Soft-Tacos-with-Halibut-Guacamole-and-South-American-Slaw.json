@@ -1,0 +1,145 @@
+{
+ "recipe": {
+  "name": "Soft Tacos with Halibut, Guacamole and South American Slaw",
+  "safe_name": "Soft_Tacos_with_Halibut_Guacamole_and_South_American_Slaw",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Truly a trio of fine recipes here.  You could probably bring your own guac to the party without offending anyone.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Guacamole",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large ripe avacados",
+     "preparation": "mashed"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "finely chopped fresh cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "fresh lime juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**South American Slaw",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "jicama",
+     "preparation": "peeled and coarsely shredded"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium carrot",
+     "preparation": "corsely shredded"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small red bell pepper",
+     "preparation": "stemed and seeded, cross-cut thinly."
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small red onion",
+     "preparation": "cut half and then thinly crosswise"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "extra virgin olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "fresh lime juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "geshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "8oz-ish halibut or cod fillets",
+     "preparation": "1/4\" thick"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "extra virgin olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Using a fork, mash together guacamole in a medium bowl.  Combine slaw in a medium bowl.Brush the fish with oil and dust with chile power, kosher salt and pepper.  Grill over direct high heat until begins to flake: 6 tgo 8 minutes.  Turn once.Heat tortillas over direct high for 20 seconds, flip and toast for an aditional 20 seconds.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "236",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "02/04/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "name": "Hassleback Potatoes",
+  "safe_name": "Hassleback_Potatoes",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The \"Cook's tip\" notes the importance of oil to the overal flavor of the dish.  It additionally suggests attacking the dish with additional oils: sesame, walnut or hazelnut.  This editor thought sesame -seeds- sounded kind of nice.In context, of course.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "olive, peanut or sunflower oil",
+     "preparation": "to coat pan"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "medium potatoes",
+     "preparation": "peeled and halved lengthwise"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "bread crumbs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Prepare a roasting pan by firing it off with enough oil to cover the bottom in an oven set to 400F.  Boil the prepared potatoes for five minutes.  Allow to cool and slit potato four times lengthwise along their rounded slide. Place potatoes in the hot, dangerous roasting pan flat side down and spoon hot oil over the top.  Attack with salt and pepper and return to oven for 20 minutes.Vary carefully: pry the potatoes (hot oil pan risk) open slightly and lightly cover with bread crumbs before allowing to cook for an additional 15 min or until brown.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Potatoes"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "373",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

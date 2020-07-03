@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Dilly Cheese Bread",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "Bisquick",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "grated sharp cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "corn oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dill weed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine baking mix, cheese and sugar.  Combine remaining ingredients, add to cheese mixture, stirring until blended.  Beat slightly to remove lumps.  Turn into well-greased 9x5x3 pan.  Bake at 350 degrees for 45 to 50 minutes.",
+  "primary_category": "Bread",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Nell Boylin",
+  "source_page": "34",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Dilly_Cheese_Bread"
+ }
+}

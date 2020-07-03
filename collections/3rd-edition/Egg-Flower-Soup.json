@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Egg Flower Soup",
+  "notes": "Egg Flour Soup, also known as \"Egg Drop Soup\"  is one of my favorite Chinese Food treats.  Well worth making.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "stock",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "light soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "dry sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "scallions",
+     "preparation": "sliced obliquely"
+    },
+    {
+     "quantity": "small piece",
+     "ingredient_name": "fresh ginger",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "lettuce or cabbage leaves",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "seasame oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    }
+   ]
+  },
+  "preparation": "Mix together stock, soy sauce, dry sherry , 3 scallions, ginger, lettuce leaves and sesame oil and bring to a boil and remain for two minutes.Gently pour the eggs into the broth in a thin, steady stream into the center of the pot.  Let sit for three seconds and quickly stir the soup.  Season to taste and allow eggs to cook.  Serve immediately.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Chinese",
+    "Egg"
+   ]
+  },
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 145.",
+  "entry_app": "Veronica",
+  "cdate": "08/03/2007",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Egg_Flower_Soup"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "name": "LaScala Scampi",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "notes": "I imagine \"La Scala\" as being That Place on the Lake Almanor Peninsula back in 1978.I'll say that this recipe has a distinct \"almost healthy except for that huge gob of olive oil bit.\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "24",
+     "ingredient_name": "large prawns or shrimp",
+     "preparation": "peeled, de-veined and split lengthwise"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large shallots",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "basil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "oregano",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Arrange butterflied prawns in baking pan.  Season to taste with salt and pepper.  Combine oil, wine, lemon juice, chicken stock, shallots, basil and oregano and pour over shrimp.  Cook under broiler for 10 minutes or until golden.**WARNING:  COMING OUT OF THE BROILER, THE COMBINATION OF SLOSHY FLUIDS WILL BE EXCEPTIONALLY HOT AND SHOULD BE EXPECTED A BURN RISK**",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": "Shrimp"
+  },
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Sandra and John Davey",
+  "source_page": "117",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "LaScala_Scampi"
+ }
+}

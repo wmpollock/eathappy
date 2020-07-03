@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "notes": "A tasty from my modern version of \"The Joy Of Cooking\".  The rub works pretty well on pork tenderloin  as well.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "3/4 Tsp"
+    },
+    {
+     "ingredient_name": "Dry Mustard",
+     "quantity": "3/4 Tsp"
+    },
+    {
+     "ingredient_name": "Fennel Seeds",
+     "unknown_1": "02018",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Ground Coriander",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Ground Cinnamon",
+     "unknown_1": "02010",
+     "quantity": "1/4 Tsp"
+    },
+    {
+     "ingredient_name": "Ground Red Pepper",
+     "unknown_1": "02031",
+     "quantity": "1/4 Tsp"
+    },
+    {
+     "ingredient_name": "Boneless And Skinless Chicken Breasts",
+     "quantity": "4"
+    },
+    {
+     "ingredient_name": "Olive Oil",
+     "unknown_1": "04053",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Minced Cilantro",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Fresh Lemon Juice",
+     "quantity": "3 Tbl"
+    },
+    {
+     "ingredient_name": "Garlic",
+     "quantity": "1 Small Clove",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "Dash"
+    }
+   ]
+  },
+  "name": "Spice-Rubbed Chicken",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "BBQ",
+    "BBQ"
+   ]
+  },
+  "preparation": "Mix together salt, mustard fennel, coriander, cinnamon and red pepper; crushing in the fennel seeds in a mortar & pestle or against the side of the bowl with a strong metal spoon. Rinse and pat dry chicken breasts and evenly coat all sides with spice mixture.Grill chicken and prepare sauce:  mix olive oil, cilantro, lemon juice, garlic and a dash of salt in a small bowl.  Drizzle oil mixture over chicken just prior to serving.Olive oil mix may be made ahead of time and chilled -- the difference in temperatures between the oil and the chicken is rather pleasant."
+ }
+}

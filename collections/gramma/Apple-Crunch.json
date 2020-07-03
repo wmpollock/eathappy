@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Apple Crunch",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6",
+     "ingredient_name": "apples",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": "additional"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Pare, core & slice apples.  Combine 1/2 cup sugar, cinnamon, cloves and lemon juice.  Mix with apples and turn into 8\" square buttered casserole.Crumb together 1/2 cup sugar, flour, salt and butter.  Mix in nuts.Top apples with crumbly mixture.  Bake at 375F about 45 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Apples"
+  },
+  "untried": "1",
+  "source_page": "3-4",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "safe_name": "Apple_Crunch"
+ }
+}

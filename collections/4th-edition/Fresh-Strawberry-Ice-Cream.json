@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Fresh Strawberry Ice Cream",
+  "notes": "Recipe notes peach ice cream could be obtained by substituting an equal measure of peaches.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "ripe strawberries",
+     "preparation": "stemmed and sliced"
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "feshly squeezed lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "whole milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 2/4 cups",
+     "ingredient_name": "heavy cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "pure vanilla extract",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine the strawberries with the lemon juice and 1/2 cup of sugar in a small bowl.  Stir gently and alow the strawberries to soak for two hours.  Strain the beries, reserving the huice.  Mash or puree half the berries.Use a mixer on low speed to combine the mlilka nd remaning 1 cup of sugar until the sugar is dissolved.  Stir in the heavy cream, reserved strawbery juice, mashed strawberries and vanilla.Add the mixture to the machine and let mix until thickened, 20 to 25 minutes. Five minutes before the mixing is completed ad the reserved sliced stawberries and let mix in.  Serve soft or carton up and let ripen in freezer for two hours.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Ice Cream",
+    "**New06",
+    "Peaches",
+    "Strawberries",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Fresh_Strawberry_Ice_Cream"
+ }
+}

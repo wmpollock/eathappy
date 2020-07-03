@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Sausage Seasoning",
+  "safe_name": "Sausage_Seasoning",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I'm a fan of fresh turkey sausage patties but finding ones that have any flavor in the store is a non-starter.  After several months of tinkering around trying to concoct my own recipe I cracked open Joy and found their seasoning to be mighty tasty with a little tinkering.  The trimmings from a normally butchered set of spareribs makes some truly excellent ground pork suitable for grilling with this recipe",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lbs",
+     "ingredient_name": "ground pork or turkey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "coarsly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "dried sage",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried marjoram",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dried savory or thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch or two",
+     "ingredient_name": "ground red pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Place ground meat in a large bowl.  Combine dry ingredients and integrate into meat, tossing with a fork to ensure even coverage before forming patties.",
+  "primary_category": "Breakfast",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Pork",
+    "Turkey",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "Joy of Cooking",
+  "source_page": "727",
+  "source_date": "1997",
+  "entry_app": "Veronica",
+  "cdate": "10/31/2009",
+  "mdate": "10/28/2010",
+  "user": "billp"
+ }
+}

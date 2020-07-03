@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Chicken_Tikka_Pita_Sandwich",
+  "primary_category": "Sandwiches",
+  "preparation": "Marinate chicken in lemon juice and garlic for 15 minutes.   Add the tandoori paste and let marinate for as long as possible:  30 minutes to overnight.Rub the chicken with vegetable oil, then cook:  broil, grill, or brown in a nonstick frying pan.  When the chicken is just cooked through, about 5 or 6 minutes per side (be careful not to overcook), transfer to a plate and let cool.Cut the chicken into bite-sized pieces.  Set aside.Mix together mayonnaise and yogurt then stir in the mint.   Set aside.Brush the pitas on one side with water then heat either in a  toaster or in a heavy nonstick frying pan.  They should puff up, making it easy to split them to form a pocket.Into each pocket place a few pieces of chicken, a spoonful of sauce, a sprinkling of cucumber, a little lettuce, more chicken and so on, until the ingredients are used up and/or the pitas can't hold any more. Garnish with onion, tomato and cilantro/mint then serve.",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Chicken Tikka Pita Sandwich",
+  "source_date": "23 April 2003",
+  "source_name": "San Francisco Chronicle",
+  "notes": "I do like the idea of chunk chicken salad sandwiches but the last attempt I tried was a disastrous conversion of  an English (as in UK) recipe that (a) didn't taste anything like the original and (b) was rather horrid.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "chicken breasts",
+     "quantity": "2",
+     "preparation": "\"plump, boneless and skinless\""
+    },
+    {
+     "ingredient_name": "garlic cloves",
+     "quantity": "2",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "lemon or lime",
+     "quantity": "1/2",
+     "preparation": "juiced"
+    },
+    {
+     "ingredient_name": "tandoori paste",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vegetable oil",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mayo",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "unflavored yogurt",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dried mint",
+     "quantity": "1 tsp",
+     "preparation": "crushed"
+    },
+    {
+     "ingredient_name": "lettuce leaves",
+     "quantity": "1 - 2 per sandwich",
+     "preparation": "torn into pieces"
+    },
+    {
+     "ingredient_name": "cucumber",
+     "quantity": "1/2",
+     "preparation": "seeded and diced"
+    },
+    {
+     "ingredient_name": "pitas",
+     "quantity": "4",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

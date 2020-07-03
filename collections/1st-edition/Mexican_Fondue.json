@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Mexican Fondue",
+  "preparation": "Combine cheeses with flour and chili powder in a large bowl until well blended.Halve, seed and cut peppers into thin strips; wash and stem tomatoes; halve, pit and peel avocados; cut into 1-inch cubes.Cut bread into 1-inch cubes, leaving some crust on each piece.When ready to serve, rub the garlic along the inside of a ceramic fondue pot or flameproof ceramic baking dish; add beer and heat slowly, just until beer stops foaming and the mixture begins to bubble.Gradually add cheese mixture a handful at a time, stirring constantly, until cheese is melted and smooth;   add hot green peppers.  Place pan over a candle warmer and serve on a tray with groups of pepper strips, avocado pieces; bread chunks, cherry tomatoes and corn chips.",
+  "main_ingredient": "Lots Of Cheese",
+  "yield_count": "8",
+  "notes": "**UNTRIED** Another 70s favorite.  My mom always used Miller High Life in the recipe and was generally the only time  she'd ever be seen drinking any.  This recipe calls for cherry tomatoes and while good and fun, I was never  able to keep the cheese product on the shiny  tomato surface very long.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Cheddar Cheese, Shredded (4 Cups)",
+     "quantity": "Sp"
+    },
+    {
+     "ingredient_name": "Monterey Jack, Shredded",
+     "quantity": "1 Lb"
+    },
+    {
+     "ingredient_name": "All-Purpose Flour",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Chili Powder",
+     "quantity": "2 Tsp"
+    },
+    {
+     "ingredient_name": "Large Green Pepper",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Large Red Pepper",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Cherry Tomatoes",
+     "quantity": "1 Pint"
+    },
+    {
+     "ingredient_name": "Large Avocados",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "French Or Sourdough Bread",
+     "quantity": "1 Loaf"
+    },
+    {
+     "ingredient_name": "Beer",
+     "quantity": "1 Can"
+    },
+    {
+     "ingredient_name": "Hot Green Chili Peppers",
+     "quantity": "1 Can (4 Oz)"
+    },
+    {
+     "ingredient_name": "Corn Chips",
+     "quantity": "1 Bag"
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Mexican",
+    "Untried"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

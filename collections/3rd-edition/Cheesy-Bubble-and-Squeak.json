@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Cheesy Bubble and Squeak",
+  "notes": "Bubble and Squeak is very English and the sort of thing Hilary occasionally pines for.  I was introduced to it first alongside number of other rather ghastly \"picnic\" type dishes by the cooking programme \"Two Fat Ladies\".  This one looked rather edible, compared to how pork pies are made.Sadly I'd seen that episode and never had a pork pie to enjoy the footage with:  yes, children, despite this we still eat pork pies.  Instead it is with some guilt that I enjoy the foul litle buggers.These, however, can be enjoyed nearly guilt free.  Those cows wanted you to have their milk -- it gives them purpose.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "mashed potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cooked cabbage or kale",
+     "preparation": "shedded"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "flour",
+     "preparation": "for dredging"
+    }
+   ]
+  },
+  "preparation": "Mix the potatoes with the cabbage or cale, cheese, nutmeg and salt and pepper to taste and form into eight patties. Heat 1/2\" of oil in a large frying pan. Dredge the patties in the flour before frying each side for 3 minutes or until crisp and golden brown.  Dry on paper towls. Serve hot and crisp.",
+  "primary_category": "Vegetables",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Potatoes"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "208",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Cheesy_Bubble_and_Squeak"
+ }
+}

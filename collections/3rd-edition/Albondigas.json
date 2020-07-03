@@ -1,0 +1,124 @@
+{
+ "recipe": {
+  "name": "Albondigas",
+  "safe_name": "Albondigas",
+  "yield_count": "10",
+  "yield_measure": "Servings",
+  "notes": "Sr. Arturo used to run this cosy restaurant in Walnut Creek where they it always seemed had a pot on the back burner.   Some history on this recipe:  before I worked up my own database to do the task I kept my recipes in AccuChef.  This treatment is pretty close to the original there with some revisions based on a trip with Hoban, Gross & Archer to Tres Hermanas 12/2004)",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**BROTH",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2",
+     "ingredient_name": "small onions",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "clove garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "tomato sauce (14 oz)",
+     "preparation": null
+    },
+    {
+     "quantity": "3 qt",
+     "ingredient_name": "beef stock",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "small zuchini",
+     "preparation": "halved and sliced 1/4\" thick"
+    },
+    {
+     "quantity": "1 sprig",
+     "ingredient_name": "mint or cilantro (optional)",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "small carrots (optional)",
+     "preparation": "halved and slized 1/4\" thick."
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**MEATBALLS",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground pork",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "raw rice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "oregano",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "small onion",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "fresh cilantro",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  While the stock is heating, form the meatballs: mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.Add meatballs, cilantro and optional zuchini to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.Ten minutes before serving add the sprig of mint to the broth and remove prior to serving.",
+  "primary_category": "Soup",
+  "secondary_categories": {
+   "secondary_category": [
+    "Cursed",
+    "Bill's Favorite",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "source_name": "Sivart Software's ACCUCHEF, v. 6.56, \"MEX\" database",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

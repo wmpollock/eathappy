@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Crunchy Turkey Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "turkey",
+     "preparation": "diced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "green onions",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "green pepper",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "ripe olives",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pimento",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "canned crisp Chinese noodles",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "2 Tbsp of noodles over top of each serving of 1 cup of salad.  Garnish with 1/4 deviled egg on each end of salad.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "93-94",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

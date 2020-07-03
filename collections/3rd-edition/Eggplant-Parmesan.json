@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Eggplant Parmesan",
+  "notes": "I distrust the eggplant as an ingredient because I never feel that I know what I'm doing with it.  Its large, not often used, not entirely easy to work with and just plain weird looking.  Despite this, the vegetable makes a wonderfully tasty dish in this oldschool-simple recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "large eggplant",
+     "preparation": "sliced into 1/4\" pieces"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "jack cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "tomato sauce",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat into eggs salt, oregano and pepper.  Dip eggplant slices into egg mixture and dredge in flour.  Heat skillet with 3 Tbl oil to medium-high heat.  Fry both sides of eggplant until brown, placing cooked eggplant in a baking dish.  Alternate layers of eggplant with layers of jack cheese and tomato sauce.Back at 350F for 35 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Vegetables",
+    "Vegetarian",
+    "Italian"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Faye Iacchei",
+  "source_page": "15",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Eggplant_Parmesan"
+ }
+}

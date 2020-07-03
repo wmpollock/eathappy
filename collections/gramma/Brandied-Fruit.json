@@ -1,0 +1,33 @@
+{
+ "recipe": {
+  "name": "Brandied Fruit",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 3oz can",
+     "ingredient_name": "pineapple chunks",
+     "preparation": null
+    },
+    {
+     "quantity": "1 jar",
+     "ingredient_name": "cherries",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Drain fruit -- add sugar -- stir every day for 3 weeks.  Do not cover tightly as air is needed to help ferment.  Add Brandy later -- 1/4 cup or more.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Betty Lillley",
+  "source_page": "0008-0009",
+  "entry_app": "Veronica",
+  "cdate": "11/18/2005",
+  "safe_name": "Brandied_Fruit"
+ }
+}

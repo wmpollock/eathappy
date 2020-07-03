@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Man-Style BBQ Sauce",
+  "safe_name": "Man_Style_BBQ_Sauce",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I'd hope \"Man-Style\" meant, like, macho.  I think instead its a pejorative along the lines of \"basic,\" \"bachelor,\" or \"student\"; suggesting one is somehow getting by with what's onhand rather than invoking True, Refined Cooking.Whatever.  Its a handy recipe that can be created with common ingredients.  Surprisingly better than one would imagine.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "A1 sauce (steak sauce)",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "Tabasco",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients and refrigerate prior to use.",
+  "primary_category": "Other",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bachelor Food",
+    "BBQ"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Kiyome Hirayama",
+  "source_page": "31",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "03/06/2013",
+  "user": "billp"
+ }
+}

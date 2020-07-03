@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "name": "Shrimp Noodle Crisp",
+  "safe_name": "Shrimp_Noodle_Crisp",
+  "yield_count": "5",
+  "yield_measure": "generous servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "thin egg noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb or more",
+     "ingredient_name": "shrimp",
+     "preparation": "cooked"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "green pepper",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "celery",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "potato chips",
+     "preparation": "crushed"
+    }
+   ]
+  },
+  "preparation": "Cook noodles in 3 quarts boiling water, drain and rinse.   Mix all ingredients in 1 1/2 quart casserole and top with crushed potato chips.  Bake at 350F for 30 minutes",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": "Shrimp"
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Mollie Yoneyama",
+  "source_page": "28",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

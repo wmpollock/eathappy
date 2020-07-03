@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "name": "Barbecued Spareribs, Eastern",
+  "safe_name": "Barbecued_Spareribs_Eastern",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "These ribs were rated better than the Peach Sauce ribs by the Bryans and the Dawes who'd had a little of each.  I found this recipe personally a bit on the salty side but otherwise serviceably tasty.Working on a hunch I tried this as a jerky marinade and it worked great! The flavor lasted a goodly while in the fridge, usually the signature problem of homemade jerky.  Next time I'm going to double-dip 'em and see how that goes.",
+  "prep_time": "1:20",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 slab (2 1/2-3 lbs)",
+     "ingredient_name": "ribs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "rice wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "hoisin sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 slices",
+     "ingredient_name": "candied ginger",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "ajinomoto/accent",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Remove inner lining of ribs, wash, and place in a pan deep enough to cover ribs with water, vinegar and salt to taste.  Bring to a boil and reduce to simmer for 20 minutes or until ribs are tender.  Drain ribs and marinate in remaining ingredients for 1 hour.  Cook over BBQ or under a broiler until glazed.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Spareribs",
+    "Chinese",
+    "Pork"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Sadaka Nagao",
+  "source_page": "38",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "06/19/2010",
+  "user": "billp"
+ }
+}

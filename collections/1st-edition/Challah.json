@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "notes": "A festive, showy bread traditionally baked on Jewish Sabbath.  Its a big number with a rather flaky, airy  inside.  Doesn't age particularly well but easy enough to prepare that its worth it to just plow through it  all.Originally from the Joy Of Cooking, 1997 Edition, Page 746.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Active Yeast",
+     "unknown_1": "18375",
+     "quantity": "1 Package (2 1/4 Tsp)"
+    },
+    {
+     "ingredient_name": "Warm Water",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "All Purpose Flour",
+     "unknown_1": "20081",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Large Eggs",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Egg Yolks",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Vegetable Oil",
+     "unknown_1": "04518",
+     "quantity": "3 Tbl"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "3 Tbl"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 1/4 Tsp"
+    },
+    {
+     "ingredient_name": "Bread Flour",
+     "quantity": "2 1/2 Cups"
+    },
+    {
+     "ingredient_name": "Egg",
+     "unknown_1": "01128",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "Pinch"
+    },
+    {
+     "ingredient_name": "Sesame Seeds",
+     "quantity": "1 Tbl"
+    }
+   ]
+  },
+  "name": "Challah",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Bread"
+  },
+  "preparation": "Mix water and yeast together and let sit until the yeast is rehydrated.  Add to all-purpose flour, eggs and yolks, vegetable oiil, sugar and salt and mix thoroughly.  To which, add 2 1/2 cups bread flour and knead until dough is elastic.Cover with oiled plasatic wrap and allow to double (1 1/2 to 2 hours).  Punch down the dough and refrigerate until dough doubles again (4-12 hours). Dough can be divided into three or four parts and lightly braided. Whisk together egg and salt and brush over the braided loaf.  Allow to load to warm and rise until not quite doubled, about 45 minutes.The loaf may be again whisked with egg/salt mixture and then topped with sesame seeds prior to baking.Loaf is backed at 375F degrees until the crust is golden and loaf sounds hollow when tapped, 30-35 minutes.  Allow to cool on rack before serving."
+ }
+}

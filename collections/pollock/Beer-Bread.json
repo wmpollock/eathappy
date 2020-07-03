@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "source_page": "775",
+  "safe_name": "Beer_Bread",
+  "primary_category": "Bread",
+  "preparation": "Mix the dry ingredients together and add the beer into the mixture, folding the ingredients until moistened.  Scrape the mixture into a 8 1/2\" x 4 1/2\" greased pan and bake 35-40 minutes at 400F degrees or until a toothpick inserted at the center comes out clean.  Allow to cool for 10-15 minutes on a wire rack before serving.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Beer Bread",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1997",
+  "source_name": "The Joy Of Cooking",
+  "notes": "What they call \"quick breads\" -- it gets its rising power from the beer and so-called chemical leavening agents,  thereby making it the sort of thing you could actually think about the afternoon you were planning dinner and  still see it on your supper table.  A beautiful recipe as it can be greatly modified by simply changing the beer  ingredient.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "whole wheat or bread flour",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "old-fashioned oats",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking soda",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "non-stout beer, not flat",
+     "quantity": "12 oz",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "recipe": {
+  "name": "Spicy Borscht",
+  "notes": "Another fantasic photo here:  a Very Interesting reddish purple is cut with a cream question mark, fresh dill marking its terminus.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "raw beets",
+     "preparation": "peeled and chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large cooking apple",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "celery stalks",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "red bell pepper",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sunflower or substitute",
+     "preparation": null
+    },
+    {
+     "quantity": "8 cups",
+     "ingredient_name": "stock or water",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cumin seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "a few",
+     "ingredient_name": "springs dill",
+     "preparation": "as garnish"
+    }
+   ]
+  },
+  "preparation": "Plase onion, beets, apple, celery, bell pepper, mushrooms, butter, oil and 3Tbl of stock or ater and cook gently for 15 minutes.  Stir occasionally.  Add cumin seeds, remainig stock, dried thyme, bay leaf, leon juice and sald and pepper to taste.  Bring to a boil before covering and gently simmering for 30 minutes. Strain vegetables and reserve stock.  Food-processor the vegetables and reintroduce both it and stock to pan to reheat.Serve with swirls of sour cream and dill.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "156",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Spicy_Borscht"
+ }
+}

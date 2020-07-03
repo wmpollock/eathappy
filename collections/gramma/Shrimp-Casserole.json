@@ -1,0 +1,23 @@
+{
+ "recipe": {
+  "name": "Shrimp Casserole",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": "This dish is the sort of thing you'd expect from a person named \"Lola Pickles\" because both seem equally improbable.",
+  "ingredients": null,
+  "preparation": "Devil 4-6 eggs.  Place halves on bottom of greased casserole.Pour over 1/3 can of mushroom soup.Then in layers: 1 - 4 1/2 oz can broken shrimp1/3 can mushroom soup1/2 cup cheddar cheese crumbsTop with corn flake crumbs or special K.  Set in a pan of water.  Bake at 300F for 1/2 hour",
+  "source_author": "Lola Pickles",
+  "source_name": null,
+  "source_page": "86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "name": "Mexican Fondue",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "My mom. not typically a beer drinker, always used Miller High Life in the recipe.This recipe calls for cherry tomatoes which are fun served whole but I am never able to keep more than a memory the cheese product on the tomato surface very long.  Needs Research: maybe halves work better than wholes?  The mouth-burst makes them the belle of the ball here but are almost better thought of as garnish.This is tranwreck in many ways but a fun trainwreck and fairly tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Monterey jack, shredded",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large green pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pint",
+     "ingredient_name": "cherry tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large avocados",
+     "preparation": null
+    },
+    {
+     "quantity": "1 loaf",
+     "ingredient_name": "French or sourdough bread",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "beer",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can (4 oz)",
+     "ingredient_name": "hot green chili peppers",
+     "preparation": null
+    },
+    {
+     "quantity": "1 bag",
+     "ingredient_name": "corn chips",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine cheeses with flour and chili powder in a large bowl until well blended.Halve, seed and cut peppers into thin strips; wash and stem tomatoes; halve, pit and peel avocados; cut into 1-inch cubes.Cut bread into 1-inch cubes, leaving some crust on each piece.When ready to serve, rub the garlic along the inside of a ceramic fondue pot or flameproof ceramic baking dish; add beer and heat slowly, just until beer stops foaming and the mixture begins to bubble.Gradually add cheese mixture a handful at a time, stirring constantly, until cheese is melted and smooth;   add hot green peppers.  Place pan over a candle warmer and serve on a tray with groups of pepper strips, avocado pieces; bread chunks, cherry tomatoes and corn chips.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "70s Flashback",
+    "Lots Of Cheese",
+    "Bachelor Food",
+    "Mexican",
+    "Needs Research"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Mexican_Fondue"
+ }
+}

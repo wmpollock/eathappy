@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Italian Meat Loaf",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lb",
+     "ingredient_name": "ground chuck",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "tomato sauce*",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "grated mozzarella cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients except 1 can sauce & grated cheese.  Roll in rectangle.  Spread cheese over top and roll to form loaf.  Bake in loaf pan 350F 1/2 hour.  Put other can of sauce over meat and bake another 1/2 hour.* -- The original recipe appears to say \"tomato sauce with cheese\", something I've never heard of but perhaps was not paying appropriate attention to in the food aisle or else has disappeared into the realm of charming grandmothers.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Jane Schuller",
+  "source_page": "44",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Italian_Meat_Loaf"
+ }
+}

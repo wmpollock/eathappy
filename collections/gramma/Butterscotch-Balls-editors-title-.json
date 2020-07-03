@@ -1,0 +1,38 @@
+{
+ "recipe": {
+  "name": "Butterscotch Balls [editor's title]",
+  "notes": "Edna apparently figured the recipe to be self-explanatory as I am unable to find a title on this one.  A close cousin to peanut butter haystacks, but without the chow mein noodles.  Who doesn't love peanut butter and chocolate?I mean, besides people for whom peanuts mean a trip to the hospital?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "butterscotch chips",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "peanut butter",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "Cocoa Puffs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt together butterscotch chips and peanut butter in a double boiler.Drop on wax paper.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "**Needs review"
+  },
+  "untried": "1",
+  "source_name": "Edna M. Rapp",
+  "source_page": "8",
+  "entry_app": "Veronica",
+  "cdate": "03/13/2006",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Butterscotch_Balls_editors_title_"
+ }
+}

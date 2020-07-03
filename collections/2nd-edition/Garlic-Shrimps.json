@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "source_page": "25",
+  "safe_name": "Garlic_Shrimps",
+  "primary_category": "Appetizers",
+  "preparation": "Marinate shrimp in other ingredients for an hour or two.  Drain and broil or grill for 4-5 minutes per side.Variant marinades:  equal parts olive oil and vermouth; white wine and butter with tarragon; olive oil mixed with lemon juice, parsley and garlic.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Garlic Shrimps",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1958",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "raw shrimp",
+     "quantity": null,
+     "preparation": "shelled and de-veined"
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "peanut oil",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sherry or whiskey",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "2 cloves",
+     "preparation": "crushed"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

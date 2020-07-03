@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Hot Crab Fondue",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "Hilary went out on New Year's Day 2005 in search of a fondue pot to make this recipe, crab season running high at the time.  This is an amazingly rich recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "5 oz jar American cheese spread (Old English)",
+     "preparation": null
+    },
+    {
+     "quantity": "8oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 71/2 oz can",
+     "ingredient_name": "crab",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "light cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp or less",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "French bread",
+     "preparation": "cubed"
+    }
+   ]
+  },
+  "preparation": "Melt first 2 ingredients in a fondue pot, add remaining ingredients and stir.  Serve with French bread cubes.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Lots Of Cheese",
+    "Asst'd Comfort Food",
+    "Salt-Tastic!"
+   ]
+  },
+  "source_name": "\"High Country Recipes from the Chester High Ski Team\", 1992 -- recipe by Glenda Grant",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Hot_Crab_Fondue"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Silvia's Tamales",
+  "notes": "If there is one belefit to living in Northern California, its that you get pretty nearly all the world's really good cuisines available to you, including various types of Mexican, perhaps some of the best Soul Food on the Planet.Silvia's Tamales first became well knwon by the occasional batch we'd receive.  She made up a monster batch of this stuff a few years back and Hilary and I became recipients of a large batch of this and masa.The training wheels are off now, though, man.  Food like this would quickly conquer local dishes pretty well whever you end up on the planet.The preparation is pretty rough but is \"as written\" until such time as I can come through with a weekend and jack around with the recipe some.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 lbs",
+     "ingredient_name": "pork butt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "onion",
+     "preparation": null
+    },
+    {
+     "quantity": "10 lbs",
+     "ingredient_name": "Masa de Tamales",
+     "preparation": "premade"
+    },
+    {
+     "quantity": "1 bag(?)",
+     "ingredient_name": "New Mexico Chiles",
+     "preparation": null
+    },
+    {
+     "quantity": "4 bags",
+     "ingredient_name": "corn husks",
+     "preparation": null
+    },
+    {
+     "quantity": "4-5 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "In a pot with water cook pork butt & onion until tender and easily pulls apart (~4 hours).  When nearly done, add garlic, salt & pepper.De-seed chiles using a spoon and cook in a \"lot\" of water -- boil for one hour.  Blend with a small amount of water, add black pepper and blend again.  Strain.Strang instruction:  \"In a pot w/oil, put chiles + boil - litl bit; add to meat (save some for masa)\"In a bowl, put masa; add some of the chile for color Soak husks in water for one hour->wash husks & drainassemble + steam until cookedwhen husks comes away from masa easiy",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "03/29/2005",
+  "mdate": "08/26/2005",
+  "safe_name": "Silvias_Tamales"
+ }
+}

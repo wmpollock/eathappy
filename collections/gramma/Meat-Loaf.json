@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Meat Loaf",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lbs",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "finely chopped onion",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "dry bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 can",
+     "ingredient_name": "cream of mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "**Sauce over loaf",
+     "ingredient_name": null,
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 can",
+     "ingredient_name": "mushroom soup",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine ingredients for meat loaf.  Mix thoroughly.  Pat to loaf shape and place in loaf pan.  Combine sauce ingredients and mix well.  Pour over meat loaf.  Bake in moderate oven 350F for 45 minutes to one hour.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Betty Werre",
+  "source_page": "44",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Meat_Loaf"
+ }
+}

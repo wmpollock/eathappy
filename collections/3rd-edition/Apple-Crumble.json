@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Apple Crumble",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "The Pampered Chef claims that this and their other Small Oval Baker recipe are preparable in a toaster oven of equivalent temperature.  This is probably notable in their belief that one might have a toaster oven of such quality.  I suppose if you are a Pampered Chef type, you've got a quality toaster oven I suppose.  As for me, I have never been so fortunate.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "medium granny smith appples",
+     "preparation": "cored and sliced into bite-sized chunks"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4",
+     "ingredient_name": "all purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "firmly packed"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "oats",
+     "preparation": "quick or old fashioned"
+    }
+   ]
+  },
+  "preparation": "Preheat the oven to 375F.  Toss with sugar and cinnamon and deposit in oval or other 4 cup casserole.  Microwave butter for 30-40 seconds or until melted and to it mix the flour, brown sugar, walnuts and oats to make topping.  Sprinkle toping evenly over apples and cook 30-35 minutes or until apples and topping are done.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Oval Pan!",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Pampered Chef, Small Oval Baker, New Traditions Collection",
+  "source_date": "2002",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Apple_Crumble"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "recipe": {
+  "name": "Banana Split Desert",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**CRUST",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "Graham cracker crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**PIE",
+     "preparation": null
+    },
+    {
+     "quantity": "1 box",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 sticks",
+     "ingredient_name": "butter",
+     "preparation": "melted*"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "bananas",
+     "preparation": "sliced and dipped in lemon juice#"
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "strawberries",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "nuts",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipped cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crust:  Mix ingredients in a bowl.  Put in 9x13 pan.  Put in refrigerator to cool while making filling.Filling: Beat together powdered sugar, butter and eggs until smooth and creamy.Place a layer of sliced bananas on crust then a layer of filling, then a layer of crushed pineapple, a layer of sliced strawberries.  Top with chipped cream them sprinkle with chopped nuts & Graham cracker crumbs.NOTE:  While most of the recipes in this collection are kept as true to the original as possible, some notes on this recipe are required.  * - The original recipe lists this as \"melted\", though \"softened\" is probably more correct.  Additionally, a modern reference recipe omits the eggs and uses instead 8 oz. of cream cheese.  # -- the measurement here is from the reference recipe and may be a bit overkill given the use of a strawberry layer.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0008",
+  "entry_app": "Veronica",
+  "cdate": "11/18/2005",
+  "safe_name": "Banana_Split_Desert"
+ }
+}

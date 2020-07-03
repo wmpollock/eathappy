@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": "6",
+  "safe_name": "Valley_of_the_Sun_Soup",
+  "primary_category": "Soup",
+  "preparation": "Brown beef and add onion and chili powder, cooking until onion is tender.  Add soup and water and simmer 5 minutes, stirring often.  Add macaroni and bring again to a simmer.  Serve garnished with corn curls",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "Valley of the Sun Soup",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Ann Pennington",
+  "notes": "Great name, if nothing else...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "ground beef",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "2 tbsp",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "condensed vegetable bean soup",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "condensed tomato soup",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "1 1/2 cans",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cooked elbow macaroni",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Fritos-style corn chips",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "recipe": {
+  "name": "Chicken Soup",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "3 lbs",
+     "ingredient_name": "chicken breasts",
+     "preparation": "split, skinned and boned"
+    },
+    {
+     "quantity": "4 cans",
+     "ingredient_name": "chicken broth (43 oz)",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "small carrots",
+     "preparation": "sliced crosswise"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium onions",
+     "preparation": "cut up (not too small)"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "stalks celery",
+     "preparation": "cut up (not too small)"
+    },
+    {
+     "quantity": "3 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small green pepper",
+     "preparation": "cut up"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "parsley",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt & pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "elbow macaroni",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 stick",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Put into stockpot:  water, chicken broth, tomatoes, onions, garlic, celery, green pepper, parsley, salt & pepper.  Let come to a boil then turn fire to low & cook slowly (covered) for 1/2 hr.Add carrots, let simmer 10 minutes longer.  Add chicken breasts (whole) & cook 15 minutes longer or until done.  Add macaroni & butter.  Cook until macaroni is done (do not overcook).  Stir now and then to keep from sticking.Before serving, cut chicken up into bite-size pieces.Have butcher split, skin & bone chicken for you.Freezes well.Nell's note: S&W puts out a can of tomatoes that are peeled & cut up, but I cut them a little more.   For a 16-oz can, I just use half of the can.",
+  "primary_category": "Soup",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Nell Boylin",
+  "source_page": "0017-0018",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Chicken_Soup"
+ }
+}

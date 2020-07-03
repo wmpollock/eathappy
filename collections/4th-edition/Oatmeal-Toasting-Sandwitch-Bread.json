@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Oatmeal Toasting & Sandwitch Bread",
+  "yield_count": "1",
+  "yield_measure": "loaf",
+  "notes": "Purchased at the now defunct Ralph's.You must all now feel sad about this.  SAD! You bastards!!An interesting sounding recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "Unbleached Bread Flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "rolled oats",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "brown sugar or honey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "instant yeast (alt: 1 pkt dry yeast)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/3 cups",
+     "ingredient_name": "milk",
+     "preparation": "lukewarm"
+    },
+    {
+     "quantity": "3/4 cups",
+     "ingredient_name": "raisins or currants",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together all ingredients to create a shaggy dough.  Knead by hand 10 minutes or 45 minutes by machine until smooth.Put dough in a lightly greased bowl and allow to rest 1 hour, until not quight double.Proofing: Shape as cylinder and place in 9x5\" pan and cover with greased plastic rap and allow to rise 45-60 minutes until crested 1-2 inches over the rim of the pam.Bake at 350F for 35-45 minutes.  They say the center will reach 190F, but we'll never know.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Box Recipe"
+   ]
+  },
+  "untried": "1",
+  "source_name": "King Arthur Flour Unbleached Bread Flour package",
+  "source_date": "2005",
+  "entry_app": "Veronica",
+  "cdate": "04/13/2006",
+  "mdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Oatmeal_Toasting_Sandwitch_Bread"
+ }
+}

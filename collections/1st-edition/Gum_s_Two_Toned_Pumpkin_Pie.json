@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "main_ingredient": "Bill's Favorite",
+  "notes": "**UNTRIED**  Hooo nellie, is this a good pie.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Sherry",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Orange Juice",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Light Cream",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Plain Gelatin",
+     "quantity": "1 Envelope"
+    },
+    {
+     "ingredient_name": "Packed Brown Sugar",
+     "quantity": "3/4 Cup"
+    },
+    {
+     "ingredient_name": "Canned Pumpkin",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "1/2 Tsp."
+    },
+    {
+     "ingredient_name": "Cinnamon",
+     "quantity": "1 Tsp."
+    },
+    {
+     "ingredient_name": "Ginger",
+     "quantity": "1/4 Tsp."
+    },
+    {
+     "ingredient_name": "Nutmeg",
+     "quantity": "1/4 Tsp."
+    },
+    {
+     "ingredient_name": "Eggs, Separated",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Grated Orange Rind",
+     "quantity": "12 Tsp."
+    },
+    {
+     "ingredient_name": "Baked, Cooled 9 Inch Fluted Pie Crust",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Whipping Cream",
+     "quantity": "1 Cup"
+    }
+   ]
+  },
+  "name": "Gum's Two-Toned Pumpkin Pie",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Dessert",
+    "Untried"
+   ]
+  },
+  "preparation": "Measure sherry, orange juice, cream and gelatin into top of double boiler.   Stir to blend.  Add 1/2 cup brown sugar, pumpkin, salt, spices,  orange rind and beaten egg yolks.  Place over boiling water.  Cook, stirring now and then until filling thickens slightly, about 10 minutes.  Remove from heat and cool.Beat egg whites to soft peaks.  Then beat in remaining 1/4 C sugar to make meringue.  Fold meringue into pumpkin filling.Remove and set aside 1 1/2cup.  Turn remainder of filling into pie shell.   Place into refrigerator to chill quickly.  Beat 1/2 cup cream until stiff.  Fold into reserved pumpkin filling. Gently spoon on filling into pastry shell.  Return to refrigerator and chill until firm (3-4 hours.) Garnish pie with remaining 1/2 cup cream, beaten stiff and slightly sweetened if desired just before serving."
+ }
+}

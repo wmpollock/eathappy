@@ -1,0 +1,101 @@
+{
+ "recipe": {
+  "name": "Sweet Meats [clearer]",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Occasionally the collection of cards includes +1 cards, some I think may have gotten mis-filed and copied.  This is nearly identical to the other sweet meats recipe though contains more?  differently specified? butter/shortening/margarine.  Its hard to say whether there's really a half-cup difference or its shortening vs. butter + margarine.  The construction instructions here are a bit more clear in suggesting a crust.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten until fluffy"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "coarsely chopped nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend crust ingredients bake 20 minutes at 325F in a buttered 9x13\" pan.Pour egg mixture over baked crust.  Bake 25 minutes more at 325F. Cool.  Cut into squares.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "93-94",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

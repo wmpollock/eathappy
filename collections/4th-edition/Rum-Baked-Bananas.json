@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Rum-Baked Bananas",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4",
+     "ingredient_name": "bananas",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "orange",
+     "preparation": "juiced and rind grated"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "dark rum",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "optional"
+    },
+    {
+     "quantity": "generous pinch",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Peel and slice bananas into four small ramekins.  Spoon orange juice and rum over bananas.  Sprinkle with the sugar, orange rind and spices.  Needs research: \"Dot with butter\".  Cover ramekins with foil and bake for 15min at 350F.Allow to cool slightly before serving with cream or yogurt, or maybe that ice cream stuff if you go that far.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Bananas",
+    "Makes You Fat",
+    "Butter!"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "470",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Rum_Baked_Bananas"
+ }
+}

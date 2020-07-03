@@ -1,0 +1,39 @@
+{
+ "recipe": {
+  "name": "Cherry Pudding",
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cherry pie filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pkg",
+     "ingredient_name": "yellow cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "margarine",
+     "preparation": "melted"
+    }
+   ]
+  },
+  "preparation": "Layer pie filling, cake mix, margarine and top with chopped nuts.Bake at 350F 35-45 minutes.Top with Cool Whip.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0021-0022",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Cherry_Pudding"
+ }
+}

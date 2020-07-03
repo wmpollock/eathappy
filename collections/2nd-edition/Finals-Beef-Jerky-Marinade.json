@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Finals_Beef_Jerky_Marinade",
+  "primary_category": "Appetizers",
+  "preparation": "Jerky is painfully easy to make.  The key is getting a nice lean cut of meat.  Any fatty bits need to be cut off or else they'll coat the jerky in amazingly unpleasant grease.  Trim the beef into 1 inch X 1/4 inch strips and marinate overnight.  Coat a cooking sheet in tinfoil to catch the drippings and arrange the jerky on cooling racks above the cooking sheet.  Turn the oven on as low as it will go -- you want warm, not hot.  You aren't -cooking- the meat, just drying the damned stuff. If the temperature is much above 180 degrees, you'll want to prop the door open with a wooden spoon to let a little extra heat out.Drying is a subjective thing.  Some people swear by overnight, but I like a little bit of chewiness in the final product so usually only go for 4 hours or so.Jerky keeps well in sealed, refrigerated containers and allegedly goes bad after a few weeks but I've never had any last long enough to find out.These basic ingredients along with liquid smoke, acidic fruit juice and peppers account for the majority of jerky marinades and can be added to this basic recipe to change it up a bit.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Finals Beef Jerky Marinade",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I first made this back in High School when I was supposed to be studying for finals, inspiring my dad to say  \"Shouldn't you be  studying for finals?\"  Perhaps, but I had little occasion to cook back then and I figured the  snackens wouldn't hurt during the exams.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**MARINADE",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worcestershire",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dehydrated onion",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic, crushed",
+     "quantity": "2 cloves",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "5 dashes",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "6 med drops",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**JERKY MEAT",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lean beef such as London broil",
+     "quantity": "2 lbs",
+     "preparation": "sliced in 1/4\" strips or 1\" cubes"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

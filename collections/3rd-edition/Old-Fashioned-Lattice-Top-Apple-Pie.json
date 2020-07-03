@@ -1,0 +1,101 @@
+{
+ "recipe": {
+  "name": "Old-Fashioned Lattice-Top Apple Pie",
+  "yield_measure": "Servings",
+  "notes": "Getting the strippy bits worked out right is kind of a pain in the butt, but the pie is well worth the effort.  I've  had some problems  with the crust falling in a bit, perhaps yours will come out better.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**CRUST",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "10 Tbl",
+     "ingredient_name": "(1 1/4 sticks) chilled unsalted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "chilled solid vegetable shortening",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "ice water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "golden brown sugar",
+     "preparation": "packed"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "ground nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "3 lbs",
+     "ingredient_name": "golden delicious apples",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crust:  blend flour, sugar & salt in processor.  Add butter & shortening and cut in using bursts until mixture resembles coarse meal. Add 6 Tbl ice water and process until moist clumps form, adding more water by teaspoonfuls if dough is dry.  (I always do this with pastry cutters and forks, but I'm like that)Gather the dough into a ball:  divide into 2 pieces and flatten each into disk.  Wrap each in plastic; chill 2 hours.  Can be made 2 days ahead and refrigerated.Remove dough from fridge and let soften slightly before rolling out.Filling:  Position rack in lowest third of oven and preheat to 400F. Mix sugar and sugar, flour, lemon juice, lemon peel and nutmeg in large bowl.   Add apples and toss to blend.Roll out 1 dough disk on floured surface to 12-inch round.  Transfer to 9- inch-diameter glass pie dish.  Fold edge under, forming high-standing rim and crimp.Add filling.Roll out second dough disk on floured surface to 13-inch round.  Cut into twelve 1-inch-wide strips.  Arrange 6 strips across pie.  Form lattice by arranging 6 strips diagonally across fist strips.  Gently press ends into crust edges.  Cry some, curse, pound fists when the ends don't work out right.Brush lattice with milk and sprinkle lightly with additional sugar.Bake pie 10 minutes at 400F and reduce oven temperature to 375F. Continue baking until juices bubble thickly and crust is deep golden, about 1 hour 20 minutes.Cover edges with foil if they start browning too quickly.Cool on rack for at least one hour before serving.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Apples",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "Bon Appetit  (via Epicurious)",
+  "source_date": "10/99",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Old_Fashioned_Lattice_Top_Apple_Pie"
+ }
+}

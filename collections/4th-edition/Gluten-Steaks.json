@@ -1,0 +1,134 @@
+{
+ "recipe": {
+  "name": "Gluten Steaks",
+  "notes": "I will admit that the title doesn't sound particularly sexy:  \"mmm, pull another gluten steak off the grill, will you love?\" but the idea seems kind of interesting and has enough spices in there to make it sound worth trying.Else one of the greatest boondoggles I've yet come across...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**GLUTEN",
+     "preparation": null
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "gluten flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "whole wheat flour",
+     "preparation": null
+    },
+    {
+     "quantity": "5 1/2 cups",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**BROTH",
+     "preparation": null
+    },
+    {
+     "quantity": "3 qts",
+     "ingredient_name": "water",
+     "preparation": "hot"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chicken style seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "brewers yeast flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "sage",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**BREADING",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "whole wheat flour",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "chicken style seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "5 Tbl",
+     "ingredient_name": "brewers yeast flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "turmeric",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix flours and first measure of water together thoroughly and let stand while preparing broth.Heat broth to a boil.  In the interim period, knead gluten under slow running water for approximately three minutes.  Pull into lemon sized pieces, stretch out and place into the boiling broth.Simmer for 45 minutes.  Pieces may be cooked or frozen for later use.The original recipe gets soggy here.  The next bit says that you can roll the gluten in breading and fry up in a skillet.  The next part contain suggestions for how you might use gluten as a substitute for meat in \"any recipe!!!!\".  Suggestions included grinding gluten in a meat grinder and using in place of taco meat, and while I suspect that this was the non-breaded, pre-fried gluten they were talking about, your mileage may vary.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": "Dubious"
+  },
+  "untried": "1",
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Angel Isaacson",
+  "source_page": "29",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Gluten_Steaks"
+ }
+}

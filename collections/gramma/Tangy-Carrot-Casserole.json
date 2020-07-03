@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Tangy Carrot Casserole",
+  "notes": "This is one of the few prepared cards in my Grandmother's collection, though no publisher is indicated.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pound",
+     "ingredient_name": "carrots",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried sweet basil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium onion",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "prepared mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pound",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "croutons",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Slice carrots diagonally.  Add basil and cook in salted water until tender.  Drain.Saute onion in butter.  Mix flour, salt, mustard, pepper and milk; add to onion and cook, stirring constantly, over medium heat until thick.Place a layer of carrots in a casserole.  Cover with grated cheese.  Alternate layers of carrots and cheese until ail used.  Pour sauce over top.  Sprinkle with croutons.  Bake at 350 degrees 15 minutes.",
+  "primary_category": "Vegetables",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0017-0018",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Tangy_Carrot_Casserole"
+ }
+}

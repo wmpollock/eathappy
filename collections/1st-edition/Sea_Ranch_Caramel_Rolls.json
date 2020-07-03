@@ -1,0 +1,111 @@
+{
+ "recipe": {
+  "name": "Sea Ranch Caramel Rolls",
+  "preparation": "Mix together eggs, water and yeast.  For crissakes, beat the eggs first because whisking raw eggs in water is pretty nasty.  Set that aside for fifteen minutes.That going, attend to mixing the rest of the dough ingredients and get yourself a Bloody Mary. You deserve it!  Now would be a good time to consider creaming the butter because that's going to take some time. Three sticks, man!  Cream all of that.  And probably best not to attempt all at once unless you've got some pretty wicked technology at your disposal.After time is up, mix the moist and dry dough ingredients together with a hand evened by several Mary's and form a ball of dough.  The ball will be rather pasty at this point in the game as the gluten will need time to develop and the yeast will need to do its thing before we get anything like real dough.  Let this rest in the fridge for 20 minutes. If you haven't creamed the butter yet, get the hell going because now the clock is ticking, fool!After the dough has rested you will need to fold three quarters of a pound of creamed butter into the dough.  In 1964, this was done by buttering a rolled out ball of dough lengthwise and folding it butter- side in (like a letter with butter writing) and repeating four times. This will end up with about a stick of butter per layer with 20 layers total,  twelve dough and eight butter.Done?  Ready?  Get yourself another Bloody Mary and contemplate this:The key to flakiness, is the separation of the dough from itself as the butter \"cooks in\" to the bread.  The more layers of dough and butter we have at this stage of the game, the flakier the crust is.Having ample time, tools and Bloody Mary's I put in probably 10 sets of folds.  Towards the end the dough was so infused with butter as to be nearly unworkable, requiring plastic wrap to keep together during rolling.  The incredibly flaky rolls afterwords were more than worth it.After the last fold and roll, sprinkle even amounts of filling ingredients across the surface and roll up the dough across the width, leaving you the longest possible roll.  Refrigerate overnight or until firm, probably 3-4 hours.In the morning (after your siesta, what have you) fill a nonstick muffin pan with the ingredients in the order listed.  For the nuts to stick on top even if the caramel doesn't you'll want to have the nuts closest to the surface of the rolls.  Chop the dough log from the night before into 3/4\" inch rolls and place on top of mixture in muffin tins.Cook at 350 degrees for 20-30 minutes or until they are a nice golden brown.  Cover the oven-hot rolls with a plate and, holding both plate and tin simultaneously, flip the tin over to release the muffins. Removing them when they are cool will be near impossible once the caramel hardens but hot caramel is not your skin's friend, so be careful! Enjoy -- you'll probably not be able to eat more than one or two...a week.",
+  "main_ingredient": "Makes You Fat",
+  "yield_count": "8",
+  "notes": "The house at Sea Ranch had a glorious stainless steel range and fine set of Hinkels.  Made me want to get  to cooking.  Hilary found  a 1964 paperback edition of \"The Joy Of Cooking\" which proved quite a delight  to thumb through though somewhat clueless  about the modernities found in today's supermarket.    A  shame too, since the Surf Market had every oddity a human would want including such oddities as Golden  Syrup for the Britons.   Good eats there.  So, something to match it from the book perhaps.  Indeed, and  here's what I found.  PS -- It uses over ONE POUND OF BUTTER so you'd better not plan on doing much  more than this all day.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": null,
+     "quantity": "DOUGH"
+    },
+    {
+     "ingredient_name": "Eggs",
+     "quantity": "2",
+     "preparation": "Whisked"
+    },
+    {
+     "ingredient_name": "Warm Water",
+     "quantity": "3/4 Cup"
+    },
+    {
+     "ingredient_name": "Yeast",
+     "unknown_1": "18375",
+     "quantity": "1 Pkg"
+    },
+    {
+     "ingredient_name": "Flour",
+     "unknown_1": "20081",
+     "quantity": "4 Cups"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Butter",
+     "quantity": "1 Stick",
+     "preparation": "Melted"
+    },
+    {
+     "ingredient_name": "Cardamom",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Butter",
+     "quantity": "3 Sticks",
+     "preparation": "Slightly Softened"
+    },
+    {
+     "ingredient_name": null,
+     "quantity": "FILLING"
+    },
+    {
+     "ingredient_name": "Lemon Zest",
+     "unknown_1": "09156",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Cinnamon",
+     "unknown_1": "02010",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Pecans, Walnuts Or Other Savory Nut",
+     "quantity": null,
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "(for Each Roll)",
+     "quantity": "TOPPING"
+    },
+    {
+     "ingredient_name": "Melted Butter",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Honey",
+     "unknown_1": "19296",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Brown Sugar",
+     "unknown_1": "19334",
+     "quantity": "2 Tsp"
+    },
+    {
+     "ingredient_name": "Them Nuts From Before",
+     "quantity": null,
+     "preparation": "Still Minced"
+    }
+   ]
+  },
+  "category": {
+   "category": "Breakfast"
+  },
+  "yield_measure": "Servings"
+ }
+}

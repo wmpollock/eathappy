@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Cheeseburger Loaf",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "onion soup mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "quick oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1 egg",
+     "ingredient_name": null,
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "3 long slices",
+     "ingredient_name": "cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chili sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pts",
+     "ingredient_name": "tomatoes Italienne",
+     "preparation": "preparation below"
+    }
+   ]
+  },
+  "preparation": "Pat half of loaf into rectangle 1/2 inch thick in shallow pan.  Layer cheese over rectangle.  Pat remaining meat loaf over cheese, sealing in the cheese.  Mix chili sauce and mustard in a cup.  Spread over top of loaf.  Bake an hour. Tomatoes Italienne:  Saute 2 pints tomatoes in 3 Tbsp butter.  Season with 1/2 tsp sugar, 1/2 tsp Italian herbs and 1/2 tsp salt.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "34",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Cheeseburger_Loaf"
+ }
+}

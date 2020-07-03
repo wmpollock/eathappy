@@ -1,0 +1,109 @@
+{
+ "recipe": {
+  "name": "Jerk Shrimp",
+  "safe_name": "Jerk_Shrimp",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Needs Research:  The marinade is pretty similar to the side sauce they serve at the Tower Cafe.  Out of the mixer this stuff is pretty oniony and might improve with sitting if an additional amount was set aside for an accompanying sauce.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Marinade",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "roughly choped yellow onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "jalepeno chilie",
+     "preparation": "roughly chopped"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "white wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground allspice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "Tabasco sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "ground nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "40 count (~2lbs)",
+     "ingredient_name": "large chrimp",
+     "preparation": "peeled and deveined"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lime",
+     "preparation": "cut into wedges"
+    }
+   ]
+  },
+  "preparation": "Combine marinade ingredients in a food processor until smooth.  Bag marinade the shrimp for 30-45 minutes.  Skewer the shrimp and grill over direct high heat until shrimp are just cooked through: 2-4 minutes, turned once.Add a bit of lime juice to the shrimp at serving time.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Shrimp"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "233",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "03/03/2013",
+  "user": "billp"
+ }
+}

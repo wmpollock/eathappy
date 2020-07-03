@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "name": "Pecan Tassies",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Pastry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "2 3oz. pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "firmly packed"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Pastry: Blend margarine and cream cheese, add flour.(The original recipe does not specify, but Internet research indicates that one it to press quarter-sized disks of pastry into the bottom of greased small muffin tins.)Filling:  Mix together filling ingredients and spoon into unbaked shells.  Bake at 250F for about 1/2 hour -- until golden brown.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Gretchen Christensen",
+  "source_page": "0060",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "safe_name": "Pecan_Tassies"
+ }
+}

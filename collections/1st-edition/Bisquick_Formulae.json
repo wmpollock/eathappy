@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "name": "Bisquick Formulae",
+  "preparation": "Cooking:   -- Biscuits: Cook at 450 degrees 8-10 minutes-- Pancakes: Until the bubbles stop coming to the surface and any surface ones have popped (1st side)-- Waffles:  'til the steam stops coming out of the 'maker",
+  "main_ingredient": "Bisquick",
+  "yield_count": "6-8",
+  "notes": "I can't tell you the number of times I've had to look this up on the damnable Internet.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "BISCUITS",
+     "unknown_1": "18013",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "unknown_1": "18010",
+     "quantity": "2 1/4 Cups"
+    },
+    {
+     "ingredient_name": "Milk",
+     "unknown_1": "01085",
+     "quantity": "2/3 Cup"
+    },
+    {
+     "ingredient_name": "PANCAKES",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "unknown_1": "18010",
+     "quantity": "2 Cups"
+    },
+    {
+     "ingredient_name": "Milk",
+     "unknown_1": "01085",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Eggs",
+     "unknown_1": "01123",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "WAFFLES",
+     "unknown_1": "18365",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "unknown_1": "18010",
+     "quantity": "2 Cups"
+    },
+    {
+     "ingredient_name": "Milk",
+     "unknown_1": "01085",
+     "quantity": "1 1/3 Cup"
+    },
+    {
+     "ingredient_name": "Egg",
+     "unknown_1": "01128",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Oil",
+     "unknown_1": "04518",
+     "quantity": "2 Tsp"
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Breakfast",
+    "Bread"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

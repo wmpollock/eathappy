@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Warm Avacadoes with Tangy Topping",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": "Warm avacados sounds maybe a little sexy, no?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "small red onion",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sunflower oil or substitute",
+     "preparation": null
+    },
+    {
+     "quantity": "a few dashes",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "rip avacados",
+     "preparation": "halved and pitted"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "small tomatoes",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh basil marjoram or parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "Lancashire or mozzarelle cheese",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Fry the onion in the oil until softened and shake in a bit of Worchestershire sauce.  Divide the tomato slices, herbs and chese over the avacade halves.  Season well and grill until the cheese melts and begins browning.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "180",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Warm_Avacadoes_with_Tangy_Topping"
+ }
+}

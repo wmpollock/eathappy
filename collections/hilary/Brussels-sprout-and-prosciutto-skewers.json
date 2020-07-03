@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Brussels sprout and prosciutto skewers",
+  "safe_name": "Brussels_sprout_and_prosciutto_skewers",
+  "yield_count": "24",
+  "yield_measure": "skewers",
+  "notes": "Brussels sprouts are a good source of fiber and vitamin K. Prosciutto provides the smoky flavour of bacon with a lot less fat.",
+  "prep_time": "30 minutes",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 T",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 T",
+     "ingredient_name": "maple syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 t",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 t",
+     "ingredient_name": "black pepper",
+     "preparation": "freshly ground"
+    },
+    {
+     "quantity": "24",
+     "ingredient_name": "small brussels sprouts (3/4 to 1 lb.)",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "prosciutto",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "24",
+     "ingredient_name": "decorative toothpicks",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "1. Preheat oven to 450 degrees. In a large bowl, whisk oil, syrup, salt, and pepper to blend. Trim brussels sprouts at base and remove any leathery outer leaves. Toss sprouts in oil mixture to coat well. Line a rimmed baking pan with foil and put sprouts in pan in a single layer. 2. Roast, tossing every 5 minutes, until sprouts are browned but tender-crisp, 10 to 12 minutes total. Remove from oven and let cool 10 minutes3. Meanwhile, cut each prosciutto slice into strips about 1 in. wide. Gently wrap each sprout lengthwise in a prosciutto strip. Insert a toothpick into the base of each sprout. Serve at room temperature.Make ahead: Prepare through step 2 up to 1 day ahead; chill, covered. Bring to room temperature, then proceed.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "Vegetables",
+    "Good For You!"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "102",
+  "source_date": "November 2009",
+  "entry_app": "Veronica",
+  "cdate": "11/24/2009",
+  "mdate": "11/24/2009",
+  "user": "hilaryp"
+ }
+}

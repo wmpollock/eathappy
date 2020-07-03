@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Gooey Butter Cake",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "yellow cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "cold water",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Top layer",
+     "preparation": null
+    },
+    {
+     "quantity": "1 8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb box",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large eggs",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "vanilla",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix cake mix, cold water, egg and melted butter with hands and pat into a 9x13 inch ungreased pan.Then with a beater mix top layer ingredients.  Pour over first layer.Bake at 350F forty of fifty minutes.  Serve with whipped cream.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Mary Williams",
+  "source_page": "0023-0024",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Gooey_Butter_Cake"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Spinach salad, wilted",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5 slices",
+     "ingredient_name": "diced bacon",
+     "preparation": "cooked crisp"
+    },
+    {
+     "quantity": "1 head",
+     "ingredient_name": "lettuce or 1 bunch of spinach",
+     "preparation": "or combination"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "hard boiled eggs",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "green onions",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "preparation": "Dressing:  Bring to boil, pour on spinach.  Add crisp bacon and heated drippings.  Top with green onions",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "81-82",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-04",
+  "mdate": null,
+  "user": "billp"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Parmesan Crusted Chicken",
+  "safe_name": "Parmesan_Crusted_Chicken",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Only four ingredients:  maybe kind of good",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "boneless, skinless chicken breast halves",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tsp",
+     "ingredient_name": "bread crumbs",
+     "preparation": "Italian seasoned"
+    }
+   ]
+  },
+  "preparation": "Mix mayo and cheese and spread on chicken.  sprinkle on bread crumbs and badke at 425G for 20 minutes or until cooked through.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Chicken"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Best Foods Mayonnaise Jar",
+  "source_page": null,
+  "source_date": "2009",
+  "entry_app": "Veronica",
+  "cdate": "11/26/2009",
+  "mdate": null,
+  "user": "billp"
+ }
+}

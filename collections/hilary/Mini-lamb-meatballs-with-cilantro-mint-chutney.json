@@ -1,0 +1,111 @@
+{
+ "recipe": {
+  "name": "Mini lamb meatballs with cilantro-mint chutney",
+  "safe_name": "Mini_lamb_meatballs_with_cilantro_mint_chutney",
+  "yield_count": "40",
+  "yield_measure": "meatballs",
+  "notes": "This Indian-spiced meat mixture makes great burgers too - try them on folded naan with the chutney and a slice of tomato.",
+  "prep_time": "45 minutes",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "MEATBALLS",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "cumin seeds",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1 tsp each",
+     "ingredient_name": "coriander and fennel seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp each",
+     "ingredient_name": "pepper, cayenne, cinnamon and salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "turmeric",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground lamb (preferably grass fed)",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large egg",
+     "preparation": "lightly beaten"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "CHUTNEY",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "low-fat greek yogurt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp each",
+     "ingredient_name": "minced serrano chile and fresh ginger",
+     "preparation": "(seed chile before mincing for a milder chutney)"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cilantro",
+     "preparation": "loosely packed"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "fresh mint leaves",
+     "preparation": "loosely packed"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "~ 1 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "1. Make meatballs: In a small frying pan, toast cumin over medium heat until fragrant, 3 to 5 minutes. Grind in a spice grinder, put 1 tsp in a medium bowl, and reserve the rest for chutney. Grind coriander and fennel and add to bowl with remaining spices, salt, lamb, and egg. Mix gently. Chill mixture until firm enough to shape, about 15 minutes. 2. Make chutney: Put all chutney ingredients and reserved cumin in a food processor and whirl until very smooth. Add more lemon juice if you like. Spoon into a serving bowl.3. Finish meatballs: With wet hands, form chilled meat into 1 inch balls and set on a baking sheet. Heat oil in a heavy 12 inch nonstick frying pan over medium heat. Fry meatballs until well browned all over, 8 to 10 minutes total. Transfer to paper towels. 4. Serve meatballs with toothpicks and the chutney.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Dips",
+    "Appetizer",
+    "Lamb"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "64",
+  "source_date": "Jan 2011",
+  "entry_app": "Veronica",
+  "cdate": "01/28/2011",
+  "user": "hilaryp"
+ }
+}

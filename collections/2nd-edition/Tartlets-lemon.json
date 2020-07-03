@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": "170",
+  "safe_name": "Tartlets_lemon",
+  "primary_category": "Desserts",
+  "preparation": "Whisk together eggs and yolks in a medium-sized saucepan.  Individually whisk in  sugar, lemon juice and zest.  Add in butter and cook over medium heat until mixture begins to thicken -- around 140F on a candy thermometer.  **MAKE SURE FILLING DOES NOT BOIL**Remove immediately from heat and strain through a stainless sieve into a bowl.  Cover surface with plastic wrap and cut 5-7 small slits in wrap to allow steam to escape.  Refrigerate curd to thicken.  Filling will keep up to two weeks.To assemble:  arrange tartlet shells on baking sheet and fill with 1 tsp of chilled filling.  Cook for 5 minutes at 350F or until filling sets.  Remove to cooling rack.  Once cooled brush apricot jam over filling.",
+  "yield_count": "8",
+  "yield_measure": "dozen",
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Tartlets: lemon",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Phyllis Duckworth",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "baked tartlet shells",
+     "quantity": "8 dozen",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large eggs",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg yolks",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemons",
+     "quantity": "2",
+     "preparation": "juiced and strained (6 ozs)"
+    },
+    {
+     "ingredient_name": "lemon zest",
+     "quantity": "1 tbsp",
+     "preparation": "finely grated"
+    },
+    {
+     "ingredient_name": "unsalted butter",
+     "quantity": "6 tbsp",
+     "preparation": "chilled and cut into 6 pieces"
+    },
+    {
+     "ingredient_name": "strained apricot jam",
+     "quantity": "1/3 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

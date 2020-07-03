@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Cream Of Greens Soup",
+  "preparation": "Trip the stem ends of the Swiss chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.Fry the bacon in a large saucepan, drain, crumble and set aside.  Save 2 tablespoon of the fat and saute the onions or lees in it -- olive oil can be subsituted if the bacon is not desired.Add the potatoes and stock, bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.Add the sour cream, reheat gently and season to taste.  Sprinkle each serving with the chopped bacon bits.",
+  "main_ingredient": "Vegetables",
+  "yield_count": "8",
+  "notes": "**UNTRIED** It has Greens in it which I consider A Good Thing.  Swiss Chard is an ingredient I haven't personally  played with much but have enjoyed when I have.From the SF Chronicle, 14 May 2003",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Swiss Chard",
+     "quantity": "1 Large Bunch"
+    },
+    {
+     "ingredient_name": "Bacon",
+     "unknown_1": "10124",
+     "quantity": "6-8 Slices"
+    },
+    {
+     "ingredient_name": "Onions Or Leeks",
+     "quantity": "1 Cup",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Potatoes",
+     "quantity": "3 Large",
+     "preparation": "Peeled And Cubed 1/2 Inch"
+    },
+    {
+     "ingredient_name": "Vegetable Or Chicken Stock",
+     "quantity": "7 Cups"
+    },
+    {
+     "ingredient_name": "Sour Cream",
+     "unknown_1": "01056",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Salt And Pepper",
+     "quantity": null,
+     "preparation": "To Taste"
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Soup",
+    "Untried"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

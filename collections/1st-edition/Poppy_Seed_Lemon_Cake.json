@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "main_ingredient": "Makes You Fat",
+  "notes": "**UNTRIED** You know the difference between Poppy Seed Lemon Cake and PSL Muffins?  Not much.Originally from the SF Chronicle, 16 April 2003",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Cake Flour",
+     "quantity": "3 1/4 Cups",
+     "preparation": "Measured Before Sifting"
+    },
+    {
+     "ingredient_name": "Baking Powder",
+     "unknown_1": "18369",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Baking Soda",
+     "unknown_1": "18372",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "Big Pinch"
+    },
+    {
+     "ingredient_name": "Poppy Seeds",
+     "unknown_1": "02033",
+     "quantity": "4 Tbl"
+    },
+    {
+     "ingredient_name": "Sour Cream",
+     "unknown_1": "01056",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Lemon Extract",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Zest Of 1/2 Large Lemon",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Eggs",
+     "unknown_1": "01123",
+     "quantity": "4",
+     "preparation": "At Room Temperature"
+    },
+    {
+     "ingredient_name": "Superfine Sugar",
+     "unknown_1": "19336",
+     "quantity": "1 1/4 Cups"
+    },
+    {
+     "ingredient_name": "Unsalted Butter",
+     "quantity": "4 Ozs",
+     "preparation": "Melted And Cooled"
+    },
+    {
+     "ingredient_name": "Vegetable Oil",
+     "unknown_1": "04518",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Powdered Sugar",
+     "quantity": null,
+     "preparation": "For Dusting"
+    }
+   ]
+  },
+  "name": "Poppy Seed Lemon Cake",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Dessert",
+    "Untried"
+   ]
+  },
+  "preparation": "Preheat oven to 325 degrees.  Sift together the flour, baking powder, baking soda and salt.  Stir in the poppy seeds.Combine the sour cream, lemon extract and lemon zest in a small bowl.By hand or using a stand mixer, beat the eggs until light and foamy. Add the sugar and beat again until light;  there should be no graininess from the sugar remaining.  Beat in the melted butter and oil.Beat in a quarter of the flour mixture then a third of the sour cream mixture.  Beat until just incorporated.  Repeat until all the flour and sour cream are used, ending with flour.  Do not over-beat.  If there are any streaks of flour left in the batter, do a final blending with a large rubber spatula.Evenly spray a bundt pan with baking spray.  Spoon the batter into the pan; smooth the top with a rubber spatula.  Sharply rap the pan on the counter several times to eliminate air bubbles.  Place in the lower third of the oven and bake until a cake tester inserted near the center of the cake ring comes out clean, 50 minutes to an hour.Place the pan on a rack to cool for ten minutes before loosening the cake from the pan.Cool completely then wrap tightly in plastic wrap and leave overnight at room temperature.  Do not refrigerate.Before serving, dust with powdered sugar."
+ }
+}

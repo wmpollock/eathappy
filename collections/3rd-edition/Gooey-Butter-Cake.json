@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Gooey Butter Cake",
+  "notes": "Gooey + Butter == Good Times, so it sounds.The recipe comes from Kroger brand cream cheese, whereupon it recommends Kroger everything, naturally, including the afformentioned puddingles cake mix.  I consider this a nearly mythical ingredient as I've been unable to heretofore find it, needing it also for \"Herk's Coffee Cake\".When I find some, I will store it up in pre-millenial qualities.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 box",
+     "ingredient_name": "Yellow cake mix, w/o pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1 8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "16 oz box",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "mix together cake mix, butter and 1 egg until it reaches dough thickness.  Butter a 9x13\" pan and press cake mixture into bottom.  Retain 1/2 cup powdered sugar and mix cream cheese,  remaing powdered sugar and remaining 2 eggs until thoroughly mixed and top cake mixture.  Bake at 350F for 30-35 minutes and top with powdered sugar",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Made For Butter",
+    "Makes You Fat",
+    "Box Recipe"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Kroger brand Cream Cheese package, 2005",
+  "entry_app": "Veronica",
+  "cdate": "11/09/2005",
+  "mdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Gooey_Butter_Cake"
+ }
+}

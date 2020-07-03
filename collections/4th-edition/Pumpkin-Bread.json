@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "source_page": "50",
+  "safe_name": "Pumpkin_Bread",
+  "primary_category": "Beverages",
+  "preparation": "Cream shortening and sugar together.  Add eggs, pumpkin and water.  Sift together flour, baking powder, baking soda, salt, cinnamon and cloves and add to pumpkin mixture.  Stir in nuts and pour mixture into greased baking pan.  Bake at 350F for 45 minutes or until brown.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/04/2005",
+  "prep_time": null,
+  "name": "Pumpkin Bread",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Elaine Sato",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "shortening",
+     "quantity": "2/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 2/3 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "4",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pumpkin",
+     "quantity": "1 small can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "2/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "3 1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking soda",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cloves",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crushed walnuts",
+     "quantity": "2/3 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

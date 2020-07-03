@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "notes": "**UNTRIED** I do like the idea of chunk chicken salad sandwitches but the last attempt I tried was a disasterous  conversion of an English (as in UK) recipe that (a) didn't taste anything like the original and (b) was  rather horrid.From the SF Chronicle, 23 April 2003",
+  "yield_count": "4",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Chicken Breasts",
+     "unknown_1": "05065",
+     "quantity": "2",
+     "preparation": "\"plump, Boneless And Skinless\""
+    },
+    {
+     "ingredient_name": "Garlic Cloves",
+     "quantity": "2",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Lemon Or Lime",
+     "quantity": "1/2",
+     "preparation": "Juiced"
+    },
+    {
+     "ingredient_name": "Tandoori Paste",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Vegetable Oil",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Mayo",
+     "unknown_1": "04018",
+     "quantity": "4 Tbl"
+    },
+    {
+     "ingredient_name": "Unflavored Yogurt",
+     "quantity": "4 Tbl"
+    },
+    {
+     "ingredient_name": "Dried Mint",
+     "quantity": "1 Tsp",
+     "preparation": "Crushed"
+    },
+    {
+     "ingredient_name": "Lettuce Leaves",
+     "quantity": "1 - 2 Per Sandwitch",
+     "preparation": "Torn Into Pieces"
+    },
+    {
+     "ingredient_name": "Cucumber",
+     "quantity": "1/2",
+     "preparation": "Seeded And Diced"
+    },
+    {
+     "ingredient_name": "Pitas",
+     "quantity": "4"
+    }
+   ]
+  },
+  "name": "Chicken Tikka Pita Sandwitch",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Sandwich",
+    "Untried"
+   ]
+  },
+  "preparation": "Combine the chicken, garlic and lime juice.  Let marinate for 15 minutes or so, then add the tandoori paste and let marinate for as long as possible:  30 minutes is good, an hour over overnight is even better.Rub the chicken with the oil, then cook it:  broil, grill, or brown in a nonstick frying pan.  When the chicken is just cooked through, about 5 or 6 minutes per side (be careful not to overcook), transfer to a plate and let cool.Cut the chicken into bite-sized pieces.  Set aside.Mix together mayonnaise and yogurt then stir in the mint.   Set aside.Brush the pitas on one side with water the heat either in a  toaster or in a heavy nonstick frying pan.  They should puff up, making it easy to split them to form a pocket.Into each pocket place a few pieces of chicken, a spoonful of sauce, a sprinkling of cucumber, a little lettuce, more chicken and so on, until the ingredients are used up and/or the pitas can't hold any more. Garnish with onion, tomato and cilantro/mint then serve."
+ }
+}

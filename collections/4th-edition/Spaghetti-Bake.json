@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Spaghetti Bake",
+  "notes": "I've seen plenty of recipes for Spaghetti Bakes in various community cookbooks.  Its a good way to bridge the gap between spaghetti and lasagna, especially if you have mozarella or other white cheese in danger of going south.Apologies for the rough counts: the four measures counted should, with the onion and garlic, fill a target casserole pretty fully.  Scale accordingly.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "sliced 1/2\" thick"
+    },
+    {
+     "quantity": "3-4 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "per serving"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 measures",
+     "ingredient_name": "spaghetti noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "1 measure",
+     "ingredient_name": "spaghetti sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2-1 measure",
+     "ingredient_name": "mozarella cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 -1 measure",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Parmesan or other dry salty cheese",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "The assemblage is best made in a ceramic, high-heat container where one can best glaze the onion.  Arrange whole onion slices and the garlic at the bottom of the casserole and cover with a few dashes olive oil.  Glaze/char onion at high heat, 10-15 minutes with a turn midway through for the onions.Remove casserole from heat and allow to cool sufficiently to allow layering of spaghetti, sauce, mushroom, and cheeses.  Bake at 350F for 15-20 minutes or until bubbling.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Oval Pan!",
+    "Asst'd Comfort Food",
+    "Bachelor Food"
+   ]
+  },
+  "untried": "1",
+  "source_name": "HRS Test Kitchen",
+  "source_date": "2009",
+  "entry_app": "Veronica",
+  "cdate": "06/09/2009",
+  "user": "billp",
+  "safe_name": "Spaghetti_Bake"
+ }
+}

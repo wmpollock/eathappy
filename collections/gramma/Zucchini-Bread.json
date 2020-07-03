@@ -1,0 +1,91 @@
+{
+ "recipe": {
+  "name": "Zucchini Bread",
+  "safe_name": null,
+  "primary_category": "Bread",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": "brown? [sic]"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "grated zucchini",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "light (+ nut?) raisin [illegible, original contains question mark]",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "grated orange",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bake 325F for one hour.  [There is another penciled-in note that says ???? 15 min]",
+  "source_author": "Pauline B",
+  "source_name": null,
+  "source_page": "95",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

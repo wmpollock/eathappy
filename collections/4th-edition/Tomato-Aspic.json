@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Tomato Aspic",
+  "yield_count": "4-6",
+  "yield_measure": "servings",
+  "notes": "Any soup that contains a package of lemon jello is worth at least trying, no?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 small package",
+     "ingredient_name": "lemon Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tbl",
+     "ingredient_name": "white vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "onion juice",
+     "preparation": "to taste (onion juice??)"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tabasco",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "6 oz can",
+     "ingredient_name": "tomato sauce*",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "stuffed green olives",
+     "preparation": "sliced (optional)"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped celery (optional)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped bell peppers (optional)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "small shrimp or crab (optional)",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Disolve Jello in boiling water.  Add salt, vinegar, onion juice, Tabasco and tomato sauce*.  Chill to thicken and add any of the optional ingredients.  Chill to set.* the prep and ingredients both listed a \"6 oz. can of tomato sauce\", though typically in that size its tomato paste.  Caveat preperator.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "\"World Ag Expo Favorites\", Ruth Ann Hulbert contributor",
+  "source_page": "23",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "safe_name": "Tomato_Aspic"
+ }
+}

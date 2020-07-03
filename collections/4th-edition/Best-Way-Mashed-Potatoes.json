@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Best Way Mashed Potatoes",
+  "safe_name": "Best_Way_Mashed_Potatoes",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 ls",
+     "ingredient_name": "russet potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Peel and cut potatoes into eights.  Place in a large pot and cover with water.  Add 1 salt and simmer over medium-high heat.  Simmer until poatoes are cooked through, about 12-15 minutes.  Drain and shake to remove moisture.Warm cream over low heat or in 30 seconds of microwaving.Mash potatoes in a large bowl to preference.  Fold in butter and cream.  Season to taste.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "L8",
+  "source_date": "November 14, 2010",
+  "entry_app": "Veronica",
+  "cdate": "02/02/2013",
+  "user": "billp"
+ }
+}

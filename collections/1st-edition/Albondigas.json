@@ -1,0 +1,104 @@
+{
+ "recipe": {
+  "prep_time": "00:00",
+  "name": "Albondigas",
+  "preparation": "Mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  Add meatballs to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.Ten minutes before serving add the sprig of mint to the broth and remove prior to serving.",
+  "main_ingredient": "Makes You Fat",
+  "yield_count": "10",
+  "notes": "Sr. Arturo used to run this joint in Walnut Creek where they always had a pot of this stuff on the back  burner.  This recipe is missing a few ingredients yet before its \"just like\" Arturo's but as his recipe went  with his restaurant, I'm afraid this will have to do until I can figure out what's missing.I use a piece of software called AccuChef to do my entry for this thing and this recipe came from it's  \"MEX\" database originally.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**BROTH",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Onion",
+     "unknown_1": "11282",
+     "quantity": "1",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Clove Garlic",
+     "unknown_1": "11215",
+     "quantity": "1",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Oil",
+     "unknown_1": "04518",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Tomato Sauce (14 Oz)",
+     "unknown_1": "11549",
+     "quantity": "1 Can"
+    },
+    {
+     "ingredient_name": "Beef Stock",
+     "unknown_1": "06032",
+     "quantity": "3 Qt"
+    },
+    {
+     "ingredient_name": "Mint",
+     "quantity": "1 Sprig"
+    },
+    {
+     "ingredient_name": "**MEATBALLS",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Ground Beef",
+     "unknown_1": "13301",
+     "quantity": "3/4 Lb"
+    },
+    {
+     "ingredient_name": "Ground Pork",
+     "unknown_1": "10220",
+     "quantity": "3/4 Lb"
+    },
+    {
+     "ingredient_name": "Raw Rice",
+     "quantity": "1/3 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Pepper",
+     "unknown_1": "02030",
+     "quantity": "1/4 Tsp"
+    },
+    {
+     "ingredient_name": "Oregano",
+     "unknown_1": "02027",
+     "quantity": "1/4 Tsp",
+     "preparation": "Crushed"
+    },
+    {
+     "ingredient_name": "Small Onion",
+     "unknown_1": "11282",
+     "quantity": "1/2",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Egg",
+     "unknown_1": "01123",
+     "quantity": "1",
+     "preparation": "Slightly Beaten"
+    },
+    {
+     "ingredient_name": "Fresh Cilantro",
+     "quantity": "2 Tbl",
+     "preparation": "Chopped"
+    }
+   ]
+  },
+  "category": {
+   "category": "Mexican"
+  },
+  "yield_measure": "Servings"
+ }
+}

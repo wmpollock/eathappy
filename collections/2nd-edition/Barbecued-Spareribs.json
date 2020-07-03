@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "source_page": "38",
+  "safe_name": "Barbecued_Spareribs",
+  "primary_category": "Main Dishes",
+  "preparation": "Remove inner lining of ribs, wash, and place in a pan deep enough to cover ribs with water, vinegar and salt to taste.  Bring to a boil and reduce to simmer for 20 minutes or until ribs are tender.  Drain ribs and marinate in remaining ingredients for 1 hour.  Cook over BBQ or under a broiler until glazed.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": "1:20",
+  "name": "Barbecued Spareribs",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "BBQ"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Sadaka Nagao",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "ribs",
+     "quantity": "1 slab (2 1/2-3 lbs)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hoisin sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "catsup",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "honey",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "candied ginger",
+     "quantity": "2-3 slices",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "ajinomoto/accent",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/04/2005"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "name": "De's Minestrone Soup",
+  "yield_measure": "Servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "carrots",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "zucchini",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "celery",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "potatoes",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cut Italian green beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "white kidney beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup (can)",
+     "ingredient_name": "pinto beans",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "tiny star/other small pasta",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "basil",
+     "preparation": "chopped w/2 Tbl olive oil"
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "leeks",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "Soup stock:  add 3 beef knuckles or beef shank to 4 quarts cold water and 1 tablespoon salt.  Simmer slowly 3 to 4 hours;  remove bones.  Let cool overnight.  Remove fat.Add soup stock to large pot; bring to boil, 15 to 20 minutes.  Ad 1 1/2 to 2 cups water.  Salt and pepper; bring to boil.  Add carrots, zucchini,   celery, potatoes, green beans and pasta; simmer for 20 minutes.  Add basil; simmer 10 minutes.  Add beans; simmer 20 minutes or so, vegetables should be cooked.  Serve with Parmesan cheese.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": "Vegetables"
+  },
+  "untried": "1",
+  "source_name": "\"Family Favorites\", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by DeDe Torres",
+  "source_page": "5",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Des_Minestrone_Soup"
+ }
+}

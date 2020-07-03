@@ -1,0 +1,116 @@
+{
+ "recipe": {
+  "name": "Pissaladiere",
+  "safe_name": "Pissaladiere",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Another show-stopper of a final dish but are the photos deceiving?  Seems either heavenly or looks better than it'd be, draining on a plate. NEEDS RESEARCH! to find out which!",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Pastry",
+     "preparation": null
+    },
+    {
+     "quantity": "8 Tbl",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Italian herbs",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pinch of salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large onions",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "garlic cloves",
+     "preparation": "cushed"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh nutmeg",
+     "preparation": "grated to taste"
+    },
+    {
+     "quantity": "1 14oz can",
+     "ingredient_name": "tomatoes",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "small sprig",
+     "ingredient_name": "thyme",
+     "preparation": "leaves removed and stem discarded"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "sliced black olives",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "capers",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh parsley",
+     "preparation": "chopped, for garnish"
+    }
+   ]
+  },
+  "preparation": "Cut the butter into the flour until it forms fine crumbs.  Cut in herbs and salt.  Add measures of cold water until it forms a firm dough.  NEEDS RESEARCH: It would be nice if the measure of water was at least roughly defined.Roll out dough to line 9\" glass pie or tart pan.  Line top of dough with waxed paper and weigh down with dried beans.  \"Bake blind\" at 375F, removing beans and paper for last five minutes.  NEED RESEARCH: Mean total time would be nice.Fry onions and garlic in oil until soft: about ten minutes  Mix in teh nutmeg, tomatoes, sugar, thyme and salt and pepper. Simmer for ten minutes until the mixture i reduced and slightly thickened.  Remove from heat.  Add in olives and capers.When ready to serve, spoon filling into pastry and sprinkle with fresh parsley.   Serve at room temperature.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Vegetables",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "190",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

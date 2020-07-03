@@ -1,0 +1,44 @@
+{
+ "recipe": {
+  "name": "Spinach Dip",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "frozen chopped spinach",
+     "preparation": "thawed and drained"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "Knorr's leek soup mix*",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "water chestnuts",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "[The variation of this recipe in my mother's collection uses vegetable soup mix and allows the preparation note that says that it should be allowed to chill several hours to let the flavors develop]",
+  "primary_category": "Appetizers",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Norma Mauley",
+  "source_page": "34",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "mdate": "12/18/2005",
+  "safe_name": "Spinach_Dip"
+ }
+}

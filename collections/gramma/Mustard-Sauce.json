@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Mustard Sauce",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "chopped green onions",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Heat sour cream, mustard, minced onion, salt and pepper over low heat, stirring.  Sprinkle with chopped green onions.",
+  "primary_category": "Other",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "44",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Mustard_Sauce"
+ }
+}

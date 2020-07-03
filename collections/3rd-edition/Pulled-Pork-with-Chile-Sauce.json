@@ -1,0 +1,114 @@
+{
+ "recipe": {
+  "name": "Pulled Pork with Chile Sauce",
+  "safe_name": "Pulled_Pork_with_Chile_Sauce",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "There's something extra macho about throwing an enormous slab of meat on the grill to cook for hours and hours and hours.",
+  "prep_time": "30 minutes, 5-6 hours grilling",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "light brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "ketchup",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "buns or rolls",
+     "preparation": "for serving"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bone-in pork shoulder, 5-6 lbs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 handfuls",
+     "ingredient_name": "smoking chips",
+     "preparation": "soaked for 30 minutes"
+    }
+   ]
+  },
+  "preparation": "Mix together rub ingredients.  Soak chips in water while allowing pork shoulder to come to room temperature.  Grill over indirect medium heat for 5-6 hours: it should be tender but still juicy with an internal temperature of 180-190F.  Add wood chips to smoker or tinfoil smoker roll halfway through cooking.Bring sauce ingredients to a boil before reducing to a simmer for 10 minutes.Chop pork or pull together with finger or two knives, removing burned or fatty bits.  Mix meat and sauce and serve over toasted buns with mayonnaise.",
+  "primary_category": "Sandwiches",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Pork"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "168",
+  "source_date": "2005",
+  "entry_app": "Veronica",
+  "cdate": "10/31/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

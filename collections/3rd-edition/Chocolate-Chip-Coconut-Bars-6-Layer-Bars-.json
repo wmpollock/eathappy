@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Chocolate Chip Coconut Bars (6 Layer Bars)",
+  "notes": "My mom makes these as one of her signature cookie dishes and boy are they tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "graham cracker crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chocolate chips",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "coconut flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "condensed milk",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt butter in bottom of 9x13\" pan and layer successive ingredients.  Bake at 350F for 25 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat",
+    "Bill's Favorite"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/11/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Chocolate_Chip_Coconut_Bars_6_Layer_Bars_"
+ }
+}

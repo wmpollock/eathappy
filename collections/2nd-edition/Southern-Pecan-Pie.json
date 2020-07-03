@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Southern_Pecan_Pie",
+  "primary_category": "Desserts",
+  "preparation": "Beat eggs slightly.  Mix in white syrup, sugar, oleo, vanilla and salt. Add pecans.  Bake at 400F for 15 minutes and at 350F for 30 to 35 minutes.**I think Oleo = Margarine for us Yankees, close enough.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Southern Pecan Pie",
+  "secondary_categories": {
+   "secondary_categorie": "Pecans"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Southern-style Pecan Pie is the thing I like second-most in the world.  Sweet Potato Pecan Pie is number one,  but this  isn't a recipe for that, is it now?  Hush and be happy.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white Karo syrup",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oleo",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/8 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chopped pecans",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "unbaked 19\" pie shell",
+     "quantity": "1",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

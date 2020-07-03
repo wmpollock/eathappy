@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "source_page": "163",
+  "safe_name": "Cottage_Cheese_Rolls",
+  "primary_category": "Desserts",
+  "preparation": "Combine all ingredients until smooth and chill covered overnight.  Divide into 4 portions and roll into 1/8\" to 1/4\" discs.  Cut into wedges and roll from wide edge to point.  Arrange on a cookie sheet 1 inch apart and bake at 375F for 30 minutes.Mix powdered sugar and milk or water to make frosting and top rolls with frosting and coconut or chopped nuts",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Cottage Cheese Rolls",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Mrs. Harrie Solenski",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "butter or margarine",
+     "quantity": "1/2 lb",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "cottage cheese",
+     "quantity": "8 oz",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "powdered sugar",
+     "quantity": "2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk or water",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "coconut or chopped nuts",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

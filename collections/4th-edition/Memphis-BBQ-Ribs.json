@@ -1,0 +1,101 @@
+{
+ "recipe": {
+  "name": "Memphis BBQ Ribs",
+  "safe_name": "Memphis_BBQ_Ribs",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Sounds like an interesting way to go: I like mops but always felt like the rub was losing out in the wash.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1-2 slabs",
+     "ingredient_name": "pork spare ribs",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Spice Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "light brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "table salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Cider Mop",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cup",
+     "ingredient_name": "apple cider",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "hot sauce",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Trim flaps and membrane from ribs.   Mix together rub ingredients and reserve 2 Tbl for table preparation.  Coat ribs with rub at least an hour before cooking.  Combine cider and vinegar and warm to simmering.  Cook ribs over indirect, smoky low heat for 3-4 hours, mopping every 30 minutes after the first hour.Sprinkle 1 Tbl of rub over ribs while on the grill before removing and heat each side for an additional 30 seconds.While meat cools, add remaining 1 Tbl of spice rub to the mop and reduce to 2 cups.  Season with hot sauce and serve.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Spare Ribs"
+   ]
+  },
+  "untried": "1",
+  "source_name": "http://www.upyourflavor.com/recipe/memphis-bbq-spareribs-gas-grill/",
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": null,
+  "user": "billp"
+ }
+}

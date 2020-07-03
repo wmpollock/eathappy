@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Dennis's Meaty Cheesy Things",
+  "yield_count": "30",
+  "notes": "Dennis made these for a string of appearances, occasionally command performances.  They are mighty tasty  down-home stylee (I mean, yeah -- Velveeta!).  Two packages of rye might be a bit much depending on how  much you spoon on there.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Italian sausage",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Velveeta cheese",
+     "preparation": "cut into small cubes"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "yellow onion, diced",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "Italian seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkgs",
+     "ingredient_name": "party rye bread",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Saute the beef, sausage and onions in a pan over medium heat and drain off the fat.  Add the Italian seasoning & Velveeta and stir over low heat until the Velveeta has softened and the ingredients have mixed together.  Spoon a tablespoon or two of mixture onto each rye toast and place on a cooking sheet.Can be made ahead and frozen.  Heat mixture under a broiler until the rye browns slightly.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Appetizer",
+    "Sticks To Ribs",
+    "Beef"
+   ]
+  },
+  "source_name": "Dennis Gross",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Denniss_Meaty_Cheesy_Things"
+ }
+}

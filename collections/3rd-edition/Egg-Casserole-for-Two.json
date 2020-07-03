@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Egg Casserole for Two",
+  "notes": "An egg casserole was in fact one of the things I had in mind making.  I recalled ordering breakfast at a small pizza-parlor type place in Vancouver and having it be quite excellent.  That one, with Mediterranean flavors of garlic, spinach, eggs and goat cheese over what seemed like undercooked pizza dough was plain excellent.  This sounds like more American Style Cookin'.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 slices",
+     "ingredient_name": "white bread",
+     "preparation": "cut into 1\" cubes"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green onion with top",
+     "preparation": "finely sliced"
+    },
+    {
+     "quantity": "1/3 cup (1 1/2 ounces)",
+     "ingredient_name": "shredded cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "chopped ham*",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "* What am I, chopped ham?Preheat oven to 350F.  If using a stonewear baker precoat with it with oil.  Combine all ingrediens and pour into 4 cup casserole.  bake 20-25 minutes or until mixture is set.",
+  "primary_category": "Breakfast",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Oval Pan!",
+    "Egg"
+   ]
+  },
+  "untried": "1",
+  "source_name": "The Pampered Chef Small Oval Baker recipe card",
+  "source_date": "2002",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Egg_Casserole_for_Two"
+ }
+}

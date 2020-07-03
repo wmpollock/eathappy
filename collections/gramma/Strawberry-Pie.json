@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Strawberry Pie",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 bushels",
+     "ingredient_name": "[straw]berries",
+     "preparation": "crush 1/2"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 Tbsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "red food coloring",
+     "preparation": "to palette"
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook sugar, water, cornstarch and salt until thick. Add crushed berries, lemon juice and red foot coloring to aesthetic.Put half berries in crust.  [I'd imagine then add the cooled? Top with whipping cream.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "83-84",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-11",
+  "user": "billp"
+ }
+}

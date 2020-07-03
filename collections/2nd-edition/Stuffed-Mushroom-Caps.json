@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "source_page": "1",
+  "safe_name": "Stuffed_Mushroom_Caps",
+  "primary_category": "Appetizers",
+  "preparation": "Wash and de-stem mushrooms (reserving stems) and dip in melted butter to coat the outside, arranging on a tray or in a glass casserole.  Dice the mushroom stems.  Saute diced stems in remaining butter until tender then add to seasoned salt, French onion soup, bread crumbs and sherry.  Load each cap with mixture and bake at 425F for 10 minutes.",
+  "yield_count": "24",
+  "yield_measure": "mushrooms",
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "Stuffed Mushroom Caps",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Miki Nakayama contributor",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "fresh mushrooms",
+     "quantity": "24",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "1/3 cup",
+     "preparation": "melted"
+    },
+    {
+     "ingredient_name": "seasoned salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "French onion soup mix",
+     "quantity": "2 pkts",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bread crumbs",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sherry",
+     "quantity": "3 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "12/31/2004"
+ }
+}

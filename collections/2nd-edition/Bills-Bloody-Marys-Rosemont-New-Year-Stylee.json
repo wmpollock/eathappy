@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Bills_Bloody_Marys_Rosemont_New_Year_Stylee",
+  "primary_category": "Beverages",
+  "preparation": "Mix all ingredients together except the celery stalk and find a \"capping cup\", something that will fit over the top to allow you to shake the cocktail (else one could probably use a cocktail shaker, but man, the cleanup\".  Garnish with celery.",
+  "yield_count": null,
+  "yield_measure": null,
+  "cdate": "01/26/2005",
+  "prep_time": null,
+  "name": "Bill's Bloody Marys, Rosemont New Year Stylee",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Cursed"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Another cursed recipe.  Over the course of a week at Sea Ranch I'd come up with the killer Bloody Mary recipe that took me the better part of a week to sus out.  And man, it had a little of everything.  When condiments are use-or-loose, suddenly pouring through that horseradish sounds like a good idea, doesn't it?Its was kind of a fussy recipe and while this one is maybe not as ambrosial, it is certainly serviceable enough to fly in Italy where I'd wanted it most.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "12 oz pint glass",
+     "quantity": "1",
+     "preparation": "full of ice"
+    },
+    {
+     "ingredient_name": "vodka",
+     "quantity": "2 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "4-5 dashes",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worchestershire",
+     "quantity": "2 dashes",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic salt",
+     "quantity": "4 dashes",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "5-6 grinds",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "celery stalk",
+     "quantity": "1",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/26/2005"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "name": "Lamb Curry",
+  "preparation": "In a saucepan, melt butter and saute onion, garlic and curry until onions are soft.  Gradually stir in flour.  Mix in the chicken broth and light cream.Stir over low heat until sauce bubbles and thickens.  Add lamb and season to taste with salt and pepper.",
+  "main_ingredient": "Lamb",
+  "yield_count": "4",
+  "notes": "Not very \"curry\" but a staple of my childhood diet growing up.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Margarine Or Butter",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Onion, Chopped",
+     "quantity": "1 Large"
+    },
+    {
+     "ingredient_name": "Garlic, Chopped",
+     "quantity": "1 Clove"
+    },
+    {
+     "ingredient_name": "Curry Powder",
+     "quantity": "1-2 Tsp",
+     "preparation": "To Taste"
+    },
+    {
+     "ingredient_name": "Flour",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Chicken Broth",
+     "quantity": "13 Oz Can"
+    },
+    {
+     "ingredient_name": "Light Cream",
+     "quantity": "1/2 Pint"
+    },
+    {
+     "ingredient_name": "Lamb Shanks, Cooked",
+     "quantity": "4"
+    },
+    {
+     "ingredient_name": "Salt And Pepper",
+     "quantity": null
+    }
+   ]
+  },
+  "category": {
+   "category": "Main Dish"
+  },
+  "yield_measure": "Servings"
+ }
+}

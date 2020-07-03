@@ -1,0 +1,105 @@
+{
+ "recipe": {
+  "name": "Kitchiri",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": "The book suggests that this is the dish behind teh dish that is kedgeree, if tht rings a bell.  It target it as an ample \"supper\" or brunch dish.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "masoor dal or green lentils",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "\"vegetarian ghee\" or butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sunflower oil or substitute",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "basmati rice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "cumin seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "cardamom pods",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "bay leaves",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "cinnamon stick",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "choped cilantro or parsley",
+     "preparation": "for garnish"
+    }
+   ]
+  },
+  "preparation": "Cover the dal or lentils with boiling water and let soak for 30 minutes.  Drain and boil in fresh water for ten minutes.  Drain.In the ghee or butter, fry the onion and garlic clove in a large saucepan for 5 minutes.  Add rice and stir well to coat rice in the butter or oil.  Stir in salt and pepper and cook gentle for a minute or so.  Add lentils, stock, tomato paste, coriander, cumin, cloves, cardamom, bay leaves and cinnamn stick and bring to a boil.  Reduce and simmer for 20 minutes or until the stock is absorbed.Remove cinnamon stick and bay leaf before serving.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Indian (BAWM)",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Kitchiri"
+ }
+}

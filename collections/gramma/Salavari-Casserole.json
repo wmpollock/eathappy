@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Salavari Casserole",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "hamburger (ground chuck)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "black olives",
+     "preparation": "[as Pitted Olives (Ripe Olives)]"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "noodles (bow ties)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "corn",
+     "preparation": "cream style, medium an"
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "Tillamook cheese",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "tomato sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped finely"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "green pepper",
+     "preparation": "chopped finely"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large cloves garlic",
+     "preparation": "smashed [? no preparation given]"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": null,
+     "preparation": "drained"
+    }
+   ]
+  },
+  "preparation": "Boil, rinse and drain noodles.  Fry onion, pepper and garlic, fry slightly.  Add meat.  Fry until no longer red.  Add tomato sauce.  Combine with noodles, diced cheese -- reserving some for topping -- corn, olives and the olive liquid and brown in oven.  Remove garlic gloves before putting into casserole.No salt need be added.Cook in oven at 350F for 45 minutes.",
+  "source_author": "Marge Lerken[?]",
+  "source_name": null,
+  "source_page": "85-86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-20",
+  "mdate": null,
+  "user": "billp"
+ }
+}

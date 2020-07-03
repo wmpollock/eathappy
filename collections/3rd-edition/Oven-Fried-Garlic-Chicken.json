@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Oven Fried Garlic Chicken",
+  "notes": "My mom mad a recipe remarkably similar to this. I suspected that her original source was either one of her Gilroy Garlic Festival cookbooks from her garlic periods or else a seemingly healthier alternative to normal fried chicken, but this recipe is fairly ubiquitous across the Internet with uncited sources, so hard to tell.  Perhaps its what passes for Modern American Home Cooking in 2005.Truly a fantastic recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "fresh parsley",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "5 Tbl",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "3 garlic cloves",
+     "ingredient_name": "minced",
+     "preparation": null
+    },
+    {
+     "quantity": "3 lbs",
+     "ingredient_name": "chicken parts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a shallow bowl, blend together bread crumbs, Parmesan cheese, parsley, salt and pepper.  Heat butter and garlic in a small saucepan over low heat until butter melts.  Remove from heat.  Brush chicken pieces with butter mixture and dredge in bread crumb mixture.  In a shallow baking pan, arrange chicken skin-side up.  Mix together remaining butter and bread crumb mixture and sprinkle over the top of chicken.  Bake uncovered at 350F for one hour.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New05",
+    "Bill's Favorite",
+    "Chicken"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/23/2005",
+  "mdate": "05/11/2009",
+  "safe_name": "Oven_Fried_Garlic_Chicken"
+ }
+}

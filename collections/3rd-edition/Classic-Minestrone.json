@@ -1,0 +1,98 @@
+{
+ "recipe": {
+  "name": "Classic Minestrone",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large leek",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "carrots",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "zucchini",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "whole green beans",
+     "preparation": "halved"
+    },
+    {
+     "quantity": "2 stalks",
+     "ingredient_name": "celery",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "tomatoes",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh basil",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "chopped fresh thyme leaves or 1/2 tsp dried",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cannellini or kidney beans and canning fluid",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "small pasta shapes or macaroni",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly grated parmesan cheese",
+     "preparation": "optionally as a garnish"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh chopped parsley",
+     "preparation": "as a garnish"
+    }
+   ]
+  },
+  "preparation": "Put the olive oil, leek, carrots, zuchini, green beans, and celery together in a large saucepan.  Heat until lightly frying and then sweat the vegetables for 15 minutes, stirring ocassionally.Ad stock or water,tomatoes, basil and thyme and bring to a boil, smmering gently for 30 minutes.  Add beans and their fluid (some would say liquor) to pot along with pasta and simmer for another 10 minutes.  Salt and pepper to taste.Serve garnished with parmesan cheese and parsley.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Italian",
+    "Vegetables"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Classic_Minestrone"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Quick Tortilla Soup",
+  "yield_count": "6",
+  "yield_measure": "Servings",
+  "notes": "A tasty little number.  I don't know if calling for \"cooked chicken breast\" fully qualifies as \"quick\", but whatev'.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 14 oz can",
+     "ingredient_name": "black beans",
+     "preparation": "drained and rinsed"
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "unsalted chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "8 ozs",
+     "ingredient_name": "chicken breast",
+     "preparation": "cooked & cut into 1/2\" cubes"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "frozen corn",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "fresh salsa",
+     "preparation": null
+    },
+    {
+     "quantity": "8 ozs",
+     "ingredient_name": "tortilla chips",
+     "preparation": "roughly broken"
+    }
+   ]
+  },
+  "preparation": "Combine beans and broth in a large pot, simmer and season.  Add chicken and corn.  Return soup to a simmer and cook gently until chicken is cooked through, about 7 minutes.Remove pot from heat and add 1 cup salsa -- add more salsa to taste. Simmer until hot.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": "Quickie"
+  },
+  "source_name": "San Francisco Chronicle",
+  "source_date": "23 April 2003",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "10/31/2008",
+  "safe_name": "Quick_Tortilla_Soup"
+ }
+}

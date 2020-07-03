@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Jacquis_Perfect_Margarita",
+  "primary_category": "Beverages",
+  "preparation": "Meyer Lemon Syrup:Simmer one cup water with one cup sugar for five minutes or until clear.  Strain the juice of 1 large lemon into the hot syrup and stir.  Meyer lemons are preferable, but normal lemons work just as well.Margaritas:Shake tequila, triple sec, lime juice and lemon syrup together and pour into salted glasses.  Garnish with a wedge of lime.",
+  "yield_count": "2",
+  "yield_measure": "Servings",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Jacqui's Perfect Margarita",
+  "secondary_categories": {
+   "secondary_categorie": "Makes You Drunk"
+  },
+  "source_date": null,
+  "source_name": "San Francisco Chronicle, 30 April 2003",
+  "notes": "I trust anyone named \"Jacqui\" nearly explicitly as far as  poolside cocktails is concerned.  If she says something is \"perfect\", then I tend to agree with her.Made with great acclaim twice with standard lemons and Cointreau during the 2004 Villa Stay.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "lemon or lime wedges",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "kosher salt",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "agave tequila",
+     "quantity": "2 1/2 ozs (5 parts)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "triple sec or cointreau",
+     "quantity": "2 ozs (4 parts)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh lime juice",
+     "quantity": "2 1/2 ozs (5 parts)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Meyer lemon simple syrup",
+     "quantity": "1 oz (1 part)",
+     "preparation": "(see recipe)"
+    },
+    {
+     "ingredient_name": "ice cubes",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

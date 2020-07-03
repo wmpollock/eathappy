@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Moon Baubles",
+  "yield_count": "4",
+  "yield_measure": "dozen",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup (1 stick)",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "toasted oats (like Cheerios)",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cany coated chocolate pieces (like M&Ms)",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream together butter and sugar.  Add egg and vanilla extract andbeat until fluffy.  Stir in flour and baking powder and mix well before adding cereal and choclate pieces.  Stiru ntil just blended.Drop rounded teaspoons 2\" apart onto ungreased cookie sheet.  Bake 9-11 minutes or until lightly brown in a 350F oven.  Let cool on cookie sheet 1 minute before removing to racks for final cooling",
+  "primary_category": "Cookies",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Box Recipe"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Fine Foods Toasted Oats box",
+  "source_date": "2009",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Moon_Baubles"
+ }
+}

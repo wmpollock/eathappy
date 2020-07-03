@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Roasted Sweet Potatoes and Apples",
+  "safe_name": "Roasted_Sweet_Potatoes_and_Apples",
+  "yield_count": "12 to 12",
+  "yield_measure": "servings",
+  "notes": "This sweet potato dish strikes a perfect balance between sweet, tart, and savory",
+  "prep_time": "1 1/4 hrs",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 lbs.",
+     "ingredient_name": "orange-flesh sweet potatoes (often labeled \"yams\")",
+     "preparation": "peeled and cut into 1\" chunks"
+    },
+    {
+     "quantity": "3 T",
+     "ingredient_name": "EVOO",
+     "preparation": null
+    },
+    {
+     "quantity": "2 each",
+     "ingredient_name": "Fuji, Golden Delicious, and Granny Smith apples",
+     "preparation": "peeled and cut into 1\" chunks"
+    },
+    {
+     "quantity": "1/4 c",
+     "ingredient_name": "maple syrup",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "zest of 1 lemon",
+     "preparation": "finely shredded"
+    },
+    {
+     "quantity": "1 T",
+     "ingredient_name": "fresh lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 T",
+     "ingredient_name": "chopped fresh thyme, plus sprigs",
+     "preparation": null
+    },
+    {
+     "quantity": "about 1 1/2 t",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 t",
+     "ingredient_name": "black pepper",
+     "preparation": "freshly ground"
+    }
+   ]
+  },
+  "preparation": "1. Preheat oven to 425 degrees. In a large bowl, toss sweet potatoes, oil, apples, syrup, lemon zest and juice, chopped thyme, 1 1/2 t kosher salt, and pepper until coated.2. Spread mixture in a single layer in 2 large, oiled, rimmed baking pans. Roast until sweet potatoes are browned and tender when pierced, 40 minutes, turning chunks every 15 minutes. Transfer to a platter, add more salt to taste, and garnish with thyme sprigs.Make ahead: Up to 1 day; chill. Reheat, drizzled with a little olive oil, in a 425 degree oven in 2 baking pans, until hot, 20 minutes.",
+  "primary_category": "Vegetables",
+  "secondary_categories": {
+   "secondary_category": [
+    "Thanksgiving",
+    "Vegetables",
+    "Vegetarian",
+    "Apples"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "76",
+  "source_date": "November 2009",
+  "entry_app": "Veronica",
+  "cdate": "11/24/2009",
+  "mdate": null,
+  "user": "hilaryp"
+ }
+}

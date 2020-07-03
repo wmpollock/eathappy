@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Tortilla Pie",
+  "safe_name": "Tortilla_Pie",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "notes": "I stood in fear of this recipe for some time, having horrible recollections about a dish involving tortillas and worrying that this one was perhaps it.  I've made it several times and under several conditions including make-ahead freezing and have not yet come up with a mystery method for fouling this thing up.  Delicious 70s goodness!The original recipe called for a \"small can of niblets\" which I like for sentimental reasons but we roll with big bags of frozen kernels at our house and that works fine too.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "hamburger",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "tomato sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1+ cup",
+     "ingredient_name": "corn",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "olives",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "tortillas",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "grated"
+    }
+   ]
+  },
+  "preparation": "Brown hamburger and onion together in skillet.  Remove from heat and mix in chili powder, tomato sauce, and corn.  Season with salt and pepper to taste.Arrange a layer of tortillas on the bottom of casserole.  Put half of the sauce in a layer and top with chopped olives and grated cheese.  Repeat.Bake at 325F for 30 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "70s Flashback",
+    "Lots Of Cheese",
+    "Bill's Favorite",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "01/02/2013",
+  "user": "billp"
+ }
+}

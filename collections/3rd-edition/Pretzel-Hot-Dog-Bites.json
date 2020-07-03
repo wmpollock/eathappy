@@ -1,0 +1,120 @@
+{
+ "recipe": {
+  "name": "Pretzel Hot Dog Bites",
+  "safe_name": "Pretzel_Hot_Dog_Bites",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The Chron has several fine suggestions for modifiations of the base recipe:  substitue other small tubemeat for the hot dogs, cut the recipe in half, freeze them, make pretzels from extra dough and maybe make cinnamon sugar pretzels.  The world is your oyster!",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Dough",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "warm water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "divided (not separated)"
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "unsalted butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": "separated, additional for dusting"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Pickled mustard seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "yellow mustard seeds",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Finish",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "spray oil",
+     "preparation": null
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "hot dogs",
+     "preparation": null
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "cups water",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pretzel salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dough:  In a mixer, mix together water and yeast and let for five minutes.  Whisk in suager, salt, one of the two eggs, butter and one cup of flour.  Restart the mixer, cutting the flour in batches.  Make sure bottom and hook get scraped while mixing.  When mixed, transfer to oiled bowl and let rise for 45 minutes or until double.Pickled musard seeds:  I a small saucepan mix vinegar, sugar and salt, and boilstirring to dissolve.  Remove from heat and incorporate mustard seeds.  Refrigerate for at least and hour or no more than two days.Bites:  Prepare dogs by halving lengthwise and then quartering halves*.  Divide dough and roll out into 1/2\" thick squares.  Slice into 2 inch strips. Lay dog bits across a strip of dough leaving 1/2\" space between each.  sprinkle with mustard seeds.  Top with an additional layer of dough and divide between dogs, pinching cut edges together to create a classic \"pig in a blanket\".  Bits can be frozen at this stage for three weeks.Boil water and baking soda in a medium saucepan.  Prepare a baking sheet with parchment paper, spray oil and dust with flour to prevent dough from sticking.  Preheat oven to 450F.  Boil batches of bites for thirty seconds and transfer to baking sheet.Whisk remaining egg with 1 Tbl water and use it to wash bites before sprinkling with salt. Bake 10-15 minutes at 450F until golden brown.--** Also, interestingly, lengthwise, ut in a /different direction/.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Asst'd Comfort Food",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Pretzel Hot Dog Bites\", The San Francisco Chronicle",
+  "source_page": "http://www.sfgate.com/food/recipes/detail/?p=detail&rid=18622&sorig=qs",
+  "entry_app": "Veronica",
+  "cdate": "02/24/2013",
+  "mdate": "03/03/2013",
+  "user": "billp"
+ }
+}

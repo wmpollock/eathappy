@@ -1,0 +1,96 @@
+{
+ "recipe": {
+  "name": "Beef Stroganoff - Nell",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 1/2 lb",
+     "ingredient_name": "round steak",
+     "preparation": "cut into 1/2\" strips"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "onion",
+     "preparation": "cut"
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "sliced mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "consume",
+     "preparation": null
+    },
+    {
+     "quantity": "1 carton",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bay leaf",
+     "preparation": "crumbled"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "accent",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown meat in oil.  Put in casserole.  Add salt, pepper and sherry.  Saute onions in drippings until golden brown. Mix together paste, consume and flour.  Add bay leaf, garlic and accent.  Mix and pour over meat.  350F for 1 hour or until meat is tender.  Stir in sour cream when ready to serve.  Serve over rice.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0070-0071",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-02-09",
+  "user": "billp"
+ }
+}

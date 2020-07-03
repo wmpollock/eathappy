@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Colache (Mexican Squash)",
+  "safe_name": "Colache_Mexican_Squash_",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "notes": "In trying to chase down where I'd clipped this from I'd found out that Mr. Mangrum was a member of the Billboard Liberation Front, a San Francisco-based group of culture jammers.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "fresh green beans",
+     "preparation": "trimmed and cut into 1\" piees"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium yellow onions",
+     "preparation": "coarsely chopped"
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "zucchini",
+     "preparation": "cut into 1\" cubes"
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "yellow crookneck squash",
+     "preparation": "cut into 1\" cubes"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "large Anaheim chilles",
+     "preparation": "peeled, seeded, deveined and diced; alternately 1 7ox can diced green chiles"
+    },
+    {
+     "quantity": "5",
+     "ingredient_name": "medium Roma tomatoes",
+     "preparation": "peeled and coarsely chopped; alternately 1 14 oz can"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "cloves garlic",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 ears",
+     "ingredient_name": "fresh corn",
+     "preparation": "cooked and cut from cob; alternately 14 oz canned/frozen corn"
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "shredded"
+    }
+   ]
+  },
+  "preparation": "Heat olive oil in large, heavy-bottomed pot over medium-high heat.  Stir-fry green beans until skins start to blister.  Add onions and cook until transluscent.  Add  zucchini, squash and chilis and cook for a few minutes.  Add tomatoes, garlic and salt and simmer covered over low heat for 20 minutes, refraining from stirring.  Add corn and oregano and cook an additional 20 minutes.  Add cheddar cheese just before serving.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Stuart Mangrum, Pleasant Hill (Sunset Magazine?  \"Best Side Dish Winner\")",
+  "entry_app": "Veronica",
+  "cdate": "06/29/2013",
+  "user": "billp"
+ }
+}

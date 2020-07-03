@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Caribbean Rice and Peas",
+  "safe_name": "Caribbean_Rice_and_Peas",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I've not personally used creamed coconut, but",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "long rain rice",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "dried pigeon peas or red kidney beans",
+     "preparation": "soaked and cooked"
+    },
+    {
+     "quantity": "3 2/3 cups",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "creamed coconut",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried thyme or 1 Tbl fresh",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small onion",
+     "preparation": null
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "cloves",
+     "preparation": "studded into onion"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and ground pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Combine the rice, peas or beans, water, coconut, thyme, onion and salt and pepper in a large saucepan.  Stir constantly while bringing to a boil -- you can stop stirring when the creamed coconut has melted.  Simmer gently for 20 minutes. Remove the lid and allow to finish cooking uncovered for 5 additional minutes to ensure any extra liquid is driven off.  Remove from heat and occasionally toss to keep the grains separated.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Rice, Grains",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "256",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Garlic Mushrooms",
+  "yield_measure": "Servings",
+  "notes": "I consider this a fairly \"short\" recipe, meaning we're a little light on the mixture here, at least for 20 standard  supermarket mushrooms.  I usually just eyeball this one until the proportions look right:  twice as much parsley  as cheese and enough butter to hold it all together. I generally like making the butter mixture ahead of time and leave it formed in a ball overnight to let the flavors  develop a bit before removing it and re-softening to use. They serve these by the truckload at Gilroy's annual Garlic festival, from whence this recipe is derived.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "20",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "parsley",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Soften butter.  Mix garlic, parsley, Parmesan and butter together and let sit to let the flavors develop.  Meanwhile, clean and remove stems from the mushrooms.  Fill caps with mixture and set in a 13\"x9\" glass dish.  Cook at 400F or under the broiler until the mushrooms begin to soften a bit.  The crust will likely brown a bit, especially in the broiler.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "Bill's Favorite",
+    "Butter!"
+   ]
+  },
+  "source_name": "\"Garlic Lover's Cookbook\"",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Garlic_Mushrooms"
+ }
+}

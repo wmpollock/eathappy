@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Quick salmon rice casserole",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 7 3/4oz can",
+     "ingredient_name": "salmon",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "cooked rice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dill weed",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "shredded medium cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cream of mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Flake salmon into buttered 1 1/2 quarter casserole.  Mix remaining ingredients.  Bake at 350F for 25-30 min.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0072-0073",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-20",
+  "mdate": null,
+  "user": "billp"
+ }
+}

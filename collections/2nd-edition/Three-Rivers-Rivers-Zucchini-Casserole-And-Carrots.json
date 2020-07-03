@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Three_Rivers_Rivers_Zucchini_Casserole_And_Carrots",
+  "primary_category": "Appetizers",
+  "preparation": "Mix well and bake at 350F for 24-45 minutes.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "12/31/2004",
+  "prep_time": null,
+  "name": "Three Rivers Rivers Zucchini Casserole And Carrots",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "\"High Country Recipes from the Chester High Ski Team\", Vance Newell",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "zucchini",
+     "quantity": "3 cups",
+     "preparation": "sliced thinly"
+    },
+    {
+     "ingredient_name": "carrots",
+     "quantity": "2",
+     "preparation": "grated"
+    },
+    {
+     "ingredient_name": "small onion",
+     "quantity": "1",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "chicken soup base",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "stuffing mix",
+     "quantity": "1/2 pkg",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "melted butter",
+     "quantity": "1/3 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Memphis-style Rub",
+  "safe_name": "Memphis_style_Rub",
+  "yield_count": "1/2",
+  "yield_measure": "cup",
+  "notes": "Made of things common to nearly all kitchens, this rub also works well on pork shoulder and -- in smaller measures -- as a season-all.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "fresh ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dry meat before applying.  Let sit on meat until it appears moist.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef",
+    "Pork"
+   ]
+  },
+  "untried": "1",
+  "source_name": "About.com:  Memphis Style Rib Rub",
+  "source_page": "http://bbq.about.com/od/rubrecipes/r/bl90710b.htm",
+  "entry_app": "Veronica",
+  "cdate": "03/03/2013",
+  "mdate": "03/03/2013",
+  "user": "billp"
+ }
+}

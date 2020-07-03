@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "notes": "From \"High Country Recipes from the Chester High Ski Team\", Vance Newell",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Zucchini",
+     "quantity": "3 Cups",
+     "preparation": "Sliced Thinly"
+    },
+    {
+     "ingredient_name": "Carrots",
+     "quantity": "2",
+     "preparation": "Grated"
+    },
+    {
+     "ingredient_name": "Small Onion",
+     "quantity": "1",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Chicken Soup Base",
+     "unknown_1": "06075",
+     "quantity": "1 Can"
+    },
+    {
+     "ingredient_name": "Sour Cream",
+     "unknown_1": "01056",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Suffing Mix",
+     "quantity": "1/2 Pkg"
+    },
+    {
+     "ingredient_name": "Melted Butter",
+     "quantity": "1/3 Cup"
+    }
+   ]
+  },
+  "name": "3 Rivers Zucchini Casserole And Carrots",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Vegetable"
+  },
+  "preparation": "Mix well and bake at 350F for 24-45 minutes."
+ }
+}

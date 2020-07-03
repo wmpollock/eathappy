@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Cinnamon Sticks",
+  "safe_name": "Cinnamon_Sticks",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Found on the back of a Tillamook butter package, this looks suspiciously similar to other butter package cinamon-stick recipes.  But, if it is indeed that common, how bad can it be?",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all dry ingredients and cut in butter to form ball.  Chill 5 minutes and roll out to 1/2\".  Cut into strips 2\"x1/2\".  Space 1\" apart on baking sheets and cook at 350F for 8-10 minutes or until brown.Allow to cool for five minutes then roll in topping mixture.",
+  "primary_category": "Cookies",
+  "secondary_categories": {
+   "secondary_category": [
+    "Box Recipe",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Tilamook Butter Package -- Credited to Jan Marti, Tillamook Dairy Farmer",
+  "source_date": "Summer, 2006",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2006",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

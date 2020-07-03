@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Cranberry Jello",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 large package",
+     "ingredient_name": "raspberry jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 16oz can",
+     "ingredient_name": "whole cranberry sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 8oz can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": "undrained"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "burgundy wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Add boiling water to package of raspberry jello and stir well to dissolve.  Add remaining ingredients and pour into 9x13 pan.  Chill.",
+  "source_author": null,
+  "source_name": "Lola Pickles",
+  "source_page": "30-31",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

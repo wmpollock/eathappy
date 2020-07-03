@@ -1,0 +1,90 @@
+{
+ "recipe": {
+  "source_page": "6",
+  "safe_name": "Curried_Chicken_Meat_Balls",
+  "primary_category": "Appetizers",
+  "preparation": "Mix meatball mixture together and roll balls in flour.  Saute in butter until throughly cooked.Sauce:  saute crushed clove of garlic in 2 tbsp butter until soft and discard.  Add remaining ingredients and reduce until thick.  Season with salt and pepper to taste.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Curried Chicken Meat Balls",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1958",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**MEATBALLS",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground chicken or turkey",
+     "quantity": "2 lbs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1/2 cup",
+     "preparation": "grated"
+    },
+    {
+     "ingredient_name": "curry powder",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "breadcrumbs",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**CURRY SAUCE",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "clove garlic",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "curry powder",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "1 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

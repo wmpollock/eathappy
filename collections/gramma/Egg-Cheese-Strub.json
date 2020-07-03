@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Egg & Cheese Souffle",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 slices",
+     "ingredient_name": "day-old bread",
+     "preparation": "buttered"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "shredded cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "eggs",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "cayenne",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Grease bottom of baking dish.  Butter bread and cut into cubes.  Layer 1/2 of bread cubes in bottom of casserole.  Cover with 1/2 cup cheddar cheese.  Repeat and set aside.  Mix other ingredients.  Pour over bread and cheese.  Cover and refrigerate several hours or overnight.Bake 1/2 hour.  Let stand 7-10 minutes before serving.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0036-0037",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "mdate": "12/18/2005",
+  "safe_name": "Egg_Cheese_Strub"
+ }
+}

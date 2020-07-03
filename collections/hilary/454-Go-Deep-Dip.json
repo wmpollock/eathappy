@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "454 \"Go Deep\" Dip",
+  "safe_name": "454_Go_Deep_Dip",
+  "yield_count": "~16",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": "10 min",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "16 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "Skor or Heath Bars",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tub",
+     "ingredient_name": "Mrs. Richardson's Butterscotch or Caramel topping",
+     "preparation": null
+    },
+    {
+     "quantity": "4 each",
+     "ingredient_name": "red and green apples",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Put ingredients in a 9x13 pan as follows:Layer 1: Mix cream cheese with brown sugar and vanillaLayer 2: Break and spread five candy barsLayer 3: Spread container of Mrs. Richardson's toppingLayer 4: Break and spread remaining three candy barsCut apples into wedges and serve with plenty of napkins (and maybe spoons!)",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Dips",
+    "Makes You Fat",
+    "Apples"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Lisa Thornton, via Cheryl Bryan",
+  "entry_app": "Veronica",
+  "cdate": "01/13/2011",
+  "user": "hilaryp"
+ }
+}

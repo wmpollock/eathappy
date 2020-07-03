@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Falafel_Patties",
+  "primary_category": "Main Dishes",
+  "preparation": "Mix all ingredients except parsley in a food processor or blender.  Mix in parsley by hand.  Lightly oil a skillet and heat on medium-low.  Drop spoonfuls of falafel mixture onto lightly oiled skillet and brown. Serve in pitas with lettuce, tomato, onion, radishes and creamy dressing.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Falafel Patties",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Angel Isaacson",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "garbanzos",
+     "quantity": "16 oz can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "medium onion",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "2 cloves",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground coriander",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cumin",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "parsley",
+     "quantity": "1/4 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "pita bread",
+     "quantity": null,
+     "preparation": "for serving"
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

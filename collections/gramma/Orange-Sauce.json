@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Orange Sauce",
+  "notes": "\"Over cake or pudding\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "corn starch",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbsp",
+     "ingredient_name": "Margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "grated orange rind",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together dry ingredients and orange rind.  Add water gradually.  Cook 5 minutes over low heat.  Serve hot or cold.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "58",
+  "entry_app": "Veronica",
+  "cdate": "08/04/2007",
+  "safe_name": "Orange_Sauce"
+ }
+}

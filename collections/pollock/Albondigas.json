@@ -1,0 +1,116 @@
+{
+ "recipe": {
+  "name": "Albondigas",
+  "yield_count": "10",
+  "yield_measure": "Servings",
+  "notes": "Sr. Arturo used to run this joint in Walnut Creek where they always had a pot of this stuff on the back burner.   Its not quite like Arturo's, but its a fine recipe to have come across nearly by accident.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**BROTH",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2",
+     "ingredient_name": "small onions",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "clove garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "tomato sauce (14 oz)",
+     "preparation": null
+    },
+    {
+     "quantity": "3 qt",
+     "ingredient_name": "beef stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 sprig",
+     "ingredient_name": "mint or cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small",
+     "ingredient_name": "zuchini",
+     "preparation": "halved and sliced 1/4\" (optional)"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**MEATBALLS",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground pork",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "raw rice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "oregano",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "small onion",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "fresh cilantro",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "In a  large pot, fry minced onion and garlic together in 1/4 cup of oil or just enough to lightly coat everything.   When onions have softened some add the beef stock and tomato sauce and heat to boiling.  While the stock is heating, form the meatballs: mix ground pork and ground beef together and add the rest of the ingredients to the mix.  Form small meatballs and set aside.Add meatballs, cilantro and optional zuchini to broth and cover.  Reduce heat and simmer for at least 30 minutes.  The soup will gain character as the cooking time is lengthened -- at about an hour and a half the meatballs will start to degrade pleasantly.Ten minutes before serving add the sprig of mint to the broth and remove prior to serving.---In late December 2004 Greg Hoban, Dennis, Sam Archer and I took a trip down to Tres Hermanas and they were serving up a mix which still wasn't quite like Arturo's, but had carrots and zucchini in it.  I can't recall if the former was usually in there but I do recall the later from time to time.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Cursed",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "source_name": "Sivart Software's ACCUCHEF, v. 6.56, \"MEX\" database",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "11/18/2005",
+  "safe_name": "Albondigas"
+ }
+}

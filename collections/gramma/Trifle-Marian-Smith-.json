@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Trifle (Marian Smith)",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "pound cake",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cream sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "cherry gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "pie cherries",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "vanilla pudding",
+     "preparation": "not instant"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipped cream",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Place cake slices in pan.  Soak with cream sherry.  Pour liquid gelatin over cake.  Pour pie cherries over gelatin.  Layer pudding over trifle.  Top with whipped cream.  Sprinkle with chopped walnuts.",
+  "source_author": "Marian Smith",
+  "source_name": null,
+  "source_page": "95",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

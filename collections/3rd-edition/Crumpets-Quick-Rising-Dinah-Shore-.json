@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Crumpets (Quick Rising, Dinah Shore)",
+  "safe_name": "Crumpets_Quick_Rising_Dinah_Shore_",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Dinah Shore's crumpets are not like that soft, pancakey thing one can buy at the expat section of every better boutique market.  -One- of these, made roughly per the dimensions given will leave a terrible fullness for the measure of several days.Tasty and kind of complex tasting given their pedestrian reagents.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 package (2 1/4 tsp)",
+     "ingredient_name": "active dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": "dissolved in 1 Tbl water - or not"
+    }
+   ]
+  },
+  "preparation": "Mix together milk and boiling water and allow to stand until lukewarm.  Add sugar and yeast and allow mixture to double -- maybe 15-20 minutes.Mix together salt and sifted flour.  Combine with doubled yeast mixture.  Allow this stage to double -- considerably quicker than a purely yeast bread but still on the order of 35 minutes or so.Heat griddle to medium-hot (325F-350F) and butter 4\" ring forms.  Place ring forms on griddle and spoon batter to 1/2\".  Cook until dry and bubbly on top and toast lightly on other side.Serve with copious amounts of butter, honey and some of your purloined Golden Syrup.",
+  "primary_category": "Breakfast",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Bill's Favorite",
+    "Made For Butter",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "\"The Dinah Shore Cookbook\", Dinah Shore",
+  "source_page": "300",
+  "entry_app": "Veronica",
+  "cdate": "04/10/2008",
+  "mdate": "08/02/2010",
+  "user": "billp"
+ }
+}

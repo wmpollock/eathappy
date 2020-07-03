@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Frozen Lemon Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2",
+     "ingredient_name": "lemons",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon rind",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg whites",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipped cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "vanilla wafers",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together lemon juice, rind of one lemon, yolks and salt and cook until thick, then cool.Beat whites and add sugar.Fold in lemon mixture.Fold in whipped cream.Roll 1/2 lb vanilla wafers.  Use half on the top and half on the bottom.  Freeze.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "untried": "1",
+  "source_page": "0042-0043",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "safe_name": "Frozen_Lemon_Pie"
+ }
+}

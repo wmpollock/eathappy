@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Raspberry Creme",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "raspberry Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "10 oz",
+     "ingredient_name": "frozen raspberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pt",
+     "ingredient_name": "vanilla ice cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dissolve Jello in boiling water.  Soften berries slightly.  Mix + Serve in parfait glasses.",
+  "source_author": "Mel Waters",
+  "source_name": null,
+  "source_page": "0068",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

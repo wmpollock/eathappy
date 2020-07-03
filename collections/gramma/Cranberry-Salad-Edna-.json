@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Cranberry Salad (Edna)",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Cranberry Salad",
+    "Jello/Jello Mold"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Functionally very close to Cranberry Salad (Christmas) but with a few ingredient variations.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "raspberry or cherry jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "hot water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "pineapple juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cranberry sauce",
+     "preparation": "whole or jellied"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "No preparation given on this one -- try the Christmas variation perhaps.",
+  "source_author": null,
+  "source_name": "Edna",
+  "source_page": "30-31",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

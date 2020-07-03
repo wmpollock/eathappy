@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "main_ingredient": "Makes You Fat",
+  "notes": "**UNTRIED** Formerly \"Chocolate Pudding Desert\", a favorite of my mom's that she'd often make to go alongside  lasagna for the campwide cookout at Almanor.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Flour",
+     "quantity": "1 1/2 Cups"
+    },
+    {
+     "ingredient_name": "Margarine",
+     "quantity": "1 1/2 Sticks"
+    },
+    {
+     "ingredient_name": "Chopped Nuts",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Powdered Sugar",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Philadelphia Cream Cheese",
+     "quantity": "1 Pkg (8 Oz)"
+    },
+    {
+     "ingredient_name": "Cool Whip",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Instant Vanilla Pudding",
+     "quantity": "1 Pkg"
+    },
+    {
+     "ingredient_name": "Instant Chocolate Pudding",
+     "quantity": "1 Pkg"
+    },
+    {
+     "ingredient_name": "Milk",
+     "quantity": "3 Cups"
+    }
+   ]
+  },
+  "name": "Sex In A Pan",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Dessert",
+    "Untried"
+   ]
+  },
+  "preparation": "Melt margarine,  mix with flour and nuts.  Press into 13\" x 9\" pan. Bake at 350\u00ba for 20 minutes, cool.  Mix sugar and cream cheese.  Fold in Cool Whip and spread on top of pastry.  Mix pudding and milk and pour over cheese layer.  Put remainder of 12 oz container of Cool Whip on top and sprinkle more nuts on top of that.Yummy!"
+ }
+}

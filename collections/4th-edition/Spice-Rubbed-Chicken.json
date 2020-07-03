@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Spice-Rubbed Chicken",
+  "yield_measure": "Servings",
+  "notes": "A tasty from my modern version of \"The Joy Of Cooking\".  The rub works pretty well on pork tenderloin as  well.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "fennel seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "boneless and skinless chicken breasts",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "minced cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "fresh lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small clove",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together salt, mustard fennel, coriander, cinnamon and red pepper; crushing in the fennel seeds in a mortar & pestle or against the side of the bowl with a strong metal spoon. Rinse and pat dry chicken breasts and evenly coat all sides with spice mixture.Grill chicken and prepare sauce:  mix olive oil, cilantro, lemon juice, garlic and a dash of salt in a small bowl.  Drizzle oil mixture over chicken just prior to serving.Olive oil mix may be made ahead of time and chilled -- the difference in temperatures between the oil and the chicken is rather pleasant.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "BBQ",
+    "Chicken"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/11/2009",
+  "safe_name": "Spice_Rubbed_Chicken"
+ }
+}

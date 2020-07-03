@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Spaghetti Squash Moroccan Stylee",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "spaghetti squash, 3 1/2-4 lb",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 stick",
+     "ingredient_name": "unsalted butter",
+     "preparation": "cubed"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "garlic gloves",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbl",
+     "ingredient_name": "fresh cilantro",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "Wash the squash and pierce the outer shell with a sharp knife as one would a potato.  Microwave at full power for six to seven minutes, turn, and cook until squash begins to feel soft -- eight to ten more minutes.  Allow to cool for five minutes.  Alternately, squash can be cooked at 350F for 1hr, 15 minutes. Melt butter in saucepan and carmelize the garlic.  Add remaining spices and remove from heat.Halve squash and remove seeds.  Scrape flesh from squash using a fork and toss with spiced butter.",
+  "primary_category": "Vegetables",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables"
+   ]
+  },
+  "source_name": "Gourmet via Epicurious",
+  "source_date": "Feb 2002",
+  "entry_app": "Veronica",
+  "cdate": "04/02/2007",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Spaghetti_Squash_Moroccan_Stylee"
+ }
+}

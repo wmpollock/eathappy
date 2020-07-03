@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Macaroni Salad",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "small shell",
+     "preparation": "cooked 18 minutes"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "chopped celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "chopped stuffed olives (pimento)",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "shrimp",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "garlic wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "garlic salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    }
+   ]
+  },
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Kathleen El--wl",
+  "source_page": "48",
+  "entry_app": "Veronica",
+  "cdate": "03/12/2006",
+  "safe_name": "Macaroni_Salad"
+ }
+}

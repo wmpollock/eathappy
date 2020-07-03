@@ -1,0 +1,43 @@
+{
+ "recipe": {
+  "name": "Cherry Cobbler",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cherries",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "white cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "margarine",
+     "preparation": "melted"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Juice lemon over cherries.  Sprinkle cake mix over fruit.  Melt margarine and top cake mix with margarine and nuts.Bake at 325F for 50 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Irma Nulmunder",
+  "source_page": "0027",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Cherry_Cobbler"
+ }
+}

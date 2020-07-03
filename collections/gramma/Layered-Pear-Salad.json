@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Layered Pear Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "16 oz",
+     "ingredient_name": "pear slices",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz pkg",
+     "ingredient_name": "lemon jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "walnut halves",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Chop pears, set aide.  Dissolve gelatin in hot water.  Add pear juice adding water (to make)  1 cup. To 2/3 of gelatin mixture add vinegar.  Pour into 4 cup mold.  Chill until almost firm.Beat cream cheese and ginger until fluffy.  Stir in rest of gelatin.  Chill partly.  Fold in pears.  Arrange nuts on final layer then add pear mixture.  Chill.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0076-0077, 87-88",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

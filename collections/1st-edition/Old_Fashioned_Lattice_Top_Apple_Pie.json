@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "main_ingredient": "Apples",
+  "notes": "Getting the strippy bits worked out right is kind of a pain in the butt, but the pie is well worth the effort.   I've had some problems  with the crust falling in a bit, perhaps yours will come out better. Originally from Bon Appetit, 10/99 (via Epicurious)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**CRUST",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "All Purpose Flour",
+     "quantity": "2 1/2 Cups"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "3/4 Tsp"
+    },
+    {
+     "ingredient_name": "(1 1/4 Sticks) Chilled Unsalted Butter",
+     "quantity": "10 Tbl"
+    },
+    {
+     "ingredient_name": "Chilled Solid Vegetable Shortening",
+     "quantity": "1/3 Cup",
+     "preparation": "Diced"
+    },
+    {
+     "ingredient_name": "Ice Water",
+     "quantity": "6 Tbl"
+    },
+    {
+     "ingredient_name": "**FILLING",
+     "quantity": null
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "(packed) Golden Brown Sugar",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "All Purpose Flour",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Lemon Juice",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Grated Lemon Peel",
+     "quantity": "2 Tsp"
+    },
+    {
+     "ingredient_name": "Ground Nutmeg",
+     "quantity": "1/8 Tsp"
+    },
+    {
+     "ingredient_name": "Golden Delicious Apples",
+     "quantity": "3 Lbs"
+    }
+   ]
+  },
+  "name": "Old-Fashioned Lattice-Top Apple Pie",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Dessert"
+  },
+  "preparation": "Crust:  blend flour, sugar & salt in processor.  Add butter & shortening and cut in using bursts until mixture resembles coarse meal. Add 6 Tbl ice water and process until moist clumps form, adding more water by teaspoonfuls if dough is dry.  (I always do this with pastry cutters and forks, but I'm like that)Gather the dough into a ball:  divide into 2 pieces and flatten each into disk.  Wrap each in plastic; chill 2 hours.  Can be made 2 days ahead and refrigerated.Remove dough from fridge and let soften slightly before rolling out.Filling:  Position rack in lowest third of oven and preheat to 400F. Mix sugar and sugar, flour, lemon juice, lemon peel and nutmeg in large bowl.   Add apples and toss to blend.Roll out 1 dough disk on floured surface to 12-inch round.  Transfer to 9- inch-diameter glass pie dish.  Fold edge under, forming high-standing rim and crimp.Add filling.Roll out second dough disk on floured surface to 13-inch round.  Cut into twelve 1-inch-wide strips.  Arrange 6 strips across pie.  Form lattice by arranging 6 strips diagonally across fist strips.  Gently press ends into crust edges.  Cry some, curse, pound fists when the ends don't work out right.Brush lattice with milk and sprinkle lightly with additional sugar.Bake pie 10 minutes at 400F and reduce oven temperature to 375F. Continue baking until juices bubble thickly and crust is deep golden, about 1 hour 20 minutes.Cover edges with foil if they start browning too quickly.Cool on rack for at least one hour before serving."
+ }
+}

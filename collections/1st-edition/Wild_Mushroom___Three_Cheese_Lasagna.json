@@ -1,0 +1,100 @@
+{
+ "recipe": {
+  "name": "Wild Mushroom & Three-Cheese Lasagna",
+  "preparation": "SUMMARY:  70 minutes total cook time & garnish.  15 minutes sitting.Rinse porcini mushrooms, pour soak 30 minutes in 1 cup hot water. Sauce: Heat oil, add onion and cook until tender.  Add mushrooms until they soften.  Add rosemary & crushed red pepper & toss a few times. Add wine & mushroom liquid & boil until reduced by half.  Add tomatoes, reduce heat until sauce is thick -- this part always seems to take an eternity.  Season with salt & pepper. [cheat: added a little sage & Italian seasoning to make up for the lack of porcini]Filling: Combine ricotta, Parmesan & pesto.  Season w/salt & pepper. Stir in the 2 eggs & yolk to the mix.  Aren't you glad you seasoned BEFORE this step?Build: 1/4 sauce over dish          noodles          half of filling          1/4 sauce          1/3 goat cheese          noodles          rest of filling          1/4 sauce          1/3 goat cheese          noodles          rest of sauce & goat cheese.I always end up shorting myself sauce so that the last layer is pretty thin, but it never seems to matter much.Cook at 350 deg for 35 mins covered, 35 mins uncovered.Garnish with tomato & let stand 15 mins.",
+  "main_ingredient": "Vegetarian",
+  "yield_count": "8",
+  "notes": "I also made this for the first time at the 2000 \"Lonely Heart's Dinner\".  Jennifer Jones was coming over  and she's not just a hottie  but a vegetarian, so I detoured my second pan of lasagna into this and its  never been second-best.  It worked out nicely in terms of  prep since I could make it and another lasagna  the night before and just needed to throw them into the pan.  Sadly, I was a bit too buzzed by the time  dinner came on to remember to start the stove...  This is really tasty but ends up being kind of expensive  with several pricey mushrooms among the ingredients. Also, a pain in  the ass to find all four types.   Allegedly you can substitute morels for the porcini, but I've never tried it -- porcinis scare me for  some  reason.  I've substituted portobello for the shitakes when I haven't been able to find the latter fresh and it  hasn't mattered.   I've also dodged the porcini by using dried mushroom mixes from the supermarket that  work out pretty good.   Bon Appetit, March 1994 (via Epicurious)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Dried Porcini Mushrooms",
+     "quantity": "7/8 - 1 Oz"
+    },
+    {
+     "ingredient_name": "Hot Water",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Olive Oil",
+     "quantity": "3 Tbl"
+    },
+    {
+     "ingredient_name": "Chopped",
+     "quantity": "1 Med Onion"
+    },
+    {
+     "ingredient_name": "Button Mushrooms",
+     "quantity": "12 Oz"
+    },
+    {
+     "ingredient_name": "Shitake Mushrooms",
+     "quantity": "6-8 Oz"
+    },
+    {
+     "ingredient_name": "Garlic",
+     "quantity": "4 Cloves"
+    },
+    {
+     "ingredient_name": "Fresh Rosemary",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Dried Crushed Red Pepper",
+     "quantity": "1/8 Tsp"
+    },
+    {
+     "ingredient_name": "Dry Red Wine",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Crushed Tomatoes",
+     "quantity": "28 Oz Can"
+    },
+    {
+     "ingredient_name": "Ricotta Cheese",
+     "quantity": "2 15 Oz Cont."
+    },
+    {
+     "ingredient_name": "Parmesan Cheese",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Pesto Sauce",
+     "quantity": "1/3 Cup"
+    },
+    {
+     "ingredient_name": "Eggs",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Egg Yolk",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Lasagna Noodles",
+     "quantity": "12"
+    },
+    {
+     "ingredient_name": "Goat Cheese",
+     "quantity": "20 Oz"
+    },
+    {
+     "ingredient_name": "Seeded, Chops",
+     "quantity": "1 Tomato"
+    },
+    {
+     "ingredient_name": "Fresh Basil",
+     "quantity": null
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Italian",
+    "Vegetarian"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

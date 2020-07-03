@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Pork Chops Patrice",
+  "notes": "Patrick was well known as a bachelor epicure, meaning he cooked well but typically with a mixture of at-hand ingredients and a minimum of fussiness.  This recipe lists \"1/2+\" sour cream:  another treatment I have for this same recipe lists 1/4 cup sour cream.  Its possible that this measure is supposed to be a 1/2 tsp, but that sounds too short to bother with.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "pork chops",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cream of mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup?",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sliced mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green onion",
+     "preparation": "finely sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "white wine",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown pork chops.  Spread cream of mushroom soup on bottom of casserole and arrange pork chops atop.  Cover with remaining ingredients.  Bake 30 minutes and turn and bake an additional 15-30 minutes or until tender.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**Needs review",
+    "Bachelor Food",
+    "Pork Chops"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Patrick Morrow",
+  "source_page": "0062",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Pork_Chops_Patrice"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Creamed Mushrooms",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "onions",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "white wine",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Saute mushrooms and onions in butter in oil.  Add white whine and cook briefly",
+  "primary_category": "Vegetables",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0017",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Creamed_Mushrooms"
+ }
+}

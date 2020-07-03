@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "prep_time": "00:30",
+  "name": "Ranch-Style Chunky Chili",
+  "preparation": "Cut boneless beef chuck pot roast into 1-inch pieces, cut each thence in half.  Brown beef (in 2 or 3 batches) in oil.  Remove beef, add onion, green pepper, celery and garlic;  cook and stir 2 minutes.  Pour off drippings.  Reintroduce beef.  Sprinkle chili powder, cumin and salt over beef;  add bay leaf.  Ad tomatoes, tomato sauce and beer.  Bring to boil, reduce heat, cover tightly and slowly cook  1 to 1 1/2 hours or until beef is tender.  Add beans, jalapeno pepper and sugar and continue cooking uncovered 20 minutes.  Remove bay leaf.  Garnish with oyster crackers, sour cream and green onions, if desired.",
+  "yield_count": "6",
+  "notes": "**UNTRIED**Originally from the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Elizabeth  Arguello.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Boneless Beef Chuck",
+     "unknown_1": "13373",
+     "quantity": "1 3/4 Lb"
+    },
+    {
+     "ingredient_name": "Oil",
+     "unknown_1": "04518",
+     "quantity": "2 Tbsp"
+    },
+    {
+     "ingredient_name": "Large Onion",
+     "quantity": "1",
+     "preparation": "Cut Into 1\" Pieces"
+    },
+    {
+     "ingredient_name": "Chopped Celery",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Garlic",
+     "quantity": "1 Clove",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Chili Powder",
+     "unknown_1": "02009",
+     "quantity": "2 Tbsp"
+    },
+    {
+     "ingredient_name": "Ground Cumin",
+     "unknown_1": "02014",
+     "quantity": "2 Tsp"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Bay Leaf",
+     "unknown_1": "02004",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Stewed Tomatoes",
+     "quantity": "16 Oz Can"
+    },
+    {
+     "ingredient_name": "Tomato Sauce",
+     "unknown_1": "11549",
+     "quantity": "8 Oz Can"
+    },
+    {
+     "ingredient_name": "Beer",
+     "quantity": "12 Oz Can"
+    },
+    {
+     "ingredient_name": "Pinto Beans",
+     "quantity": "16 Oz Can",
+     "preparation": "Drained"
+    },
+    {
+     "ingredient_name": "Jalapeno Pepper",
+     "quantity": "1",
+     "preparation": "Finely  Chopped"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "1 Tbsp"
+    }
+   ]
+  },
+  "category": {
+   "category": "Main Dish"
+  },
+  "yield_measure": "Servings"
+ }
+}

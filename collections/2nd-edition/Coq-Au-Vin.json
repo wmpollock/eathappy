@@ -1,0 +1,99 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Coq_Au_Vin",
+  "primary_category": "Main Dishes",
+  "preparation": "BOUQUET GARNI:  thyme, bay leaf and parsley in cloth cheese bag or teaball.Wash chicken and pat dry.  Mix flour, salt and pepper; coat chicken with flour mixture.  In large skillet, fry bacon until crisp; drain and set aside.  Brown chicken in hot bacon drippings.  Push chicken aside; add onions and mushrooms and cook and stir until onions are tender.  Drain off fat.Crumble bacon; stir in with remaining ingredients.  Cover; simmer about 1 hour or until chicken is tender.  Remove Bouquet Garni before serving.  Skim off excess fat.  If desired, sprinkle with snipped parsley.",
+  "yield_count": "5",
+  "yield_measure": "Servings",
+  "cdate": "12/29/2004",
+  "prep_time": null,
+  "name": "Coq Au Vin",
+  "secondary_categories": {
+   "secondary_categorie": "Chicken"
+  },
+  "source_date": null,
+  "source_name": "From the Betty Crocker Recipe Card Library--Entertaining on a shoestring",
+  "notes": "My mother loved making this dish when she was entertaining.  Its got a good amount of prep work ahead of it,  but once its going it can be pretty well left alone.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "broiler-fryer chicken, cut up",
+     "quantity": "3 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bacon",
+     "quantity": "6 slices",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "small onions",
+     "quantity": "6",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mushrooms",
+     "quantity": "1/2 pound",
+     "preparation": "sliced"
+    },
+    {
+     "ingredient_name": "carrots",
+     "quantity": "4",
+     "preparation": "halved"
+    },
+    {
+     "ingredient_name": "chicken broth",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "red burgundy",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic, crushed",
+     "quantity": "1 clove",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crushed thyme",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "parsley",
+     "quantity": "2 large sprigs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bay leaves",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

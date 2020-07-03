@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Grand Marnier Souffle",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": "8-10 servings",
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sweet butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup + 2 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "Grand Mariner",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt butter.  Add flour, egg yolks + Grand Marnier.  Beat egg whites with sugar, stiff but not dry.  Fold into flour mixture.  May refrigerate until wanted.  Bake at 350F for 40-45 minutes if in a large dish or 20-35 min for individual souffles.Can be topped with Grand Marnier Sauce [see also].",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "85-86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

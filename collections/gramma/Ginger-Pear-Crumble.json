@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Ginger Pear Crumble",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "crumbled ginger snaps",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "pears or 1lb can drained pear halves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "maraschino cherries",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine crumbs, brown sugar, salt and butter.  Put half of mixture in bottom of 8-inch baking dish.  Top with pear halves, cut side up.  Sprinkle with lemon juice.  Bake at 350F for 25 or 30 minutes.  Top each pear with a cherry.  Serve warm topped with ice cream or whipping cream.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "untried": "1",
+  "source_page": "0038-0039",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "mdate": "12/18/2005",
+  "safe_name": "Ginger_Pear_Crumble"
+ }
+}

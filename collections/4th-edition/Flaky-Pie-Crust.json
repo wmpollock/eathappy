@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Flaky Pie Crust",
+  "yield_count": "2",
+  "yield_measure": "Servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "cold butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "3-5 Tbl",
+     "ingredient_name": "cold water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large bowl mix flour and salt.  Using a pastry blender or 2 knives, cut in lard and butter until mixture is crumbly and particles are the size of small dried peas. Mixing lightly with a fork, sprinkle on water, 1 tablespoon at a time,  until dough begins to cling together.  With your hands press dough into 2 flattened balls of equal size.  Enclose in plastic wrap to prevent dough from drying out while preparing filling.  To avoid stickiness, refrigerate up to a day. Roll out on a lightly floured surface, using short, firm strokes to achieve uniform thinness, according to recipe directions.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Pie Crust"
+  },
+  "source_name": "California Culinary Academy's \"Regional American Classics\"",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Flaky_Pie_Crust"
+ }
+}

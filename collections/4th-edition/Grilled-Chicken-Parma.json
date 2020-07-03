@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Grilled Chicken Parma",
+  "safe_name": "Grilled_Chicken_Parma",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "A keeper recipe from a time Hilary was on a marginally successful menu planning email list.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "bonless skinless chicken breast halves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "shreeded Mozarella cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced basil leaves",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium tomatoes",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "heavy duty aliminum foil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brush chicken wih oil.  Combine cheeses and basil in a dish and set aside Grill chicken for 4-5 minutes per side before topping with tomato slices and cheese mixture and covering in foil to cook for another 2 minutes or until cheese melts.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Chicken"
+   ]
+  },
+  "source_name": "Body Clutter Menu-Mailer, Vol 3, Week 32",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "01/29/2011",
+  "user": "billp"
+ }
+}

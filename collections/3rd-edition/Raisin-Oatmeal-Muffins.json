@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "name": "Raisin Oatmeal Muffins",
+  "yield_count": "12",
+  "yield_measure": "muffins",
+  "notes": "In my book, raisin+oatmeal = crazy delicious.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "old fashioned oats",
+     "preparation": "uncooked"
+    },
+    {
+     "quantity": "1 1/3 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "firmly packed"
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg white",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Prepare oven to 400F and line muffin tin with paper cups or shortening.  Combine oats, flour, cinnamon, baking powder and baking soda.  Mix in milk, brown sugar, oil and egg white before adding raisins.  Mix until ingredients are moist.  Fill cups and bake 18-20 minutes.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Ralph's Grocery brand Old Fashioned Oats",
+  "source_date": "2003?",
+  "entry_app": "Veronica",
+  "cdate": "05/06/2009",
+  "safe_name": "Raisin_Oatmeal_Muffins"
+ }
+}

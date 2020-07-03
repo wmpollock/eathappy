@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "source_page": "57",
+  "safe_name": "Kasutera_Japanese_Tea_Cake_",
+  "primary_category": "Desserts",
+  "preparation": "Preheat oven to 325F.  Beat egg whites in a large bowl until stiff.  Beat yolks in another bowl and cream in sugar gradually.  Beat in lemon rind and juice.  Fold in egg whites.  Sift in flour, folding in.  Pour into 9x13\" pan lined with baking parchment.  Bake 50 minutes or until golden brown.  Cover surface with wax paper and invert pan and remove parchment.  Return to pan to let cool.Slice into rectangular pieces.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/04/2005",
+  "prep_time": null,
+  "name": "Kasutera (Japanese Tea Cake)",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Kik Nishida",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "eggs",
+     "quantity": "1 dozen",
+     "preparation": "separated"
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 cups",
+     "preparation": "sifted"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon rind",
+     "quantity": "2 tsp",
+     "preparation": "grated fine"
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "1 1/4 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

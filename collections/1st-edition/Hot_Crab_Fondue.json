@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "main_ingredient": "Makes You Fat",
+  "notes": "From \"High Country Recipes from the Chester High Ski Team\", 1992 -- recipe by Glenda Grant",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "American Cheese Spread (Old English)",
+     "quantity": "1 5oz Jar"
+    },
+    {
+     "ingredient_name": "Cream Cheese",
+     "unknown_1": "01017",
+     "quantity": "8oz"
+    },
+    {
+     "ingredient_name": "Crab",
+     "unknown_1": "15226",
+     "quantity": "1 71/2 Oz Can"
+    },
+    {
+     "ingredient_name": "Light Cream",
+     "unknown_1": "01052",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Worcetershire Sauce",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Garlic Powder",
+     "unknown_1": "02020",
+     "quantity": "1/4 Tsp"
+    },
+    {
+     "ingredient_name": "Cayanne Pepper",
+     "quantity": "1/4 Tsp Or Less"
+    },
+    {
+     "ingredient_name": "French Bread",
+     "quantity": null,
+     "preparation": "Cubed"
+    }
+   ]
+  },
+  "name": "Hot Crab Fondue",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Appetizer"
+  },
+  "preparation": "Melt first 2 ingredients in a fondue pot, add remaining ingredients and stir.  Serve with French bread cubes."
+ }
+}

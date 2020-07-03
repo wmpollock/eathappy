@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "name": "Pastry Dough, Food Processor",
+  "safe_name": "Pastry_Dough_Food_Processor",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I have a dough blender and its kind of sexy to create dough from scratch but the food processor does a nice job and its ever so much simpler to deal with.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "all purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "8 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": "cut into 1/2\" pieces and well chilled"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "shortening",
+     "preparation": "cut into 1/2\" pieces"
+    },
+    {
+     "quantity": "2-4 Tbl",
+     "ingredient_name": "ice water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Process flour, salt and baking powder for 10 seconds to integrate.  Add unsalted butter and shortening and five 15-20 short pulses until mixture resembles coarse corn meal.  Any balls of butter should be no larger than a pea.  Sprinke half the ice water and pulse 5-6 times.  Add enough ice water to create a dough that will hold together but not to be sticky.  Do not allough dough to form a ball in the mixer.Turn the dough out into a floured surface and roll into a ball.  Flatten dough into a 6\" disc and refrigerate for at least one hour before rolling out to 1/8\" for use.Dough will keep 3 days refrigerated or up to a month in the freezer.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Cuisinart Food Processor Instruction and Recipe Booklet",
+  "source_page": "63",
+  "source_date": "2004",
+  "entry_app": "Veronica",
+  "cdate": "10/31/2009",
+  "mdate": null,
+  "user": "billp"
+ }
+}

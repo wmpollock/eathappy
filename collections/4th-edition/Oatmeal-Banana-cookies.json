@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Oatmeal-Banana cookies",
+  "safe_name": "Oatmeal_Banana_cookies",
+  "yield_count": "4",
+  "yield_measure": "dozen",
+  "notes": "Banana is one of those little-added ingredients that just seems to make things happier when it can find a ride to the party.  I've yet to try these cookies but its certainly an interesting place to imagine that fruit to live.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "white or light brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cups",
+     "ingredient_name": "old fashioned oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mashed bananas",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "raisins or nus",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 375F and combine all ingredients until thoroughly blended.  Drop rounded teaspoons 1 1/2\" apart on greased or lined baking sheet.  Bake for 12 to 15 minutes.",
+  "primary_category": "Cookies",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Asst'd Comfort Food",
+    "Bananas",
+    "Box Recipe",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ralph's Grocery brand Old Fashioned Oats",
+  "source_date": "2003?",
+  "entry_app": "Veronica",
+  "cdate": "05/06/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

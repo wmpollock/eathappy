@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "California Tossed Salad Dressing",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "dehydrated onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup less 1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "celery seed",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bring to boil.  Remove from heat and chill.Use curly leaf lettuce, iceberg lettuce, cherry tomatoes halved, black olives.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0072-0073",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-02-09",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "name": "(Pork in) Lime Cream Sauce",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": "The sauce itself is the thing here, whatever meat you put it over is merely a window-dressing.   The variety of things it can go over is quite impossible to understate:  This original recipe goes over pork tenderloins, but you could go over browned chicken medallions, salad, noodles, some combination thereof...Micha upon having it in January 2007 suggested that caserole could be whipped together out of the noodles & chicken Lori and I had been farking over, this with a rather uncondensed version of the sauce with perhaps peas and/or artichoke hearts in some sort of nightmare midwestern goulash meets puttanesca.The thickness is the thing and in addition to cooking the crap out of it until it thickens you can toss in some cottage cheese and go about creaming it up that way when it gets to maybe a cup, cup and a half.Rated \"Fantastic!\" by my mother.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 lb",
+     "ingredient_name": "pork tenderloin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large shallot",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "beef broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "limes",
+     "preparation": "juiced"
+    }
+   ]
+  },
+  "preparation": "Over high heat in an oven-proof skillet heat oil.  Brown pork on all sides and transfer pan to 400F oven.  Roast until cooked through -- about 20 minutes.Melt butter in a large skillet over medium heat and add onions and shallots.  Saute for 3 minutes and add wine and boil until liquid is reduced by half -- about five minutes.  Add chicken broth and beef broth and boil until reduced to 6 Tbl -- over 20 minutes.  Add cream and lime juice and reduce at a boil to 1 cup, about 7 minutes.  Season with salt and pepper.Slice meat and plate, smothering with sauce.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Pork",
+    "Makes You Fat",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Yvonne Kerr",
+  "source_page": "93",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "_Pork_in_Lime_Cream_Sauce"
+ }
+}

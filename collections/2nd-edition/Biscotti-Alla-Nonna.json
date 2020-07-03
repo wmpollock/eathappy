@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": "47",
+  "safe_name": "Biscotti_Alla_Nonna",
+  "primary_category": "Desserts",
+  "preparation": "Cream sugar and margarine; add extracts and seeds.  Beat until creamy. Sift flour and baking powder and add to mixture.  Bake in a 375 degree oven until brown.  Remove from oven and cut into slats and turn on cut side.  Put back into oven to brown.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Biscotti Alla Nonna",
+  "secondary_categories": {
+   "secondary_categorie": "Italian"
+  },
+  "source_date": "1987",
+  "source_name": "\"Family Favorites\", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Angeline Barsi.",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": "beaten"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "margarine",
+     "quantity": "1/2 lb (2 cups)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "anise extract",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "almond extract",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "anise seed",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 1/2 cup",
+     "preparation": "sifted"
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "2 1/2 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

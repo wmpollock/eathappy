@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Blueberry Swirl Cheesecake",
+  "yield_count": "16",
+  "yield_measure": "smallish pieces",
+  "notes": "Blueberry anything is all right in my book.",
+  "prep_time": "15 minutes plus 45 minutes bake and 4+ hours cooling",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "graham cracker crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup, 3 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lb (4x8oz pkgs)",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "blueberries",
+     "preparation": "fresh or defrosted"
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 325.  Combine crumbs, 3 Tbl sugar and butter and press firmly onto bottom of foil-lined 13x9\" pan.  Bake for ten minutes and let cool.  Combine cream cheese, sugar and vanilla in an electric mixer until well blended.  Mix in sour cream and then eggs, one at a time at low speed until each addition is well blended.  Pour mixture over crust.  Puree the blueberries and pour in spoonfulls into the batter.  Cut pockets of blueberries into the batter a few times to create a marbelled effect.Bake for 45 minutes or until the center is almost set and refrigerate at least 4 hours before serving.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Philly-Brand Cream Cheese box",
+  "source_date": "2007?",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Blueberry_Swirl_Cheesecake"
+ }
+}

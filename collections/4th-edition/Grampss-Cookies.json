@@ -1,0 +1,111 @@
+{
+ "recipe": {
+  "name": "Gramps's Cookies",
+  "safe_name": "Grampss_Cookies",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "notes": "For a long time I'd thought the recipe for my grandfather's cookies were lost to the kitchens of time.  They were  such good cookies and are one of the most memorable things from our weekend visits.  While cleaning out my father's office several years back I came across my Grandmother's old recipe box,  in  which I found this gem in my Grandmother's distinctive hand.  I've substituted sunflower seeds for the walnuts successfully and generally leave out the coconut. Gramps would swap the wanuts out for candied cherry halves around:  maybe you will too.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "uncooked rolled oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "firmly packed"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "corn oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped walnuts or sunflower seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "candied lemon peel",
+     "preparation": "dieced, optional"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "coconut",
+     "preparation": "optional"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pecans",
+     "preparation": "optionally for topping"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "additional honey",
+     "preparation": "optionally for topping"
+    }
+   ]
+  },
+  "preparation": "Mix together oats, sugars, flour, salt and baking soda.  Mix in eggs, corn oil, water, honey and vanilla.  Add remaining ingredients and mix one final time.Spoon dough out into double spoonfulls or -- if you're sloppy like me - 1/4 cups -- and top each with pecan and 1 teaspoon of honey.Cook 14-18 minutes at 350F degrees.",
+  "primary_category": "Cookies",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

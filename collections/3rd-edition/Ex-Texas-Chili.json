@@ -1,0 +1,87 @@
+{
+ "recipe": {
+  "name": "Ex-Texas Chili",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "A wonderful Chili originally found on Xeney's weblog described as \"best chili ever\".  A nice chili from an interesting person.James and Molly report that this thing is Salt-o-riffic when the RoTel comes into play.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "turkey, ground",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 10 oz cans",
+     "ingredient_name": "Ro-tel",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": null
+    },
+    {
+     "quantity": "10 oz",
+     "ingredient_name": "mushrooms",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "jalapenos, chopped",
+     "preparation": null
+    },
+    {
+     "quantity": "1 whole bulb",
+     "ingredient_name": "garlic, minced",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Lightly brown ground meat in a skillet. Drain all fat. Pour water and Ro-Tel into large pot.Add onions, mushrooms, jalapenos, garlic, and spices.  Simmer for one to two hours, stirring occasionally.  Add more water as needed. Ro-Tel is pretty easy to come by in Northern California, usually it lurks in the lower corner the canned tomato products or in the Mexican food aisle.  You can kind of approximate it by substituting a can of diced tomatoes and a can of diced chiles.  Not quite as good but -will- do in the pinch.The original recipe had a safety note about (specifically) getting jalapeno juice on your hands and the rather unpleasant business that is.  I've found that you can give yourself real scorching hands (and any other part of your body you might inadvertently touch like, say, your eye) if you don't take steps to prevent getting your hands in not just that but onion and garlic juice as well.I minimize the effects by starting with the jalapenos, then the garlic then the onions, being sure to clean the board and my implements between cuttings.  Rubbing some coarse salt over moist hands seems to resolve a good deal of the burn issue as well.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Chinese",
+    "Turkey",
+    "Salt-Tastic!"
+   ]
+  },
+  "source_name": "Karawynn Long (http://karawynn.net)",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Ex_Texas_Chili"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "publisher": {
+  "title": "Eat Happy: Third Edition",
+  "copyright": "2004-2012.  Some rights reserved.",
+  "author_cite": "William Pollock",
+  "project_url": "http://billpollock.com/eathappy",
+  "publishing_history": {
+   "edition": [
+    "1st Edition, January 2004",
+    "2nd Edition, January 2005",
+    "2nd Edition, 1st Revision, 02 February 2005",
+    "2nd Edition, 2nd Revision, 25 February 2005",
+    "3rd Edition, Spring 2012"
+   ]
+  },
+  "paper_width_inches": "7.44",
+  "paper_height_inches": "9.68",
+  "aux": [
+   {
+    "@id": "Introduction",
+    "#text": "It would seem at times that the idea that one would need a sanitary backend for both online and dead tree copies would be rediculous, right?  Its the modern age, I should be able to run no less than five portable devices from the kitchen that will give me Internet access.No place for a pencil to scratch, though.  Not overly forgiving of cleanish fingers, of splattered sauces.  Digital devices give the immediately up to date but lack for the combat readiness of dead trees.Its been seven years since trees were last killed, pulped and printed upon for this purpose.  In that time many additions and modifications have been made.  The dead trees are imperfect:  they do not update, their markings become more indecipherable and, ultimately, they simply become too nasty to keep around, at least the way I roll.Its a good thing, it shows they are loved and are dynamic documents.The work on this book started more than three years ago with a code rewrite of the publishing engine.  It got stalled out as improvements were imagined and were too much for a father of two young children to cope with.  Now that a few quieter moments can be found when energy remains we'll try for just dead trees, not the moon.The moon is mostly for online anyways, ingredient searching, database yumminess.  Conversion work started but not implimented.  Compared to what's brewing at work these days, pretty small potatoes.  Might not be all that much work after all.I mean, things in dead tree land were pretty good...This edition is dedicated to my grandmothers, my gramps, my dad and my mom for their cooking experience and expertise over the years, even if it was largely franks in BBQ sauce."
+   },
+   {
+    "@id": "Copyright Blurb",
+    "#text": "WARNING: while all efforts have been made to ensure the dishes in this cookbook are safe and nutritious, no warranties are made as to the overall safety or nutrition of any recipe.  Recipes marked as \"Untried\" have not been tested.  This book is targetd at the moderately experienced cook:  use your best judgement when ingredients or techniques seem unsound.United States copyright law protects descriptions but not lists of ingredients.  All externally sourced entries have had their descriptions edited from the riginal to clear copyright.  Ingredient lists should be ordered to the order they are used."
+   }
+  ]
+ }
+}

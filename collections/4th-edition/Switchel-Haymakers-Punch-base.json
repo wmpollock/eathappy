@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Switchel/Haymaker's Punch base",
+  "safe_name": null,
+  "primary_category": "Beverages",
+  "untried": "yes",
+  "secondary_categories": null,
+  "yield_count": "2",
+  "yield_measure": "cups",
+  "prep_time": "5 minutes",
+  "notes": "I had been intrigued by haymaker's punch after reading about it long ago in an Old Farmer's Almanac.  Each of its ingredients in a beverage sounded absolutely repugnant.In a way it remains absolutely repugnant but I am enamored of it all the same.  I find its a bit calming on the system when poured over ice and then watered atop at perhaps a ratio of 1:5 or greater.  One does not want to hit the switchel layer full-on but continue to pour water atop the ice to dilute making for fantastic hydration opportunities for the otherwise unthirsty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "molasses",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh ginger",
+     "preparation": "grated"
+    }
+   ]
+  },
+  "preparation": "Mix together ingredients and chill.  Ages well.The original recipe calls for mixing with a quart of water and serving over ice but I find having the syrup on hand and mixing a glass as appropriate better and leave a smaller portion of switchel drowning in largely unmixed water.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-01-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

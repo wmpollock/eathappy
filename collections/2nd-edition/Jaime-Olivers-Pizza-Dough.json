@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Jaime_Olivers_Pizza_Dough",
+  "primary_category": "Bread",
+  "preparation": "Mix dry ingredients in a small volcano and add olive oil and water to the center.  Slowly draw dry ingredients into the mound until a workable dough is formed.  Jaime always does this on the counter, but there's a reason that some of us are world-renowned chefs and there's a reason some of us slave over an unfashionable electric out in Rosemont -- I use a big bowl to do the mixing.  When the dough is solid enough, transfer to the counter for some serious kneading.Separate the dough into balls roughly the size of a small grapefruit and then stretch each into disks.  The dough will need to sit a bit in this stretched-out form for a bit to let some gas generate and the gluten relax a bit before stretching out fully into shape.I prefer to do my pizza's Italian stylee which means thin crusts and light on the toppings but this dough works pretty well for thicker crusts as well.",
+  "yield_count": "8",
+  "yield_measure": "Pizzas",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Jaime Oliver's Pizza Dough",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Jaime Oliver is  a young, charismatic chef who became popular through a television series called \"The Naked  Chef\" where he cooked in an apartment kitchen under such scenarios as \"the mates are coming to watch the  game\".  His pace on the show was not that of a cooking instructor so much as a chef showing you how he  whipped things together.  His pizza dough is simply constructed and well-suited for Italian-Style thin crust  pizzas and pizzelles.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "bread flour",
+     "quantity": "2 lb",
+     "preparation": "(+3 oz if necessary)"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "yeast",
+     "quantity": "1 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lukewarm water",
+     "quantity": "1 pint",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "2 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Sex In A Pan",
+  "yield_measure": "Servings",
+  "notes": "Known in some circles as \"Chocolate Pudding Desert\", a favorite of my mom's that she'd often make to go alongside lasagna for  the camp-wide cookout at Almanor.Its a pretty quick build -- I managed to do it in under an hour for James and Molly's Memorial Day dinner '05 and didn't even have time to leave for the store until 4 and still made it in time for six.Its mighty creamy and makes a mighty big pan.  Good for large-scale company and full of good, road-safe ingredients.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 sticks",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg (8 oz)",
+     "ingredient_name": "Philadelphia cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cool whip",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "instant vanilla pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "instant chocolate pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt margarine,  mix with flour and nuts.  Press into 13\" x 9\" pan. Bake at 350F for 20 minutes, cool.  Mix sugar and cream cheese.  Fold in Cool Whip and spread on top of pastry.  Mix pudding and milk and pour over cheese layer.  Put remainder of 12 oz container of Cool Whip on top and sprinkle more nuts on top of that.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Makes You Fat"
+  },
+  "entry_app": "Veronica",
+  "cdate": "06/25/2005",
+  "safe_name": "Sex_In_A_Pan"
+ }
+}

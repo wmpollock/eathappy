@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "name": "Pickled Beets",
+  "safe_name": "Pickled_Beets",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "beets",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "beet juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "pickling spice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Make syrup of beet juice, sugar[, pickling spice] and vinegar.  Let come to a boil only.  Add sliced beets.  Put in jars.",
+  "primary_category": "Side Dish",
+  "secondary_categories": null,
+  "untried": "1",
+  "source_page": "0005",
+  "entry_app": "Veronica",
+  "cdate": "07/02/2005",
+  "mdate": "11/30/2010",
+  "user": "billp"
+ }
+}

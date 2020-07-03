@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "recalc": "3",
+  "prep_time": "01:23",
+  "name": "Biscotti Alla Nonna",
+  "preparation": "Cream sugar and margarine; add extracts and seeds.  Beat until creamy. Sift flour and baking powder and add to mixture.  Bake in a 375 degree oven until brown.  Remove from oven and cut into slats and turn on cut side.  Put back into oven to brown.",
+  "main_ingredient": "Snackies",
+  "notes": "**UNTRIED**From the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Angeline Barsi  Test Record",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Eggs",
+     "quantity": "3",
+     "preparation": "Beaten"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Margarine",
+     "unknown_1": "04067",
+     "quantity": "1/2 Lb (2 Cups)"
+    },
+    {
+     "ingredient_name": "Anise Extract",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Almond Extract",
+     "unknown_1": "02050",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Anise Seed",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Flour",
+     "quantity": "2 1/2 Cup",
+     "preparation": "Sifted"
+    },
+    {
+     "ingredient_name": "Baking Powder",
+     "unknown_1": "18369",
+     "quantity": "2 1/2 Tsp"
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Dessert",
+    "Italian",
+    "Untried"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

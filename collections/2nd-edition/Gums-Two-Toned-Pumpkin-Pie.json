@@ -1,0 +1,95 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Gums_Two_Toned_Pumpkin_Pie",
+  "primary_category": "Desserts",
+  "preparation": "Measure sherry, orange juice, cream and gelatin into top of double boiler.   Stir to blend.  Add 1/2 cup brown sugar, pumpkin, salt, spices,  orange rind and beaten egg yolks.  Place over boiling water.  Cook, stirring now and then until filling thickens slightly, about 10 minutes.  Remove from heat and cool.Beat egg whites to soft peaks.  Then beat in remaining 1/4 C sugar to make meringue.  Fold meringue into pumpkin filling.Remove and set aside 1 1/2cup.  Turn remainder of filling into pie shell.   Place into refrigerator to chill quickly.  Beat 1/2 cup cream until stiff.  Fold into reserved pumpkin filling. Gently spoon on filling into pastry shell.  Return to refrigerator and chill until firm (3-4 hours.) Garnish pie with remaining 1/2 cup cream, beaten stiff and slightly sweetened if desired just before serving.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Gum's Two-Toned Pumpkin Pie",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Hoo Nellie, is this a good pie.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "sherry",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "orange juice",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "light cream",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "plain gelatin",
+     "quantity": "1 envelope",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "packed brown sugar",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "canned pumpkin",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ginger",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "nutmeg",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "2",
+     "preparation": "separated"
+    },
+    {
+     "ingredient_name": "orange rind",
+     "quantity": "12 tsp",
+     "preparation": "grated"
+    },
+    {
+     "ingredient_name": "baked, cooled 9 inch fluted pie crust",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whipping cream",
+     "quantity": "1 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

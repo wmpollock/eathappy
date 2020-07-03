@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Benihana Salad Dressing",
+  "safe_name": "Benihana_Salad_Dressing",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "notes": "When I was a child on certain very special occasions we would find outselves at one of a couple of Benihanas that might happen to be nearby our family's locale:  Walnut Creek, CA and Honolulu, HI for an e.g.  We went to my brother's birthday there again in 2006 and it continued to be the good times ever changing that we remember.  Truly a feast for all the senses, including the pocketbook.This savory dressing usually gets served on a fussy-chopped bed of greens, cabbage mostly if I recall, and does best when served only slightly chilled.I've made this a few times and had a strange lingering onion taste that I've attributed to this recipe:  may need some fiddling.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped onion",
+     "preparation": "for later processing"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "peanut oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "rice wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh ginger",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "celery",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "dash each",
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine all ingredients in blender or food processor and process until nearly smooth: there should be some grain to the resulting pulp. Allegedly makes six servings but will take a good half-pint container to hold. YMMV.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "Benihana website",
+  "source_date": "11 Sept 2006",
+  "entry_app": "Veronica",
+  "cdate": "05/01/2009",
+  "mdate": "11/27/2009",
+  "user": "billp"
+ }
+}

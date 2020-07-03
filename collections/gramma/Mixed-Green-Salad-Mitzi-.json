@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Mixed Green Salad (Mitzi)",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 head",
+     "ingredient_name": "romaine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 bunch",
+     "ingredient_name": "spinach",
+     "preparation": null
+    },
+    {
+     "quantity": "1 head",
+     "ingredient_name": "Australian lettuce",
+     "preparation": null
+    },
+    {
+     "quantity": "4-5",
+     "ingredient_name": "medium new potatoes",
+     "preparation": "boiled until just tender, sliced + marinated in Italian dressing 10 minutes or up to two hours"
+    },
+    {
+     "quantity": "3? cups",
+     "ingredient_name": "sliced ripe olives",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sliced green onions",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "bacon bits",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "french dressing mix",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Italian dressing",
+     "preparation": "drained from potatoes"
+    }
+   ]
+  },
+  "preparation": null,
+  "source_author": "Jeanne",
+  "source_name": null,
+  "source_page": "79-80",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-03",
+  "mdate": null,
+  "user": "billp"
+ }
+}

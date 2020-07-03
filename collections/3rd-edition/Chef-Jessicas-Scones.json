@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Chef Jessica's Scones",
+  "yield_count": "16",
+  "yield_measure": "scones",
+  "notes": "We're not sure where this one came from but the copy came with Susan's handwriting on a dot-matrix...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 rinds",
+     "ingredient_name": "of orange",
+     "preparation": "freshly grated"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "buttermilk",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egs",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "raw sugar",
+     "preparation": "for garnish"
+    }
+   ]
+  },
+  "preparation": "Mix toether flour, sugar, baking soda, baking poser and salt.  Cut in orange rind and butter.  Add in buttermilk and eggs nad hand mix.On a floured surface divide dough into two 6\"-8\" rounds and cut each round into 8 wedges.Place each esdge on a baking sheet and sprinkle with sugar before baking at 325F for 12-15 minutes or until golden.",
+  "primary_category": "Breakfast",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Buttermilk",
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Chef Jessica riddle of Villa Toscana in Paso Robles by way of Susan Haubert maybe?",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Chef_Jessicas_Scones"
+ }
+}

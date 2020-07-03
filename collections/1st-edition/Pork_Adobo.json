@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Pork Adobo",
+  "preparation": "Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.",
+  "main_ingredient": "Pork",
+  "yield_count": "7",
+  "notes": "I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using low  sodium soy sauce may  rectify this some.  Originally from the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Boneless Pork Or Pork Ribs",
+     "quantity": "1 Lb",
+     "preparation": "Cut Into 1 1/2-2\" Chunks"
+    },
+    {
+     "ingredient_name": "Water",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Soy Sauce",
+     "unknown_1": "16123",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Vinegar",
+     "unknown_1": "02048",
+     "quantity": "4 Tbsp"
+    },
+    {
+     "ingredient_name": "Garlic",
+     "quantity": "6 Cloves",
+     "preparation": "Minced"
+    },
+    {
+     "ingredient_name": "Peppercorns",
+     "unknown_1": "02030",
+     "quantity": "10"
+    },
+    {
+     "ingredient_name": "Bay Leaf",
+     "unknown_1": "02004",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "White Wine",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Lemon Juice",
+     "unknown_1": "09152",
+     "quantity": "2 Tbsp"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "unknown_1": "19335",
+     "quantity": "1 Tbsp"
+    }
+   ]
+  },
+  "category": {
+   "category": "Mexican"
+  },
+  "yield_measure": "Servings"
+ }
+}

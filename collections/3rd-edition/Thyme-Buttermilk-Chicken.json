@@ -1,0 +1,92 @@
+{
+ "recipe": {
+  "name": "Thyme Buttermilk Chicken",
+  "notes": "Lots of good reviews [http://search.foodnetwork.com/recipes/date-plate/thyme-buttermilk-chicken-recipe/reviews/index.html].  Its a two-fer!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "whole chicken",
+     "preparation": "sectioned into 8 pieces"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "all-purpose",
+     "preparation": "flour"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "buttermilk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "whole dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "creole seasoning (e.g. \"Tony's\" brand)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oil",
+     "preparation": "for frying"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Garlic Mashed Potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "potato",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "** For Chicken:  Marinate chicken in buttermilk for about 1 hour in frefrigerator.  Combine the flour, dried thyme and Creole seasoning in a bowl for dredging.  Drain the chicken and dredge in flour mixture, shaking off any excess.Fry chicken in 350F oil for 9-10 minutes or until golden brown.  Complete the cooking by placing chicken in a 350F oven until chicken is cooked through, about ten minutes -- the juices will run clear.Serve with Garlic Mashed Potatoes, yo!",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "**New06",
+    "Buttermilk",
+    "Chicken",
+    "Bachelor Food"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Wendell Price: http://search.foodnetwork.com/recipes/date-plate/thyme-buttermilk-chicken-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Thyme_Buttermilk_Chicken"
+ }
+}

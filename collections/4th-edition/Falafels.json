@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "name": "Falafels",
+  "safe_name": "Falafels",
+  "yield_count": "8",
+  "yield_measure": "rounds",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 15 oz can",
+     "ingredient_name": "chickpeas (garbanzos)",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped fresh parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped fresh cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chopped fresh mint",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cumin seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "fresh bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oil",
+     "preparation": "for deep frying"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pitas, lettuce, tomatoes, tahaini or yogurt",
+     "preparation": "for serving"
+    }
+   ]
+  },
+  "preparation": "Grind the chickpeas in a food processor until smooth then add all the other ingredients except the oil.  Heat 1/4 inch of oil in a frying pan and fry a few at a time.  Cook each for 8 minutes, turning just once.  Drain on paper towels.  Serve in pitas with lettuce, tomatoes and tahaini or yogurt.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Deleted06",
+    "**New06",
+    "Needs Research",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "02/24/2011",
+  "user": "billp"
+ }
+}

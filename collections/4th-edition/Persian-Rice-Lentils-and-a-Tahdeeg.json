@@ -1,0 +1,96 @@
+{
+ "recipe": {
+  "name": "Persian Rice, Lentils and a Tahdeeg",
+  "notes": "I dunno about you, but I for one was all about trying a recipe for anything that's called a \"tahdeeg\".  Rumor has it the tahdeeg is the crust that forms at the bottom of this dish and oh boy, its like fried corn beef good.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "basmati rice",
+     "preparation": "rinsed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "one chopped"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "garlic cloves",
+     "preparation": "smashed"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "green lentils",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "a few",
+     "ingredient_name": "saffron strands",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg yolk",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "plain yogurt",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "melted and strained[1]"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oil",
+     "preparation": "olive or vegetable[2]"
+    }
+   ]
+  },
+  "preparation": "In a large, well-salted pot of water, bring the rice to a boil for a mere three minutes.      Drain and let cool until its safe to handle.While bringing rice to boil, lightly fry the chopped onion and garlic in 2Tbl of oil for five minutes.  Add lentils, stock, raisins, coriander and tomato paste and season to taste.  Bring to a boil, reduce and simmer for 20 minutes.  Tahdeeg base:  Soak the saffron strands in a bit of warm water while rice cools to a manageable temperature.  Add the egg yolk and yogurt and mix well before folding in about 8Tbl of the cooked rice.Heat 3-4Tbl of oil -- enough to lightly coat the bottom of the pan when up to temperature -- and gently layer bottom with the tahdeeg base.Upon this base place a layer of rice followed by a layer of lentils and repeat.  There's only enough for two good-sized layers.The book recommended creating more of a mound to cook on than I will -- we were perfectly happy with a rudimentary layering stacked evenly.Poke three holes in the pile with the end of a wooden spoon and drizzle in the melted butter.  Cover the pan [3] and simmer on low to 30 minutes.The original recipe had another onion sliced thinly and friend and then placed on top at serving time but it overly complicated the dish and was skipped.  Just so you know there's more in there, though...or could be.[1] -- Sounds like \"ghee\" or a close cousin to me.  I strained as much butterfat as I could out of mine.[2] -- Originally sunflower[3] -- Original recipe calls for a damp towel to be placed between lid and saucepan and heated until steaming before backing down the temperature.  This seems kind of overly fussy and I managed to do it without the towel at a friends and nobody seems to have been poisioned.Additionally:  There seems to be some debate as to the prepreparation of both the rice and the lentils.  The book suggests you soak both beforehand.  I can definately see giving the rice a really thorough washing as its makes the water a bit pasty beforehand (though not disgustingly so) and soaking the lentils might make 'em a bit smoother on the digestion end, but giving each a quick dash under the facucet in a collander didn't seem to screw anything up too much -- the guests all said nice things, anyways, and that's something to be said for a nearly vegan meal.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Bill's Favorite",
+    "Rice",
+    "Vegetarian"
+   ]
+  },
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 418.",
+  "source_page": "418",
+  "entry_app": "Veronica",
+  "cdate": "07/20/2007",
+  "mdate": "07/20/2007",
+  "safe_name": "Persian_Rice_Lentils_and_a_Tahdeeg"
+ }
+}

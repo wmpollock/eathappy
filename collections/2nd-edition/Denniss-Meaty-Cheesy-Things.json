@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Denniss_Meaty_Cheesy_Things",
+  "primary_category": "Appetizers",
+  "preparation": "Saute the beef, sausage and onions in a pan over medium heat and drain off the fat.  Add the Italian seasoning & Velveeta and stir over low heat until the Velveeta has softened and the ingredients have mixed together.  Spoon a tablespoon or two of mixture onto each rye toast and place on a cooking sheet.Can be made ahead and frozen.  Heat mixture under a broiler until the rye browns slightly.",
+  "yield_count": "30",
+  "yield_measure": null,
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Dennis's Meaty Cheesy Things",
+  "source_date": null,
+  "source_name": "Dennis Gross",
+  "notes": "Dennis made these for a string of appearances, occasionally command performances.  They are mighty tasty  down-home stylee (I mean, yeah -- Velveeta!).  Two packages of rye might be a bit much depending on how  much you spoon on there.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "ground beef",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Italian sausage",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Velveeta cheese",
+     "quantity": "1 lb",
+     "preparation": "cut into small cubes"
+    },
+    {
+     "ingredient_name": "yellow onion, diced",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Italian seasoning",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "party rye bread",
+     "quantity": "2 pkgs",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

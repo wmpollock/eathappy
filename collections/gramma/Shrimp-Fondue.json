@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "name": "Shrimp Fondue",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Until writing this up I'd never known there was even a thing as cream of shrimp soup.  Amazingly yes, and still sold! I need to pay more attention to the soup aisle apparently!  This recipe also notable for originally offering \"IMO,\" a now obscure sour cream substitute.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cream of shrimp soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "horseradish",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "shrimp",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend cream cheese, soup, horseradish, Worcestershire.  Heat, then add sour cream & shrimp.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0070",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

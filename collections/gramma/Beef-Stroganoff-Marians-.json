@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Beef Stroganoff (Marian's)",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "beef tenderloin or sirloin steak",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup (6 oz)",
+     "ingredient_name": "sliced mushrooms",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "10 cans (10 1/2 oz each)",
+     "ingredient_name": "condensed beef broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "instant minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "garlic salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "8-10oz",
+     "ingredient_name": "uncooked noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cut meat across grain into 3/4 inch slices then into strips 3/4x1/4 inch.  Melt 1/3 cup butter in skillet.  Cook mushrooms ahead 5 minutes.brown meat.  Stir in broth (saving 2/3 cup) onion, catsup and garlic salt.  Cover and simmer 15 minutes.  Blend reserved broth & flour.  Stir into meat.  Add mushrooms. Heat to boiling.  Boil 7 stir 1 minute.  Stir in sour cream, heat through.  Cook noodles, drain & toss with 3 Tbsp butter.  Serve with stroganoff.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Marian (Pollock, presumed)",
+  "source_page": "0019-0020",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "mdate": "11/21/2005",
+  "safe_name": "Beef_Stroganoff_Marians_"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "recipe": {
+  "name": "Edna's Cranberry Sauce",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "cranberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook cranberries in orange juice until they pop.  Strain.  Stir in sugar.  Bring to rolling boil.  Boil 2-3* mins.My mother has made the following annotations to the recipe:  she's increased the final boil time to 5 minutes and written -- \"Mold in *metal pan*.  Cool to room temperature then refrigerate.  Add 1/2 package gelatin for firmer sauce\"",
+  "primary_category": "Side Dish",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Edna M. Rapp",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "mdate": "11/21/2005",
+  "safe_name": "Ednas_Cranberry_Sauce"
+ }
+}

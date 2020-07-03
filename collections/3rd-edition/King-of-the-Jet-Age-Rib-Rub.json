@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "King of the Jet Age Rib Rub",
+  "safe_name": "King_of_the_Jet_Age_Rib_Rub",
+  "yield_count": "1",
+  "yield_measure": "cup",
+  "notes": "About says that this recipe comes di-rect from Walter Jeton, BBQ pitmaster to President Johnson.  A Texan, one would expect Johnson would, um, know his meat.Lemon powder can be made by depithing, drying and then grinding (after optionally roasting) lemon peel.  It can also be ordered from spice houses.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 Tbl",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "MSG",
+     "preparation": "optional but oldschool correct"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon peel powder",
+     "preparation": "a miracle ingredient"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "paprika",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together ingredients.  Apply to patted down meat and let sit until rub is moist.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Pork"
+   ]
+  },
+  "untried": "1",
+  "source_name": "About.com:  Walter Jetton's Dry Rib Rub",
+  "source_page": "http://bbq.about.com/od/rubrecipes/r/bln0310a.htm",
+  "entry_app": "Veronica",
+  "cdate": "03/03/2013",
+  "user": "billp"
+ }
+}

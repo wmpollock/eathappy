@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Spinach Dip",
+  "yield_measure": "Servings",
+  "notes": "This is a favorite of my mother's and of my grandmothers as well.  Always best if served into a hacked-up monster loaf of sourdough, though one could be genteel and use a sectioned baguette and spreading knives if you positively had to.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 large cartons (32oz)",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkgs",
+     "ingredient_name": "Knorr's vegetable soup",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "scallion onions (for chives)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg (16 oz)",
+     "ingredient_name": "cream cheese, softened",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "frozen chopped spinach",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "water chestnuts",
+     "preparation": "diced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "monster sourdough loaf",
+     "preparation": "hollowed"
+    }
+   ]
+  },
+  "preparation": "Refrigerate to allow flavor to develop.  Hollow out round loaf of French bread.  Cut rremoved bread into squares and fill hollow with dip.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Spinach_Dip"
+ }
+}

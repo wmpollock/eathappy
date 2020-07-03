@@ -1,0 +1,49 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Yorkshire_Pudding",
+  "primary_category": "Bread",
+  "preparation": "Beat mixture and let stand for 1/2 hour.  Heat 13x9\" glass dish in 400F oven until hot, remove from oven and add Crisco or suet and wait for it to render into oil.  Re-beat the dough mixture and pour into still-hot glass dish. Bake for 30-45 minutes.  Use 1/4 cup Crisco.  Make sure ingredients are room temperature.  Glass dish should be already hot before putting batter in.The original gramma recipe calls for suet at 1/4 cup and I recall it makes a somewhat livelier dish than the Crisco-enabled one but suet is mighty hard to find in 21st century California and probably isn't all that good for you anyways.  Power to you if you can find it.My good friend Lori asked after my first-ever attempt at this at Pollock Christmas '04 whether I'd made it in muffin tins for individual servings and I must say that the times I've had it served this way I've enjoyed it greatly.  I'd assume you'd want something on the order of 1 tbsp shortening per tin or so.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "12/29/2004",
+  "prep_time": null,
+  "name": "Yorkshire Pudding",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": "Gum (attributed)",
+  "notes": "A long history of \"YP\" in my family, allegedly dating back to my never-met English grampa.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "1 1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "1 1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "3/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "shortening",
+     "quantity": "1/4 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Mulled_Wine",
+  "primary_category": "Beverages",
+  "preparation": "Nothing than can be simpler than making mulled wine:  drop all the ingredients into a large, non-reactive pot and cook over nearly the lowest heat you have -- you want a mild steam rising but nothing more or else you'll start cooking off the sugar.For best results, add the brandy and sugar close to serving to account for variations in flavor the extra steeping may bring out.Using a strainer, remove the cloves and cinnamon sticks and ladle into mugs.This makes a fantastic crock-pot dish for holiday parties.As a gourmet touch:  one can replace the sliced orange and likely most of the sugar with two halved apples and 3/4 cup of OJ.  The apples need to be removed if any heat is seriously applied or else they'll fall apart and probably should be removed prior to serving.  These apples, served over ice cream are heaven themselves.One last variation:  one can replace with wine with apple juice for mulled apple cider.   The brandy should be increased to somewhere around 1 cup (estimated measure) or left out for a version fit for teetotalers.  Better with this variation is a spiced rum like Captain Morgan's which will give the final product a somewhat mellower disposition.While some may blanch at the thought of hot sauce in a wine drink, a couple of dashes of Tabasco makes things extra warm and tasty.",
+  "yield_count": "2",
+  "yield_measure": "litres",
+  "cdate": "12/29/2004",
+  "prep_time": "3 hours",
+  "name": "Mulled Wine",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Makes You Drunk"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "A favorite of mine around the holidays, the recipe is darned simple but yields amazingly tasty results.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "cheap red wine (burgundy)",
+     "quantity": "1.5 litres",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "orange",
+     "quantity": "1",
+     "preparation": "sliced"
+    },
+    {
+     "ingredient_name": "whole cloves",
+     "quantity": "6",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon sticks",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brandy",
+     "quantity": "1 1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar or honey",
+     "quantity": null,
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "mdate": "12/30/2004"
+ }
+}

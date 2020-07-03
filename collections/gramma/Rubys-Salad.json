@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Ruby's Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "frozen peas",
+     "preparation": "don't cook"
+    },
+    {
+     "quantity": "1 bunch",
+     "ingredient_name": "green onions",
+     "preparation": "without tops"
+    },
+    {
+     "quantity": "1/2 pint",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "bacon",
+     "preparation": "crisp and crumble"
+    },
+    {
+     "quantity": "garlic salt",
+     "ingredient_name": null,
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together peas, green onions and sour cream.  Add in bacon and garlic salt",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0076",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-03-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

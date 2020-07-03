@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "name": "Calico Palace Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg whites",
+     "preparation": "beaten stiff"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "14",
+     "ingredient_name": "soda crackers",
+     "preparation": "grated fine"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": "whipped"
+    },
+    {
+     "quantity": "10oz",
+     "ingredient_name": "raspberries or strawberries",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crust: Beat egg whites stiff.  Fold in sugar and vanilla, then cracker crumbs, baking powder and nuts.  Grease 9\" pie tin.  Fill with batter and bake 325F for 30 minutes.Filling: Fold berries into whipped cream.  Add powdered sugar.  Spread on top of cooked crust.  Refrigerate for at least 4 hours.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Mel Waters",
+  "source_page": "0062",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "safe_name": "Calico_Palace_Pie"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "recipe": {
+  "name": "BBQ Oysters",
+  "safe_name": "BBQ_Oysters",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "The Surf Market in Gualala stocked a wonderful selection of seafood, including a pile of clams destined for our  grill.  This was a recipe I'd come across long before and wanted to try for an eternity, but as my local market  lacks reputable-looking bivalves, I'd had to wait until I was in the epicurean headquarters that is the Surf.  I  debated doubling the recipe which originally said that it would serve six and dang if I shouldn't.  Hot off the grill,  these little juicy numbers were some of the finest things I've ever BBQd.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 dozen",
+     "ingredient_name": "oysters in the shell",
+     "preparation": null
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter, softened",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cloves",
+     "ingredient_name": "garlic, minced or pressed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "lemon",
+     "preparation": "juiced and grated"
+    }
+   ]
+  },
+  "preparation": "Several hours before:  In medium bowl, combine butter, garlic, lemon peel and juice, and pepper.  Beat until light and thoroughly mixed.  Form into a thin log on a sheet of waxed paper, roll in paper and wrap tightly in plastic wrap.  Refrigerate until 1 hour before using.  Day of:  Build a hot charcoal fire and let it burn down to red-hot coals.  Place unopened oysters on grill, deeper shell down.  As soon as shells begin to open, remove top shell with an oyster knife, and cut oyster free from bottom shell.  Place a pat of garlic butter in shell and return oyster to fire. Serve as soon as juices are bubbly and butter is melted.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Oysters"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "02/04/2013",
+  "user": "billp"
+ }
+}

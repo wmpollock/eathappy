@@ -1,0 +1,133 @@
+{
+ "recipe": {
+  "name": "21st Amendment Tacos",
+  "safe_name": "21st_Amendment_Tacos",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Cilantro Sour Cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 bunch",
+     "ingredient_name": "cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "lime juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Chipotle Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "canned chipotle chiles in adobo sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Cabbage salad",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "green cabbage",
+     "preparation": "finely shredded"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Fish",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "rock cod or other white fish",
+     "preparation": "cut into 1/2-inch cubes"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "all-purpose flour",
+     "preparation": "for dredging"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Assembly",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tortillas",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salsa",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "etc.",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend sour cream, cilantro and lime juice.  Cover and refrigerate.Blend chipotles and water at low speed until smooth.  Combine cabbage salad ingredients.Season rock cod with salt and pepper, lightly dredge and fry over in 1/2-inch of oil over medium-high heat.  Cook for two minutes, turning once or until cooked through.  Drain onto paper towels.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Mexican"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "http://www.sfgate.com/food/recipes/detail/?p=detail&rid=18307&sorig=qs",
+  "entry_app": "Veronica",
+  "cdate": "01/29/2013",
+  "user": "billp"
+ }
+}

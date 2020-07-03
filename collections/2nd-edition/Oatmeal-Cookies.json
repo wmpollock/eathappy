@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Oatmeal_Cookies",
+  "primary_category": "Cookies",
+  "preparation": "Mix ingredients together thoroughly before forming spoonfuls of batter onto a nonstick/buttered/parchmented cookie sheet.  Cook in 350F oven for 10 minutes or until they brown.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Oatmeal Cookies",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**Deleted05",
+    "Makes You Fat"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "My gramps used to make this extraordinary cookies which probably had in no small part something to do with  my girth growing  up.  I consider them at this point a \"lost\" recipe worth re-engineering, and there's very few of  those currently under development  these days.  As such, I'm going to collect a dozen or so damned recipes  before I find \"The One\" and you'll just hafta suffer until  then.  My mom suffers me to believe that it was just  \"off a box of oatmeal\" but there was something special in Gramps' recipe that I  haven't quite found yet in any of  the recipes I've tried.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "butter",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brown sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sifted flour",
+     "quantity": "1 1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soda",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "rolled oats",
+     "quantity": "3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "nuts or raisins",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

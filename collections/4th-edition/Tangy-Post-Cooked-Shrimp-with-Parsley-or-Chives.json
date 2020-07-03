@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "name": "Tangy Post-Cooked Shrimp with Parsley or Chives",
+  "notes": "I cant say I much like where this recipe ultimately headed and I have no idea why I liked it so much when I printed it out.  Cold shrimp salad sounds not like up my alley:  I like my cold shrimp with cocktail sauce, thanks.Still, it -was- in the collection.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "white vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "anchovy paste",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "brown mustard, creole mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Lb",
+     "ingredient_name": "red bell peppers",
+     "preparation": "sliced into thin strips"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "green onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped fresh parsley or chives",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    }
+   ]
+  },
+  "preparation": "Mix the olive oil, vinegar, salt, black pepper and garlic powder together.  Mix in mayonnaise, anchovy paste, mustard and stir until well mixed.  Fold in the shrimp, bell pepper and lemon juice.Place in lemon refrigerator and marinate overnight.  Serve cold or at room temperature.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Shrimp",
+    "**New06",
+    "Dubious"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Paula Deen: http://www.foodnetwork.com/recipes/paula-deen/tangy-marinated-shrimp-with-parsley-or-chives-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "06/01/2009",
+  "user": "billp",
+  "safe_name": "Tangy_Post_Cooked_Shrimp_with_Parsley_or_Chives"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "recipe": {
+  "name": "Cranberry Salad (Good!)",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "notes": "Additional card note:  Good!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "whole cranberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "strawberry jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "frozen strawberries",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bring cranberries and water to boil.  Stir in 2 pkg strawberry jello.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": "Cranberry Salad"
+  },
+  "untried": "1",
+  "source_page": "0023",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Cranberry_Salad_Good_"
+ }
+}

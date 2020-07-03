@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Muth Dal",
+  "safe_name": "Muth_Dal",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Raj says this brown lentil is a tender bean dish -- not saucy at all -- and good to eat alongside rice or nan or tortilla.Raj adds that hing tastes a bit like onion and garlic and used by some vegetarians in India as a replacement for those vegetables which they eschew because of their strength.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "muth dal",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "water",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "hing",
+     "preparation": "optionally"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "tumeric",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cayenne",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "corriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "fresh lemon",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Soak the muth in 2 cups of warm water for six hours in a covered bowl.  Rinse.Heat oil in a heavy frying pan or pot over medium heat.  Brown the garlic in the hot oil and add the hing and muth.  Saute for five minutes and add hing, salt, tumeric, cayenne and coriander.  Mix and continue to saute for two minutes until ingredients are well integrated.  Add 2 cups water and reduce heat to low.Stir once before covering and cooking for 1 hour.  Check halfway through and add a few tablespoons of water if it appears too dry.  Cook uncovered for a few minutes at the end if any water remains.  When done, remove from heat and top with lemon juice.  Can be served at any temperature.",
+  "primary_category": "Vegetables",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Indian (Authentic)"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Vegetarian Cooking, Shanta Nimbark Sacharoff",
+  "source_page": "141",
+  "entry_app": "Veronica",
+  "cdate": "11/03/2010",
+  "user": "billp"
+ }
+}

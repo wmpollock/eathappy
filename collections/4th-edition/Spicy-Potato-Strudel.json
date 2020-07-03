@@ -1,0 +1,102 @@
+{
+ "recipe": {
+  "name": "Spicy Potato Strudel",
+  "safe_name": "Spicy_Potato_Strudel",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Not an",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "carrots",
+     "preparation": "coarsley grated"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "zucchini",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "12 oz",
+     "ingredient_name": "potatoes",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "mild curry paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt & freshly ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "light cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "grated cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "8 sheets",
+     "ingredient_name": "phyllo pastry",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sesame seeds",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Defrost the phyllo dough in the fridge for 24 hours or zap in the microwave for 60 seconds to prepare.In half the butter fry the onion, carrots, zucchini and potatoes until soft, then add curry paste and cook for an additional minute.Let the mixture cool and mix in egg, cream and cheese.  Use immediately or chill until filing.Lay out four sheets of filo pastry so that they slightly overlap and form a large rectangle.  Brush with butter and fit the additional sheets on top.  Brush tops with butter.Spoon the filling along a long edge and roll from there.  Form loaf into a circle and brush with remaining butter.  Sprinkle with sesame seeds and lay out on a baking sheet.Bake the studel at 375F for 25 minutes or until golden crisp.  Allow to stand for at least five minutes before cutting.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Vegetables",
+    "Vegetarian",
+    "Butter!"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "400",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "12/26/2009",
+  "user": "billp"
+ }
+}

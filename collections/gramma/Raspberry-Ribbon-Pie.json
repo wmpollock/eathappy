@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Raspberry Ribbon Pie",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Inspires Curiosity",
+    "Pie Crust"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 3oz pkg",
+     "ingredient_name": "raspberry Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "10oz pkg",
+     "ingredient_name": "frozen raspberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "confectioner's sugar",
+     "preparation": "sifted"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pie shell",
+     "preparation": "prebaked and cooled"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cream",
+     "preparation": "whipped"
+    }
+   ]
+  },
+  "preparation": "Red layers:Dissolve Jello and granulated sugar in boiling water.  Add frozen berries and lemon juice and mix through.  Chill until partially set.White layers (lowest and middle):  blend cheese, confectioners sugar, vanilla and salt.  Fold in whipped cream in small batches.  Spread half the white mixture over the bottom of the pie crust.  Cover with half the red mixture and repeat layers.  Chill until fully set.",
+  "source_author": null,
+  "source_name": "Jane (Lamb?)",
+  "source_page": "0068, 0069",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-02-10",
+  "user": "billp"
+ }
+}

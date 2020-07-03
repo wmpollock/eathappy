@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "name": "Potato Schnitzel",
+  "notes": "\"Potato buds\" are an instant potato product.  The preparation seems to indicate that you're using them as a dredge and therefore they should be left in their dry form, but Your Mileage May Vary.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2lb",
+     "ingredient_name": "veal round steak or cutlets",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Cup",
+     "ingredient_name": "mashed potato buds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "cooking oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cut meat into six serving pieces.  Pound to 1/8\" thickness.  Cut slits in edges to prevent curling.  Combine eggs and water.  Stir together potato buds and cheese.  Dip each veal piece into egg, then potato mixture.  Brown veal in hot oil for three minutes, turn and then cook for three minutes more.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0062",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "safe_name": "Potato_Schnitzel"
+ }
+}

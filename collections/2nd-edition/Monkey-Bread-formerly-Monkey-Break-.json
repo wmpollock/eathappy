@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Monkey Bread (formerly \"Monkey Break\")",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "notes": "Sadly no monkey is included in monkey bread",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3 1/2 cup",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 egg",
+     "ingredient_name": "slightly beaten",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "additional butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Scald milk and allow to cool to lukewarm.  Dissolve yeast in scalded milk in a large bowl.  Beat in sugar, salt, butter, flour and egg.Let double in a warm place and punch down.  On a floured board, roll dough out to 1/4\".  Cut in diamond pattern 2 1/2 inches apart.Dip each piece in a mixture of cooking oil and butter.  Arrange in a a 9-inch ring mold and let rise until almost double.  Bake 400F for 30 minutes or until golden brown.  Pull apart to serve.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": "**New05"
+  },
+  "untried": "1",
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Maurice C. Allen, Sr.",
+  "source_page": "48",
+  "entry_app": "Veronica",
+  "cdate": "01/04/2005",
+  "mdate": "02/02/2005",
+  "safe_name": "Monkey_Bread_formerly_Monkey_Break_"
+ }
+}

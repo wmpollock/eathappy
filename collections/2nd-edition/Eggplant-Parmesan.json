@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "source_page": "15",
+  "safe_name": "Eggplant_Parmesan",
+  "primary_category": "Main Dishes",
+  "preparation": "Beat into eggs salt, oregano and pepper.  Dip eggplant slices into egg mixture and dredge in flour.  Heat skillet with 3 tbsp oil to medium-high heat.  Fry both sides of eggplant until brown, placing cooked eggplant in a baking dish.  Alternate layers of eggplant with layers of jack cheese and tomato sauce.Back at 350F for 35 minutes.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Eggplant Parmesan",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Italian",
+    "Vegetarian"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Faye Iacchei",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "large eggplant",
+     "quantity": "1",
+     "preparation": "sliced into 1/4\" pieces"
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oregano",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "jack cheese",
+     "quantity": "3/4 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato sauce",
+     "quantity": "2 cans",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/03/2005"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Ham & Cheese Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "crispy corn squares (Corn Chex)",
+     "preparation": "crushed to 1 1/2 cups"
+    },
+    {
+     "quantity": "1/2 Tbsp",
+     "ingredient_name": "caraway seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "onion salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "butter or margerine",
+     "preparation": "melted"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "finely diced ham",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "shredded Swiss cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cup",
+     "ingredient_name": "half & half",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "onion salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix crust mixture, stir in butter.  Press into 9 inch pi plate.  Bake at 325F for 9 minutes.  Place ham in bottom of pie pan, sprinkle with cheese.  Combine remaining ingredients.  Bake at 350F for about 35 minutes.  Cool 15 minutes.  Sprinkle with paprika.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0042-0043",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "mdate": "12/18/2005",
+  "safe_name": "Ham_Cheese_Pie"
+ }
+}

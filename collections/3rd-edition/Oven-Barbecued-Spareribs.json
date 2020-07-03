@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Oven Barbecued Spareribs",
+  "notes": "From notes of 11/12/2008 -- \"Good times here.  The ribs come out amazingly tender like little pot roasts -- the sauce is probably applicable there as well.  Those not opposed to unseemly gnawing an easily separate meat from bone and so forth. An interesting mashup as always from the Senshin Busshist Church. This is a differnt tradtion from Western BBQ but there are some cheerful similarities.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 lb",
+     "ingredient_name": "spareribs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "cider or water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "generous dash",
+     "ingredient_name": "Tabasco",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "sliced or grated"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Separate spareribs and place meatier side up in a large baking pan.  Roast in 450F oven for 30 minutes and drain fat.  Mix other ingredients and pour over ribs.  Cook an additional 1 hour at 350F",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Toshiko Hirashima & Sumi Unno",
+  "source_page": "37",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Oven_Barbecued_Spareribs"
+ }
+}

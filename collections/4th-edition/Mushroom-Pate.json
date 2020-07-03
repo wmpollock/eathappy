@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Mushroom Pate",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "mushrooms",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "garlic",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "green onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chives",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper from taste",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In hot stock cook mushrooms, garlic and green onions until all broth has evaporated.  Allow to cool to room temperature.  Mix butter and cream cheese together and combine with mushroom mixture, salt and pepper.  Plate and garnish with chives.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Needs Research"
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Alberta Herfurth",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Mushroom_Pate"
+ }
+}

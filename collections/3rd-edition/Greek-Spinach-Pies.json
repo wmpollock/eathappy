@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Greek Spinach Pies",
+  "safe_name": "Greek_Spinach_Pies",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "fresh leaf spinach",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "scallions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "feta cheese",
+     "preparation": "crumbled"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "fresh dill",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "8 small",
+     "ingredient_name": "sheets of filo pasty (4 large)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "olive oil",
+     "preparation": "for brushing."
+    }
+   ]
+  },
+  "preparation": "Blanch the spinach with a small amount of water until just wilterd, then drain well.  Finely chop spinach and mix with scallions, feta, egg, dill and ground pepper.  Cut large pastry sheets in half and use two halves or two small filo pasty stacked on top one another with a layer of olive oil brushed in between.  Orient the sheets to that \"top\" is a corner. Spread a quarter of the filling on the lower portion of the filo and roll up about the size of an egg roll; 1 1/2\" or so.Brush the pastry well with oil and cook for 20-25 minutes in a 375F oven or until golden and crisp.  Cool on a wire rack.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "266",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/13/2012",
+  "user": "billp"
+ }
+}

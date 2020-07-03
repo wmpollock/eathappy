@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "source_page": "53",
+  "safe_name": "Merks_Coffee_Cake",
+  "primary_category": "Breakfast",
+  "preparation": "Cream together shortening, sugar and vanilla.  Beat in eggs one at a time.  Sift together flour, baking powder and baking soda.  Add half to creamed mixture.  Beat in sour cream then rest of flour mixture.Spread half the batter in a greased pan.  Cream butter, brown sugar and cinnamon.  Mix in nuts. Spread half of nut/sugar mixture over batter, cover with additional batter and remaining sugar mixture.Bake at 350F for 60 minutes.  Allow to cool for 10 minutes before removing from pan.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/04/2005",
+  "prep_time": null,
+  "name": "Merk's Coffee Cake",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Dorothy T. Kumamoto & Fusako Kumamoto",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "shortening",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sifted flour",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking soda",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1/2 pint",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "6 tbsp",
+     "preparation": "softened"
+    },
+    {
+     "ingredient_name": "firmly packed brown sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cinnamon",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chopped nuts",
+     "quantity": "1 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

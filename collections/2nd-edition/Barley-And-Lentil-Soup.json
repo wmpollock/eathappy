@@ -1,0 +1,109 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Barley_And_Lentil_Soup",
+  "primary_category": "Soup",
+  "preparation": "Heat oil in a heavy 4 quart saucepan over medium-high heat.  Add onions and garlic and saute until onions are translucent, about 10 minutes.  Add next garlic, carrots, celery, red bell peppers, sun dried tomatoes and basil.  Cook until bell pepper just softens, stirring occasionally, 6 minutes.Mix in broth, tomatoes and tomato paste.  Bring mixture to boil.  Stir in barley and lentils.  Reduce heat and simmer until barley and lentils are tender, stirring occasionally, about 1 1/2 hours.The original recipe called for an additional can of broth to start and an extra one at the end if it wasn't \"thin enough\".  Thin enough and folks like myself do not go well together...",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Barley And Lentil Soup",
+  "secondary_categories": {
+   "secondary_categorie": "Sticks To Ribs"
+  },
+  "source_date": null,
+  "source_name": "Epicurious",
+  "notes": "A hearty winter soup.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large onions",
+     "quantity": "2",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "garlic cloves",
+     "quantity": "4",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "carrots",
+     "quantity": "3",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "celery stalks",
+     "quantity": "4",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "red bell peppers",
+     "quantity": "1",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "oil packed sun-dried tomatoes",
+     "quantity": "8",
+     "preparation": "drained, chopped"
+    },
+    {
+     "ingredient_name": "dried basil",
+     "quantity": "2 tsp",
+     "preparation": "crumbled"
+    },
+    {
+     "ingredient_name": "dried oregano",
+     "quantity": "1 tsp",
+     "preparation": "crumbled"
+    },
+    {
+     "ingredient_name": "14.5 oz cans beef broth",
+     "quantity": "4",
+     "preparation": "(about)"
+    },
+    {
+     "ingredient_name": "28 ounce can crushed tomatoes",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato paste",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pearl barley",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lentils",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hot pepper flakes**",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Sriracha",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "2 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

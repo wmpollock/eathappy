@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Biscotti Alla Nonna",
+  "yield_measure": "Servings",
+  "notes": "I was expecting this recipe to make the hard, bubbly sort of biscotti one normally encounters in this day and age but these turn out more like fine-grained cookies.  Quite tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb (2 cups)",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "anise extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "almond extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "anise seed",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cup",
+     "ingredient_name": "flour",
+     "preparation": "sifted"
+    },
+    {
+     "quantity": "2 1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream together eggs, sugar and margarine; add extracts and seeds.  Beat until creamy. Sift flour and baking powder and add to mixture.  Bake in a 375 degree oven until brown, 10-15 minutes or so.  Remove from oven and cut into slats and turn on cut side.  Put back into oven to brown, an additional 10-14 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "Bill's Favorite",
+    "Italian"
+   ]
+  },
+  "source_name": "\"Family Favorites\", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Angeline Barsi.",
+  "source_page": "47",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Biscotti_Alla_Nonna"
+ }
+}

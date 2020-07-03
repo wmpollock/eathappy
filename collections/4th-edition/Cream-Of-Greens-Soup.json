@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Cream Of Greens Soup",
+  "safe_name": "Cream_Of_Greens_Soup",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "Originally  this recipe called for 6-8 slices of bacon to be cooked first in the  pan, using the rendered oil to saute the onions and the cooked bacon as a serving-time garnish, but I didn't find it added much to the recipe other than the horrible knowledge that one had added 8 slices of bacon unnecessarily.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 large bunch",
+     "ingredient_name": "green chard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "onions or leeks",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "large potatoes",
+     "preparation": "peeled and cubed 1/2 inch"
+    },
+    {
+     "quantity": "1 6 cup can",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup can",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Trim the stem ends of the chard then pull the leaves off the stems.   Chop both the leaves and stems and set aside separately.Saute onions in olive oil until softened.  Add the potatoes and stock and bring to a boil, reduce the heat, cover and simmer for 10 minutes or until the potatoes start to become tender.  Add the stems from the greens and cook 5 minutes, then add leaves and cook until tender, about 5-10 more minutes.  Cool slightly, then puree in a blender or food processor.Add the sour cream, reheat gently and season to taste.",
+  "primary_category": "Soup",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bachelor Food",
+    "Vegetables"
+   ]
+  },
+  "source_name": "San Francisco Chronicle",
+  "source_date": "14 May 2003",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

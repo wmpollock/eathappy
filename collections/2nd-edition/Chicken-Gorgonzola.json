@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "source_page": "107",
+  "safe_name": "Chicken_Gorgonzola",
+  "primary_category": "Main Dishes",
+  "preparation": "Heat pan over medium heat and melt butter.  Add onions and sugar and cook until onions are well browned -- about 20 minutes.  Set aside.Marinate chicken and zucchini separately in 1 cup each herbed olive oil  Char-broil or grill chicken for 3-5 minutes per side or until done.For each chicken breast, arrange 3 slices zucchini and top with chicken breast.  Add 1/3 cup of caramelized onions and 1 1/2 oz Gorgonzola to each.  Bake at 325F for 3 minutes or until softened.Herbed oil:2 cups olive oil, heated to 325F.  Remove from heat and add 2 1/2 tbsp garlic, minced; 1 1/2 tbsp rosemary; 1 1/2 tbsp black peppercorns, cracked.  Cool and strain.",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Chicken Gorgonzola",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", Arlene Schrum",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "clarified butter",
+     "quantity": "8 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Spanish onions",
+     "quantity": "3 lb",
+     "preparation": "julienned"
+    },
+    {
+     "ingredient_name": "granulated sugar",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "boneless, skinless chicken breasts",
+     "quantity": "12",
+     "preparation": "flattened"
+    },
+    {
+     "ingredient_name": "zucchini",
+     "quantity": "1 1/2 lb",
+     "preparation": "bias cut 1/4\" thick"
+    },
+    {
+     "ingredient_name": "herbed olive oil",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Gorgonzola cheese",
+     "quantity": "18 oz",
+     "preparation": "crumbled"
+    }
+   ]
+  },
+  "mdate": "01/20/2005"
+ }
+}

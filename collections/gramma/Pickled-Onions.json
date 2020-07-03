@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Pickled Onions",
+  "yield_count": "6 1/2",
+  "yield_measure": "pints",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 lbs",
+     "ingredient_name": "pickling onions",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "white vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "chili peppers",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "peppercorns",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Take 3lbs pickling onions.  Cover with boiling water for five minutes.  Pour off, peel put 1/2 cup salt and enough cold water to cover and let stand overnight.Add one cup sugar to one quart white vinegar and bring to a boil.  Drain onions and add to boiling vinegar and just warm through:  DO NOT BOIL.  Sterilize 1/2 pint jars, put 2 red chili pepper and four peppercorns in each jar.  Fill jars with onions, cover with vinegar juice and seal.",
+  "primary_category": "Side Dish",
+  "secondary_categorys": {
+   "secondary_category": "50s Goodness"
+  },
+  "untried": "1",
+  "source_page": "60-61",
+  "entry_app": "Veronica",
+  "cdate": "08/14/2007",
+  "safe_name": "Pickled_Onions"
+ }
+}

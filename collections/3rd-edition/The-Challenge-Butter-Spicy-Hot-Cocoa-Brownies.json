@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "The Challenge Butter Spicy Hot Cocoa Brownies",
+  "yield_count": "16",
+  "yield_measure": "squares",
+  "notes": "Hey, no doubt when you see a recipe for brownies on the back of the butter packaging you know you are on to a good deal.  My friends and I like to go to Sea Ranch on occasion, requiring us to immediately put on about fifteen pounds of butter to keep environmental equlibrium.Anyways, these sounded sure-fire killer for these and it was a coolish spring night when I busted these out and found them to be less sadly spicy than the Spi-C-Mint they serve at my local pizza joint but still with a little zip.",
+  "prep_time": "30 minutes + 35-40 minutes baking",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "softened salted butter",
+     "preparation": "(1 1/2 US sticks)"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4+ tsp",
+     "ingredient_name": "red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "unsweetened cocoa powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": "optional"
+    }
+   ]
+  },
+  "preparation": "Butter a 9\"x9\" baking pan & preheat oven to 350F.  Cream butter.  Cream sugar and red pepper into butter.  Beat in eggs and vanilla(*).  Sift together flour, cocoa, cinnamon and salt and fold into creamed mixture until evenly mixed.Spread evenly in buttered pan and top with walnuts as desired (I do 4 corners of nutted and un-nutted for thems who don't like nuts and nutted to keep thems who don't like nuts off my half). Bake for 35-40 minutes.  Cool/serve.* A step Challenge left out.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Made For Butter",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "Challenge Butter, Northern California",
+  "source_date": "Feb, 2005",
+  "entry_app": "Veronica",
+  "cdate": "02/23/2005",
+  "mdate": "06/25/2005",
+  "safe_name": "The_Challenge_Butter_Spicy_Hot_Cocoa_Brownies"
+ }
+}

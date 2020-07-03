@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "name": "Spanish Cream",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "unflavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cold milk",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "separated"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cream of tartar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine gelatin, 1/4 sugar, 1/2 cup cold milk and salt.  Let stand 1 minute.  Beat egg yolks and remaining milk.  Stir into gelatin mixture.  Cook, stirring over *low* heat about 5 minutes.Remove from heat.  Stir in vanilla.  Chill until it mounds slightly when dropped from spoon.Beat egg whites and cream of tartar.  Beat in 1/4 cup sugar slowly.  Fold gelatin mixture into egg whites.  Pour into mold and chill at least 8 hours.  Top with custard sauce, whipped cream or crushed berries.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0030-0031",
+  "entry_app": "Veronica",
+  "cdate": "11/28/2005",
+  "safe_name": "Spanish_Cream"
+ }
+}

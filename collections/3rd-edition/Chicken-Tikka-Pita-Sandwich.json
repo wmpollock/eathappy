@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "name": "Chicken Tikka Pita Sandwich",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "notes": "I do like the idea of chunk chicken salad sandwiches but the last attempt I tried was a disastrous conversion of  an English (as in UK) recipe that (a) didn't taste anything like the original and (b) was rather horrid.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "chicken breasts",
+     "preparation": "\"plump, boneless and skinless\""
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "garlic cloves",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "lemon or lime",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "tandoori paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "mayo",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "unflavored yogurt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried mint",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 - 2 per sandwich",
+     "ingredient_name": "lettuce leaves",
+     "preparation": "torn into pieces"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "cucumber",
+     "preparation": "seeded and diced"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "pitas",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Marinate chicken in lemon juice and garlic for 15 minutes.   Add the tandoori paste and let marinate for as long as possible:  30 minutes to overnight.Rub the chicken with vegetable oil, then cook:  broil, grill, or brown in a nonstick frying pan.  When the chicken is just cooked through, about 5 or 6 minutes per side (be careful not to overcook), transfer to a plate and let cool.Cut the chicken into bite-sized pieces.  Set aside.Mix together mayonnaise and yogurt then stir in the mint.   Set aside.Brush the pitas on one side with water then heat either in a  toaster or in a heavy nonstick frying pan.  They should puff up, making it easy to split them to form a pocket.Into each pocket place a few pieces of chicken, a spoonful of sauce, a sprinkling of cucumber, a little lettuce, more chicken and so on, until the ingredients are used up and/or the pitas can't hold any more. Garnish with onion, tomato and cilantro/mint then serve.",
+  "primary_category": "Sandwiches",
+  "secondary_categorys": {
+   "secondary_category": "Chicken"
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_date": "23 April 2003",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/11/2009",
+  "safe_name": "Chicken_Tikka_Pita_Sandwich"
+ }
+}

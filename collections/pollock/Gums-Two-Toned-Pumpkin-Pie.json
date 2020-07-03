@@ -1,0 +1,97 @@
+{
+ "recipe": {
+  "name": "Gum's Two-Toned Pumpkin Pie",
+  "yield_measure": "Servings",
+  "notes": "This has been the traditional Pollock family pie going back as far as I can remember, often trotted out for both Thanksgiving and Christmas.  The recipe goes back to my grandma and has that sort of sink-filling excess popular several generations back.  (Fortunately in this case, everything washes easily)The pie itself is three layers of successive creamyness, from a mouse-like pumpkin concoction at the bottom layer to a frothy head of whipped cream on the top.  Its a handsome pie to issue forth with and generally well beloved.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "light cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "plain gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "canned pumpkin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "separated"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "orange rind",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "baked, cooled 9 inch fluted pie crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Measure sherry, orange juice, cream and gelatin into top of double boiler.   Stir to blend.  Add 1/2 cup brown sugar, pumpkin, salt, spices,  orange rind and beaten egg yolks.  Place over boiling water.  Cook, stirring now and then until filling thickens slightly, about 10 minutes.  Remove from heat and cool.Beat egg whites to soft peaks, about 5 minutes with a mixer.  Then beat in remaining 1/4 C sugar to make meringue.  Fold meringue into pumpkin filling.Remove and set aside 1 1/2cup.  Turn remainder of filling into pie shell.   Place into refrigerator to chill quickly.  Beat 1/2 cup cream until stiff.  Fold into reserved pumpkin filling. Gently spoon on filling into pastry shell.  Return to refrigerator and chill until firm (3-4 hours.) Garnish pie with remaining 1/2 cup cream, beaten stiff and slightly sweetened if desired just before serving.Allegedly the trick behind whipping actual cream for the topping is to make it cold, cold, cold including the utensils.  The trick for meringue is to have everything at room temperature.  Funny how that works, isn't it?",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "11/17/2005",
+  "safe_name": "Gums_Two_Toned_Pumpkin_Pie"
+ }
+}

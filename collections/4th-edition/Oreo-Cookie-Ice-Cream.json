@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Oreo Cookie Ice Cream",
+  "yield_count": "10",
+  "yield_measure": "1/2 cup servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "heavy cream",
+     "preparation": "chilled"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whole milk",
+     "preparation": "chilled"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "crushed chocolate sandwitch cookies (e.g., Oreos)",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix cream, milk, sugar and vanilla in a medium bowl until well blended.  Pour into ice cream mixer and freeze until thickened, 20-25 minutes.  Add crushed chookes to ice cream during last 5-10 minutes of freezing.  Allow two hours in an airtight container in the freezer to ripen.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Ice Cream",
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Oreo_Cookie_Ice_Cream"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Simple Paella",
+  "safe_name": "Simple_Paella",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": "5.5 hrs",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "Nonstick cooking spray",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sweet peppers",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "low-sodium chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "regular brown rice",
+     "preparation": "uncooked"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "crushed red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground turmeric",
+     "preparation": null
+    },
+    {
+     "quantity": "12 oz",
+     "ingredient_name": "fresh or frozen shrimp",
+     "preparation": "thawed, peeled, deveined, and halved"
+    },
+    {
+     "quantity": "12 oz",
+     "ingredient_name": "tilapia fillets",
+     "preparation": "cut into 3/4 inch pieces"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "frozen peas",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "1. Coat a 4 quart slow cooker with cooking spray; add peppers, onion, and garlic. In a large microwave safe bowl, combine broth, rice, thyme, red pepper, and turmeric. Microwave on high for 4 minutes, or until just boiling. Pour over vegetables in cooker. 2. Cover; cook on low heat setting for 4 hours. About an hour before you'd like to eat, stir in shrimp, tilapia, and peas. Cover; cook 45 minutes more, stirring once, Remove cooker from liner, let stand, covered, for 10 minutes before serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Rice"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Parents Magazine",
+  "source_page": "36",
+  "source_date": "Jan 2011",
+  "entry_app": "Veronica",
+  "cdate": "02/04/2011",
+  "user": "hilaryp"
+ }
+}

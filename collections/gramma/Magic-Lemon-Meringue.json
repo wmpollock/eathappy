@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Magic Lemon Meringue",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "8 inch pie shell",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "Eagle Brand Sweetened milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "lemon juice (or less)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "**Meringue",
+     "ingredient_name": null,
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egg whites",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "cream of tartar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend sweetened milk, lemon juice, lemon peel and egg yolks until thickened.  Pour into pie shell.Beat egg white and cream of tartar in small mixing bowl, blend to soft peaks.  Gradually whip in sugar.  Continue to whip until whites hold firm peaks.  Pile on pie filling and seal to inside edge of shell.Bake at 325 slow until top is golden brown -- about 15 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "44",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Magic_Lemon_Meringue"
+ }
+}

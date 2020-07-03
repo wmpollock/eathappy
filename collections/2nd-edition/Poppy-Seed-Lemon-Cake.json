@@ -1,0 +1,90 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Poppy_Seed_Lemon_Cake",
+  "primary_category": "Desserts",
+  "preparation": "Preheat oven to 325 degrees.  Sift together the flour, baking powder, baking soda and salt.  Stir in the poppy seeds.Combine the sour cream, lemon extract and lemon zest in a small bowl.By hand or using a stand mixer, beat the eggs until light and foamy. Add the sugar and beat again until light;  there should be no graininess from the sugar remaining.  Beat in the melted butter and oil.Beat in a quarter of the flour mixture then a third of the sour cream mixture.  Beat until just incorporated.  Repeat until all the flour and sour cream are used, ending with flour.  Do not over-beat.  If there are any streaks of flour left in the batter, do a final blending with a large rubber spatula.Evenly spray a bundt pan with baking spray.  Spoon the batter into the pan; smooth the top with a rubber spatula.  Sharply rap the pan on the counter several times to eliminate air bubbles.  Place in the lower third of the oven and bake until a cake tester inserted near the center of the cake ring comes out clean, 50 minutes to an hour.Place the pan on a rack to cool for ten minutes before loosening the cake from the pan.Cool completely then wrap tightly in plastic wrap and leave overnight at room temperature.  Do not refrigerate.Before serving, dust with powdered sugar.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Poppy Seed Lemon Cake",
+  "secondary_categories": {
+   "secondary_categorie": "Makes You Fat"
+  },
+  "source_date": "16 April 2003",
+  "source_name": "San Francisco Chronicle",
+  "notes": "You know the difference between Poppy Seed Lemon Cake and PSL Muffins?  Not much.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "cake flour",
+     "quantity": "3 1/4 cups",
+     "preparation": "measured before sifting"
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking soda",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "big pinch",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "poppy seeds",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon extract",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "zest of 1/2 large lemon",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "4",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "superfine sugar",
+     "quantity": "1 1/4 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "unsalted butter",
+     "quantity": "4 ozs",
+     "preparation": "melted and cooled"
+    },
+    {
+     "ingredient_name": "vegetable oil",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "powdered sugar",
+     "quantity": null,
+     "preparation": "for dusting"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

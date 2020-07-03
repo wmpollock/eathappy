@@ -1,0 +1,101 @@
+{
+ "recipe": {
+  "name": "Sausage Bread",
+  "safe_name": null,
+  "primary_category": "Bread",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "yield_count": "1",
+  "yield_measure": "loaf",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "Brigeford frozen dough loaves (2 lbs dough)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Ground breakfast  sausage",
+     "preparation": "Tube style"
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Cheddar",
+     "preparation": "Shredded"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "Eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Breakfast",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Jack",
+     "preparation": "Shredded"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "Maple syrup",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Italian",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Italian style sausage",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "Mozzarella",
+     "preparation": "Shredded"
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "Italian seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "Salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "Black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "Shredded Parma",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Thaw loaves in fridge twelve hours. Some might say overnight. Brown sausage and cool.Knead bread and poof at 170F with bowl of water (1qt) to double -- one and a half hours.Punch down bread.  Let rise a second time,  30 minuets. Reserve egg.  For Italian, reserve Parma.  Combine other ingredients.Roll dough 12\"x4\".Align filling along center longitudinal third.  Roll up longitudinally and form into a ring,  seam-side down.Wash with beaten eggs.  Top with Parma for Italian.Bake 375F, 1 hour 15 minutes for breakfast.  Bake until Parma cooks for Italian, perhaps 15 minutes longer.",
+  "source_author": "Geoff Dawe",
+  "source_name": null,
+  "source_page": null,
+  "source_date": "15 September 2017",
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-16",
+  "user": "billp"
+ }
+}

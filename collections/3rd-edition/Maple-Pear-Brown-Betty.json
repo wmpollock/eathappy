@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Maple Pear Brown Betty",
+  "safe_name": "Maple_Pear_Brown_Betty",
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": "divided, additional reserved for greasing pan"
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "breadcrumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 1/2 lbs",
+     "ingredient_name": "pears",
+     "preparation": "peeled, cored, halved and sliced to 1/2 inch"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "maple syrup",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 30F.  Brown 5 Tbl of the butter in large skillet of medium-low heat.  Add breadcrumbs, cinnamon and salt and stir occasionally until breadcrumbs are toasty, 8-10 minutes.  Remove from heat, cool and toss with brown sugar.Combine pear slices, lemon juice and maple syrup.Butter 2 quart baking dish.  Coat evenly with 1/2 cup breadcrumbs.  Place half of pear mixture on pan and dot [INSTRUCTIONS UNCLEAR: how?  melted?] 1 Tbl of butter.  Cover with half remaining breadcrumbs.  Spoon remaining pears and any juice and cover with remaining crumbs.  Dot [AGAIN, UNCLEAR] with remaining 1 Tbl butter.Bake until pears are soft and crumbs are dark brown, 45-60 minutes depending on taste.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle, \"Maple Pear Brown Betty\"",
+  "source_page": "http://www.sfgate.com/food/recipes/detail/?p=detail&rid=18951&sorig=qs",
+  "entry_app": "Veronica",
+  "cdate": "01/29/2013",
+  "user": "billp"
+ }
+}

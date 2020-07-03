@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Amaretto Mousse",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "24",
+     "ingredient_name": "Vanilla Oreo Cookies",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "melted margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "Knox Gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "cold milk",
+     "preparation": null
+    },
+    {
+     "quantity": "3 eggs",
+     "ingredient_name": "separated",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": "whipped"
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "Amaretto",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine crushed cookies with margarine.  Pub in the bottom of a spring form pan.  Chill.  Soften gelatin in cold milk.  Soften gelatin in cold milk.  Dissolve over hot water.  Beat eggs [yolks] with sugar until thick and light.  Add Amaretto.Beat egg whites until stuff but _not_ dry.  Fold in yolk mixture then.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Margaret Nutt",
+  "source_page": "0005",
+  "entry_app": "Veronica",
+  "cdate": "07/02/2005",
+  "safe_name": "Amaretto_Mousse"
+ }
+}

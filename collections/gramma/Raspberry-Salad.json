@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Raspberry Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 oz pkg",
+     "ingredient_name": "raspberry jello",
+     "preparation": "dissolved in 2 cups water, refrigerate until partly set"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "red port wine",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "small pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small container",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients and allow to set in a 9x13\" pan.  Mix together topping and top.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "79-80",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-03",
+  "mdate": null,
+  "user": "billp"
+ }
+}

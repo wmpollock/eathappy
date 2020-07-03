@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Mushroom salad",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "small white mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "Parmesan cheese",
+     "preparation": "cut in slivers"
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small garlic clove",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt + freshly ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    }
+   ]
+  },
+  "preparation": "Wash and dry mushrooms.  Slice thinly and place them in a large salad bowl.  Add the slivers of Parmesan cheese, garlic and parsley.  Add oil and lemon juice.  Season with salt and pepper.  Toss to dress.  Do not overmix.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "46-47",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Mushroom_salad"
+ }
+}

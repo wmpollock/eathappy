@@ -1,0 +1,95 @@
+{
+ "recipe": {
+  "source_page": "140",
+  "safe_name": "Red_Beans_Sausage_and_Rice",
+  "primary_category": "Main Dishes",
+  "preparation": "Place beans in 2 inches of water and bring to a boil.  Let sit for 1 hour and drain. Boil sausage in skillet with 1 cup water until water has boiled off.  Add 2 tablespoons vegetable oil and brown sausage.  Remove and allow to cool before halving lengthwise and then into 1 1/4 inch pieces.Cube salt pork into 1\" pieces and render in sausage skillet and set aside, reserving drippings.Saute onion, celery and bell pepper* in remaining 2 tbsp vegetable oil in a separate pan.  Add black pepper and cayenne pepper when mixture is softened.  Remove from heat and set aside.Mix tomatoes and beans and add 2-2 1/2 cups water to cover.  Bring to boil and add vegetables, salt pork and 1/2 of rendered drippings.  Bring to a boil and add sausage.  Simmer gently covered for 1 1/2 hours, stirring frequently until beans are tender.  Salt to taste.Boil chicken stock and crushed garlic and add rice.  Cover and reduce heat, simmering until liquid is absorbed (about 20 minutes).  Mix in parsley and cover with red beans and sausage.* referred to as \"the trinity\" in Cajun cooking",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Red Beans, Sausage and Rice",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Julie Azevedo",
+  "notes": "My mom had this labeled \"Good!\" in her copy of this book.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "dry kidney beans",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "smoked sausage",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vegetable oil",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt pork",
+     "quantity": "1 1/2 oz-4 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "yellow onion",
+     "quantity": "1 large",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "celery",
+     "quantity": "2 ribs",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "green bell pepper",
+     "quantity": "1/2",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "black pepper",
+     "quantity": "1/8 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cayenne pepper",
+     "quantity": "1/8 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crushed tomato",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "3 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "2 cloves",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "rice",
+     "quantity": "1 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chopped parsley",
+     "quantity": "1/4 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

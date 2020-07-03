@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Heavenly Angel Dessert",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tbsp",
+     "ingredient_name": "corn starch",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1 tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 loaf",
+     "ingredient_name": "angel's food cake",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sweetened coconut",
+     "preparation": "toasted"
+    }
+   ]
+  },
+  "preparation": "Combine sugar cornstarch and salt.  Add orange juice, water, lemon juice & egg.  Mix well.  Cook over medium heat stirring constantly, until thickened.  Add buttera and cool to lukewarm.  Beat cream.  Stir into mixture.  Break cake into 1 inch pieces.  Line bottom of 8 inch square pan 2 1/2 of cake pieces.  Cover with half of pudding mixture.  Layer rest of cake pieces and pudding mixture.  Layer rest of cake pieces and pudding.  Sprinkle with coconut.  Chill at least 2 hours.  Cut into squares and serve.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Dorothy Callab",
+  "source_page": "0001",
+  "entry_app": "Veronica",
+  "cdate": "02/01/2005",
+  "mdate": "02/01/2005",
+  "safe_name": "Heavenly_Angel_Dessert"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Pork_Chops_Patrice",
+  "primary_category": "Main Dishes",
+  "preparation": "Brown pork chops, add wine and simmer for a while.  In a large Pyrex baking dish, spread soup evenly and add rest of ingredients.  Place chops on top of sauce and bake at 350F for 15 minutes.  When sauce has thinned a little and is bubbly, spoon over chops and continue to bake another 10 minutes.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Pork Chops Patrice",
+  "secondary_categories": {
+   "secondary_categorie": "Pork Chops"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "A recipe from my Uncle Patrick's \"bachelor days\", which were long and varied.  Somewhere exists a recipe for  Tuna  Surprise which contained lots of strange things such as peas (not to mention \"hot tuna\") but was generally  pretty tasty.  Sadly I wouldn't rediscover this recipe until well -after- college.  Makes a tasty winter meal.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "nice chops",
+     "quantity": "6-8",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white wine",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "green onion",
+     "quantity": "1",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sliced raw mushrooms",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cream of mushroom soup",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh mushrooms",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

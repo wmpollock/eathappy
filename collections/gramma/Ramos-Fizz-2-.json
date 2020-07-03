@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Ramos Fizz [#2]",
+  "safe_name": null,
+  "primary_category": "Beverages",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "ice",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "fizz mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "apricot brandy",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2oz",
+     "ingredient_name": "half and half",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Garnish with orange slice.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0070",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

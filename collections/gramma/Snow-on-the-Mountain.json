@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Snow on the Mountain",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": "10-12",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": "After putting in a great number of entries I can say with a certainty that this is the finest name I ever have come across.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "small angel food cake",
+     "preparation": "cubed"
+    },
+    {
+     "quantity": "2 pkgs",
+     "ingredient_name": "lemon flavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pt",
+     "ingredient_name": "heavy cream",
+     "preparation": "divided, whipped stiff"
+    },
+    {
+     "quantity": "1 sm can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": "drained well"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "shredded coconut",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dissolve gelatin and sugar in 1/2 cup boiling water.  Let cool + add 1 cup orange juice.  Refrigerate + when congealed, whip thoroughly.  Fold in 1/2 pt heavy cream, whipped stiff.  Fold in 1 sm can of crushed pineapple, well drained.  Add cubed cake.  Pour into spring-form pan + chill overnight.  Before serving, spread tops + sides with 1/2 pt whipped cream.  Sprinkle with coconut.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "85-86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

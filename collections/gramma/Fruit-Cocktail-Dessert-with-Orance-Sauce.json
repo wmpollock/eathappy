@@ -1,0 +1,92 @@
+{
+ "recipe": {
+  "name": "Fruit Cocktail Dessert with Orance Sauce",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "fruit cocktail",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Orange Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 egg",
+     "ingredient_name": "beaten",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Sift together flour and baking soda.  Add juice of fruit cocktail, egg and mix.  Add drained fruit and put in 8x10 greased pan.  Top with brown sugar and nuts.   Bake in 350F oven 45 minutes.Sauce:  Cook all ingredients until thickened.Can be made a day or so ahead.Serve vanilla ice cream cut to cover square of cake.  Pour orange sauce over all.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0017-0018",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Fruit_Cocktail_Dessert_with_Orance_Sauce"
+ }
+}

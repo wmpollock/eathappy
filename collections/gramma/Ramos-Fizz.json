@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "name": "Ramos Fizz",
+  "notes": "This was found on two separate cards.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "sweet & sour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "gin or vodka or apricot brandy",
+     "preparation": null
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "half & half",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 dash",
+     "ingredient_name": "Frothee",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Card one: Add a few drops of flower water to each glass.Card two: Mix beforehand in pitcher.  When guests arrive pour into blender with 2 cubes of ice for each drink. Blend at top speed until ice is chipped.",
+  "primary_category": "Beverages",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0038",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "mdate": "05/19/2009",
+  "user": "billp",
+  "safe_name": "Ramos_Fizz"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Swedish Crumb Cake",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "quick oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pint",
+     "ingredient_name": "jam",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend well with hands or pastry cutter.Spread 2/3 or mixture on greased 9x 13 pan, pressing down firmly.Spread over this 1/2 pint of jam and nuts and over with remaining mixture.Bake 30 minutes in 350F oven if aluminum of 325F if glass is used.  Cut when cool.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Mr. Matthews",
+  "source_page": "32",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Sweedish_Crumb_Cake"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Chicken Enchiladas",
+  "safe_name": "Chicken_Enchiladas",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "I made this for Andrew, Miranda and Andi and despite their concerns that it was going to be \"too hot\", none  were left over at the  end of it.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "16-ounce container light sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "7-ounce can diced green chilies",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "large green onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped fresh cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "cooked chicken",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2 packed cups",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "8",
+     "ingredient_name": "8-inch-diameter flour tortillas",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "8-ounce package light cream cheese",
+     "preparation": "cut lengthwise into 8 strips"
+    },
+    {
+     "quantity": "24 oz",
+     "ingredient_name": "picante sauce or mild salsa",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salsa",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "additional cilantro for garnish",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large bowl mix 1 3/4 cups sour cream, chilies,  green onions, 1/2 cup cilantro and cumin. Add  chicken and 1 cup cheddar cheese.  Season filling to taste with salt and pepper.Butter a 13x9x2-inch glass baking dish in preparation for assembly. ASSEMBLY:Spoon generous 1/2 cup filling down center of each tortilla and top filling with strip of cream cheese . Roll up each tortilla and arrange enchiladas in dish seam down.  Can be prepared 3 hours in advance. Cover and chill.COOKING:Preheat oven to 350F. Pour picante sauce over enchiladas. Cover and bake until sauce bubbles and enchiladas are heated through, about 45 minutes. Uncover, sprinkle with remaining 1 cup cheddar cheese and bake until cheese melts, about 5 minutes.Top with remaining sour cream and garnish with cilantro.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Chicken",
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "source_name": "Bon Appetit (via Epicurious)",
+  "source_date": "September 1995",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "11/27/2009",
+  "user": "billp"
+ }
+}

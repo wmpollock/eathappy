@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "main_ingredient": "Spare Ribs",
+  "notes": "**UNTRIED**  I've yet to try this particular recipe myself but I remember my dad out grilling these on the old family  BBQ.  They'd  come out with a tangy, crispy crust that was quite tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Pork Spare Ribs",
+     "quantity": "Four Lbs"
+    },
+    {
+     "ingredient_name": "Onion",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Whole Cloves",
+     "quantity": "2"
+    },
+    {
+     "ingredient_name": "Bay Leaf",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Tomato Soup",
+     "quantity": "10 3/4 Oz"
+    },
+    {
+     "ingredient_name": "Peeled, Chopped Peaches",
+     "quantity": "2 Cups"
+    },
+    {
+     "ingredient_name": "Light Corn Syrup",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Cider Vinegar",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Firmly Packed Brown Sugar",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Vegetable Oil",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Dry Mustard",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Worcestershire Sauce",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Paprika",
+     "quantity": "1 1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Fresh Ground Pepper",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Garlic Powder",
+     "quantity": "1 Tsp"
+    }
+   ]
+  },
+  "name": "Bbq Pork Spare Ribs With Peach Sauce",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "BBQ",
+    "BBQ",
+    "Untried"
+   ]
+  },
+  "preparation": "Sauce: In 3 quart saucepan, mix all ingredients.  Stir constantly while bringing sauce to boil over medium heat.  Reduce heat and simmer uncovered for 20 minutes.  Stir occasionally.  Cool sauce and puree.Ribs: Stud onion with cloves and place in 1 inch water with ribs and simmer for 30 minutes.  Drain ribs, brush generously with sauce and grill.** I remember there being some secret shortcut about only half-grilling the ribs and then doing the rest in a conventional oven after the crust had set, but some would properly consider this cheating."
+ }
+}

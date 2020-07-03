@@ -1,0 +1,82 @@
+{
+ "recipe": {
+  "name": "Pedernales River Chili",
+  "safe_name": "Pedernales_River_Chili",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The paper claims a lineage from Lady Bird Johnson and is allegedly verifiable on the LBJ online library (lbjlib.utexas.edu > research > reference > quick facts > recipes).Chili meat is defined for us here as \"coursley gorund round steak or a well-rimmed chuck\".According to the article, Lady Bird came up with this after LBJ had his first heart attack.  Surprisingly he continued to live through this much sodium.  Ole!",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 lb",
+     "ingredient_name": "chili meat",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground cumin (comino)",
+     "preparation": null
+    },
+    {
+     "quantity": "6 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": "additional to taste"
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "channed whole tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2-6 dashes",
+     "ingredient_name": "hot sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "hot water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Brown meat and cook onion and garlic until translucent in a large heavy pan or Dutch Oven.  Add oregano, ground cumin, tomatoes, hot pepper sauce, salt and hot water  and bring mixture to a boil before simmering one hour.  Skim off fat during cooking.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Salt-Tastic!",
+    "Chili"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Chester Progressive: Chase off the chill with simmering pots of chowder and chili",
+  "source_page": "8b",
+  "source_date": "25 Feb 2009",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

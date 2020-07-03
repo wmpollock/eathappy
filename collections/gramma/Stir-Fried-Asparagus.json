@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Stir Fried Asparagus",
+  "yield_count": "4-6",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "fresh asparagus",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "water",
+     "preparation": "boiling, salted"
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "mashed"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "grated ginger root",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbsp",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "green onions",
+     "preparation": "sliced, including tops (optional)"
+    }
+   ]
+  },
+  "preparation": "Snap off tough ends from asparagus and cut spears into thin diagonal slices.  Drop into boiling salted water and cook 2 minutes.  Drain immediately and set aside.Prepare remaining ingredients.  Heat oil in large frying pan or wok over high heat.  Add garlic and ginger and stir about 30 seconds.  Add asparagus, water, sugar and salt.  Stir-fry, turning with spatula until heated through, about 1 minute.  Turn out on warm serving dish and garnish with green onions if desired.",
+  "primary_category": "Vegetables",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0001-R",
+  "entry_app": "Veronica",
+  "cdate": "02/01/2005",
+  "safe_name": "Stir_Fried_Asparagus"
+ }
+}

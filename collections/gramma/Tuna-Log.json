@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Tuna Log",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Two words that don't necessarily go great together...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cans",
+     "ingredient_name": "tuna",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "a little",
+     "ingredient_name": "hot sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 little",
+     "ingredient_name": "milk or cream or mayonnaise",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend + mold.  Put in oiled bowl + shape roll.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "recipe": {
+  "name": "Coconut Delight",
+  "notes": "Labeled \"My favorite\" alongside.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1 package",
+     "ingredient_name": "instant pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "1 large container",
+     "ingredient_name": "whipped desert topping",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix butter, flour and coconut.  and spread on baking sheet and brown in oven at 300F for 45 minutes.  Stir and turn frequently.  Spread 1/2 of crumbs in bottom of 9x14 pan.  Mix pudding in 1 1/2 cup milk for 2 minutes with beater*.  Chill for 20 minutes then spoon onto crumb crust.  Pile on lare container of defrosted cool whip.  Sprinkle remainder of crumbs on top of pudding. Chill.Gum's note says \"I like pistachio instant pudding, but many others would be good.\"* whisk or mixer",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0017",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Coconut_Delight"
+ }
+}

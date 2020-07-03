@@ -1,0 +1,36 @@
+{
+ "recipe": {
+  "main_ingredient": "Bill's Favorite",
+  "notes": "A long history of \"YP\" in my family, allegedly dating back to my never-met English grampa.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Eggs",
+     "quantity": "3"
+    },
+    {
+     "ingredient_name": "Flour",
+     "quantity": "1 1/2 Cup"
+    },
+    {
+     "ingredient_name": "Milk",
+     "quantity": "1 1/2 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "3/4 Tsp"
+    },
+    {
+     "ingredient_name": "Cooked Suet To Cover Pan",
+     "quantity": null
+    }
+   ]
+  },
+  "name": "Yorkshire Pudding",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Bread"
+  },
+  "preparation": "Beat mixture and let stand for 1/2 hour.  Beat again and bake at 400\u00ba for 30-45 minutes.  Use 1/4 cup* suet or Crisco.  Make sure ingredients are room temperature.  Glass dish should be already hot before putting batter in.It just said \"1/4\" before, I assume cup.  Suet is pretty nasty stuff but I would assume its tastier than plain ol' Crisco.  I would assume the latter doesn't blow out your heart as much and is -certainly- easier to find."
+ }
+}

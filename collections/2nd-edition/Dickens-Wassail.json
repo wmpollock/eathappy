@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Dickens_Wassail",
+  "primary_category": "Beverages",
+  "preparation": "Put apples into a deep casserole.  Combine 1/4 cup sugar and the water in a saucepan; bring to boil.  Pour syrup over apples.  Cover casserole and bake at 350F 30 to 40 minutes or until apples are tender, basting occasionally.  Pour ale into a saucepan and heat on low heat until it foams.  Add spices, sherry and 1 1/2 cups sugar, lemon peel and lemon juice.  Heat, stirring until sugar is dissolved.  Remove from heat and allow to cool for 20 minutes. Reheat mixture and pour through a double thickness of cheesecloth into a heat resistant punch bowl.  Float apples and serve, garnished with lemon peel.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Dicken's Wassail",
+  "secondary_categories": {
+   "secondary_categorie": "Makes You Drunk"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I never had a chance to get into this, preferring mulled wine or spiced (and spiked) cider for my yuletide  inebriation needs.  Still -- Dickens, Wassail, how can you go wrong?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "baking apples, cored",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ale",
+     "quantity": "4 qts",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cinnamon",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground ginger",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "nutmeg",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sherry",
+     "quantity": "1 qt",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemons",
+     "quantity": "2",
+     "preparation": "juiced & peeled"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

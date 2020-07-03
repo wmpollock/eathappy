@@ -1,0 +1,102 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Moms_Lasagna",
+  "primary_category": "Main Dishes",
+  "preparation": "Brown ground beef and sausages in a large kettle, remove with a slotted spoon; reserve*.  Pour off all but 3 Tbl of the fat.  Saute onion and garlic in kettle until soft.  Return browned meat to kettle with tomatoes, salt, herbs and pepper.  Simmer over low heat, stirring several times for 30 minutes.  While sauce simmers, cook lasagna noodles,  following label directions; drain and place in a bowl of cold water to keep separated.  Beat eggs in a large bowl; add drained spinach, cottage cheese and remaining teaspoon of salt.  When ready to assemble: (d)rain noodles on paper toweling; arrange 3 strips on the bottom of each of two 13 x 9 x 2-inch baking dishes.  Spoon part of the cheese-spinach mixture over noodles; add part of meat sauce; sprinkle with grated Parmesan cheese.  Continue layering until all ingredients have been used.  Top each dish with slices of mozzarella cheese.  Bake in 350F oven 30 minutes or until bubbly-hot.  Garnish with sprigs of parsley, if you wish.   Lasagna can be assembled early and pulled from fridge an hour ahead of time.  Place cold lasagna in cold oven and heat to 350 and bake 1 hour.* the meat, not the fat -- cryptic family notation there.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Mom's Lasagna",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Bill's Favorite",
+    "Italian"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "There are some indications that this may have at one point come from my grandmother as the card appeared to  be in her hand,  but I always think of my mom making this recipe.  I've reformatted most of these and redone  the entries to be more readable, but since this is one of those close family recipes,I'll  leave it in the longhand  form.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "ground beef",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sweet Italian sausages",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large onions",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "tomatoes",
+     "quantity": "1 large can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato paste",
+     "quantity": "1 small can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Italian herbs",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lasagna noodles",
+     "quantity": "1 pkg (1 lb)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "frozen chopped spinach",
+     "quantity": "2 pkg (10 oz)",
+     "preparation": "thawed"
+    },
+    {
+     "ingredient_name": "cottage cheese",
+     "quantity": "1 lb carton",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "grated Parmesan cheese",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sliced mozzarella",
+     "quantity": "12 oz",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

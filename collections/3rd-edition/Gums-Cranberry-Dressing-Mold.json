@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Gum's Cranberry Dressing Mold",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "notes": "I remember that the funny star-shaped dressing would be popped out of its copper mold on Thanksgiving at  Gum's house just before the turkey went out on the table.  My mother spent several years after my  grandmother's death trying to reproduce the molded jelly with mixed results before finally working out the  amount of gelatin to use.I'm not sure whether this recipe reflects my gramma's recipe or my Mom's  so don't know if there's the right  amount of Gelatin in there or not.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "cranberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pkg",
+     "ingredient_name": "gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook cranberries and juice until the berries pop.  Strain the mixture and return to the stove.  Add the sugar and gelatin and bring to a rolling boil for 3-4 minutes.  Poor mixture into mold and cool to room temperature before refrigerating to set, probably overnight.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "50s Goodness",
+    "Asst'd Comfort Food",
+    "Thanksgiving"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Gums_Cranberry_Dressing_Mold"
+ }
+}

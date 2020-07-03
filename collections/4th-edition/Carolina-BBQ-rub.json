@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Carolina BBQ rub",
+  "safe_name": "Carolina_BBQ_rub",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Nice for pork shoulder and as a general seasoning.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "fresh ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "paprika",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together ingredients before using.  Apply to surfaces that have been patted dry and let stand until moist.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Pork"
+   ]
+  },
+  "source_name": "About.com:  A Carolina BBQ Rub",
+  "source_page": "http://bbq.about.com/od/rubrecipes/r/bln0224a.htm",
+  "entry_app": "Veronica",
+  "cdate": "03/03/2013",
+  "user": "billp"
+ }
+}

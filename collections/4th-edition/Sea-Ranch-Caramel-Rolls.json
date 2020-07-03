@@ -1,0 +1,126 @@
+{
+ "recipe": {
+  "name": "Sea Ranch Caramel Rolls",
+  "safe_name": "Sea_Ranch_Caramel_Rolls",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "The house at Sea Ranch had a glorious stainless steel range and fine set of Hinkels.  Made me want to get to  cooking.  Hilary found  a 1964 paperback edition of \"The Joy Of Cooking\" which proved quite a delight to thumb  through though somewhat clueless  about the modernities found in today's supermarket.    A shame too, since  the Surf Market had every oddity a human would want including such oddities as Golden Syrup for the Britons.    Good eats there.  So, something to match it from the book perhaps.  Indeed, and here's what I found.  PS -- It  uses OVER ONE POUND OF BUTTER so you'd better not plan on doing much more than this all day.  You'll probably not be able to eat more than one or two...a week.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**DOUGH",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "whisked"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "warm water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "cardamom",
+     "preparation": null
+    },
+    {
+     "quantity": "3 sticks",
+     "ingredient_name": "butter",
+     "preparation": "slightly softened"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "lemon zest",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pecans, walnuts or other savory nut",
+     "preparation": "minced"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**TOPPING (FOR EACH ROLL)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "them nuts from before",
+     "preparation": "still minced"
+    }
+   ]
+  },
+  "preparation": "First beat eggs then add water and yeast and allow to stand for fifteen minutes.After time is up, combine the egg-yeast miture with the flour, salt, sugar and melted butter..  The ball will be rather pasty at this point.  Let this rest in the fridge for 20 minutes.While waiting, cream the butter.Roll out dough rectangularly, coat with butter and fold into thirds; repeating the process at least four times.  I believe more layers == more flakiness so use your own discretion.  At a certain point of layering the dough may become easier to roll out under plastic.After the last fold and roll, sprinkle even amounts of filling ingredients across the surface and roll up the dough across the width, leaving you the longest possible roll.  Refrigerate overnight or until firm, 3-4 hours.Preheat oven to 350F the next morning.  Add the topping ingredients to the bottom of each pan.  For the nuts to stick on top even if the caramel doesn't you'll want to have the nuts closest to the surface of the rolls.  Chop the dough log from the night before into 3/4\" inch rolls and place on top of mixture in muffin tins.Cook at for 20-30 minutes or until they are a nice golden brown.  Allow to cool for a few minutes before flipping while the caramel is warm. Removing them when they are cool will be near impossible once the caramel hardens but hot caramel is not your skin's friend, so be careful!",
+  "primary_category": "Breakfast",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "mdate": "01/01/2012",
+  "user": "billp"
+ }
+}

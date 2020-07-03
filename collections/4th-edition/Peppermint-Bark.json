@@ -1,0 +1,42 @@
+{
+ "recipe": {
+  "name": "Peppermint Bark",
+  "yield_count": "32",
+  "yield_measure": "pieces, about",
+  "notes": "Yet another chapter in my ongoing bout with labelholia.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "10-12 oz",
+     "ingredient_name": "white baking pieces",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "peppermint extract",
+     "preparation": null
+    },
+    {
+     "quantity": "8-10 drops",
+     "ingredient_name": "red food color",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "crushed peppermint candies",
+     "preparation": "optional"
+    }
+   ]
+  },
+  "preparation": "Line baking sheet with foil.  Heat baking pieces in a saucepan until nearly melted and remove from heat.  Stir in extract and mix until smooth.  Spread mixture onto baking sheat evenly -- use a spatula -- and spread mixture to 1/3 inch thick.  If so desired, sprinkle the bark with food coloring and gently swirl to make o-so-pretty colors.Chill for 10 minutes or until set and break into pieces.  Cover and store in the fridge for up to five days.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Makes You Fat"
+  },
+  "untried": "1",
+  "source_name": "Mc Cormick Pure Pepperment Extract box",
+  "entry_app": "Veronica",
+  "cdate": "05/15/2007",
+  "safe_name": "Peppermint_Bark"
+ }
+}

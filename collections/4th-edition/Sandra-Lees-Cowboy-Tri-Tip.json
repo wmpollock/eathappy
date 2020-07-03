@@ -1,0 +1,94 @@
+{
+ "recipe": {
+  "name": "Sandra Lee's Cowboy Tri-Tip",
+  "safe_name": "Sandra_Lees_Cowboy_Tri_Tip",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Third of six in the 2009 Tri-Tip Shootout.  Sandra Lee's show hok is based around putting at least one blatantly storebought element into the recipe.  I replaced the jarred sauce with some homegrown and it worked great.  In this case, there's certainly no sin committed in using a prepared complicated base.She's a polarizing figure -- I'm not much of a fan -- but this recipe came up fairly high in Google searches at the time and therefore demanded a try.  Prety decent.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "tri-tip roast",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dry Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "saltless seasoning pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**BBQ/Serving Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 26oz jar",
+     "ingredient_name": "pasta sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "honey",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together rub ingredients and coat tri-tip, using multipe passes if necessary.  Juices will be drawn into the rub a bit so time is your friend here.The sauce should be combined in a pot and brought to a boil before simmering for fifteen minutes.  Split batch and use half for grilling mop and half for service.  Baste roast every five minutes through process.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Beef"
+   ]
+  },
+  "source_name": "Cooking With Sandra Lee",
+  "source_page": "http://www.foodnetwork.com/recipes/semi-homemade-cooking-with-sandra-lee/cowboy-tri-tip-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "11/26/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

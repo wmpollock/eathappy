@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "name": "Steak In A Bag",
+  "safe_name": "Steak_In_A_Bag",
+  "yield_count": "5",
+  "yield_measure": "Servings",
+  "notes": "The paper bag part always freaks people out on a number of levels -- this is, of course, one of the best factors of this recipe.  Done wrong this -is- a fantastic fire hazard:  keep the bag away from the elements, sides, and anything else you can think of and have wet towels or a fire extinguisher on hand.  (As I prepare this now, I have both.)A 10/08 note warns against the temptaion of London Broil for this recipe.  That cut of meat, similarly thick, is a tough, gristly beast in this preparation and should be avoided.  Everyone loves a tri-tip...",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2-3 lbs",
+     "ingredient_name": "steak, 2.5\" thick",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "fresh-bread breadcrumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 tsp",
+     "ingredient_name": "seasoned pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": "2-4 slices pre-processing"
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "shredded"
+    }
+   ]
+  },
+  "preparation": "In a small bowl, mix butter, oil, garlic, seasoned salt and seasoned pepper until blended.  Coat exposed all surfaces of the steak with the mixture.  Mix breadcrumbs and cheese: using the food processor for this step doesn't hurt. Press into butter mixture on steak, coating steak well.Open the supermarket bag and place it on its side. Slide in the steak. Fold the bag end over and staple it shut. Keep the bag on its side until cooking. At this point the steak may be refrigerated for several hours.  Before cooking, bring steak to room temperature.Preheat oven to 375 degrees. Arrange the oven rack height so that the bag will not touch any heating elements. Place bag on a rimmed baking sheet and bake 30 minutes for a medium-rare steak.  For a medium rare steak, increase oven temperature to 425 degrees and bake 15 minutes longer, a total of 45 minutes. For medium-well steak, reduce heat from 425 degrees to 375 degrees and bake 5 minutes longer before removing from oven, a total of 20 minutes. Remove steak from bag. Let stand 5 minutes before carving into thin slices.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Lots Of Cheese",
+    "Beef",
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "\"Cookery For Entertaining\", Marlene Sorosky, Hp Books, Tuscon",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "01/05/2011",
+  "user": "billp"
+ }
+}

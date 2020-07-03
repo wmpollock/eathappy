@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Dicken's Wassail",
+  "yield_measure": "Servings",
+  "notes": "I never had a chance to get into this, preferring mulled wine or spiced (and spiked) cider for my yuletide  inebriation needs.  Still -- Dickens, Wassail, how can you go wrong?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "baking apples, cored",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "4 qts",
+     "ingredient_name": "ale",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 qt",
+     "ingredient_name": "sherry",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "lemons",
+     "preparation": "juiced & peeled"
+    }
+   ]
+  },
+  "preparation": "Put apples into a deep casserole.  Combine 1/4 cup sugar and the water in a saucepan; bring to boil.  Pour syrup over apples.  Cover casserole and bake at 350F 30 to 40 minutes or until apples are tender, basting occasionally.  Pour ale into a saucepan and heat on low heat until it foams.  Add spices, sherry and 1 1/2 cups sugar, lemon peel and lemon juice.  Heat, stirring until sugar is dissolved.  Remove from heat and allow to cool for 20 minutes. Reheat mixture and pour through a double thickness of cheesecloth into a heat resistant punch bowl.  Float apples and serve, garnished with lemon peel.",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": "Makes You Drunk"
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Dickens_Wassail"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "recipe": {
+  "name": "Gum's Macadamia Nut Cream Pie",
+  "yield_measure": "Servings",
+  "notes": "I remember really liking this as a kid but have yet to actually make it myself.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "macadamia nuts",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "banana flavoring",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 pint",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cream of tartar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dissolve gelatin in 1/3  cup cold water.  Mix together 1 1/4 cup milk, 1/2 cup sugar, 1/2 tsp salt.  Cook over low heat, stirring constantly.  Do not boil. Remove from heat.  Slowly mix half of this mixture into 3 slightly beaten egg yolks, then add the other half.  Cook until it begins to boil, then remove from heat and in softened gelatin.  Add crushed Macadamia nuts.  Let cool until partially set, then beat with rotary egg beater until smooth.  Blend in 1 tsp. banana flavoring and 1/2 cup cream whipped stiff.  Beat until stiff 3 egg white, 1/4 tsp. cream of tartar and 1/2 cup of sugar.  Fold this meringue into the mixture.  Pour into cool baked crust.  Just before serving cover with whipped cream and ground nut mix.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Macadamia Nuts",
+    "Makes You Fat",
+    "Bill's Favorite",
+    "Needs Research"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "01/27/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Gums_Macadamia_Nut_Cream_Pie"
+ }
+}

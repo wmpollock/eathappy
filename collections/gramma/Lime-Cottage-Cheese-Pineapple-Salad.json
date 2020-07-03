@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Lime Cottage Cheese Pineapple Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "lime jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "hot water (only)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 carton",
+     "ingredient_name": "cottage cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 large can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": "unwhipped"
+    },
+    {
+     "quantity": "additional 1/2 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": "whipped"
+    }
+   ]
+  },
+  "preparation": "Mix together hot water and lime jello.  Let cool -- do not let it start to set.Add cottage cheese, crushed pineapple and 1/2 cup whipping cream unwhipped.Mix 1/2 cup whipping cream mix and fold into above mixture.Pour into 15x9 pyrex dish to set.",
+  "source_author": null,
+  "source_name": "54",
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

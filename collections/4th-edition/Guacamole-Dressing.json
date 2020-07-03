@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Guacamole Dressing",
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "notes": "So, like, I had this in my back pocket for a -long- time, believing it the whole while a damned -lie-.  It certainly could not be any good.Well, Hilary who usually will only politely consume my various experiments in dressing actually went back for SECONDS!  In the same sitting!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic",
+     "preparation": "split"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "avocados",
+     "preparation": "peeled and sliced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small onion",
+     "preparation": "finely diced"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "small tomato",
+     "preparation": null
+    },
+    {
+     "quantity": "2-4 tsp",
+     "ingredient_name": "diced green chiles (poblanos)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Rub a bowl with the garlic and the mash avocados in engarlicked bowl.  Mix onion, tomato, chiles, salt and mayonnaise to a smooth, sauce-like consistency.  Chill and serve.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Makes You Fat",
+    "Mexican",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Lily Domoto",
+  "source_page": "12",
+  "entry_app": "Veronica",
+  "cdate": "12/31/2004",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Guacamole_Dressing"
+ }
+}

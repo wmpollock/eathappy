@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Auntie Gertrude's Famous Salad Dressing",
+  "notes": "A nice, kind of tangy dressing.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "light oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "red wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "ketchup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "Worchestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "halved or 1tsp garlic powder"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "12/ tsp",
+     "ingredient_name": "white pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Pour the oil, vinegar, ketchup and Worchestershire sauce into a 20 Oz bottle with a cap.  Seal the bottle and shake.   Add remaining ingredients and shake again.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New05",
+    "50s Goodness",
+    "70s Flashback"
+   ]
+  },
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Gertrude Asby",
+  "source_page": "48",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "08/03/2007",
+  "safe_name": "Auntie_Gertrudes_Famous_Salad_Dressing"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Gum's Fresh Strawberry Pie",
+  "preparation": "Mash half the berries.  Add sugar and cornstarch.  Mix well and cook five minutes until thickened and clear.  Stir in the lemon juice, cool. Add the remaining berries, saving six for garnish.  Pour into pie shell and chill.  Top with a ruff of whipped cream and garnish with remaining berries.",
+  "main_ingredient": "Strawberries",
+  "yield_count": "6",
+  "notes": "I've made this a few times with mixed results.  I was so very much hoping that I would have some nice  sort of jellied looking pie  and that is occasionally how it turns out.   Occasionally it turns out like a  great leathery mass.Your milage may vary.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "9 Inch Baked Pie Shell",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Fresh Strawberries",
+     "quantity": "3 Pints"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Cornstarch",
+     "quantity": "3 Tbl."
+    },
+    {
+     "ingredient_name": "Lemon Juice",
+     "quantity": "2 Tbl."
+    },
+    {
+     "ingredient_name": "Sweetened Whipped Cream",
+     "quantity": "1 Cup"
+    }
+   ]
+  },
+  "category": {
+   "category": "Dessert"
+  },
+  "yield_measure": "Servings"
+ }
+}

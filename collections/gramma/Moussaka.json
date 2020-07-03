@@ -1,0 +1,87 @@
+{
+ "recipe": {
+  "name": "Moussaka",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "eggplant",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter or margerine",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "3/4 pound",
+     "ingredient_name": "ground beef",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tsp",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt or pepper to taste",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "5 oz",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": "beaten until frothy"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "nutmeg",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "fine bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "Parmesan cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Peel eggplant and slice 1/2 inch thick.  Brown in butter.  Cook onions until slightly brown.  Cook meat 10 minutes.  Combine tomato past and other ingredients.  Make sauce of 3 Tbsp butter, flour and milk.  Stir in beaten eggs.[sadly this is the end of the instructions.  Similar reference recipes from The Internet suggest all remaining ingredients layer into a deep pan and are baked 30-40 minutes.  Perhaps these things were transparent to my grandmother.  Else she should have used a bigger card]",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "48-49",
+  "entry_app": "Veronica",
+  "cdate": "03/12/2006",
+  "safe_name": "Moussaka"
+ }
+}

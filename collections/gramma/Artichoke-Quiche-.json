@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Artichoke \"Quiche\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 jars",
+     "ingredient_name": "marinated artichokes",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small onion",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "Tabasco",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "breadcrumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbl",
+     "ingredient_name": "parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Saute onion in liquid saved from one jar of artichokes.  Beat eggs, add seasonings, mix with other ingredients.  Bake 30 minutes in 375 degree oven in greased 7x11 pan.Cut in squared -- serve hot or cold.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "**Needs review"
+  },
+  "untried": "1",
+  "source_name": "Lorianne? Nolan",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Artichoke_Quiche_"
+ }
+}

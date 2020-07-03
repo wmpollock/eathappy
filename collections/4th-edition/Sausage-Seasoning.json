@@ -1,0 +1,112 @@
+{
+ "recipe": {
+  "name": "Sausage Seasoning",
+  "safe_name": null,
+  "primary_category": "Breakfast",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Pork",
+    "Turkey"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "I started with dissatisfaction with the preparation and availability of turkey sausage and ended with the ultimate solution to pork rib trimmings, ground coarse.  This is a bit of a kitchen sink recipe largely intact from The Joy of Cooking.  I find that it is easier to mix up a large batch and have it on hand:  I'll mark it below as \"parts\":  I use a small measuring cup in tablespoon gradients but you could use ounces or cups or buckets for all it would matter.  Pick a unit.At present I am favoring swapping out a quarter of the salt for Accent (ALL HAIL MSG).",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lbs",
+     "ingredient_name": "ground pork or turkey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "coarsly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "dried sage",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried marjoram",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": "alternately savory"
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch or two",
+     "ingredient_name": "ground red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Proportional Measure",
+     "preparation": null
+    },
+    {
+     "quantity": "8 parts",
+     "ingredient_name": "ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "6 parts",
+     "ingredient_name": "dried sage",
+     "preparation": null
+    },
+    {
+     "quantity": "4 parts",
+     "ingredient_name": "salt",
+     "preparation": "alternately swap 1->1.25 parts salt for 1 part Accent"
+    },
+    {
+     "quantity": "2 parts",
+     "ingredient_name": "dried marjoram",
+     "preparation": null
+    },
+    {
+     "quantity": "1 part",
+     "ingredient_name": "thyme",
+     "preparation": "savory if you're fancy"
+    },
+    {
+     "quantity": "1/2 part",
+     "ingredient_name": "ground ginger",
+     "preparation": "but be generous"
+    },
+    {
+     "quantity": "1/2 part",
+     "ingredient_name": "ground red pepper",
+     "preparation": "or forget about it."
+    }
+   ]
+  },
+  "preparation": "Place ground meat in a large bowl or dish.  Combine dry ingredients and integrate into meat, tossing and fluffing with a fork to ensure even coverage before forming patties.Some pureists -- myself included -- cut in a little water prior to adding the seasoning.  Depending on your preparation and the moisture content of your meat, you may want to do likewise.",
+  "source_author": null,
+  "source_name": "Joy of Cooking",
+  "source_page": "727",
+  "source_date": "1997",
+  "entry_app": "EH 3.0",
+  "cdate": "2016-09-28",
+  "mdate": null,
+  "user": "billp"
+ }
+}

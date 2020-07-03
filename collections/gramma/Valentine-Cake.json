@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Valentine Cake",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "10-12",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "12",
+     "ingredient_name": "eggs",
+     "preparation": "separated"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 1/8 cups",
+     "ingredient_name": "confectioner's sugar",
+     "preparation": "sifted"
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "finely chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat whites and salt until foamy.  Gradually add sugar and continue beating until stiff but not dry.  Beat yolks until very thick and creamy.  Fold yolks carefully but very thoroughly into whites.  Gently fold in pecans.  Pour into a 10-inch tube pan.  Bake in a 350F oven for 50 minutes.  Remove from oven; invert pan to cool cake before removing from pan.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "90",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

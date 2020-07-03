@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": "28",
+  "safe_name": "Chili_Con_Queso",
+  "primary_category": "Appetizers",
+  "preparation": "Toss the Velveeta with the corn starch to evenly coat.  Heat oil in medium-hot skillet and add onion, garlic, and chili powder.  Add the tomatoes and chiles and bring to a boil, stirring frequently.  Reduce heat and simmer uncovered for 10 minutes.Stir in cheese gradually until just melted.  Serve hot with corn chips.",
+  "yield_count": "2 1/2",
+  "yield_measure": "cups",
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Chili Con Queso",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Phyllis Duckworth",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Velveeta cheese",
+     "quantity": "2 lb",
+     "preparation": "cubed"
+    },
+    {
+     "ingredient_name": "corn starch",
+     "quantity": "1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "corn oil",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1/2 cup",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "14.5 oz can whole tomatoes",
+     "quantity": "1",
+     "preparation": "drained and chopped"
+    },
+    {
+     "ingredient_name": "4oz can chopped green chiles",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "corn chips",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

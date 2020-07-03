@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Wilted Spinach Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5 slices",
+     "ingredient_name": "bacon",
+     "preparation": "cook well done - save grease"
+    },
+    {
+     "quantity": "1 head",
+     "ingredient_name": "lettuce or spinach bunch or mixture",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "hard boiled eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "lemon pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "green onion",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together sugar, vinegar, salt, lemon pepper, garlic powder and mustard and bring to a boil: 1 minute on high.Pour over spinach.Add bacon + about 1/4 cup bacon drippings.  DON'T REHEAT BACON DRIPPINGS.Toss salad.  Top with green onion + eggs.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "99",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

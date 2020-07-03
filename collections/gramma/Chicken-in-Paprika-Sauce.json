@@ -1,0 +1,80 @@
+{
+ "recipe": {
+  "name": "Chicken in Paprika Sauce",
+  "yield_count": "6-8",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 lbs",
+     "ingredient_name": "chicken pieces",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 lb",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large tomatoes or 12 cherry tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "green peppers",
+     "preparation": "cut into large pieces"
+    },
+    {
+     "quantity": "10",
+     "ingredient_name": "small onions",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "celery stalks",
+     "preparation": "cut into small pieces"
+    },
+    {
+     "quantity": "1/3 of 10 1/2 oz",
+     "ingredient_name": "cream of chicken soup",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 tsp",
+     "ingredient_name": "Hungarian paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "red pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2 Tbsp",
+     "ingredient_name": "corn starch",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "cold water",
+     "preparation": "mixed with cornstarch"
+    }
+   ]
+  },
+  "preparation": "Brown chicken.  Add green peppers, onions, tomatoes & celery.  Simmer covered for 15 minutes.Combine remaining ingredients except cornstarch and water in a small saucepan.  Heat just to boiling point, stirring constantly.Pour sauce over chicken and vegetables.  Cover and cook over low heat for about an hour or until chicken is fork-tender.If sauce is thin, thicken with corn starch dissolved in cold water",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Gretchen",
+  "source_page": "0021-0022",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Chicken_in_Paprika_Sauce"
+ }
+}

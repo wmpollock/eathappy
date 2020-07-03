@@ -1,0 +1,138 @@
+{
+ "recipe": {
+  "source_page": "29",
+  "safe_name": "Gluten_Steaks",
+  "primary_category": "Main Dishes",
+  "preparation": "Mix flours and first measure of water together thoroughly and let stand while preparing broth.Heat broth to a boil.  In the interim period, knead gluten under slow running water for approximately three minutes.  Pull into lemon sized pieces, stretch out and place into the boiling broth.Simmer for 45 minutes.  Pieces may be cooked or frozen for later use.The original recipe gets soggy here.  The next bit says that you can roll the gluten in breading and fry up in a skillet.  The next part contain suggestions for how you might use gluten as a substitute for meat in \"any recipe!!!!\".  Suggestions included grinding gluten in a meat grinder and using in place of taco meat, and while I suspect that this was the non-breaded, pre-fried gluten they were talking about, your mileage may vary.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Gluten Steaks",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Vegetarian"
+   ]
+  },
+  "source_date": "1992",
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Angel Isaacson",
+  "notes": "I will admit that the title doesn't sound particularly sexy:  \"mmm, pull another gluten steak off the grill, will you love?\" but the idea seems kind of interesting and has enough spices in there to make it sound worth trying.Else one of the greatest boondoggles I've yet come across...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**GLUTEN",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "gluten flour",
+     "quantity": "5 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whole wheat flour",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "5 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**BROTH",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "3 qts",
+     "preparation": "hot"
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "1",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "2 cloves",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chicken style seasoning",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brewers yeast flakes",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion powder",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic powder",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sage",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "3 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**BREADING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "whole wheat flour",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chicken style seasoning",
+     "quantity": "4 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "brewers yeast flakes",
+     "quantity": "5 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion powder",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "turmeric",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

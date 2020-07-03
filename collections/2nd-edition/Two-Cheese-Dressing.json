@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "source_page": "11",
+  "safe_name": "Two_Cheese_Dressing",
+  "primary_category": "Salad/Dressing",
+  "preparation": "Mix all ingredients in a medium bowl, blending well.  Cover and refrigerate until serving.",
+  "yield_count": "2 1/2",
+  "yield_measure": "cups",
+  "untried": "1",
+  "cdate": "12/30/2004",
+  "prep_time": null,
+  "name": "Two Cheese Dressing",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Lilly Domoto",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cheddar cheese",
+     "quantity": "1/2 cup",
+     "preparation": "shredded"
+    },
+    {
+     "ingredient_name": "blue cheese",
+     "quantity": "1/2 cup",
+     "preparation": "crumbled"
+    },
+    {
+     "ingredient_name": "chives",
+     "quantity": "1/4 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic powder",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

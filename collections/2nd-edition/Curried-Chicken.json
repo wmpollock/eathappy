@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "source_page": "39",
+  "safe_name": "Curried_Chicken",
+  "primary_category": "Main Dishes",
+  "preparation": "Cook onions in butter over medium heat until softened.  Gradually add flour to until mixed.  Add chicken, broth and milk until mixed and then add remaining ingredients, continuing to cook until chicken is done.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Curried Chicken",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Fuji Furuya",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "onions",
+     "quantity": "1/2 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "5 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "6 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chicken breasts",
+     "quantity": "2 cup",
+     "preparation": "cubed"
+    },
+    {
+     "ingredient_name": "chicken broth",
+     "quantity": "2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "curry powder",
+     "quantity": "2 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "apples",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "raw mushrooms",
+     "quantity": "8 oz",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

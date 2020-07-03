@@ -1,0 +1,45 @@
+{
+ "recipe": {
+  "name": "Sweet Onion Vinaigrette Dressing",
+  "safe_name": "Sweet_Onion_Vinaigrette_Dressing",
+  "yield_count": "1",
+  "yield_measure": "cup",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grapeseed oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "white basalmic vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sweet onion",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": null,
+  "primary_category": "Salad/Dressing",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Dole Field Greens Package",
+  "source_date": "2010",
+  "entry_app": "Veronica",
+  "cdate": "07/02/2010",
+  "user": "billp"
+ }
+}

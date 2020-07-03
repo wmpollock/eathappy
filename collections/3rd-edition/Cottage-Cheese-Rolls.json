@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Cottage Cheese Rolls",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "butter or margarine",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cottage cheese",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "milk or water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "coconut or chopped nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine all ingredients until smooth and chill covered overnight.  Divide into 4 portions and roll into 1/8\" to 1/4\" discs.  Cut into wedges and roll from wide edge to point.  Arrange on a cookie sheet 1 inch apart and bake at 375F for 30 minutes.Mix powdered sugar and milk or water to make frosting and top rolls with frosting and coconut or chopped nuts",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Salt-Tastic!",
+    "Appetizer",
+    "Retro"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Mrs. Harrie Solenski",
+  "source_page": "163",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Cottage_Cheese_Rolls"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Grilled fingerlings with dill",
+  "safe_name": "Grilled_fingerlings_with_dill",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "notes": "Grilled potatoes free up room in the oven!",
+  "prep_time": "45 min",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 lbs.",
+     "ingredient_name": "fingerling potatoes",
+     "preparation": "halved lengthwise (or kept whole if very small)"
+    },
+    {
+     "quantity": "1/4 c.",
+     "ingredient_name": "EVOO",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 t",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 t",
+     "ingredient_name": "black pepper",
+     "preparation": "freshly ground"
+    },
+    {
+     "quantity": "4 T",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/4 c",
+     "ingredient_name": "fresh dill",
+     "preparation": "roughly chopped"
+    },
+    {
+     "quantity": "to taste",
+     "ingredient_name": "coarse sea salt",
+     "preparation": "optional"
+    }
+   ]
+  },
+  "preparation": "1. Prepare a grill for medium heat (350-450 degrees). In a large bowl, toss potatoes with oil, kosher salt, and pepper.2. Set out 4 sheets heavy-duty foil (each about 12 by 26 in.). Oil foil; divide potatoes among sheets, arranging them cut side down in a single layer on the short half of each sheet. Fold other half of each sheet over potatoes and crimp edges to seal. 3. Grill packets, crimped sides up, covered, rotating halfway through, until potatoes are tender when pierced through foil, 20 minutes. Open packets; if potatoes aren't brown on cut sides, cook longer.4. Transfer potatoes to a large bowl. Toss with butter and dill. Arrange on a platter; sprinkle with coarse sea salt if you like. Make ahead: Up to 3 days ahead, grill potatoes, remove from foil, and chill. Reheat in an oiled baking pan in a 450 degree oven until hot, 15 minutes, then proceed with step 4.",
+  "primary_category": "Vegetables",
+  "secondary_categories": {
+   "secondary_category": [
+    "BBQ",
+    "Thanksgiving",
+    "Vegetables"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "69",
+  "source_date": "November 2009",
+  "entry_app": "Veronica",
+  "cdate": "11/24/2009",
+  "mdate": null,
+  "user": "hilaryp"
+ }
+}

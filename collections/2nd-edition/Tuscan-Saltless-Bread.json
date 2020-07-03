@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Tuscan_Saltless_Bread",
+  "primary_category": "Bread",
+  "preparation": "ONE OR TWO DAYS BEFORE:  Make a paste out of the 2 cups flour and boiling water.  Cool, cover and leave out overnight.Mix flour and yeast in a large bowl, add paste and olive oil until evenly mixed.  Kneed for about ten minutes or until even and transfer to a lightly oiled bowl, turning dough to coat gently.  Let ferment for two hours, punching down if it approaches twice the size before then.Gently divide the dough into two pieces and shape into balls (or as we baking sophisticates like to say, \"boules\").  Proof the loaves for 60-90 minutes.Place a baking stone in the oven as close to center as you can get and below that place a small pan capable of holding approximately two cups of water. Heat stove to FIVE HUNDRED DEGREES!  HOLY CRAP!! ARE YOU READY? ? NOW IS WHEN THINGS GET HAIRY!Drop two cups of water into the \"steam pan\" and slap those loaves in there.  You'll need a clean sprayer (hope you read through this already) and mist the interior walls (NOT THE LOAF, DAMNIT) until it starts looking scary -- a couple of good bursts should do.  Close the door and repeat this process in another thirty seconds.  Having fun?  Of course you are.  One more time and you can leave the fool thing alone.  Turn the heat down to 450 and get a beer.  All this foolishness will give you a nice, chewy crust, so be of good cheer.  Plus, it was exciting, wasn't it?After ten minutes, remove the steam pan if any water is left and rotate the loaves 180 degrees to get them nice and even.  It'll take another 10- 20 minutes after that to get a nice crust on there.  The loaves should sound slightly hollow when tapped.",
+  "yield_count": "2",
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Tuscan \"Saltless\" Bread",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Bill's Favorite",
+    "Italian"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"The Bread Baker's Apprentice\" by Peter Reinhart.",
+  "notes": "I've made this bread more than any other and damn is it tasty.  I can't vouch for its Tuscan authenticity though  the author of its  source swears up and down that the lack of salt is what makes it the real deal.  A simple bread  with a nice chewy crust.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "water",
+     "quantity": "1 3/4 cups",
+     "preparation": "boiling"
+    },
+    {
+     "ingredient_name": "unbleached bread flour",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "unbleached bread flour",
+     "quantity": "2 2/3 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "instant yeast",
+     "quantity": "2 1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "semolina flour",
+     "quantity": null,
+     "preparation": "for dusting"
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

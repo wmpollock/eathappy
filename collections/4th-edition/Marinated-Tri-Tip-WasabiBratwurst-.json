@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "name": "Marinated Tri-Tip (WasabiBratwurst)",
+  "safe_name": "Marinated_Tri_Tip_WasabiBratwurst_",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Ranked second in the 2009 tri-tip challenge.  A nice savory preparation.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 large",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "clarified butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "steak sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "teriyaki sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "garlic",
+     "preparation": "finely minced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "crushed red pepper flakes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "hot sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "dry red wine",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tri-tip",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Marinade tri-tip at least overnight, as long as three days.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "http://www.wasabibratwurst.com/marinated-tri-tip-roast/",
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": "01/30/2011",
+  "user": "billp"
+ }
+}

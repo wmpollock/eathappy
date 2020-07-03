@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "name": "Garlic Shrimp",
+  "notes": "This is a pretty good shrimp marinade, reminds one of standard Chinese dishes.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4-1 lb",
+     "ingredient_name": "raw shrimp",
+     "preparation": "shelled and de-veined"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "peanut oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sherry or whiskey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "crushed"
+    }
+   ]
+  },
+  "preparation": "Marinate shrimp in other ingredients for an hour or two.  Drain and broil or grill for 4-5 minutes per side.Variant marinades:  equal parts olive oil and vermouth; white wine and butter with tarragon; olive oil mixed with lemon juice, parsley and garlic.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Shrimp"
+  },
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "source_page": "25",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Garlic_Shrimp"
+ }
+}

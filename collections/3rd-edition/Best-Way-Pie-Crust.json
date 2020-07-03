@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Best Way Pie Crust",
+  "safe_name": "Best_Way_Pie_Crust",
+  "yield_count": "1",
+  "yield_measure": "shell",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "all purpose flour",
+     "preparation": "additional for dusting"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vegetable shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "unsalted butter",
+     "preparation": "cut into small pieces"
+    },
+    {
+     "quantity": "3-4 Tbl",
+     "ingredient_name": "ice water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together flour, salt, shortening and butter with food processor until mixture resembled breadcrumbs.  Cut in just enough water with a fork so dough holds together.  Form a disk and let refrigerate firmly wrapped for one hour.  Roll out dough on 2 sheets of waxed paper until 1/8 inch thick and has (roughly) a 13\" diameter.  Place in pan and trim to 2\" extra diameter total (1\" all around).  Roll the end under and crimp.Pies can be prebaked by lining shell with aluminum foil shiny-side down and filling with beans or rice at 425F for 15 minutes then an additional 10-15 minutes after removing foil and weight.  Pan should be rotated \"a couple of times\" for max win.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "http://www.sfgate.com/recipes/article/Back-to-basics-for-Thanksgiving-issue-4044569.php#page-4",
+  "source_date": "November 16, 2012",
+  "entry_app": "Veronica",
+  "cdate": "01/29/2013",
+  "mdate": "02/04/2013",
+  "user": "billp"
+ }
+}

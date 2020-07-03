@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Leek & Potato Soup",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4",
+     "ingredient_name": "leeks",
+     "preparation": "white part only"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "32 oz",
+     "ingredient_name": "unsalted chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lg",
+     "ingredient_name": "potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 cups",
+     "ingredient_name": "milk or half and half",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "freshly chopped parsley",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large soup pot over medium heat add butter and leeks and saute for five minutes, stirring often to prevent browning.  Add stock and bring to a boil.  Add potatoes and pepper and reduce to a simmer to cook for 15 minutes or until potatoes are tender.  Add milk and parsley and warm another 2-3 minutes before serving.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Lower Sodium"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Kitchen Basics Unsalted Chicken Cooking Stock package, 2009",
+  "entry_app": "Veronica",
+  "cdate": "03/11/2009",
+  "safe_name": "Leek_Potato_Soup"
+ }
+}

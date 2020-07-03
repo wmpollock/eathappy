@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Mustard Pickles",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "large cucumbers",
+     "preparation": "quartered"
+    },
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "small cucumbers",
+     "preparation": null
+    },
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "button onions",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "cauliflower",
+     "preparation": null
+    },
+    {
+     "quantity": "**SAUCE",
+     "ingredient_name": null,
+     "preparation": null
+    },
+    {
+     "quantity": "6 small Tbl*",
+     "ingredient_name": "mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "tumeric",
+     "preparation": null
+    },
+    {
+     "quantity": "2 quarts",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Stand vegetables overnight in strong salt water.Wet flour and mustard which have been sifted with sugar and tumeric with small amount of vinegar and rub to a smooth paste.  Add rest of vinegar and cook until smooth being very careful not to burn.  Add pickles and heat thoroughly.* -- it should be noted that \"small tablespoon\", as written in the book could very well mean \"spoon from the table\", apparently an issue with older recipes.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Choice Recipes Edited and Complied by Members of the Eastern Star of Sacramento, Mrs. Potter contributor",
+  "source_page": "60",
+  "source_date": "1928",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Mustard_Pickles"
+ }
+}

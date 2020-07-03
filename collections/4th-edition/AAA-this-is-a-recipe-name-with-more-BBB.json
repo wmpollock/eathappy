@@ -1,0 +1,52 @@
+{
+ "recipe": {
+  "name": "AAA, this is a recipe name with more BBB",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Christmas",
+    "Dubious",
+    "Lots Of Cheese"
+   ]
+  },
+  "yield_count": "quantitu",
+  "yield_measure": "yunits",
+  "prep_time": "prep tim",
+  "notes": "Look!  I have modified this record!",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1m",
+     "ingredient_name": "1i",
+     "preparation": "1p"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "2m",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "3i",
+     "preparation": "3p"
+    },
+    {
+     "quantity": "4m",
+     "ingredient_name": "4i",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Preparationspreadfa asdf adf asdofaisdf adfoad f",
+  "source_author": "author",
+  "source_name": "title",
+  "source_page": "page",
+  "source_date": "publi",
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2015-02-18",
+  "user": "billp"
+ }
+}

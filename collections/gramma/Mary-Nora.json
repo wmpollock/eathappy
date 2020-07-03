@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Mary Nora",
+  "safe_name": null,
+  "primary_category": "Beverages",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Needs review",
+    "Inspires Curiosity",
+    "Jello/Jello Mold"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "Most of the jello salads I've so far seen I've decided haven't been much worth having.  Gramma did like her jello, though its not necessarily a taste I concurrently enjoyed.  This, with marshmallows suspended with childhood beauty, sounds like it be the winner of the bunch.  I mean, who -doesn't- like marshmallows?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "orange jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "frozen orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "mandarin oranges",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "sliced bananas",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "small marshmallows",
+     "preparation": "in water(!)"
+    }
+   ]
+  },
+  "preparation": "Dissolve Jello, add orange juice and enough mandarin to make 2 cups.  Refrigerate until mushy -- add fruit and marshmallows.",
+  "source_author": null,
+  "source_name": "56-57",
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

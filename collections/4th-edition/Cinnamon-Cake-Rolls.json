@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Cinnamon Cake Rolls",
+  "safe_name": null,
+  "primary_category": "Breakfast",
+  "untried": null,
+  "secondary_categories": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "yield_count": "12",
+  "yield_measure": "large rolls",
+  "prep_time": null,
+  "notes": "It seemed that for a time puddingless yellow cake was a difficult find.  In 2016 you can find it as a \"classic\" like the soups that water once staples and are now relegated to a survival role as a seasoning.These rolls expand up rather obscenely large.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 (18.5 oz)",
+     "ingredient_name": "package classic yellow cake mix",
+     "preparation": "non \"moist\""
+    },
+    {
+     "quantity": "2 1/4 tsp",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "water",
+     "preparation": "warmed to less than 120F"
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**TOPPING",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine cake mix, yeast and flour before mixing in water..  A machine would be best as the dough should be electric  Cover mixture with moist towel and let double, about thirty minutes in a warm environmentTurn out onto a lightly floured surface and roll out into a 10x16 rectangle.  Spread with softened butter.  Sprinkle with sugar and cinnamon.Roll length-wise in the longest direction with the coating on the inside like you would if anyone still made jelly rolls.  Slice rolls in 2\" intervals.  Arrange in buttered pans and cover to double again.  Prepare topping by cooking ingredients until butter has melted and pour over rolls immediately before baking at 375F for 25 minutes.Turn out onto serving plate immediately after removing from oven.",
+  "source_author": null,
+  "source_name": "\"Almanor Westshore Cooks\", Contributed by Polly Justason, mother of Gary Kluge",
+  "source_page": "162",
+  "source_date": "1992",
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-05-14",
+  "user": "billp"
+ }
+}

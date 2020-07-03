@@ -1,0 +1,94 @@
+{
+ "recipe": {
+  "name": "Hot Brococli Tartlets",
+  "notes": "Needs research: butter into Tbl, if possible.  Rare usage, even if we -are- baking.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "** Pastry",
+     "preparation": null
+    },
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "** Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "leek",
+     "preparation": "finely sliced"
+    },
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "brocoli",
+     "preparation": "broken into florets"
+    },
+    {
+     "quantity": "1/2 oz",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 oz",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "grated"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh chevril",
+     "preparation": "to garnish"
+    }
+   ]
+  },
+  "preparation": "Pastry - mix the flour and salt together in a large bowl.  Mix in the butter and egg to form a dough, adding some cool water if needed.  Knead lightly and cover with plastic wrap before refrigerating for an hour.Let the dough return to room temperature for 10 minutes and then roll out on a floured surface.  Line 8-10 deep muffin pans.  Prick the bases with a fork and bake at 375F for 10-15 minutes or until the pastry is lightly browned.  HEat the oil in a small saucepan and sautee leek for 4-5 minutes before adding broccoli.  Strif fry an additional minute and then add a \"little\" water.  Cover and steam for 34 minutes until broccoli becomes a bit tender.Melt butter into a clean saucepan and stir in the flour, stirring constantly for a minte.  Slowly add milk and stir utnil smooth.  Add half the cheese and season with salt and pepper.Spoon leek and broccoli in each tartlet crust and spoon over with sauce.  Cover with remaining cheese and bake at 400F for 10 minutes.  Serve garnished with chevril.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Hot_Brococli_Tartlets"
+ }
+}

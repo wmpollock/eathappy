@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "name": "Southern Pecan Pie",
+  "yield_measure": "Servings",
+  "notes": "Southern-style Pecan Pie is the thing I like second-most in the world.  Sweet Potato Pecan Pie is number one,  but this  isn't a recipe for that, is it now?  Hush and be happy.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "white Karo syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "oleo",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "unbaked 19\" pie shell",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat eggs slightly.  Mix in white syrup, sugar, oleo, vanilla and salt. Add pecans.  Bake at 400F for 15 minutes and at 350F for 30 to 35 minutes.**I think Oleo = Margarine for us Yankees, close enough.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Makes You Fat"
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Southern_Pecan_Pie"
+ }
+}

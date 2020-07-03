@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Veal Loaf",
+  "notes": "There's something quaint about this recipe.  You've got to be a bit hard-hearted to consume veal in the modern era, though not so lamb and other juvenlie animals.  Mostly there were concerns about the ethics involved with industrial raising of calves in confined spaces for their entire existence, no matter how dumb.Veal is mostly left to those decadent dishes where it could not otherwise be replaces. Loafing it up seems downright -hardcore- in the face of all this.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "moist bread crumbs (prepared freshly from bread)",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "beaten evenly"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "grated onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "ground veal",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 lb",
+     "ingredient_name": "salt pork",
+     "preparation": "ground with the veal"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cracker crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "4 strips",
+     "ingredient_name": "salt pork",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix bread crumbs and beaten eggs.  Stir in the onion and lemon juice before adding the salt and pepper.  Mix in ground veal and pork and integrate well.  Shape into oblong loaf and place on foiled sheet pan and raise edges of foil to form moat and retain the juices.  Press cracker crumbs along the exposed edges of the loaf.  Cover the loaf with diagonal strips of salt pork.Bake at 325F for 30 minutes.  Reduce heat to 300F and bake and additional 90 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Retro"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition",
+  "source_page": "19",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Veal_Loaf"
+ }
+}

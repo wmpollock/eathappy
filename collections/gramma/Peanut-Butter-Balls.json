@@ -1,0 +1,37 @@
+{
+ "recipe": {
+  "name": "Peanut Butter Balls",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "creamy peanut butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "pecans",
+     "preparation": "ground"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "diced dates",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Roll into small balls and chill, then dip in white chocolate and place on foil to cool before serving.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "scan 56",
+  "entry_app": "Veronica",
+  "cdate": "12/13/2006",
+  "safe_name": "Peanut_Butter_Balls"
+ }
+}

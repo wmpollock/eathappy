@@ -1,0 +1,89 @@
+{
+ "recipe": {
+  "name": "Big Time BBQ Rub",
+  "safe_name": "Big_Time_BBQ_Rub",
+  "yield_count": "1/2",
+  "yield_measure": "cups",
+  "notes": "This is a nice dry rub that creates a flavorful glazed exterior on the meat.  The salt here is half the original and is still a bit on the salty side for our tastes.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "Turbinado sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "granulated brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "granulated onion",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "s paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "s cayenne",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "thyme leaves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground nutmeg",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients together and store in an airtight container.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Beef",
+    "Bill's Favorite"
+   ]
+  },
+  "source_name": "Dr. BBQ via Chowhound (http://chowhound.chow.com/topics/297280)",
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": "05/13/2012",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "recipe": {
+  "source_page": "5",
+  "safe_name": "Des_Minestrone_Soup",
+  "primary_category": "Soup",
+  "preparation": "Soup stock:  add 3 beef knuckles or beef shank to 4 quarts cold water and 1 tablespoon salt.  Simmer slowly 3 to 4 hours;  remove bones.  Let cool overnight.  Remove fat.Add soup stock to large pot; bring to boil, 15 to 20 minutes.  Ad 1 1/2 to 2 cups water.  Salt and pepper; bring to boil.  Add carrots, zucchini,   celery, potatoes, green beans and pasta; simmer for 20 minutes.  Add basil; simmer 10 minutes.  Add beans; simmer 20 minutes or so, vegetables should be cooked.  Serve with Parmesan cheese.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "De's Minestrone Soup",
+  "secondary_categories": {
+   "secondary_categorie": "Vegetables"
+  },
+  "source_date": "1987",
+  "source_name": "\"Family Favorites\", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by DeDe Torres",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "onion",
+     "quantity": "3/4 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "carrots",
+     "quantity": "1 cup",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "zucchini",
+     "quantity": "1 cup",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "celery",
+     "quantity": "2/3 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "potatoes",
+     "quantity": "1 1/2 cup",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "cut Italian green beans",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white kidney beans",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pinto beans",
+     "quantity": "1 cup (can)",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt and pepper",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tiny star/other small pasta",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "basil",
+     "quantity": "1/2 cup",
+     "preparation": "chopped w/2 tbsp olive oil"
+    },
+    {
+     "ingredient_name": "leeks",
+     "quantity": "2/3 cup",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

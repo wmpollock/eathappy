@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Apple 2 Morrow",
+  "notes": "I'm making up this title about 50%.  I can make out \"Apple\" and then maybe its a Z or a 2 or an equals sign and then maybe \"Mor....\" or \"Nor....\"   Use of pencil has not improved the archiving process, nor has the rather hurried hand.\"Apple 2 Morrow\" makes it a pleasant play on the later-family name.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "cup",
+     "preparation": "flour"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 cup",
+     "ingredient_name": "additional sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "either 16 oz",
+     "ingredient_name": "cherries",
+     "preparation": null
+    },
+    {
+     "quantity": "or 5 cups",
+     "ingredient_name": "tart apples",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "preparation": "Melt butter in an 8-10 inch square pan at 350F.  Mix flour, 3/4 cup sugar, salt, add milk and beat well.Pour batter into hot butter -- do not stir.  Scatter fruit on top of batter and sprinkle with additional sugar.  Bake 50 minutes or until golden brown.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0001-R",
+  "entry_app": "Veronica",
+  "cdate": "02/01/2005",
+  "safe_name": "Apple_2_Morrow"
+ }
+}

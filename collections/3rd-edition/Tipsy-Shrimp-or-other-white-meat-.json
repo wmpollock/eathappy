@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Tipsy Shrimp (or other white meat)",
+  "safe_name": "Tipsy_Shrimp_or_other_white_meat_",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The original recipe called for cognac but this is completely serviceable with just brandy.  Don't let the minimalist ingredient list fool you, this is a reasonable deal.I found the end result a little watery:  might not be a bad idea to cook the sauce down a bit (reserving the shrimp) for a more savory gravy.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "shrimp, turkey or chicken breast",
+     "preparation": "uncooked"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "cognac or brandy",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Saute shrimp or other meat in butter for 4 minutes.  Season with salt and pepper.  Add liquor and condionally ignite vapors with long match/lighter (yay!  flames!) and serve.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "50s Goodness",
+    "Flames!",
+    "Makes You Fat",
+    "Shrimp"
+   ]
+  },
+  "source_name": "\"A Book Of Appetizers, Shrimps and Things in Cognac, Helen Evans Brown",
+  "source_page": "27",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "02/23/2013",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "recipe": {
+  "name": "Red Beans, Sausage and Rice",
+  "safe_name": "Red_Beans_Sausage_and_Rice",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "My mom had this labeled \"Good!\" in her copy of this book.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "dry kidney beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "smoked sausage",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 oz-4 oz",
+     "ingredient_name": "salt pork",
+     "preparation": null
+    },
+    {
+     "quantity": "1 large",
+     "ingredient_name": "yellow onion",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2 stalks",
+     "ingredient_name": "celery",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1/2",
+     "ingredient_name": "green bell pepper",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "crushed tomato",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "rice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Place beans in 2 inches of water and bring to a boil.  Let sit for 1 hour and drain. Boil sausage in skillet with 1 cup water until water has boiled off.  Add 2 tablespoons vegetable oil and brown sausage.  Remove and allow to cool before halving lengthwise and then into 1 1/4 inch pieces.Cube salt pork into 1\" pieces and render in sausage skillet and set aside, reserving drippings.Saute onion, celery and bell pepper* in remaining 2 Tbl vegetable oil in a separate pan.  Add black pepper and cayenne pepper when mixture is softened.  Remove from heat and set aside.Mix tomatoes and beans and add 2-2 1/2 cups water to cover.  Bring to boil and add vegetables, salt pork and 1/2 of rendered drippings.  Bring to a boil and add sausage.  Simmer gently covered for 1 1/2 hours, stirring frequently until beans are tender.  Salt to taste.Boil chicken stock and crushed garlic and add rice.  Cover and reduce heat, simmering until liquid is absorbed (about 20 minutes).  Mix in parsley and cover with red beans and sausage.* referred to as \"the trinity\" in Cajun cooking",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Salt-Tastic!",
+    "Asst'd Comfort Food"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Julie Azevedo",
+  "source_page": "140",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Fresh Fruit Mousse Parfait",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 small package",
+     "ingredient_name": "gelatin",
+     "preparation": "any flavor"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pint",
+     "ingredient_name": "fresh fruit",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "egg whites",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cup",
+     "ingredient_name": "frozen whipped topping",
+     "preparation": "thawed"
+    }
+   ]
+  },
+  "preparation": "Place jello, boiling water and & 1/2 cup sugar in blender and blend at low speed for about 1 minute, until sugar and jello are completely dissolved.  Add fruit, a few pieces at a time, and blend at high speed until thoroughly pureed.  Chill mixture until syrupy, about two hours.Beat egg whites, adding 1/4 cup sugar gradually until stiff peak stage.  Fold in whipped topping, then fold in fruit mixture, working gently so as not to break down egg whites.  Mound into stemmed glassware.  Garnish with additional whipped topping and serve with cookies.Suggested fruit and gelatin combinations:Strawberry/strawberryPeaches (peeled, pitted & quartered)/peachPlums (ditto)/lemonPears(ditto)/lime",
+  "source_author": null,
+  "source_name": "The Sacramento Bee",
+  "source_page": "0066-0067",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Winter greens and mushroom pasta",
+  "safe_name": "Winter_greens_and_mushroom_pasta",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": "20 minutes",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 oz.",
+     "ingredient_name": "angel hair pasta",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "olive oil",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cremini mushrooms",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "leek",
+     "preparation": "white and light green parts only, chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large garlic clove",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 bunch",
+     "ingredient_name": "dandelion greens",
+     "preparation": "stems removed and chopped in thirds"
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "radicchio",
+     "preparation": "roughly chopped"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "low-fat or whole-milk ricotta cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "~ 1/4 cup",
+     "ingredient_name": "toasted plain croutons",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "flat-leaf parsley leaves",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "1. Cook pasta according to package directions. Reserve 1 cup pasta water, then drain. 2. Heat 2 tbsp. oil in a large frying pan over high heat. Add mushrooms and cook until browned, about 5 minutes. Stir in leek and garlic and cook until fragrant, about 1 minute. Add greens, radicchio, and salt and cook until just warm, about 1 minutes (add a bit of water if pan starts to scorch.)3. Toss pasta, vegetables, and reserved pasta water together. Top with dollops of ricotta, croutons, a drizzle of remaining 2 tbsp. oil, and parsley.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian",
+    "Mushrooms"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Magazine",
+  "source_page": "65",
+  "source_date": "Jan 2011",
+  "entry_app": "Veronica",
+  "cdate": "01/28/2011",
+  "user": "hilaryp"
+ }
+}

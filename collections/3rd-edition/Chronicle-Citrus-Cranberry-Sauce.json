@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Chronicle Citrus-Cranberry Sauce",
+  "safe_name": "Chronicle_Citrus_Cranberry_Sauce",
+  "yield_count": "16",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": "20 minutes",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3\" piece",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "whole cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "3 slies",
+     "ingredient_name": "fresh ginger",
+     "preparation": "1/8\" thick"
+    },
+    {
+     "quantity": "1 whole",
+     "ingredient_name": "orange",
+     "preparation": "unpeeled, thinly slied"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "cranberries",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a 2 quart saucepan combine cinnamon, cloves, ginger, orange and water and bring to a boil.  Reduce to simmer for 5 minutes.  Remove cinnamon, cloves and ginger before adding cranberries and sugar.  Simmer until cranberries break down and sauce slightly thickens, 6 or more minutes.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Thanksgiving"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "unknown print edition",
+  "entry_app": "Veronica",
+  "cdate": "07/06/2013",
+  "mdate": "07/06/2013",
+  "user": "billp"
+ }
+}

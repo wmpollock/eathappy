@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Don Brown's Tri-Tip",
+  "safe_name": "Don_Browns_Tri_Tip",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "In 2009 I made a tremendous buy of tri-tip as an exercise in freezer management and tri-tip cookery.  This fairly simple recipe came up pretty high on Google, suggesting its fairly well-liked and linked to.  For being simple its mighty tasty. Even with reduced-sodium soy and teriyaki this ends up a little on the salty side.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "teriyaki sauce",
+     "preparation": "reduced salt preferred"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": "reduced salt preferred"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "red wine",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "minced garlic or garlic powder",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tri-tip",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Marinate tri-tip overnight or longer",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef"
+   ]
+  },
+  "source_name": "http://www.cooks.com/rec/doc/0,1626,144179-252207,00.html",
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

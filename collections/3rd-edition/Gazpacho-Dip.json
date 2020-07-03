@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Gazpacho Dip",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2-3",
+     "ingredient_name": "large firm tomatoes",
+     "preparation": "diced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "small cans chopped olives",
+     "preparation": null
+    },
+    {
+     "quantity": "1 bunch",
+     "ingredient_name": "green onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "7oz can diced green chiles",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vinegar and oil salad dressing",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "garlic salt",
+     "preparation": "to taste (optional)"
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients and refrigerate.  Serve with corn chips.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Tomatoes"
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Jan Aguilar",
+  "source_page": "10",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Gazpacho_Dip"
+ }
+}

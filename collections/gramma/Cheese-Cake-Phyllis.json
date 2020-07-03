@@ -1,0 +1,57 @@
+{
+ "recipe": {
+  "name": "Cheese Cake Phyllis",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 stick",
+     "ingredient_name": "margarine or butter",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "large carton",
+     "ingredient_name": "cool whip",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "instant butterscotch pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together flour, margarine or butter, salt and chopped nuts and press into pan.  Bake 8-10 minutes at 400F.  Mix together cream cheese and cool whip and spread over crust.  Mix together pudding mix and milk and spread over top.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "32-33",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Cheese_Cake_Phyllis"
+ }
+}

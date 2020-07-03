@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Asparagus Soup",
+  "safe_name": "Asparagus_Soup",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "young asparagus",
+     "preparation": "for garnish"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "6",
+     "ingredient_name": "shallots",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "light cream or half and half",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "chopped fresh chervil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cut top 1 1/2\" off the tops of half the asperagus and reserve.  Slice remaining asparagus.Melt 2 Tbl of butter in a large saucepan.  Gently fry the sliced shallots until soft but not brown, 2-3 minutes.  Add the asparagus and fry for about 1 minute before adding flour.  Wait an addtional minute before adding stock or water, lemon juice and seasoning to taste.  Bring to a boil before reducing to simmer partially covered for 15-20 minutes or until asparagus is exceptionally tender.Puree soup.   In another pan, melt the remaining butter fry the reserved asparagus tips for 3-4 minutes.  Bring soup back up to temperature and add cream and asparagus, heating slowly. Garnish with chervil.",
+  "primary_category": "Soup",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "153",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "12/03/2010",
+  "user": "billp"
+ }
+}

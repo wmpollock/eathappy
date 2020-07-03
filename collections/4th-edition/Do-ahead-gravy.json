@@ -1,0 +1,79 @@
+{
+ "recipe": {
+  "name": "Do-ahead gravy",
+  "safe_name": "Do_ahead_gravy",
+  "yield_count": "2 1/2",
+  "yield_measure": "cups",
+  "notes": "At the end of the process I had a completely serviceable, drama-free gravy from this recipe.  No lumps, no scalding, easy-peasy.  I'm curious now, if not for strong hubris, how so many gravies go meh.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Roux",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Gravy",
+     "preparation": null
+    },
+    {
+     "quantity": "4 to 6 Tbl",
+     "ingredient_name": "roux",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "poultry broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 up",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "turkey drippings",
+     "preparation": "to taste, fine bits only"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "black pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": "to taste."
+    }
+   ]
+  },
+  "preparation": "Roux: melt butter in small skillet over medium-low heat and whisk in flour. Stir occasionally. Cook to taste:  five to ten minutes for golden to dark brown, two or less for white.  Can be prepared ahead and refrigerated or simply kept cool for short durations.Gravy:  Roux and poultry should be of enough combined temperature to be slightly warm -- cool broth, hot roux or vice versa.  Simmer moderately until halved.  Chill until turkey is prepared.Deglaze roasting pan with white wine.  Heat gravy to simmering and incorporate drippings to taste.  Season with salt and pepper.",
+  "primary_category": "Seasonings/Sauces",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Bill's Favorite"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "L7",
+  "source_date": "Novemer 18, 2012",
+  "entry_app": "Veronica",
+  "cdate": "02/02/2013",
+  "user": "billp"
+ }
+}

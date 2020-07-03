@@ -1,0 +1,94 @@
+{
+ "recipe": {
+  "name": "Chile-Marinated Chicken Wings",
+  "safe_name": "Chile_Marinated_Chicken_Wings",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": "20 minutes, 2 hour marinade, 16-18min grill",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Meat",
+     "preparation": null
+    },
+    {
+     "quantity": "16 count or about 2 1/2 lbs",
+     "ingredient_name": "chicken wings",
+     "preparation": "tips removed"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Marinade",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "dried pasilla chili peppers",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "canola oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "basalmic vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "medium garlic cloves",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground cumin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "dried oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Marinade:  Stem and seed the chiles before sectioning into 2\" strips.  Heat the oil in a medium skillet over high heat.  Add the chilis to teh warming oil and toast until the begin to change color.  Remove chiles and oil to a small bowl and cover with 1 cup of hot water to soak the chiles for 30 minutes.  Blend mixture in blender or food processor with remaining ingredients until smooth.  Bag marinde chicken for about 2 hours before discarding marinade and grilling over direct medium heat until chicken is cooked through, 16-18 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Chicken"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "192",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

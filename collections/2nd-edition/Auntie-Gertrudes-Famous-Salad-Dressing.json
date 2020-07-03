@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "source_page": "48",
+  "safe_name": "Auntie_Gertrudes_Famous_Salad_Dressing",
+  "primary_category": "Salad/Dressing",
+  "preparation": "Pour the oil, vinegar, ketchup and Worchestershire sauce into a 20 Oz bottle with a cap.  Seal the bottle and shake.   Add remaining ingredients and shake again.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Auntie Gertrude's Famous Salad Dressing",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Gertrude Asby",
+  "notes": "How can you question the good judgment of anyone self-calling themselves \"Auntie Gertrude\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "light oil",
+     "quantity": "3/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "wine vinegar",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ketchup",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worchestershire sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": "halved or 1tsp garlic powder"
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white pepper",
+     "quantity": "12/ tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dry mustard",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "onion powder",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

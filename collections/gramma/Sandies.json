@@ -1,0 +1,61 @@
+{
+ "recipe": {
+  "name": "Sandies",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "3",
+  "yield_measure": "dozen",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chipped pecans",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "confectionery sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cream butter & sugar.  Add water and vanilla.  Mix well.  Add flour & pecans.Chill 3-4 hours.  Shape into balls.  Bake on ungreased cookie sheet in 350F oven for about 20 min.  Cool slightly.  Roll in confectionery sugar.",
+  "source_author": "Anita",
+  "source_name": null,
+  "source_page": "0072-00732",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-10",
+  "mdate": null,
+  "user": "billp"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Armenian Cracker Bread",
+  "yield_measure": "Servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tsp",
+     "ingredient_name": "sesame seeds",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 450F.  In a small bowl beat eggs and milkIn a large bowl mix  flour, sugar and salt.  Cut in shortening until mixture resembles coarse crumbs.  Gradually blend in egg mixture and mix until dough pulls away from sides of bowl.On a floured board lightly knead dough to form a smooth ball.  Divide the dough into 4 parts -- wrap 3 of them in plastic wrap to keep them from drying out.  Roll out and bake one portion at a time.On the floured surface roll out a ball of dough to about 1/8 inch thick.  Add flour as needed to prevent sticking.  Reshape into a ball, then roll out again to a 14-inch circle.Transfer carefully to a greased baking sheet or pizza pan.  Brush lightly with water, then sprinkle with 1 teaspoon sesame seed.Place a shallow pan of hot water on bottom rack of oven.  Place baking sheet on rack above it and bake 3 minutes.  Remove water, reduce heat to 300F and bake until bread is blistered, feels dry to the touch, and is lightly browned (12 to 15 minutes).  Cool on a wire rack.Repeat rolling and baking with remaining portions of dough.When rounds of bread are crisp and cool, break into irregular pieces and serve.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": "Needs Research"
+  },
+  "untried": "1",
+  "source_name": "California Culinary Academy \"Regional American Classics\"",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Armenian_Cracker_Bread"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "name": "Blue Cheese Dressing",
+  "safe_name": "Blue_Cheese_Dressing",
+  "yield_count": ".75",
+  "yield_measure": "cup",
+  "notes": "I think my first experiment with this would have been aided by having better cheese.  My bleu was nothing special and while the dressing was better-than-commercial, it wasn't especially memorable or exciting.  The base amount of buttermilk ended up being pretty pulpy and I ended going nearly double with the buttermilk.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "blue cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "sea salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "buttermilk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "chives",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon juice or white wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "a few drops",
+     "ingredient_name": "red wine vinegar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine blue cheese, salt and pepper, breaking up the cheese crumbles.  Mix in sour cream, buttermilk, lemon juice, chives and red wine vinegar.  Adjust seasonings and buttermilk as necessary.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categories": {
+   "secondary_category": [
+    "Buttermilk",
+    "**New06",
+    "Lots Of Cheese",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "http://www.davidlebovitz.com/2011/01/bleu-blue-cheese-dressing-recipe-salad/",
+  "source_date": "24 Jan 2011",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "01/02/2013",
+  "user": "billp"
+ }
+}

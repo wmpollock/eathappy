@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "No Bake Chocolate Chip Cheesecake",
+  "safe_name": "No_Bake_Chocolate_Chip_Cheesecake",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "pie crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1 8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz container",
+     "ingredient_name": "whipped topping",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mini chocolate chips",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat cream cheese until smooth and cream in sugar.  Fold in sour cream and vanilla followed by whipped topic.  Mix well.  Stir in mini chocolate chips and spoon nito crust.Chill until set: at least four hours.  Top to taste: whipped cream, chocolate shavings or fruit if desired.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunnyside Farms",
+  "source_page": null,
+  "source_date": "2009",
+  "entry_app": "Veronica",
+  "cdate": "11/26/2009",
+  "mdate": null,
+  "user": "billp"
+ }
+}

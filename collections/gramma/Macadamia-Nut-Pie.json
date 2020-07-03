@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Macadamia Nut Pie",
+  "notes": "So good you'll be begging your friends and relatives to keep bringing the fresh ones...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "1/2 pt",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbl",
+     "ingredient_name": "banana flavoring",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "macadamia nuts, crushed",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dissolve 1 tsp gelatin in 1/2 cup cold water, 1/2 cup sugar, 1/2 tsp salt, 1 1/2 cups milk.  Cook over low heat, stirring frequently until scalded but -do not boil-.  Remove from heat.Beat egg yolks and stir in 1/2 of this mixture.    Blend remaining half in.  Cook ---- it begins to boil, then simmer.  Remove from heat, stir in softened gelatin then macadamia nuts.  Cool until practically set then beat well with rotary egg beater.  Blend in banana flavoring and 1/2 cup whipping cream, beaten stiff.Meringue (the method) three egg whites, 1/4 tsp cream of tartar and 1/2 cup sugar.  Fold into the mixture.  Place in cooled baked pie crust.  Refrigerate three or more hours.Serving:  cover with whipped cream and sprinkle with ground macadamia nuts immediately prior to serving.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "12/13/2006",
+  "safe_name": "Macadamia_Nut_Pie"
+ }
+}

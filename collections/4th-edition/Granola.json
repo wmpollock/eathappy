@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Granola",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "notes": "Jessamyn West is an author/librarian whose blog once said that the only granola worth having is the sort you make yourself I figured that must be right.  Sadly this will ruin you for store-bought granola ever again and become your first, compulsive love above all other cereals.Quality honey and syrup do make a difference.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "rolled oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced almonds",
+     "preparation": "(pronounced \"aamonds\")"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "wheat germ",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sunflower seeds, roasted, unsalted",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cooking oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "maple syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "raisins, craisins, etc",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Separately mix wet and dry ingredients and combine both.  Measuring liquid ingredients is best done together in one vessel in the order described: oil, syrup, honey, vanilla.Evenly spread the mix in a 13\"x9\" glass dish and bake for 15 minutes at 350F. Stir in dried fruit and bake an additional fifteen minutes or until golden brown. Remove from heat and spoon the mixture onto a baking tray covered in baking parchment or waxed paper and let cool completely before serving or storing in an airtight container.Much of the cereal's basic nature can be changed quite a bit by the amount of baking and the carmelization of the sugars.  Longer roast times will create a stronger and flakier final product.",
+  "primary_category": "Breakfast",
+  "secondary_categorys": {
+   "secondary_category": [
+    "70s Flashback",
+    "Makes You Fat",
+    "Quickie",
+    "Bill's Favorite",
+    "Good For You!",
+    "Vegetarian",
+    "Rice, Grains"
+   ]
+  },
+  "source_name": "Jessamyn West (http://jessamyn.com)",
+  "source_date": "10/02/2002",
+  "entry_app": "Veronica",
+  "cdate": "01/09/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Granola"
+ }
+}

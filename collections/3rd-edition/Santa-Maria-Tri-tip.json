@@ -1,0 +1,92 @@
+{
+ "recipe": {
+  "name": "Santa Maria Tri-tip",
+  "safe_name": "Santa_Maria_Tri_tip",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "There are about fifty different variations of what's effectively long-form season salt basted occasionally with an olive oil mixture.  This is the fifty-first.If you've got fresh rosemary you'll be targeting the basting sauce with it, otherwise it'll head to the rub.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "tri-tip",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**RUB",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "granulated garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "rosemary",
+     "preparation": "dry, or fresh to be used in baste below instead"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**BASTE",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "red wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "mashed"
+    }
+   ]
+  },
+  "preparation": "Mix together rub ingredients.  Rub on beef and let stand as it comes up to temperature from the refrigerator (20-30 minutes).  Put on the grill over direct medium heat (note:  basting is a bit dangerous in this condition as you're using oil.  Moving the meat/turning off gas under meat is advisable.)  Start blender with vinegar, and slowly add olive oil to make baste.  Baste twice per side, turning the meat once.  Will take ~30-35 minutes to reach internal temperature of 140F.  Let stand ten minutes before slicing and serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Beef",
+    "BBQ"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/22/2013",
+  "mdate": "01/29/2013",
+  "user": "billp"
+ }
+}

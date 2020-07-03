@@ -1,0 +1,153 @@
+{
+ "recipe": {
+  "source_page": "43-44",
+  "safe_name": "Egg_rolls",
+  "primary_category": "Appetizers",
+  "preparation": "Heat and lightly grease a small griddle.  Mix flour and water and lightly paint a 5\" square on the griddle.  Remove as soon as dry and place a roll of filling on one side and roll up.  Fry rolls in 370F oil before serving.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Egg rolls",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "50s Goodness"
+   ]
+  },
+  "source_date": "1958",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**OUTERS",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**INNERS: CRAB FILLING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crab meat",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground pork",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "green onions",
+     "quantity": "1/2 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "water chestnuts",
+     "quantity": "1/2 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg yolk",
+     "quantity": "1",
+     "preparation": "beaten"
+    },
+    {
+     "ingredient_name": "**CHICKEN FILLING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground chicken",
+     "quantity": "1 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground ham",
+     "quantity": "1/2 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water chestnuts",
+     "quantity": "1/2 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg yolk",
+     "quantity": "1",
+     "preparation": "beaten"
+    },
+    {
+     "ingredient_name": "ginger",
+     "quantity": "2 tsp",
+     "preparation": "grated"
+    },
+    {
+     "ingredient_name": "**MUSHROOM FILLING",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground pork, ham or shrimp",
+     "quantity": "1/2 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "green onions",
+     "quantity": "1/3 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "bean sprouts",
+     "quantity": "1 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "water chestnuts",
+     "quantity": "1/4 cup",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "mushrooms",
+     "quantity": "1/2 lb",
+     "preparation": "chopped cooked in 3 tbsp oil"
+    },
+    {
+     "ingredient_name": "cornstarch",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

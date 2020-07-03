@@ -1,0 +1,87 @@
+{
+ "recipe": {
+  "name": "Pickle:  Kinda Sorta Sours",
+  "notes": "If there were a picnic battle, fall in behind General Brown.  Alton serves up \"Kinda Sorta Sours\" which sound like something pulled from a cooler reverentially at certain BBQs.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2",
+     "ingredient_name": "onion",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium cucumbers",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "garlic cloves",
+     "preparation": "smashed"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cider vineager",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "champagne vinegar (or other light vinnegar?)",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl + 2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "mustard seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "tumeric",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "celery seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "pickling spice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a clean spring-top jar combine onion, cucumbers and garlic cloves.Boil water, cider and champagne vinegar, sugar, salt, mustard seeds, tumeric, celery seeds and pickling spice together in a non-reactive pot or pan.  Bring to a boil and simmer for four minutes.Carefully pour pickling liquid over vegetable mixture, filling to top of jar.Cool to room temperature before adding any additional liquid and refrigerate.[Should note:  there should likely be some notes on the shelf life of such a product and its general care and handling during its lifetime]",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Needs Research",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "http://www.foodnetwork.com/recipes/alton-brown/kinda-sorta-sours-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Pickle_Kinda_Sorta_Sours"
+ }
+}

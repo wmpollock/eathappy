@@ -1,0 +1,96 @@
+{
+ "recipe": {
+  "name": "Lasagne #1",
+  "notes": "This is a paper-clipped entry in  \"The New Ground Beef Bookbook\" formerly of my Mother's collection.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground chuck",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "20 oz can",
+     "ingredient_name": "tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "1 6oz can",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "light brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "lasagne noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "6 qt",
+     "ingredient_name": "slightly salted water",
+     "preparation": "boiling rapidly"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "large curd cottage cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "6 slices",
+     "ingredient_name": "3\" mozarella cheese",
+     "preparation": "cut into 1\" squares"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Heat oil in a large Dutch Oven and add the ground chuck.  Saute until meat is well cooked and separted.  Sweat the onion bbefore adding tomatoes, tomato paste, water, salt, peper ans suggar. Mix well and bring to a simmer.  Cook for 35 minutes, stirring from time to time.Boil the lasagnenoodls in 6 quarts water for 15 minutes or until fork tender.  Allow to cool.Grease a 9\"x13\" pan.  Remove meat sauce from heat.Cover the baking dish with a layer of meat sauce, then lasagne strips, then a few tablespoonfulls of cottage cheese, mozarella and Parmesan.  Continue layering until ingredients are used up -- the last layer should be meat sauce, so plan accordingly.Bake at 350F for 40 minutes.  Let rest for 15 minutes before serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Italian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition",
+  "source_page": "142",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Lasagne_1"
+ }
+}

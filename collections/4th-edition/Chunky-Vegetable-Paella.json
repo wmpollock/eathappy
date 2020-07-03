@@ -1,0 +1,101 @@
+{
+ "recipe": {
+  "name": "Chunky Vegetable Paella",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "generous pinch",
+     "ingredient_name": "saffron strands",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "eggplant",
+     "preparation": "cut into thick chunks"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "garlic cloves",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "yellow bell pepper",
+     "preparation": "siced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "red bell pepper",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cups",
+     "ingredient_name": "Arborio rice (risotto rice)",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "fresh tomatoes",
+     "preparation": "peeled and chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cut green beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 14oz can",
+     "ingredient_name": "chickpeas (garbanzos)",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Hydrate the saffron in 3 Tbl hot water.  Salt the eggplant and leave to drain in a colander for 30 minutes before rinsing and drying.  In a large frying pan heat oil and fry onion, garlic and peppers and eggplant for about 5 minutes. Stir occasionally.  Add paprika and thence the rice, stock, tomatoes, saffron and salt and pepper to taste.  Bring to a boil and reduce to simmer for 15 minutes uncovered, stirring occasionally and shaking the pan frequently.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian",
+    "Rice, Grains"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "266",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Chunky_Vegetable_Paella"
+ }
+}

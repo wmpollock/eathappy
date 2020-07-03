@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "No Cook Lemon Pie",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "9\" crumb crust",
+     "preparation": "chilled"
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "condensed milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg whites",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cream of tartar",
+     "preparation": null
+    },
+    {
+     "quantity": "few drops",
+     "ingredient_name": "yellow food coloring",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipped topping",
+     "preparation": "optional"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "lemon slices",
+     "preparation": "optional"
+    }
+   ]
+  },
+  "preparation": "Combine milk, lemon juice, food coloring and peel.  Blend well.  In small mixing bowl beat egg whites and cream of tartar until stiff but not dry.  Gently fold into prepared crust and chill.  If desired at serving time garnish with topping and lemon slices.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "52",
+  "entry_app": "Veronica",
+  "cdate": "03/13/2006",
+  "safe_name": "No_Cook_Lemon_Pie"
+ }
+}

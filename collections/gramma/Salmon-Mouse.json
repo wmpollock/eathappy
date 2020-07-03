@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Salmon Mouse",
+  "safe_name": null,
+  "primary_category": "Appetizers",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": "I am not sure what you could call this in the modern age:  I think this sounds like it could be pretty interesting but I think you'd have a hard sell with \"well, its mousse!  Its uh, made with salmon!\"  Probably \"salmon spread\" these days?A bit of a curiosity on the cream measure.  The notation is \"1/c\" and its added by thirds, so a full cup makes sense.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 envelop",
+     "ingredient_name": "Knox gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 bunch",
+     "ingredient_name": "green onions",
+     "preparation": "with a few tops"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "dill weed",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "16 oz can salmon",
+     "preparation": "drained and boned"
+    },
+    {
+     "quantity": "1? cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Put gelatin in blender.  Add lemon juice etc + boiling water.  Blend for 40 seconds and turn off.  Add rest of ingredients + blend at high speed until mixed.  Add cream 1/3 at a time.  After each addition blend for a few seconds.  When all cream is in blend for 30 seconds.  Pour into mold and chill",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0074-0075",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-03-10",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "source_page": "41",
+  "safe_name": "Roast_Duck",
+  "primary_category": "Main Dishes",
+  "preparation": "Remove as much fat from the duck as possible.  Securely tie the neck string.  Mix onion, celery, spices, soy sauce, sugar and sherry in a medium pot and bring to a boil.  Pour mixture into the duck and sew the opening together.  Rub salt into the skin and place on a rack in a shallow roasting pan.  Roast at 475F degree for 30 minutes.  Pour off the fat and mix honey, vinegar and additional soy sauce, brushing on the duck.  Reduce heat to 375F and cook for an additional 2 1/2 hours, basting every half hour.   Remove threads and drain sauce into bowl to be served alongside duck.I would assume Five Spices Powder is probably commonly available in Asian food markets, though About.com provides this handy how-to:Roast 2 tsp Szechuan peppercorns in a pan over low heat until they become aromatic.   Grind roasted peppercorns with: 1/2 tsp ground cloves, 1 tsp ground cinnamon, 1 tsp ground fennel seeds until very fine",
+  "yield_count": "4-6",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "01/04/2005",
+  "prep_time": "3 hours",
+  "name": "Roast Duck",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Chinese"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Chiyo Kasai",
+  "notes": "\"Roast Duck makes you want to f...fight fight fight!\"  Ah, memories.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "duck",
+     "quantity": "1",
+     "preparation": "with neck attached"
+    },
+    {
+     "ingredient_name": "onion",
+     "quantity": "4 tbsp",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "celery",
+     "quantity": "4 tbsp",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "five spices powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "soy sauce",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sherry",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "honey",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "additional soy sauce",
+     "quantity": "1 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

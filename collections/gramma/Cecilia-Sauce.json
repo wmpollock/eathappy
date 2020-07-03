@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Cecilia Sauce",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1?",
+     "ingredient_name": "egg",
+     "preparation": "separated"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 jigger (or more)",
+     "ingredient_name": "brandy",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat white of egg very stiff.  Add 3/4 cup sugar and beat until it stands in peaks.  Beat yolk of eggs, add to whites.  Beat 3/4 cup cream and add.  Add 1 jigger (or more) of brandy.[Note:  Its hard to say how many eggs are supposed to be in this recipe.  They are specified both singularly and plurally in the preparation.  It seems like a fair amount of other ingredients for just one egg, but perhaps its only to add a bit of creaminess]",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "**Needs review"
+  },
+  "untried": "1",
+  "source_page": "32",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Cecilia_Sauce"
+ }
+}

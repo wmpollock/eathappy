@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "name": "Corned Beef Delight",
+  "yield_count": "10",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 8ox pkg",
+     "ingredient_name": "noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "2 12oz cans",
+     "ingredient_name": "corned beef",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "shredded cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cream of chicken soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "onions",
+     "preparation": "flakes or chopped"
+    },
+    {
+     "quantity": "1 small can",
+     "ingredient_name": "Chinese noodles",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook noodles in boiling water and drain.  Add rest of ingredients and stir.  Top with 1 small can Chinese egg noodles.  Bake at 350F for 45 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0027",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Corned_Beef_Delight"
+ }
+}

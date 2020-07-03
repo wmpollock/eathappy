@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "English_Muffins",
+  "primary_category": "Breakfast",
+  "preparation": "Mix flour, sugar, salt and yeast in a large bowl.  With a sturdy spoon mix in the shortening and enough milk until the dough starts to form a ball -- about 3/4 cup.   The dough should be soft, pliable and not stiff.   Add in small portions of the milk if there are orphaned bits of flour still in the bowl.Sprinkle flour onto kneading surface and knead dough for about 10 minutes, until  smooth.  The dough may need a bit extra flour to remove any stickiness -- the dough should be tacky, but not sticky.  (not unlike the Author)Let the dough double at room temperature, an hour to an hour and a half.Divide the dough into 6 equal pieces of approximate 3 oz. each and shape into boules*.   On a cookie sheet, spread a layer of cornmeal over baking parchment and place the balls evenly on the sheet.  Mist the top with water or spray oil and lightly dust with cornmeal.  Wrap the tray loosely in  plastic wrap and proof at room temperature an hour to an hour and a half.Heat a skillet to medium height and preheat an oven to 350F.  Lightly oil the skillet with vegetable oil and place boules at least one inch apart on the griddle -- you'll probably have to cook in shifts.  Press the balls down with spatula as they cook 5-8 minutes or until they cannot cook any further without burning.  Repeat on flip side and immediately place in the oven for an additional 5-8 minutes.Allow muffins to cool at least 30 minutes on a rack before serving.*boule -- that's cookin' talk for ball-shaped.  The trick here is to pull the dough over itself and place the resulting ball seam-side down to maximize the appearance.  The easiest way to do this is to do the rough shaping by hand and then gradually turn the dough inside out.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": "01/10/2005",
+  "prep_time": null,
+  "name": "English Muffins",
+  "secondary_categories": {
+   "secondary_categorie": "Made For Butter"
+  },
+  "source_date": null,
+  "source_name": "\"The Bread Baker's Apprentice\"",
+  "notes": "These make monstrously over-sized English muffins which are, I would opine, far superior to store bought.  The   resulting dough ends up somewhere between English muffins and Crumpets as far as the nooks and crannies go.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "unbleached bread flour",
+     "quantity": "2 1/4 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "granulated sugar",
+     "quantity": "1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "3/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "instant yeast",
+     "quantity": "1 1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "shortening or unsalted butter",
+     "quantity": "1 tbsp",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "milk or buttermilk",
+     "quantity": "1/2-1 cup",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "cornmeal",
+     "quantity": null,
+     "preparation": "for dusting"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

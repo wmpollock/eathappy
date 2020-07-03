@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Imam Bayildi",
+  "notes": "Allegedly the name of this dish means \"the Imam fainted\".  Wikipedia offer several possible causes including the awesomeness of the dish, the amount of oil used, etc, etc.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "medium egplants",
+     "preparation": "halved lengthwise"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large onions",
+     "preparation": "sliced thinly"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "garlic cloves",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green bell pepper",
+     "preparation": "seeded and sliced"
+    },
+    {
+     "quantity": "1 14oz can",
+     "ingredient_name": "tomatoes",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "ground coriander",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped fresh cilantro or parsley",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Fry the eggplants cut side in the oil for five minutes in a medium frying pan.  Drain and place in a shallow ovenproof dish.  Fry the onions, garlic and green pepper in the same pan.  Extra oil may be needed.  Cook for ten minutes or until vegetables have softened.At the tomatoes, sugar, ground goriander and ground pepper and cook another five minutes or until the mixture is reduced.  Add in cilantro or parsley.  Spon mixture over eggplants.  Bake for 30-35 minutes at 375F.  Chill and serve cold.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "169",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Imam_Bayildi"
+ }
+}

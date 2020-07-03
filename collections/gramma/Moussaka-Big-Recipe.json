@@ -1,0 +1,93 @@
+{
+ "recipe": {
+  "name": "Moussaka -- Big Recipe",
+  "notes": "This is functionally larger by about a factor of three from the equivalently named recipe also in this collection, though some ingredients are present here not in the other.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "medium sized eggplants",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "large onions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "ground meet",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "red wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped parsley",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt & pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": "beaten until frothy"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "nutmeg to taste",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "fine bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "Parmesan cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Peel eggplants.  Slice 1/2 inch thick.  Brown in 4 Tbsp butter.  Cook onions until lightly browned.  Add meat.  Cook 10 minutes.  Combine tomato past with wine, parsley, cinnamon, salt & pepper.  Make white sauce of 8Tbsp butter, flour, and hot milk.  Cool.  Stir in beaten eggs, nutmeg & ricotta cheese.  Grease 11x16 pan (2 1/2 in deep) Sprinkle bread crumbs.  Alternate layers of eggplant and meat.  Sprinkle each layer with  Parmesan cheese.  Pour ricotta cheese sauce over top.  Bake 1 hour at 375F.  Cool slightly before cutting into squares.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "48-49",
+  "entry_app": "Veronica",
+  "cdate": "03/12/2006",
+  "safe_name": "Moussaka_Big_Recipe"
+ }
+}

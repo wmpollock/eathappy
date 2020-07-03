@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "notes": "From the Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Lynn Faina.",
+  "yield_count": "4",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Rolled Oats",
+     "quantity": "2 1/2 Cup"
+    },
+    {
+     "ingredient_name": "Baking Powder",
+     "unknown_1": "18369",
+     "quantity": "2 Tsp"
+    },
+    {
+     "ingredient_name": "Salt",
+     "unknown_1": "02047",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Large Eggs",
+     "quantity": "2",
+     "preparation": "Separated"
+    },
+    {
+     "ingredient_name": "Brown Sugar",
+     "quantity": "1 Cup",
+     "preparation": "Packed"
+    },
+    {
+     "ingredient_name": "Butter",
+     "quantity": "1 Tbsp",
+     "preparation": "Melted"
+    },
+    {
+     "ingredient_name": "Vanilla Extract",
+     "unknown_1": "02050",
+     "quantity": "1 Tsp"
+    }
+   ]
+  },
+  "name": "Oatmeal Lace Cookies",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Dessert"
+  },
+  "preparation": "Preheat oven to 350 degrees.  Mix together oats, baking powder and salt; set aside.  Beat egg whites until fluffy (But not to peaks).  Beat yolks into sugar.  Fold in whites, melted butter and vanilla.  With spoon, stir in rolled oats mixture.Grease cookie sheets.  Drop batter by half tablespoonfuls onto cookie sheets.  Smooth out lightly with back of spoon.  Do not crowd cookies. Bake until lightly browned, about 10 minutes.  Remove from baking sheets immediately."
+ }
+}

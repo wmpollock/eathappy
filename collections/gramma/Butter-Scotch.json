@@ -1,0 +1,38 @@
+{
+ "recipe": {
+  "name": "Butter Scotch",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "white Karo",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bring to boil, cool, add vanilla and large can milk",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Betty Lilly (Leah)",
+  "source_page": "0006",
+  "entry_app": "Veronica",
+  "cdate": "11/17/2005",
+  "safe_name": "Butter_Scotch"
+ }
+}

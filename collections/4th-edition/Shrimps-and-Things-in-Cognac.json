@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Shrimps and Things in Cognac",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "raw shrimp, turkey or chicken breast",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 jiggers",
+     "ingredient_name": "cognac",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Saute shrimp or other meat in butter for 4 minutes.  Season with salt and pepper and add 2 jiggers of cognac.  Light (yay!  flames!) and serve.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Shrimp",
+    "50s Goodness"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "source_page": "27",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Shrimps_and_Things_in_Cognac"
+ }
+}

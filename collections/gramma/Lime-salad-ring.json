@@ -1,0 +1,35 @@
+{
+ "recipe": {
+  "name": "Lime salad ring",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Needs review",
+    "Inspires Curiosity",
+    "Jello/Jello Mold"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "This recipe was pretty sweet as there's an odd left hand positioning one to the right that makes one line particularly hard to read.  Fortunately one of my other interests is programming and it uses one of my favorite little-used operators, tr///.  tr/// is a relic of times past, its format strange and long -- the programming equivalent of a komodo dragon.Perl example:my $phrase = 'esyrt.  Sff juivr ftsinrf gtom pinrspplr.  Uhill until';$phrase =~ tr/sdfgSDFGwertWERTxcvbXCVB/asdfASDFqwerQWERzxcvZXCV/;print $phrase;",
+  "ingredients": {
+   "ingredient": {
+    "quantity": "1 3-oz pkg",
+    "ingredient_name": "lemon flavored gelatin",
+    "preparation": null
+   }
+  },
+  "preparation": "Dissolve lime and lemon flavored gelatin in boiling water water.  Add juice drained from pineapple.  Chill until[A mystery follows:  where does the pineapple go?  What about the sour cream?I believe from a read of a contemporary version of a completely different recipe by the same name, it would go like this:The pineapple, cream cheese and milk would be integrated and then combined with the soft-set gelatin, this mess put into ring forms though in 2017, any old mold would do I imagine.  This goes upon the cottage cheese. -- Ed, though worth checking w/Aunt Molly.]",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

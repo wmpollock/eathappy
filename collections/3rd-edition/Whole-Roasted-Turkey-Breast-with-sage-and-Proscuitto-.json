@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Whole Roasted Turkey Breast (with sage and Proscuitto)",
+  "safe_name": "Whole_Roasted_Turkey_Breast_with_sage_and_Proscuitto_",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Meat",
+     "preparation": null
+    },
+    {
+     "quantity": "1 whole (about 1 1/2 lbs)",
+     "ingredient_name": "boneless turkey breast with skin",
+     "preparation": null
+    },
+    {
+     "quantity": "6 slices (about 3 oz)",
+     "ingredient_name": "prosciutto",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "extra virgin olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Rub",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "minced fresh sage",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tsp",
+     "ingredient_name": "kosher salgt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "lemon zest",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine the rub ingredients before preparing the turkey.  Spread some of the rub between the skin and the breast where possible and coat the rest of the turkey in the rob.  Tie 3 prosciutto pieces on each side of the breast and sear over direct medium heat until well marked -- about 15 minutes.  Trnasfer to indirect medium heat and cook until th internal termperature reaches 165F: 45 to 60 minutes.  Turn ever 15 minutes or so.  Remove fromg rill and allow to rest for 15 minutes before carving into 1/4\" slices.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Turkey"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

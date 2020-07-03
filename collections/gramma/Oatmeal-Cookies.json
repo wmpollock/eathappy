@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Oatmeal Cookies",
+  "notes": "This recipe was the scene of no small amount of controversy in my house for many years and it a rather poor transcription of a man's recipe and legacy.  Problem is that the cookie recipe is \"as it is on the back of the box\", along with these other ingredients.Maybe this is so, but I've got a secret suspicion you'll find a more accurate representation of this recipe around here someplace else.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "oatmeal box recipe",
+     "preparation": "on the back"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "extra egg",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbs",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "candied lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whole pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together all ingredients except the pecans.  Drop standard-sized cookies on a covered sheet tray and top each with a 1/2 pecan.  Bake 13 minutes, or maybe 19 -- horrible writing at the bottom.",
+  "primary_category": "Cookies",
+  "secondary_categorys": {
+   "secondary_category": [
+    "50s Goodness",
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_page": "58",
+  "entry_app": "Veronica",
+  "cdate": "08/04/2007",
+  "safe_name": "Oatmeal_Cookies"
+ }
+}

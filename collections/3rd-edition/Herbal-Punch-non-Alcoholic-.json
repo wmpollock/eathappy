@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Herbal Punch (non-Alcoholic)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "4 quarts",
+     "ingredient_name": "water",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "freshly squeezed lemon juice",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "fresh rosemary",
+     "preparation": null
+    },
+    {
+     "quantity": "8 cups",
+     "ingredient_name": "sliced strawberrieds",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "fresh lime juic",
+     "preparation": null
+    },
+    {
+     "quantity": "2 quarts",
+     "ingredient_name": "sparkling mineral water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "ice cubes",
+     "preparation": null
+    },
+    {
+     "quantity": "3-4",
+     "ingredient_name": "scented geranium leaves",
+     "preparation": "optionally"
+    }
+   ]
+  },
+  "preparation": "Combine honey, four cups of the water, 1/4 cup of lemon juice and rosemary in a saucepan.  Boil until the honey is dissolved.  Remove from heatf and allow to stand for about five minutes.  Strain into a large punch bowl.",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "392",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Herbal_Punch_non_Alcoholic_"
+ }
+}

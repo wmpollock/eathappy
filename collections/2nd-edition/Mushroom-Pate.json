@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Mushroom_Pate",
+  "primary_category": "Appetizers",
+  "preparation": "In hot stock cook mushrooms, garlic and green onions until all broth has evaporated.  Allow to cool to room temperature.  Mix butter and cream cheese together and combine with mushroom mixture, salt and pepper.  Plate and garnish with chives.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Mushroom Pate",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Alberta Herfurth",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mushrooms",
+     "quantity": "8 oz",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 1/2 tsp",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "green onions",
+     "quantity": "1/4 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "2 tbsp",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "cream cheese",
+     "quantity": "4 oz",
+     "preparation": "at room temperature"
+    },
+    {
+     "ingredient_name": "chives",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt and pepper from taste",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "recipe": {
+  "name": "Cheese Snack Gretchen",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "grated cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together with hands and form small balls.  Bake on foil at 400F for 20 minutes.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Gretchen Christensen",
+  "source_page": "0032",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Cheese_Snack_Gretchen"
+ }
+}

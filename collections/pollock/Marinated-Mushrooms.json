@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Marinated Mushrooms",
+  "yield_measure": "Servings",
+  "notes": "I have no clue where this recipe comes from.  Could be my mom's collection but I think I'd be a lot more excited  about it if it  were.  I always associated marinated mushrooms with my gramma's guests coming over as a child.  My gramma was from an  entirely different era in Sacramento history than my own and I think this may have  been a customary bring-along among their  set.  \"Make not the marinated mushrooms in the summertime, for  they shall be Brought Along.\"  A good policy.These stand well alone or placed in salad though something (and we suspect it may be the vinegar or the tarragon or the two in combination) does strange things to the palate, especially when combined with avacados in salads.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cups",
+     "ingredient_name": "white vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 medium clove",
+     "ingredient_name": "garlic, minced",
+     "preparation": null
+    },
+    {
+     "quantity": "2 sprigs",
+     "ingredient_name": "tarragon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "tabasco",
+     "preparation": null
+    },
+    {
+     "quantity": "1 medium",
+     "ingredient_name": "white onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": "sliced 1/4\""
+    }
+   ]
+  },
+  "preparation": "Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Mushrooms"
+  },
+  "entry_app": "Veronica",
+  "cdate": "11/11/2005",
+  "safe_name": "Marinated_Mushrooms"
+ }
+}

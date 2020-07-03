@@ -1,0 +1,90 @@
+{
+ "recipe": {
+  "name": "Buttermilk Barbecued Turkey Legs",
+  "safe_name": "Buttermilk_Barbecued_Turkey_Legs",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": "I'm kind of at a loss to say what the buttermilk soak buys you, especially herbing it when you're likely to put a giant flavor bomb in the manner of BBQ sauce on it.  It'd be good to do a benchmark against a naked 'stick and see how it compares.  Otherwise, not one of the more interesting ways to cook with buttermilk.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4",
+     "ingredient_name": "turkey drumsticks",
+     "preparation": "14-16oz each"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "BBQ sauce",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Marinade",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "buttermilk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "dijon mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "finely chopped fresh rosemary",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried sage",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried marjoram",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine marinde ingrediens and bag marinde the drumsticks for 3-4 hours in the refrigerator.  Wipe excess marinade off the legs before grilling over indirect medium head until the internal temperature reaches 180F and the juices run clear: about 1 1/2-2 hours. Turn every 30 minutes during cooking process.  Brush occasionally with the BBQ sauce in the last 15-20 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Buttermilk",
+    "**New06",
+    "Needs Research",
+    "Turkey"
+   ]
+  },
+  "source_name": "Webster's Real Grilling",
+  "source_page": "214",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/02/2013",
+  "user": "billp"
+ }
+}

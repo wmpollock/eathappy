@@ -1,0 +1,126 @@
+{
+ "recipe": {
+  "name": "Genesee Store Cajun Crawdad Corn Chowder",
+  "safe_name": "Genesee_Store_Cajun_Crawdad_Corn_Chowder",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I am glad I find myself far, far away from Genesee as you'd find myself have moved right across from the store and gained some three hundred additional pounds.  Mighty tasty but dang, call your doctor beforehand.The paper allows as you could use lump crab meat in place of the crawdad and provides another excuse to pack it in when its in season.  This recipe will make you want to seek out some mudbugs though.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4",
+     "ingredient_name": "large russet potatoes",
+     "preparation": "peeled and diced"
+    },
+    {
+     "quantity": "1 1/2 quarts",
+     "ingredient_name": "light stock (clam, fish, vegetable, chicken)",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "peeled and diced"
+    },
+    {
+     "quantity": "5",
+     "ingredient_name": "celery ribs",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "fresh Italian parsley",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "corn kernels",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "crawdad or lump crab",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped garlic",
+     "preparation": "freshly prepared"
+    },
+    {
+     "quantity": "1 pint",
+     "ingredient_name": "heavy cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 lb",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "bacon drippings",
+     "preparation": "about one pound's worth of rendering"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "white flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Seasonings",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "bay leaves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "Old Bay seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "file gumbo powder",
+     "preparation": "optional"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "cayanne and/or white pepper",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  "preparation": "Boil potatoes until tender in stock of choice.  Saute onion, celery and parsley with the \"Seasonings\" as listed.  Celery will be softened but not mushy when the cooking is complete.  When potatoes have softened, add the saute, corn and crawdad/crab and garlic.Heat the mixture until boiling and then add cream.  In the still-remnanty saute pan bring together butter, becon drippings and flour to form a roux.  Bring roux to simmer, stirring constantly.   Combine with stock and bring to a boil before simmering on low until one hour before serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Pork Chops",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "Chester Progressive: Chase off the chill with simmering pots of chowder and chili",
+  "source_page": "1B",
+  "source_date": "25 Feb 2009",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/29/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Chewies",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tsp",
+     "ingredient_name": "cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "butterscotch chips",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "shredded coconut",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix 1/2 cup brown sugar, shortening, milk, flour, 1/8tsp salt.  Press in pan.  Bake 10 minutes at 350F.  Beat eggs.  Stir in 3/4 cup brown sugar, vanilla, 1/4 tsp salt, butterscotch chips, coconut layer.  Bake 20 minutes longer.  While warm cut into bars.",
+  "primary_category": "Cookies",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "32-33",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Chewies"
+ }
+}

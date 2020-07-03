@@ -1,0 +1,99 @@
+{
+ "recipe": {
+  "name": "Barley And Lentil Soup",
+  "preparation": "Heat oil in a heavy 4 quart saucepan over medium-high heat.  Add onions and garlic and saute until onions are translucent, about 10 minutes.  Add next 6 ingredients.  Cook until bell pepper just softens, stirring occasionally, 6 minutes.Mix in broth, tomatoes and tomato paste.  Bring mixture to boil.  Stir in barley and lentils.  Reduce heat and simmer until barley and lentils are tender, stirring occasionally, about 1 1/2 hours.** I have a transcription question here.  My original notes are unclear.  It says \"+1 T peppeVs\", looks like.  I assume that means \"1 tablespoon peppers\" which I would mean \"hot peppers\", but that sounds like a lot as I sit here now.  It may very well be \"one teaspoon pepper\", but that goes against my general philosophy.  I will check it next time I make it -- give me a call.The original recipe called for an additional can of broth to start and an extra one at the end if it wasn't \"thin enough\".  Thin enough and folks like myself do not go well together...",
+  "main_ingredient": "Sticks To Ribs",
+  "yield_count": "8",
+  "notes": "A hearty winter soup.Originally recipe from Epicurious",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Olive Oil",
+     "unknown_1": "04053",
+     "quantity": "3 Tbl"
+    },
+    {
+     "ingredient_name": "Large Onions",
+     "quantity": "2",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Garlic Cloves",
+     "quantity": "4",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Carrots",
+     "quantity": "3",
+     "preparation": "Diced"
+    },
+    {
+     "ingredient_name": "Celery Stalks",
+     "quantity": "4",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Red Bell Peppers",
+     "quantity": "1",
+     "preparation": "Chopped"
+    },
+    {
+     "ingredient_name": "Oil Packed Sun-dried Tomatoes",
+     "quantity": "8",
+     "preparation": "Drained, Chopped"
+    },
+    {
+     "ingredient_name": "Dried Basil",
+     "quantity": "2 Tsp",
+     "preparation": "Crumbled"
+    },
+    {
+     "ingredient_name": "Dried Oregano",
+     "quantity": "1 Tsp",
+     "preparation": "Crumbled"
+    },
+    {
+     "ingredient_name": "14.5 Oz Cans Beef Broth",
+     "quantity": "4",
+     "preparation": "(about)"
+    },
+    {
+     "ingredient_name": "28 Ounce Can Crushed Tomatoes",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Tomato Paste",
+     "unknown_1": "11887",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Pearl Barley",
+     "unknown_1": "20004",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Lentils",
+     "unknown_1": "16070",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Hot Pepper Flakes**",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Sriracha",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "unknown_1": "06169",
+     "quantity": "2 Tsp"
+    }
+   ]
+  },
+  "category": {
+   "category": "Soup"
+  },
+  "yield_measure": "Servings"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "source_page": "10",
+  "safe_name": "Traditional_Santa_Maria_Barbecue_Salsa",
+  "primary_category": "Appetizers",
+  "preparation": "Combine all ingredients, cover and let stand for an hour minimum to let flavors develop.",
+  "yield_count": "3 1/2",
+  "yield_measure": "cups",
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Traditional Santa Maria Barbecue Salsa",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Mexican"
+   ]
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Fran Wilkins",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "medium tomatoes",
+     "quantity": "3",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "celery",
+     "quantity": "1/2 cup",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "green onions",
+     "quantity": "1/2 cup",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "green chiles",
+     "quantity": "1/2 cup",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "cilantro",
+     "quantity": "2 Tbl",
+     "preparation": "snipped"
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "1 Tbl",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "dash",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dried oregano",
+     "quantity": "dash",
+     "preparation": "crushed"
+    },
+    {
+     "ingredient_name": "garlic salt",
+     "quantity": "dash",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hot pepper sauce",
+     "quantity": "a few drops",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/23/2005"
+ }
+}

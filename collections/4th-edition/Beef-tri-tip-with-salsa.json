@@ -1,0 +1,108 @@
+{
+ "recipe": {
+  "name": "Beef tri-tip with salsa",
+  "safe_name": "Beef_tri_tip_with_salsa",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "Part of the 2009 tri-tip shootout.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "beef tri-tip",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Marinade",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "fresh lime juice (about 2 lg. limes)",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "bourbon whiskey",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "freshly grated or shaved ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "currant jelly",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "crushed red chili peppers",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Salsa",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "medium tomatoes",
+     "preparation": "peeled"
+    },
+    {
+     "quantity": "2 bunches",
+     "ingredient_name": "green onions",
+     "preparation": "thinly sliced"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "medium jalapeno pepper",
+     "preparation": "washed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "medium avocado",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped fresh cilantro",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "black pepper",
+     "preparation": "freshly ground"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sea salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together marinade ingredients and marinate beef overnight.  Prepare salsa the day ahead.  Grill beef and serve with salsa.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "BBQ",
+    "Beef"
+   ]
+  },
+  "source_name": "http://www.cooks.com/rec/view/0,1627,155188-235207,00.html",
+  "entry_app": "Veronica",
+  "cdate": "08/10/2009",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

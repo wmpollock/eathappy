@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Marinated Mushrooms",
+  "notes": "In these modern ages, things like \"keep for weeks\" always makes me a bit nervous, though really -- it can be done.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "Wishbone* Italian Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "red wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "shallot",
+     "preparation": "finely chopped (optional)"
+    },
+    {
+     "quantity": "1/4-1/2 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 ts",
+     "ingredient_name": "garlic salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cut mushrooms into thick slices.  Steam for one minute.  Combine slices and marinate for at least three days.  Will keep for weeks.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "48-49",
+  "entry_app": "Veronica",
+  "cdate": "03/12/2006",
+  "safe_name": "Marinated_Mushrooms"
+ }
+}

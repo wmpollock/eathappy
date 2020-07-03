@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Scandinavian Christmas Bread",
+  "safe_name": "Scandinavian_Christmas_Bread",
+  "yield_count": "10",
+  "yield_measure": "Servings",
+  "notes": "A Christmas-Morning favorite around the Pollock household.  This is extra-good warm out of the oven or, even  better, sliced and stuck under the broiler with a little butter added and grilled crispy.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "active dry yeast (2 1/2 packets)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "warm water",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "shortening",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "ground cardamom",
+     "preparation": null
+    },
+    {
+     "quantity": "6 1/2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "fruitcake mix or candied cherries",
+     "preparation": "cut into 1/4\" cubes"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Soften raisins by putting them in  small amount of hot water.  Prepare candied fruit by dicing and shaking them in a bag with a little flour to coat and separate the fruit.  In a medium bowl dissolve the yeast and 1 tablespoon sugar in 1/4 cup warm water. In a saucepan, scald milk: bring to 180F in a saucepan over medium heat while stirring constantly -- small bubbles should form.  Stir in shortening and let cool for 15 minutes.Transfer milk mixture to a big mixing bowl and add 1/2 cup sugar, salt and ground cardamom seed. Mix in 2 cups flour, 1 cup at a time.  If using a mixer, start with the paddle attachment.Stir in yeast mixture.  Add in 2 cups flour, 1 cup at a time.  Add candied fruit, raisins, and chopped almonds, mixing well.   If using a mixer, switch to the dough hook at this point.Stir in 2 1/2 cups of remaining flour, 1 cup at a time.Turn dough out on a floured board and kneed well.   Place dough in a greased bowl and cover with a damp cloth.Put dough in a warm place (about 80F) or in a warmed oven (turned off) with a pan of hot water on the bottom rack.  Let dough rise until double, about 45 mins.   Punch down and let rise until double again.Punch down and cut into 2 equal sections.  Knead well.  Form round loaves and place them on a cookie sheet.  Cover with a damp cloth and double once more.Preheat the oven to 350F.  Bake loaves for about 35 minutes -- the tops should be golden brown.",
+  "primary_category": "Breakfast",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/31/2006",
+  "mdate": "12/26/2009",
+  "user": "billp"
+ }
+}

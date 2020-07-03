@@ -1,0 +1,90 @@
+{
+ "recipe": {
+  "name": "All The Reds Soup",
+  "notes": "This is an okay soup though I found it somewhat unimpressive overall.  I find the cooking time is perhaps suspect:  even standard rice wants about 20 minutes cook time and long grained rice typically longer than that.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "red bell pepper",
+     "preparation": "seeded and chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "14oz can",
+     "ingredient_name": "crushed tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "long grain rice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "7oz can",
+     "ingredient_name": "red kidney beans",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "soup garnish:  parsley, cheese",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix pepper, onion, clove and olive oil together in a large saucepan and heat until sizzling.  Reduce heat to low and cook until tender...~5 minutes.  Add crushed tomatoes, vegetable stock, long grain rice, Worcestershire sauce, red kidney beans, dried oregano and sugar and bring to a boil.  Stir well and then simmer covered for an additional 15 minutes.  Serve hot.",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 144.",
+  "source_page": "144",
+  "entry_app": "Veronica",
+  "cdate": "08/03/2007",
+  "mdate": "03/31/2008",
+  "safe_name": "All_The_Reds_Soup"
+ }
+}

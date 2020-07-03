@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Gums_Dill_Dip",
+  "primary_category": "Appetizers",
+  "preparation": "Mix all ingredients together and let sit overnight.  Serve with big ruffly potato chips of the bland \"Granny Goose\" variety (avoid Lays -- too oily and salty)",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Gum's Dill Dip",
+  "secondary_categories": {
+   "secondary_categorie": "50s Goodness"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Always a summer favorite from my favorite gramma.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "mayonnaise",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dehydrated diced onion",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "dill weed",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Beau Monde (spice islands)",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "parsley",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

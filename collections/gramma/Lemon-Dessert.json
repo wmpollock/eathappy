@@ -1,0 +1,80 @@
+{
+ "recipe": {
+  "name": "Lemon Dessert",
+  "yield_count": "10+",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cool whip",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "instant lemon pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cool whip",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crust:  press into 9x13 pan.  Bake at 375F for 10 minutes or until slightly brown.  Cool.Cream cream cheese, cool whip, powdered sugar and spread over crust.Mix together pudding and milk and spread over previous layer.  Top with cool whip and refrigerate.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Nell Meldon",
+  "source_page": "0042-0043",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "safe_name": "Lemon_Dessert"
+ }
+}

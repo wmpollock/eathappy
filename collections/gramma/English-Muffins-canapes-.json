@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "English Muffins (canapes)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "American cheese",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped olives (small can)",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced green olives",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "English muffins",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all together [Ed: presumably English muffins are exempt from this instruction]Let stand in refrigerator a few days.Cut each muffin into wedges after six spreading. Broil until bubbly and cheese melted.\"*Enjoy*\"",
+  "primary_category": "Breakfast",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0025-0026",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "English_Muffins_canapes_"
+ }
+}

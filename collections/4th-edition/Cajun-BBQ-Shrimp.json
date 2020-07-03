@@ -1,0 +1,75 @@
+{
+ "recipe": {
+  "name": "Cajun BBQ Shrimp",
+  "safe_name": "Cajun_BBQ_Shrimp",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I must admit no small reservation about poaching in a sauce that was in initial stages largely just Worcestershire sauce.  The two sticks of butter (cubed) greatly enriches the sauce and -- as advertised -- having french bread on hand for dipping into the sauce",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "medium shrimp",
+     "preparation": "peeled to preference"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "Worcestershire sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "Cajun or  Creole seasoning",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "lemon",
+     "preparation": "juiced"
+    },
+    {
+     "quantity": "12 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "cubed"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "french bread",
+     "preparation": "cubed"
+    }
+   ]
+  },
+  "preparation": "Heat large skillet over high heat and add shrimp, Worchetershire sauce, Cajun seasoning, balck pepper, minced garlic, water and lemon juice.  Stir to combine ingredients and cook, turning once.  (Original recipe states potentially conflicting goals of \"just pink\" shrimp and halved fluid volume).  Cut in butter gradually.  Serve when butter is incorporated.Serve with cubed french bread for dipping into provided bowls.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Makes You Fat",
+    "Needs Research",
+    "Shrimp"
+   ]
+  },
+  "source_name": "Tilamook Sweet Cream Salted Butter Package",
+  "source_date": "ca. 2012",
+  "entry_app": "Veronica",
+  "cdate": "02/02/2013",
+  "mdate": "03/03/2013",
+  "user": "billp"
+ }
+}

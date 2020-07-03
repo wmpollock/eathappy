@@ -1,0 +1,104 @@
+{
+ "recipe": {
+  "name": "German Potato Slad with bacon",
+  "safe_name": "German_Potato_Slad_with_bacon",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "sliced bacon",
+     "preparation": "crosscut 1\"2"
+    },
+    {
+     "quantity": "2/3 cup (about 2 stalks)",
+     "ingredient_name": "diced celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "stone ground mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "diced dill pickle",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "finely chopped fresh Italian parsley",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other ingredients",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large red onion",
+     "preparation": "cut crosswise into 1/2 inch slices"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "2 lb",
+     "ingredient_name": "red-skinned potatoes",
+     "preparation": "cut into lengthwise wedges"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground black pepper",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Grill the onion: coat all sides of the onion with 1Tbl of the olive oil and cook over direct medium heat until tender; 8-12 minutes.Toss the potatoes with remaining 2Tbl of oil, salt and pepper and grill 10-15 minutes.  Potatoes should be crispy on the outside and tender inside.Prepare dressing:  Cook the bacon in a large skillot over medium heat and remove.  Reserve 3 Tbl bacon dripings and discard overage.  Sautee celery for three minutes. Add sugar and cook until sugar has dissolved and celery is cooked through: 2-3 minutes with an occasional stir.  Add vinegar adn 1/2 cup water and cook until bubbling and slightly thickened.  Reduce heat and add mustard, pepper and salt and cook an additional 2 minutes.  Remove from heat, add the bacon pieces and onions, toassing to coat with dressing.Cut grilled potatoes into bite-sized pieces and toss in a large mising bowl with the dressing.  Add pickles and parsley.  Toss gently and serve warm or at room temperature.",
+  "primary_category": "Side",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Shrimp",
+    "Potatoes"
+   ]
+  },
+  "source_name": "Webber's Real Grilling",
+  "source_page": "268",
+  "entry_app": "Veronica",
+  "cdate": "05/25/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

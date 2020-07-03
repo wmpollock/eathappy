@@ -1,0 +1,41 @@
+{
+ "recipe": {
+  "name": "Cranberry Relish Edna",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "cranberries",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "oranges",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "apples",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Note:  Preparation of this dish is clearly a closely held secret as the card includes no instructions.  Hell, divulging the ingredients alone is likely to get my ass kicked in the afterworld by my granny, but I'm sure she'll forgive me in short order.So long as she can't sue.",
+  "primary_category": "Side Dish",
+  "secondary_categorys": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "untried": "1",
+  "source_name": "Edna M. Rapp",
+  "source_page": "15, 7H",
+  "entry_app": "Veronica",
+  "cdate": "11/19/2005",
+  "mdate": "11/21/2005",
+  "safe_name": "Cranberry_Relish_Edna"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "name": "Two Cheese Dressing",
+  "yield_count": "2 1/2",
+  "yield_measure": "cups",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cheddar cheese",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "blue cheese",
+     "preparation": "crumbled"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chives",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients in a medium bowl, blending well.  Cover and refrigerate until serving.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": "Lots Of Cheese"
+  },
+  "untried": "1",
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Lilly Domoto",
+  "source_page": "11",
+  "entry_app": "Veronica",
+  "cdate": "12/30/2004",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Two_Cheese_Dressing"
+ }
+}

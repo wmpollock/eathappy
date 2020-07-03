@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "source_page": "10",
+  "safe_name": "Gazpacho_Dip",
+  "primary_category": "Appetizers",
+  "preparation": "Mix all ingredients and refrigerate.  Serve with corn chips.",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Gazpacho Dip",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Jan Aguilar",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "large firm tomatoes",
+     "quantity": "2-3",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "small cans chopped olives",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "green onions",
+     "quantity": "1 bunch",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "7oz can diced green chiles",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar and oil salad dressing",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic salt",
+     "quantity": null,
+     "preparation": "to taste (optional)"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

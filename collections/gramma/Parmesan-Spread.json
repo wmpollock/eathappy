@@ -1,0 +1,43 @@
+{
+ "recipe": {
+  "name": "Parmesan Spread",
+  "notes": "One of the fringe benefits of working with this collection is retrieving recipes I had completely forgotten about.  I recall heading down to the Gemco on Sacramento's Broadway (formerly Ebbets Field, now a Target store) for the small rye bread.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 Tbsp",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "green onions",
+     "preparation": "sliced thin"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "miniature rye bread",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients and spread on rye bread.  Broil briefly.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "entry_app": "Veronica",
+  "cdate": "05/19/2009",
+  "user": "billp",
+  "safe_name": "Parmesan_Spread"
+ }
+}

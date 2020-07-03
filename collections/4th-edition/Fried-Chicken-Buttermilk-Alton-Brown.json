@@ -1,0 +1,69 @@
+{
+ "recipe": {
+  "name": "Fried Chicken, Buttermilk, Alton Brown",
+  "safe_name": "Fried_Chicken_Buttermilk_Alton_Brown",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I trust Alton Brown as he's a guy in the south who is kind of a universal foodie and knows good bad-for-you food when he sees it.  If he's going to put his finger on a buttermilk fried chicken recipe and you need one, he'll be your friend.In my family this was the Other Sort of Fried Chicken we only ever discreetly ate at regional greasy spoons of yore.  For some reason forbidden or unknown preparation in our house though our family has a fair amount of same-region heritage as these guys.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "chicken",
+     "preparation": "sectioned 8 pieces"
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "buttermilk or 'low fat' buttermilk",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "vegetable shortening",
+     "preparation": "for frying"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "kosher salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "Hungarian paprika or as you like it",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cayenne pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "flour",
+     "preparation": "for dredging"
+    }
+   ]
+  },
+  "preparation": "Soak chicken pieces in buttermilk and cover for 12-24 hours.Melt enough shortening to sink the fry pan 1/8\"  in a 12\" skillet.  Goal temperature should be at but not above 325F.  Combine salt, paprika, garlic powder, cayenne pepper, and [SOME RESEARCH NEEDED] amount of flour [MAYBE 2-3 CUPS?].  Dredge chicken and fry starting skin side down.  Oil should float to halfway mark on pan.Cook 10-12 minutes per side or until evenly brown.  Cook chicken fully to 180 degrees before removing from oil to drain on a rack over a sheet pan or foil or newspaper or something.Can be covered with foil to keep.  Should not be put into a hot oven.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Buttermilk",
+    "**New06",
+    "Chicken",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "http://www.foodnetwork.com/recipes/alton-brown/fried-chicken-recipe/index.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

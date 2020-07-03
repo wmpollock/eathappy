@@ -1,0 +1,39 @@
+{
+ "recipe": {
+  "name": "Cheddar Pennies Pat Morrow",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "dry grated cheddar cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 lb",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix with hands and chill.  Roll about 1/4\" thick.  Make into roll and slice.Bake 350F about 20 minutes",
+  "primary_category": "Beverages",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Pat Morrow",
+  "source_page": "0015",
+  "entry_app": "Veronica",
+  "cdate": "11/19/2005",
+  "mdate": "11/21/2005",
+  "safe_name": "Cheddar_Pennies_Pat_Morrow"
+ }
+}

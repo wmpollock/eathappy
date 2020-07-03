@@ -1,0 +1,141 @@
+{
+ "recipe": {
+  "name": "Valentine Strawberry Pie",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "6",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": "One of two oddities in the collection -- a commercially-prepared recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Crust",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter or margerine",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg yolk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "drained cottage cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "5",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg white",
+     "preparation": null
+    },
+    {
+     "quantity": "1/ tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Topping",
+     "preparation": null
+    },
+    {
+     "quantity": "2 10-oz pkg",
+     "ingredient_name": "frozen strawberries",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh strawberries",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Crust:Combine, flour, sugar, lemon peel; make well in center.  Cut butter or margarine into small pieces, add to dry ingredients.  Add egg yolk and vanilla.  Mix ingredients with fork until soft & well combined.  Roll into ball.  Press dough over bottom and sides of 10-inch pie plate; don't extend dough over rim.  If dough becomes hard to handle, chill a few minutes.  Prick with fork & bake in 400F oven 10 min.  Cool before filling.Filling:Cream cottage cheese well; slowly add sugar, flour, salt & lemon peel.  Add eggs and egg white one at a time, beating well after each.  Ad vanilla & lemon juice.  Pour into crust.  Bake in 400F oven 30-35 min. until filling is set.  Cool before topping.Topping:Combine thawed strawberries, cornstarch & sugar in small saucepan; cook over low heat, stirring constantly until thick and clear. Remove from heat; blend in lemon peel & juice.  Cool slightly; spoon over pie.  Garnish with sliced strawberries.  Can be served at once or after chilling.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "89",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-10",
+  "user": "billp"
+ }
+}

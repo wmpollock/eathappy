@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "main_ingredient": "Mushrooms",
+  "notes": "**UNTRIED** I have no clue where this recipe comes from.  Could be my mom's collection but I think I'd be a lot more  excited about it if it  were.  I always associated marinated mushrooms with my gramma's guests coming  over as a child. My gramma was from an  entirely different era in Sacramento history than my own and I  think this may have been a customary bring-along among their  set.  \"Make not the marinated  mushrooms in the summertime, for they shall be Brought Along.\"  A good policy.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Tarragon Vinegar",
+     "quantity": "2/3 Cups"
+    },
+    {
+     "ingredient_name": "Salad Oil",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Garlic, Minced",
+     "quantity": "1 Medium Clove"
+    },
+    {
+     "ingredient_name": "Sugar",
+     "quantity": "1 Tbl"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "1 1/2 Tsp."
+    },
+    {
+     "ingredient_name": "Water",
+     "quantity": "2 Tbl"
+    },
+    {
+     "ingredient_name": "Tobacco",
+     "quantity": "Dash"
+    },
+    {
+     "ingredient_name": "White Onion",
+     "quantity": "1 Medium"
+    },
+    {
+     "ingredient_name": "Mushrooms, Sliced In 1/4\" Slices",
+     "quantity": "1 Lb"
+    }
+   ]
+  },
+  "name": "Marinated Mushrooms",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Appetizer",
+    "Untried"
+   ]
+  },
+  "preparation": "Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours."
+ }
+}

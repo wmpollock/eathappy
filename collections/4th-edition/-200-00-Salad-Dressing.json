@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "$200.00 Salad Dressing",
+  "yield_count": "1 1/2",
+  "yield_measure": "pints",
+  "notes": "A nice dark, sweet dressing perfect for spinach salad.  Only downside is that it makes an -awful- lot.  Its awful good, but I don't know if I'd go much more than $75 on this one.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "dry mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "celery seed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2-3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "cider vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "grated onion",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a double boiler, heat all ingredients except the grated onion.  Allow to cool to lukewarm and beat until creamy.  Add the grated onion and serve or refrigerate.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Mrs. Yasuyo Koike",
+  "entry_app": "Veronica",
+  "cdate": "12/30/2004",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "_200_00_Salad_Dressing"
+ }
+}

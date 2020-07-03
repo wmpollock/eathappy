@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "main_ingredient": "Raw Eggs",
+  "notes": "**UNTRIED** A favorite of my mom's.  I always shy away from serving my guests raw eggs but it is quite a tasty  summertime dressing over some crisp romaine.From Sunset Favorite Recipes I",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Egg",
+     "quantity": "1"
+    },
+    {
+     "ingredient_name": "Grated Parmesan Cheese",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Lemon Juice",
+     "quantity": "1/4 Cup"
+    },
+    {
+     "ingredient_name": "Garlic, Minced Or Pressed",
+     "quantity": "2 Cloves"
+    },
+    {
+     "ingredient_name": "Worcestershire Sauce",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Pepper",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Salad Oil",
+     "quantity": "1/2 Cup"
+    }
+   ]
+  },
+  "name": "Blender Ceasar Dressing",
+  "yield_measure": "Servings",
+  "category": {
+   "category": "Salad/Dressing"
+  },
+  "preparation": "In blender, combine egg, Parmesan cheese, lemon juice, garlic, Worcestershire, salt.  Whirl until well blended.  With motor on lowest speed, gradually pour in oil in a thin stream and continue to whirl until dressing is thick and creamy.  Pour into jar.  Cover and refrigerate for at least one hour or up to five days.  Let stand at room temperature for fifteen minutes before using.  Shake well."
+ }
+}

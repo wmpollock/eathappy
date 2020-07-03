@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "name": "Pork Chops Patrice",
+  "yield_measure": "Servings",
+  "notes": "A recipe from my Uncle Patrick's \"bachelor days\", which were long and varied.  Somewhere exists a recipe for  Tuna  Surprise which contained lots of strange things such as peas (not to mention \"hot tuna\") but was generally  pretty tasty.  Sadly I wouldn't rediscover this recipe until well -after- college.  Makes a tasty winter meal.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6-8",
+     "ingredient_name": "nice chops",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green onion",
+     "preparation": "finely chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sliced raw mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cream of mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh mushrooms",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Brown pork chops, add wine and simmer for a while.  In a large Pyrex baking dish, spread soup evenly and add rest of ingredients.  Place chops on top of sauce and bake at 350F for 15 minutes.  When sauce has thinned a little and is bubbly, spoon over chops and continue to bake another 10 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Pork Chops",
+    "Bachelor Food"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Pork_Chops_Patrice"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Three-Step Lemon Cheesecake Bars",
+  "yield_count": "12",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "macaroon cookie crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "margerine",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "2 8oz. pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "grated lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together cookie crumbs and margerine and use to line th bottom of a 8\" baking pan.  Blend together cream cheese, sugar, lemon juice, vanilla extract and lemon peel until well mixed.  Add eggs and blend until just mixed.  Pour cream cheese mixture over crust and cook at 350F for 20-25 minutes or until set.Cool for 3 hours or overnight.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Lemon",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Philadelphia Cream Cheese Box, 2005",
+  "entry_app": "Veronica",
+  "cdate": "11/09/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Three_Step_Lemon_Cheesecake_Bars"
+ }
+}

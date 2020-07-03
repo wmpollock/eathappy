@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "name": "Pat's Bananas Foster",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": "dark"
+    },
+    {
+     "quantity": "2\"",
+     "ingredient_name": "from a cube of butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large bananas",
+     "preparation": "sliced lengthwise and quartered"
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "rum",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "Creme de Banana or Brandy",
+     "preparation": null
+    },
+    {
+     "quantity": "1 oz",
+     "ingredient_name": "ethyl alcohol*",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 quarts",
+     "ingredient_name": "vanilla ice cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Set out six bowls, and give one generous scoop of ice cream to each.  Slice bananas as indicated.  Melt butter in a medium large Teflon-lined skillet.  Add brown sugar, stirring over medium heat until paste becomes liquid.  Add liquors and banana slices.  Saute until banana slices become slightly soft and a deeper yellow.  Add ethyl alcohol and ignight.  Serve over ice cream at once.* I'm not sure where Gramps got his hands on food quality ethyl alcohol as its not available OTC in the US anymore but perhaps my grandmother's medical license helped.  Needless to say there's probably enough alcohol in there that it'll probably go up without it.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0013-0014",
+  "entry_app": "Veronica",
+  "cdate": "11/18/2005",
+  "safe_name": "Paths_Bananas_Foster"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "recipe": {
+  "source_page": "57",
+  "safe_name": "Oatmeal_Lace_Cookies",
+  "primary_category": "Desserts",
+  "preparation": "Preheat oven to 350 degrees.  Mix together oats, baking powder and salt; set aside.  Beat egg whites until fluffy (But not to peaks).  Beat yolks into sugar.  Fold in whites, melted butter and vanilla.  With spoon, stir in rolled oats mixture.Grease cookie sheets.  Drop batter by half tablespoonfuls onto cookie sheets.  Smooth out lightly with back of spoon.  Do not crowd cookies. Bake until lightly browned, about 10 minutes.  Remove from baking sheets immediately.",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "cdate": "01/10/2005",
+  "prep_time": null,
+  "name": "Oatmeal Lace Cookies",
+  "source_date": "1987",
+  "source_name": "\"Family Favorites\", Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Lynn Faina.",
+  "notes": "These were well received when I made this for the Moore's '04 Holiday Party, though I didn't favor them as much as I have other recipes.  This'll have to do until such a time as I can get a better one.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "rolled oats",
+     "quantity": "2 1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "baking powder",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large eggs",
+     "quantity": "2",
+     "preparation": "separated"
+    },
+    {
+     "ingredient_name": "brown sugar",
+     "quantity": "1 cup",
+     "preparation": "packed"
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "1 tbsp",
+     "preparation": "melted"
+    },
+    {
+     "ingredient_name": "vanilla extract",
+     "quantity": "1 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

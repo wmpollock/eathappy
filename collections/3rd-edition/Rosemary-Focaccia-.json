@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "name": "Rosemary Focaccia",
+  "notes": "Rosemary foccaccia was a regular staple in bistro-style eateries from the late 90s into the mid-2000s.  Locally, my neighborhood osteria was The Metro and it served this with a lovely warmed red pepper cream cheese.  Dee-lish.The source for this recipe offers up variations to rosemary and salt: sage and Parmesan, thinly sliced cheeses (Parmesan, mozzarella, fontina), zuchini, olives and onions.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg (2 1/4 tsp)",
+     "ingredient_name": "active dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "warm water",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "unbleached bread flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "chopped rosemary",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "coarse salt",
+     "preparation": "for topping"
+    }
+   ]
+  },
+  "preparation": "Dissolve yeast in warm water for ten minutes before adding to flour, salt.  Mix and kneed thoroughly.  Let rise in an oiled bowl until doubled, about 90 minutes.  Punch down and shape disk or other flat shape as desired.  Sprinkle with olive oil, rosemary and salt before baking for 20min at 450F.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Zucchini",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "http://www.recipezaar.com/The-Best-Rosemary-Focaccia-Bread-63530",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Rosemary_Focaccia_"
+ }
+}

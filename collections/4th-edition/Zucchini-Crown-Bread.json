@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Zucchini Crown Bread",
+  "notes": "This is photographed on the same page as \"Rosemary Foccacia\". If the photograph isn't a love letter to bread, I don't know what is.  This one makes fun break-apart pop-poms.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "zuchini",
+     "preparation": "coarsley grated"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "5 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 pkg",
+     "ingredient_name": "active dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "freshly grated parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "fresh ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "lukewarm water",
+     "preparation": "to mix"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "milk",
+     "preparation": "to glaze"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sesame seeds",
+     "preparation": "to garnish"
+    }
+   ]
+  },
+  "preparation": "In a collander, sprinkle grated zuchini lightly with salt and let drain for 30 minutes.  Pat dry.Mix flour, yeast and Parmeasn cheese together and add black pepper to taste.  Stir in oil, zucchini and sufficient water to form a firm dough. Kneed dough until smooth and then let rise in an oiled bowl.  When dough has doubled punch down and lightly knead before dividing and shaping into eight equal balls.  Arrange in a daisy pattern in a greased 9\" round pan and let rise again.Bake at 400F for 24 minutes or until golden brown.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Zucchini"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "498",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Zucchini_Crown_Bread"
+ }
+}

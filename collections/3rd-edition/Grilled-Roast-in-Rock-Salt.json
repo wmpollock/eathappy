@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Grilled Roast in Rock Salt",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "12-16 lb",
+     "ingredient_name": "rib-eye roast",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "rosemary",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "garlic",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "5-8 lb",
+     "ingredient_name": "rock salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large roasting pan, arrange aluminum foil so that it will come up along the sides of the roast in order to hold the salt.  Rub roast with seasoned salt, rosemary, garlic, oregano and pepper.Wrap roast with wet cheesecloth to hold spices in place and to provide a layer of separation from the salt.Pour 1\" of salt in pan and moisten.  Bring the edges of the foil up around the roast and add salt, moistening as you go, until the roast is coated in 1\" of salt.  Leave a 3\" opening on the top.Cook over hot covered file for 2 1/2-3 hours.  Remove from heat and immediately remove roast from salt jacket.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "BBQ",
+    "Beef",
+    "Salt-Tastic!"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by John Forno",
+  "source_page": "69",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Grilled_Roast_in_Rock_Salt"
+ }
+}

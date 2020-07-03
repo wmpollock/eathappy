@@ -1,0 +1,45 @@
+{
+ "recipe": {
+  "name": "Cobbler (Helen)",
+  "notes": "This recipe is bereft of significant construction methodology.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "cherry pie filling",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": "1 box",
+     "ingredient_name": "white cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "crushed nuts",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "[This construction is the pure invention of the editor based on the order of ingredients on the card and similar recipes.  My guess: mixing the fruit into a 9\"x13\" pan, top with with cake mix, drizzle butter over the top and thence the nuts.]",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0064",
+  "entry_app": "Veronica",
+  "cdate": "05/18/2009",
+  "mdate": "05/18/2009",
+  "user": "billp",
+  "safe_name": "Cobbler_Helen_"
+ }
+}

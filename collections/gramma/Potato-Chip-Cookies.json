@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Potato Chip Cookies",
+  "safe_name": null,
+  "primary_category": "Cookies",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "Inspires Curiosity",
+    "Makes You Fat"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cube",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "crushed potato chips",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3/4 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "pinch",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "sugar",
+     "preparation": "for sprinkling"
+    }
+   ]
+  },
+  "preparation": "Cream together shortening, sugar and vanilla.  Add chips and nuts.  Stir in flour and  a pinch of salt.  Chill dough to slightly firm.Form dough into small balls and press flat.  Sprinkle cookies with sugar using a fork and bake at 350F until light brown.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0064-0065",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}

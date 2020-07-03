@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "name": "Bisquick Chicken Fingers",
+  "notes": "Betty Crocker calls these \"ultimate\" -- I don't know that I can go all that far but they are indeed pretty tasty for non-fried chicken product.To truly indulge your elegant fingers one should really have a side sauce.  Around our house, a mayo/mustard concoction usually takes center stage though we've used BBQ a time or too as well.  The dish takes sauce infernally well so long as it plays nicely with butter.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "Bisquick",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "grated parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt or garlic salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "paprika",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "boneless chicken breast halves",
+     "preparation": "cut into 1/2\" strips"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "slightly beaten"
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 450F.  Line baking tray with foil (not parchment, though it might be tempting to do so) and lightly oil.  Mix dry ingredients in a zip-top bag.  Beat the egg into a bowl and work the strips through the wash and into the drege as two batches.  Lay each on the foil and drizzle butter over the top.Bake for six minutes before turning and continue to cook for another six to eight minutes or until cooked through.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Chicken",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "As found on Bisquick boxes",
+  "entry_app": "Veronica",
+  "cdate": "01/27/2009",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Bisquick_Chicken_Fingers"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Ex_Texas_Chili",
+  "primary_category": "Main Dishes",
+  "preparation": "Lightly brown ground meat in a skillet. Drain all fat. Pour water and Ro-Tel into large pot.Add onions, mushrooms, jalapenos, garlic, and spices.  Simmer for one to two hours, stirring occasionally.  Add more water as needed. Ro-Tel is pretty easy to come by in Northern California, usually it lurks in the lower corner the canned tomato products or in the Mexican food aisle.  You can kind of approximate it by substituting a can of diced tomatoes and a can of diced chiles.  Not quite as good but -will- do in the pinch.The original recipe had a safety note about (specifically) getting jalapeno juice on your hands and the rather unpleasant business that is.  I've found that you can give yourself real scorching hands (and any other part of your body you might inadvertently touch like, say, your eye) if you don't take steps to prevent getting your hands in not just that but onion and garlic juice as well.I minimize the effects by starting with the jalapenos, then the garlic then the onions, being sure to clean the board and my implements between cuttings.  Rubbing some coarse salt over moist hands seems to resolve a good deal of the burn issue as well.",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Ex-Texas Chili",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Bill's Favorite",
+    "Mexican"
+   ]
+  },
+  "source_date": null,
+  "source_name": "Karawynn Long (http://karawynn.net)",
+  "notes": "I was reading a weblog of Xeney, a local girl, and she said this was some of the best chili she'd ever had.  I  thought that was pretty high claim, but the fact that it contained an entire clove of garlic was pretty compelling.   I'll tell you what, it -is- some pretty damned good chili.  For my meatless friends I've made it using Morning  Star Farms \"Crumbles\", a textured soy product approximating ground beef, and its come out nearly as good as  turkey, though its \"stove life\" is not nearly as long as is poultry-based counterpart -- the soy denatures  somewhat but is still quite lovely.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "turkey, ground",
+     "quantity": "2 lbs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "water",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Ro-tel",
+     "quantity": "2 10 oz cans",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large onion",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mushrooms",
+     "quantity": "10 oz",
+     "preparation": "sliced"
+    },
+    {
+     "ingredient_name": "jalapenos, chopped",
+     "quantity": "8",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic, minced",
+     "quantity": "1 whole bulb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oregano",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cayenne pepper",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cumin",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "1 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/09/2005"
+ }
+}

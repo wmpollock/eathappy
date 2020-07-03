@@ -1,0 +1,55 @@
+{
+ "recipe": {
+  "name": "Peach Cobbler",
+  "yield_count": "9-12",
+  "yield_measure": "servings",
+  "notes": "The card notes that this can also be made with apricots, apples or berries, sweetened to taste.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4-1 cup",
+     "ingredient_name": "sugar",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": "unsifted"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3-4 cups",
+     "ingredient_name": "peaches",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "preparation": "Melt butter in 9x13\" pan. Mix sugar, flour, baking powder, milk and salt and pour butter into pan.  Cover with sliced peaches.  Bake one hour at 350F.  Serve with whipped cream or ice cream, hot or cold.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0062-0063",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "safe_name": "Peach_Cobbler"
+ }
+}

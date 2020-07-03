@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "name": "Quick Tortilla Soup",
+  "preparation": "Combine beans and broth in a large pot, simmer and season.  Add chicken and corn.  Return soup to a simmer and cook gently until chicken is cooked through, about 7 minutes.Remove pot from heat and add 1 cup salsa -- add more salsa to taste. Simmer until hot.",
+  "main_ingredient": "Quickie",
+  "yield_count": "6",
+  "notes": "**UNTRIED**Originally from the SF Chronicle, 23 April 2003",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Black Beans",
+     "quantity": "1 14 Oz Can",
+     "preparation": "Drained And Rinsed"
+    },
+    {
+     "ingredient_name": "Unsalted Chicken Broth",
+     "quantity": "6 Cups"
+    },
+    {
+     "ingredient_name": "Chicken Flesh",
+     "quantity": "8 Ozs",
+     "preparation": "Cut Into 1/2\" Cubes"
+    },
+    {
+     "ingredient_name": "Frozen Corn",
+     "unknown_1": "11167",
+     "quantity": "1 Cup"
+    },
+    {
+     "ingredient_name": "Fresh Salsa",
+     "quantity": "1 1/2 Cups"
+    },
+    {
+     "ingredient_name": "Tortilla Chips",
+     "quantity": "8 Ozs",
+     "preparation": "Roughly Broken"
+    }
+   ]
+  },
+  "category": {
+   "category": [
+    "Soup",
+    "Untried"
+   ]
+  },
+  "yield_measure": "Servings"
+ }
+}

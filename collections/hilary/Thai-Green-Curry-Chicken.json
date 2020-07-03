@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Thai Green Curry Chicken",
+  "safe_name": "Thai_Green_Curry_Chicken",
+  "yield_count": "2 to 4",
+  "yield_measure": "servings",
+  "notes": "The bottle says you should start with a very small amount of curry paste and increase gradually to desired spice level. Vary amount of fish sauce and sugar according to taste.",
+  "prep_time": "20 min?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "14 fl oz can",
+     "ingredient_name": "Thai Kitchen Premium Coconut Milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 to 1 T",
+     "ingredient_name": "Thai Kitchen Green Curry Paste",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "boneless, skinless chicken breasts",
+     "preparation": "cut in bite sized chunks"
+    },
+    {
+     "quantity": "1 to 2 T",
+     "ingredient_name": "Thai Kitche Premium Fish Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "2 T",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 c",
+     "ingredient_name": "bamboo shoots",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 c",
+     "ingredient_name": "frozen peas",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 c",
+     "ingredient_name": "chicken stock",
+     "preparation": null
+    },
+    {
+     "quantity": "garnish",
+     "ingredient_name": "fresh basil leaves",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "rice",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "In a large saucepan simmer coconut milk and curry paste over medium heat for 5 minutes. Add chicken, fish sauce, sugar, bamboo shoots, peas, and chicken stock. Simmer 10 minutes, stirring occasionally. Garnish with fresh basil and serve hot over rice.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Chicken",
+    "Curry"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Thai Kitchen Green Curry Paste Bottle",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2009",
+  "user": "hilaryp"
+ }
+}

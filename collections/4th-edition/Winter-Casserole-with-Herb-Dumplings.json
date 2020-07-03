@@ -1,0 +1,125 @@
+{
+ "recipe": {
+  "name": "Winter Casserole with Herb Dumplings",
+  "notes": "Looks like autumn.  With dumplings.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "carrots",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small fennel bulb",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small rutabaga",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "leeks",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "zucchini",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "lima beans",
+     "preparation": "with liquid reserved"
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "vegetable stock",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "tomato paste",
+     "preparation": null
+    },
+    {
+     "quantity": "1 stick",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "bay leaves",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dumplings",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "all-purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "\"vegetarian suet\", shredded; or chilled butter, grated",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dried thyme",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Additinal 1 stp salt, 1/2 cup milkCut veg into even cunks and fry in 1/4 cup butter or margarine for tin minutes.  Add flour, lima bean liquid, stock, tomato paste, cinnamon, coriander, ginger, bay leaves and salt and pepper to taste.  Simmer covered for 10 minutes.  Incorporate the beans and simmer another 5 minutes.Prepare the dumlings:  mix flour, \"suet\" or butter, thyme and salt with the milk to make a firm dough.  Hand-kneed dough until smouth.  Divide the dough into a dozen pieces and form each piece into a ball.  Incorporate into simmering stew, allowing for expansion.  Cook covered an additional 15 minutes.Remove cinnamon stick and bay leaves before serving.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "289",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Winter_Casserole_with_Herb_Dumplings"
+ }
+}

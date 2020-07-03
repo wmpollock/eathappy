@@ -1,0 +1,59 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Tahoe_Banana_Oat_Pancakes",
+  "primary_category": "Breakfast",
+  "preparation": "Mix oats and milk in a large bowl.  Let stand until oats are soft (about 15 minutes).  Mix in mashed bananas, eggs, wheat germ and cinnamon. Gradually stir in pancake mix (batter will be very thick).",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "cdate": "01/19/2005",
+  "prep_time": null,
+  "name": "Tahoe Banana-Oat Pancakes",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": "7/97",
+  "source_name": "From Epicurious/Bon Appetit",
+  "notes": "My friend Kristi had access to a cabin in Tahoe and would invite all of us up for a weekend of skiing and drunken  frivolity.   Knowing that I was going to be on the hook for at least one meal, I delved for the first time into  Epicurious and dug up these  hearty fellers.  I'll forever remember wandering about the Raley's down at  Stateline in search of Wheat Germ.    As a testament to the durability of that stuff, I still had a container of it  from that trip years later.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "old-fashioned oats",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "nonfat milk",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mashed ripe bananas (about 3 med)",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "wheat germ",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cinnamon",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oat-bran/mixed grain pancake mix",
+     "quantity": "1 1/2 cups",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

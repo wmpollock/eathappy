@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "main_ingredient": "Bill's Favorite",
+  "notes": "**UNTRIED** I first made this back in High School when I was supposed to be studying for finals, inspiring my dad to  say \"Shouldn't you be  studying for finals?\"  Perhaps, but I had little occasion to cook back then and I  figured the snackens wouldn't hurt during the exams.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Soy Sauce",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Worcestershire",
+     "quantity": "1/2 Cup"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "1 Tsp"
+    },
+    {
+     "ingredient_name": "Dehydrated Onion",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Garlic, Crushed",
+     "quantity": "2 Cloves"
+    },
+    {
+     "ingredient_name": "Pepper",
+     "quantity": "1/2 Tsp"
+    },
+    {
+     "ingredient_name": "Salt",
+     "quantity": "5 Dashes"
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "6 Med Drops"
+    }
+   ]
+  },
+  "name": "Finals Beef Jerky Marinade",
+  "yield_measure": "Servings",
+  "category": {
+   "category": [
+    "Appetizer",
+    "Untried"
+   ]
+  },
+  "preparation": "Jerky is painfully easy to make.  The key is getting a nice lean cut of meat.  Any fatty bits need to be cut off or else they'll coat the jerky in grease which is \"not good eats\".  Trim the beef into 1 inch X 1/4 inch strips and marinate overnight.  Coat a cooking sheet in tinfoil to catch the drippings and arrange the jerky on cooling racks above the cooking sheet.  Turn the oven on as low as it will go -- you want warm, not hot.  You aren't -cooking- the meat, just drying the damned stuff. If the temperature is much above 180 degrees, you'll want to prop the door open with a wooden spoon to let a little extra heat out.Drying is a subjective thing.  Some people swear by overnight, but I like a little bit of chewiness in the final product so usually only go for 4 hours or so.Jerky keeps well in sealed, refrigerated containers and allegedly goes bad after a few weeks but I've never had any last long enough to find out."
+ }
+}

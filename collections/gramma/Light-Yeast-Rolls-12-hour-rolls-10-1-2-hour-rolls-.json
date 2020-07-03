@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Light Yeast Rolls (12 hour rolls, 10 1/2 hour rolls)",
+  "safe_name": null,
+  "primary_category": "Bread",
+  "untried": null,
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "I remember my grandmother's garage deep freezer filled with bags of these, ready for entertaining.  The rolls come out wonderfully soft and tasty -- very lightly flavored and good to eat alone or with something on 'em.So nice this recipe was found twice in an effectively identical form.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "well beaten eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 1/2 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dissolve yeast and sugar in small amount of warm water and set aside.  Scald milk, add butter.  Let cool, then mix beaten eggs, sugar, salt and yeast.  Add this to the cooled milk and margarine.  Add flour and mix.  Cover and let stand 5 to 6 hours.  Dough will be a little sticky, but don't add more flour. Knead on floured board.  Divide in half and roll out to a round circle 1/8 inch thick.  Cover with melted margarine.  Cut in 16 pieces pie shaped.  Roll large end first.  Put on greased cookie sheet.  Let stand for 5 to 6 hours.  Bake in 325F* oven about 10 minutes until golden brown.  You can put them in freezer in sealed bag while warm and reheat when you want to use them.[* originally written as 350F, I have opted for the penned notation here.]",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0042-0043, 0068-0069",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2016-02-09",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "recipe": {
+  "name": "Chocolate Caramel Cookie Bars",
+  "safe_name": "Chocolate_Caramel_Cookie_Bars",
+  "yield_count": "117",
+  "yield_measure": "cookies (allegedly)",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Cookie Layer",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "all purpose flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter",
+     "preparation": "cold and cubed 1/2\""
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "** Cookie Layer",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": null,
+  "primary_category": "Cookies",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Danish Creamery Butter package",
+  "entry_app": "Veronica",
+  "cdate": "07/07/2013",
+  "user": "billp"
+ }
+}

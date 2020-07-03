@@ -1,0 +1,87 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Chicken_Enchiladas",
+  "primary_category": "Main Dishes",
+  "preparation": "PREPARATION:In a large bowl mix 1 3/4 cups sour cream, chilies,  green onions, 1/2 cup cilantro and cumin. Add  chicken and 1 cup cheddar cheese.  Season filling to taste with salt and pepper.Butter a 13x9x2-inch glass baking dish in preparation for assembly. ASSEMBLY:Spoon generous 1/2 cup filling down center of each tortilla and top filling with strip of cream cheese . Roll up each tortilla and arrange enchiladas in dish seam down.  Can be prepared 3 hours in advance. Cover and chill.COOKING:Preheat oven to 350F. Pour picante sauce over enchiladas. Cover and bake until sauce bubbles and enchiladas are heated through, about 45 minutes. Uncover, sprinkle with remaining 1 cup cheddar cheese and bake until cheese melts, about 5 minutes.Top with remaining sour cream and garnish with cilantro.",
+  "yield_count": "8",
+  "yield_measure": "Servings",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Chicken Enchiladas",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "Makes You Fat",
+    "Mexican"
+   ]
+  },
+  "source_date": "September 1995",
+  "source_name": "Bon Appetit (via Epicurious)",
+  "notes": "I made this for Andrew, Miranda and Andi and despite their concerns that it was going to be \"too hot\", none  were left over at the  end of it.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "16-ounce container light sour cream",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "7-ounce can diced green chilies",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large green onions",
+     "quantity": "4",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "chopped fresh cilantro",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cumin",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cooked chicken",
+     "quantity": "2 cup",
+     "preparation": "diced"
+    },
+    {
+     "ingredient_name": "sharp cheddar cheese",
+     "quantity": "2 packed cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "8-inch-diameter flour tortillas",
+     "quantity": "8",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "8-ounce package light cream cheese",
+     "quantity": "1",
+     "preparation": "cut lengthwise into 8 strips"
+    },
+    {
+     "ingredient_name": "16-oz bottles mild picante sauce or",
+     "quantity": "1 1/2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salsa",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "additional cilantro for garnish",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/09/2005"
+ }
+}

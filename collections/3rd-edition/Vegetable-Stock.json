@@ -1,0 +1,111 @@
+{
+ "recipe": {
+  "name": "Vegetable Stock",
+  "notes": "Ahh, yes.  You can indeed get vegetable stock at the store, but how much of that crap is just salt passing itself off as flavor?  Oh, you betcha the photo in this here book more than does for the benefits of the effort, though to be sure the end of the ingredient list starts reading like some kind of damned Dr. Seuss story and I think stands for \"what you have around, but boy howdy would it be nice if you had...\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "leeks",
+     "preparation": "coarsely chopped"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "celery stalks",
+     "preparation": "coarsely chapped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped and allegedly with skin"
+    },
+    {
+     "quantity": "2 pieces",
+     "ingredient_name": "fresh ginger",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "garlic cloves",
+     "preparation": "unpeeled"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "yellow bell pepper",
+     "preparation": "seeded and chopped"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "parsnip",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "mushroom stalks",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "tomato peelings",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "light soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "bay leaves",
+     "preparation": "you old duffer"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "bundle of parsley stalks.",
+     "preparation": null
+    },
+    {
+     "quantity": "3 sprigs",
+     "ingredient_name": "fresh thyme",
+     "preparation": null
+    },
+    {
+     "quantity": "1 sprig",
+     "ingredient_name": "rosemary",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "14 cups",
+     "ingredient_name": "cold water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Ready?  Steady?  Chop like hell and integrate every single ingredient into the pot and bring slowly to a boil.  Simmer for an additional 30 minutes, stirring occasionally.  Strain out the vegetables and stock is ready to use, or so they say, but it sounds like a nasty end to the tasty parts...",
+  "primary_category": "Soup",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Vegetables",
+    "Vegetarian"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "entry_app": "Veronica",
+  "cdate": "08/04/2007",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Vegetable_Stock"
+ }
+}

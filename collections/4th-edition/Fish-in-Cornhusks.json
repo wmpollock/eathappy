@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "name": "Fish in Cornhusks",
+  "safe_name": "Fish_in_Cornhusks",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "chipotle powder",
+     "preparation": "1 chile ground"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "5 Tbl",
+     "ingredient_name": "butter",
+     "preparation": "at room temperature"
+    },
+    {
+     "quantity": "1 heaping Tbl",
+     "ingredient_name": "cilantro",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "3 ears",
+     "ingredient_name": "corn",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "halibut or salmon filets",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together chipotle and salt.  Mix with butter, add cilantro and garlic.  Cover and set aside.Cut the corn ends to more easily remove the husks.  Middle husks are target but reserve as many as possible.  Blanch for 3 minutes in boiling water, drain and cool.  Arrange 3 husks per fillet on a baking sheet per fillet.  Pil leaves to help them stay together.  Arrange fillet on husks and cover with 1 tsp of chipotle butter.  Remaining butter can be used for service.Cook fish atop three-leaf arrangement over medium heat, covered, for 10-15 minutes -- until done.  Garnish with additional butter.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Fish"
+   ]
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle, \"Grilled Fish on Fresh Cornhusks with Chipotle Cilantro Butter\"",
+  "entry_app": "Veronica",
+  "cdate": "01/29/2013",
+  "user": "billp"
+ }
+}

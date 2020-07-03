@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "name": "Internet Museli",
+  "notes": "You are either in a country that does Museli right and appreciates it or you aren't and you wouldn't really know by looking at them from the outside.  I think the Kiwis are big on it, for example.Anyhow, this is an interesting bit of online searching for one that had things that I'd morally agree in.  Pumpkin seeds sells it for me as a Northern Californian: some times of year we have fresh seeds and nothing to do with them.Elsewhere they'd probably use 'flake' or 'ship' style coconut.  I've seen cereals -- trail mix too -- with this type of coconut preparation before.  It is what it is, I suppose:  you can get it that way or you no can.Variations on this theme seen: hazlenuts/almonds for pumpkin seeds.  Half maple syrup/half honey.  The addition of nut paste at the end.Refs:http://poppalina.typepad.com/my_weblog/2007/05/heaven_is_a_bow.htmlhttp://www.greenfootsteps.com/muesli-recipe.htmlResearch: sultanas",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "rolled oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sesame seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "pumpkin seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sunflower seeds",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "flaked coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sultanas or mix dried fruit",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix ingredients thoroughly.  Bake 350F until golden brown, stirring every five minutes.  Cool and put into an airtight container.",
+  "primary_category": "Breakfast",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "Needs Research",
+    "Rice, Grains"
+   ]
+  },
+  "untried": "1",
+  "source_name": "http://lintrezza.blogspot.com/2008/05/musing-about-museli.html",
+  "entry_app": "Veronica",
+  "cdate": "05/27/2009",
+  "user": "billp",
+  "safe_name": "Internet_Museli"
+ }
+}

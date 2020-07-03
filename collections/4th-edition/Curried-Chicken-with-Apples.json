@@ -1,0 +1,90 @@
+{
+ "recipe": {
+  "name": "Curried Chicken with Apples",
+  "safe_name": "Curried_Chicken_with_Apples",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "The apples and mushrooms are a nice touch and suggest an interesting heritage.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "onions",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "5 Tbl",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "chicken breasts",
+     "preparation": "cubed"
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 tsp",
+     "ingredient_name": "curry powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "small cooking apples",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "raw mushrooms",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "preparation": "Cook onions in butter over medium heat until softened.  Gradually add flour until mixed.  Add chicken.  Gradually add broth and milk, careful not to add so much that it cools the dish.  Add remaining ingredients, continuing to cook until chicken is cooked through and sauce has thickened.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Chicken",
+    "70s Flashback",
+    "Curry",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Fuji Furuya",
+  "source_page": "39",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

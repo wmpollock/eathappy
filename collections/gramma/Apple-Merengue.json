@@ -1,0 +1,62 @@
+{
+ "recipe": {
+  "name": "Apple Meringue",
+  "notes": "Whoa!  -Apples-?!?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "5 tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "tart apples",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "Separate 2 eggs and beat whites.  To yolks add 3/4 cup sugar, 5 tbl flour, 1/2 tsp baking powder, 1/4 tsp salt, 1/2 cup chopped nuts and 1 cup chopped tart apple.Add beaten egg whites.  Bake in 8\"x8\" buttered cake pan for 40 minutes at 325F.  Serve with whipped cream.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**Needs review",
+    "Apples",
+    "Inspires Curiosity"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Betty Lilley",
+  "source_page": "card 3",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/22/2009",
+  "user": "billp",
+  "safe_name": "Apple_Merengue"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "recipe": {
+  "name": "Praline Cheesecake",
+  "yield_count": "16",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "Graham cracker crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "melted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3 8oz. pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "dark brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "ground pecans",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Cream topping",
+     "preparation": null
+    },
+    {
+     "quantity": "3 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "dark brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "heavy cream",
+     "preparation": "whipped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whole pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix together Graham crackers, sugar and melted butter and line the bottom of a 9 inch spring-form pan.  Bake 10 minutes at 350FBlend together cream cheese, dark brown sugar and eggs, added one at a time.  Blend in sour cream, vanilla and ground pecans.Bake 1 hr at 350FMix together topping and spread over top of cake.After cooling cut into 16 pieces.  Top each piece with pecan.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "untried": "1",
+  "source_name": "Mary Ann Heine",
+  "source_page": "0021-0022",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Praline_Cheesecake"
+ }
+}

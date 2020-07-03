@@ -1,0 +1,33 @@
+{
+ "recipe": {
+  "name": "Potato Casserole",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 package",
+     "ingredient_name": "frozen hash brown potatoes",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "grated cheese",
+     "preparation": "to cover"
+    }
+   ]
+  },
+  "preparation": "Butter casserole.  Put into casserole hash browns.  Pour whipping cream over the top and add salt and pepper to taste.  Cover with grated cheese and casserole top and bake at 325-350F for 40 minutes.",
+  "primary_category": "Side Dish",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0064",
+  "entry_app": "Veronica",
+  "cdate": "05/18/2009",
+  "user": "billp",
+  "safe_name": "Potato_Casserole"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Post_Almanor_Lamb_Dinner",
+  "primary_category": "Main Dishes",
+  "preparation": "In a medium-hot pan, saute rosemary in olive oil until soft.  Rub lamb chops with garlic salt and fry.  When done, cover with foil and place in a warm pan.Add additional rosemary and olive oil to the pan and fry hash browns in the \"dirty' pan.  Remove, drain and serve with lamb chops.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Post-Almanor Lamb Dinner",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Lamb"
+   ]
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Almanor is pretty much just eating and drinking for several days straight.  The drive back along I5 is grueling  and usually leaves on arriving at supper time with a good starve on while leaving one rather tired.  This was a  one-skillet meal that turned the tide of starvation quite nicely. (15 Aug 2004)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "rosemary",
+     "quantity": "4 sprigs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lamb chops",
+     "quantity": "4",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic salt",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "hash browns",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

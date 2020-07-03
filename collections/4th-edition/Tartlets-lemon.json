@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Tartlets: lemon",
+  "yield_count": "8",
+  "yield_measure": "dozen",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "8 dozen",
+     "ingredient_name": "baked tartlet shells",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "large eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "egg yolks",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "lemons",
+     "preparation": "juiced and strained (6 ozs)"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "lemon zest",
+     "preparation": "finely grated"
+    },
+    {
+     "quantity": "6 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": "chilled and cut into 6 pieces"
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "strained apricot jam",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Whisk together eggs and yolks in a medium-sized saucepan.  Individually whisk in  sugar, lemon juice and zest.  Add in butter and cook over medium heat until mixture begins to thicken -- around 140F on a candy thermometer.  **MAKE SURE FILLING DOES NOT BOIL**Remove immediately from heat and strain through a stainless sieve into a bowl.  Cover surface with plastic wrap and cut 5-7 small slits in wrap to allow steam to escape.  Refrigerate curd to thicken.  Filling will keep up to two weeks.To assemble:  arrange tartlet shells on baking sheet and fill with 1 tsp of chilled filling.  Cook for 5 minutes at 350F or until filling sets.  Remove to cooling rack.  Once cooled brush apricot jam over filling.",
+  "primary_category": "Desserts",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Asst'd Comfort Food",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Phyllis Duckworth",
+  "source_page": "170",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Tartlets_lemon"
+ }
+}

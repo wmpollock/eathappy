@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Steak In A Bag",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": "4-8+",
+  "yield_measure": "Servings",
+  "prep_time": null,
+  "notes": "This appears to be something of an internet oddity.  The cooking method is not unique but certainly has a certain amount of American Trash appeal.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "fresh breadcrumbs",
+     "preparation": "3-4 slices of dence bread processed"
+    },
+    {
+     "quantity": "2-3 lbs",
+     "ingredient_name": "beef, 2.5\" thick =~ London broil works well.",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "seasoned salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 tsp",
+     "ingredient_name": "seasoned pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sharp cheddar cheese",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "4 tbsp",
+     "ingredient_name": "butter",
+     "preparation": "softened"
+    }
+   ]
+  },
+  "preparation": "Prepare fresh breadcrumbs; set aside.   Remove excess fat from steak.In a small bowl, mix butter or margarine, oil, garlic, seasoned salt and seasoned pepper until blended. Spread on all sides of steak. Mix breadcrumbs and cheese and press into butter mixture on steak, coating steak well.Open the supermarket bag and place it on its side. Slide in the steak. Fold the bag end over and staple it shut. Keep the bag on its side until serving. At this point the steak may be refrigerated for several hours.  Before cooking, bring steak to room temperature.Preheat oven to 375 degrees. Arrange the oven rack height so that the bag will not touch any heating elements as it gets quite oily and fires ruin Christmas. Place bag on a rimmed baking sheet and bake 30 minutes. For a medium steak, increase oven temperature to 425 degrees and bake 15 minutes longer, a total of 45 minutes. For medium-well steak, reduce heat from 425 degrees to 375 degrees and bake 5 minutes longer before removing from oven, a total of 20 minutes. Remove steak from bag. Let stand 10-15 minutes before carving into thin slices.",
+  "source_author": null,
+  "source_name": "\"Cookery For Entertaining\", Marlene Sorosky, Hp Books, Tuscon",
+  "source_page": null,
+  "source_date": "1987",
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2015-12-28",
+  "user": "billp"
+ }
+}

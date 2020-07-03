@@ -1,0 +1,100 @@
+{
+ "recipe": {
+  "source_page": "113",
+  "safe_name": "Garlic_Chicken",
+  "primary_category": "Main Dishes",
+  "preparation": "Pound chicken breasts to 3/8\" and lightly salt and pepper.  Coat chicken with mustard and allow to set for 10 minutes.  In a large skillet over medium heat, melt 2 1/2 tbsp butter and quickly brown chicken.  Transfer chicken to baking dish and bake at 10 minutes at 350F until chicken is done.Melt 1 tbsp butter in a skillet over medium heat.  Saute garlic until softened and add stock.  Simmer until broth is reduced by half.Cook pasta and drain.  Melt 1 1/2 tbsp butter in pot and add pasta, 1 1/2 tbsp parsley and basil.  Remove from heat and cover to keep warm.Add cream, remaining parsley, salt and pepper to reduced chicken stock.  Reduce at a simmer until sauce thickens to a light gravy consistency.Plate pasta and sprinkle with Parmesan cheese.  Top with chicken and smother with sauce.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "Garlic Chicken",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", Holly Finkbeiner",
+  "notes": "Labeled by my mother as \"Absolutely Fantastic!!\"",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "whole boneless, skinless chicken breasts",
+     "quantity": "3",
+     "preparation": "halved"
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "fresh ground pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Dijon mustard",
+     "quantity": "4 1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "3 1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "8 cloves",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "16 oz package bow-tie pasta",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "butter",
+     "quantity": "1 1/2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "parsley",
+     "quantity": "2 tbsp",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "fresh basil",
+     "quantity": "1 1/2 tsp",
+     "preparation": "finely chopped"
+    },
+    {
+     "ingredient_name": "heavy cream",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "freshly ground pepper",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "grated Parmesan cheese",
+     "quantity": "1/3 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

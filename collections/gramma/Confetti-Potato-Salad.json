@@ -1,0 +1,64 @@
+{
+ "recipe": {
+  "name": "Confetti Potato Salad",
+  "yield_count": "8-10",
+  "yield_measure": "generous servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "potatoes",
+     "preparation": "cooked, chopped up"
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "celery slices",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "thin carrot slices",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped green pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "chopped red onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1-2",
+     "ingredient_name": "hard boiled eggs",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine ingredients and mix lightly.  Chill before serving.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Marian (Pollock)",
+  "entry_app": "Veronica",
+  "cdate": "05/12/2009",
+  "safe_name": "Confetti_Potato_Salad"
+ }
+}

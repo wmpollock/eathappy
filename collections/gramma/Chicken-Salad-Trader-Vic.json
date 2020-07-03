@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "name": "Chicken Salad Trader Vic",
+  "yield_count": "12",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "5-6 cups",
+     "ingredient_name": "baked chicken",
+     "preparation": "shredded"
+    },
+    {
+     "quantity": "2 1lb cans",
+     "ingredient_name": "chunked pineapple",
+     "preparation": "drained"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped celery",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sliced water chestnuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "green onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "toasted almonds",
+     "preparation": "save half, toast in oven"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbsp",
+     "ingredient_name": "Major Gray chutney",
+     "preparation": "cut up smaller"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "curry",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "butter lettuce",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Dressing:  Mix sour cream, mayonnaise, Major Gray chutney and curry.Add dressing in [illeg.  may be \"and\"] to serve at noon.  Butter lettuceSprinkle nuts on top.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0013",
+  "entry_app": "Veronica",
+  "cdate": "11/18/2005",
+  "safe_name": "Chicken_Salad_Trader_Vic"
+ }
+}

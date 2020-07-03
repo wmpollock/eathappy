@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Chewy Nut Bars",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "nuts",
+     "preparation": null
+    },
+    {
+     "quantity": "3 heaping Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/8 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Make very stiff dough.  Bake at 325F for 25 minutes.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0025",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Chewy_Nut_Bars"
+ }
+}

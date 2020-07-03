@@ -1,0 +1,47 @@
+{
+ "recipe": {
+  "name": "Stuffed Mushrooms",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz",
+     "ingredient_name": "cream cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "cheese",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "garlic + seasoning",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook 15-20 minutes at 350F on cookie sheet.  Broil tops until golden brown: 2-3 minutes.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "44",
+  "entry_app": "Veronica",
+  "cdate": "03/10/2006",
+  "safe_name": "Stuffed_Mushrooms"
+ }
+}

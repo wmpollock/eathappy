@@ -1,0 +1,78 @@
+{
+ "recipe": {
+  "name": "Pork Adobo",
+  "yield_count": "7",
+  "yield_measure": "Servings",
+  "notes": "I can't say this is all that authentic, but it is rather tasty.  The end product ends up a bit salty -- using  low-sodium soy sauce may  rectify this some.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "boneless pork or pork ribs",
+     "preparation": "cut into 1 1/2-2\" chunks"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "4 Tbl",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "6 cloves",
+     "ingredient_name": "garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "10",
+     "ingredient_name": "peppercorns",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Marinate pork (substitute chicken) in all ingredients for 1-2 hours. Simmer in saucepan for 30 minutes, stirring occasionally.  Simmer on low until sauce becomes thick and meat becomes tender.  Add salt and pepper as needed.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "70s Flashback",
+    "Mexican"
+   ]
+  },
+  "source_name": "\"Family Favorites\",  Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Clarita Camaquin.",
+  "source_page": "12",
+  "source_date": "1987",
+  "entry_app": "Veronica",
+  "cdate": "01/03/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Pork_Adobo"
+ }
+}

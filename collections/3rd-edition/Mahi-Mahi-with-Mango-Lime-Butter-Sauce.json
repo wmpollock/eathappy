@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Mahi Mahi with Mango/Lime Butter Sauce",
+  "notes": "This comes from the Challenge folks: in my country a large deer stands before an alpine lake while in the background a glacier-covered crag-top is rendered in blue.  This is to signify that it is the milk product of another animal and that it has not been additionally salted.  Also, we package it in silver.  Gold is for oleomargarine.  I think they wrap \"European Style\" in paper, just like the salty kind.My guess is that in a pinch, butter will be butter.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "unsalted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "red peper",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "ripe mango",
+     "preparation": "peeled and diced"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "dry sherry or mango nectar",
+     "preparation": "as you like it"
+    },
+    {
+     "quantity": "2 Tbl (juice of one lime)",
+     "ingredient_name": "fresh lime juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "fresh lime zest",
+     "preparation": "optionallly"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Fish",
+     "preparation": null
+    },
+    {
+     "quantity": "1 to 1 1/2 lb",
+     "ingredient_name": "mahi mahi fillets",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 Tbl",
+     "ingredient_name": "unsalted butter (additional)",
+     "preparation": "melted"
+    }
+   ]
+  },
+  "preparation": "In a saucepan over low heat; melt butter, blend cornstarch and pepper gradually.  Ad mango, sugar and sherry or mango nectar and bring to a boil before reducing via simmer five mninutes or until fruit is soft and sauce is thick.Brush fish with melted buter and grill or broil in the presence of medium heat for five minutes before flipping and cooking the other side.  Fish is done when it flakes easily (and maybe is no longer translucent?  I think so but I'm just a cook, not a chef...)",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Fish",
+    "Box Recipe",
+    "Butter!",
+    "Needs Research"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Challenge Unsalted Butter pack",
+  "source_date": "ca. 2006",
+  "entry_app": "Veronica",
+  "cdate": "05/02/2009",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Mahi_Mahi_with_Mango_Lime_Butter_Sauce"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Gramma_Pollocks_French_Toast",
+  "primary_category": "Breakfast",
+  "preparation": "Mix milk, vanilla, egg and salt in a bowl and lightly dip each side of bread before placing on a medium-heat griddle.  Cook until brownish.Lightly dust with powdered sugar -- some would say that one should sift said sugar, but I always enjoyed the lumpy sugary texture.  One could have syrup too, I suppose, but we never made 'em that way and I didn't use syrup or butter 'til I started hanging out at greasy spoons.COOKING MAGIC!  The vanilla oils are suspended in alcohol.  Note the effect the alcohol has on the milk when added to the mixture.",
+  "yield_count": "2",
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Gramma Pollock's French Toast",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "My grandmother was responsible for my care and feeding while my baby brother was being born.  One morning  she said she was  going to cook up some French toast and I, being a fussy child and fussier eater, decided that  was something I would decline.  She  pointedly assured me that they would be find and that I should expand my  boundaries and I'm glad I did as this was one of my  favorite dishes afterwords.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "milk",
+     "quantity": "1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla extract",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "slices bread",
+     "quantity": "4",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "powdered sugar",
+     "quantity": null,
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

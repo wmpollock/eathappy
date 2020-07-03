@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Dog Biscuits",
+  "safe_name": "Dog_Biscuits",
+  "yield_count": "100",
+  "yield_measure": "biscuits",
+  "notes": "This appears boosted from Schlegel Whitman's \"Dog Parties\", per the attribution.  I don't know exactly if Whitman is a dog nutritionist or has had one, um, \"vet\" this, but it sounds marginally doable. Liver powder, surely a work of evil, is said to be available from health and nutrition stores.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 lbs",
+     "ingredient_name": "white flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "wheat flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "cornmeal",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "rolled oats",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "liver powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "garlic powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "onion powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 gallon",
+     "ingredient_name": "water",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine dry ingredients.  In a mixer at medium speed, slowly add water to dry ingredients. Remove from bowl and allow to set for one hour before rolling out to 1/2\" and forming with cookie cutters.  Bake at 400F for 20 minutes.",
+  "primary_category": "Other",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "Spirit Magaine",
+  "source_page": "101",
+  "source_date": "June 2010",
+  "entry_app": "Veronica",
+  "cdate": "07/02/2010",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Golden Fruit Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "The amount (4 cups) of syrup from a given can of pineapple chunks is both unbelievable and not mentioned in the preparation:  what gives?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 can",
+     "ingredient_name": "apricots",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "Mandarin oranges",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "chunk pineapple",
+     "preparation": "drained"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "Maraschino cherries",
+     "preparation": "for garnish"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "bananas",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Dressing",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "pineapple juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "corn starch",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "4 cups",
+     "ingredient_name": "syrup from pineapple",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix sugar, cornstarch and pineapple juice.  Boil, stirring constant until thick. Cool.  Mix into fruit a little at a time, stirring gently so fruits do not break.  Stir in bananas just before serving.  Server on lettuce and garnish with Maraschino cherries.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "83-84",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-05",
+  "mdate": null,
+  "user": "billp"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Blender_Ceasar_Dressing",
+  "primary_category": "Salad/Dressing",
+  "preparation": "In blender, combine egg, Parmesan cheese, lemon juice, garlic, Worcestershire, salt and pepper.  Mix until blended.  With the blender on its lowest speed, gradually add oil in a thin stream and continue to blend until dressing is thick and creamy.  Pour into jar.  Cover and refrigerate for at least one hour.  Keeps up five days.  Let stand at room temperature for fifteen minutes before using.  Shake well.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "untried": "1",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Blender Ceasar Dressing",
+  "secondary_categories": {
+   "secondary_categorie": "Raw Eggs"
+  },
+  "source_date": null,
+  "source_name": "Sunset Favorite Recipes I",
+  "notes": "A favorite of my mom's.  I always shy away from serving my guests raw eggs but it is quite a tasty summertime  dressing over some crisp romaine.  Its also far, far away from the traditional, bowl-turned recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "egg",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "grated Parmesan cheese",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon juice",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "2 cloves",
+     "preparation": "minced or pressed"
+    },
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pepper",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salad oil",
+     "quantity": "1/2 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "recipe": {
+  "source_page": "43",
+  "safe_name": "Twenty_Five_Minute_Tuna_Crisp",
+  "primary_category": "Main Dishes",
+  "preparation": "Cook noodles in boiling salted water until tender and drain.  Mix with entire contents of tuna can, pimento, and mushroom soup.  Crush half of chips to cover the bottom of a shallow casserole, covering with tuna mixture and top with remaining chips, still whole.  Bake at 350F until thoroughly cooked -- I would assume this to be 25 minutes or else we are being lied to by the title.",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "01/04/2005",
+  "prep_time": "25 minutes?",
+  "name": "Twenty-Five Minute Tuna Crisp",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Kay Ogawa",
+  "notes": "Any recipe with potato chips on the top has to be good times.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "wide egg noodles",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tuna",
+     "quantity": "8 oz can",
+     "preparation": "packed in oil"
+    },
+    {
+     "ingredient_name": "pimento (optional)",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "condensed cream of mushroom soup",
+     "quantity": "1 can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "potato chips",
+     "quantity": "4 oz",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

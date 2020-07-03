@@ -1,0 +1,73 @@
+{
+ "recipe": {
+  "name": "Banana Muffins",
+  "safe_name": null,
+  "primary_category": "Breakfast",
+  "untried": null,
+  "secondary_categories": {
+   "secondary_category": "Bananas"
+  },
+  "yield_count": "12",
+  "yield_measure": "muffins",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/ sp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "overripe bananas",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "unsalted butter",
+     "preparation": "melted and cooled"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla extract",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped pecans",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Whisk together flour, baking soda and salt.  Mash and mix together bananas, brown sugar, melted butter, eggs and vanilla.  Fold in flour mixture and pecans until just incorporated. Fill muffin tins.  Cook at 350F for 18-20 minutes.",
+  "source_author": "Tyler Florence",
+  "source_name": "Banana Nut Muffins",
+  "source_page": "https://www.foodnetwork.com/recipes/tyler-florence/banana-nut-muffins-recipe-1915828",
+  "source_date": "August, 2018",
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2018-08-13",
+  "user": "billp"
+ }
+}

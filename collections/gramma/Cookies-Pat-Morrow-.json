@@ -1,0 +1,113 @@
+{
+ "recipe": {
+  "name": "Cookies (Pat Morrow)",
+  "safe_name": null,
+  "primary_category": "Cookies",
+  "untried": null,
+  "secondary_categories": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "While I found a source of candied lemon peel once and may have actually bought some, I've never actually made the recipe with the stuff.  Doesn't look right in the final mix, somehow.  My all-time favoriteist cookie and what got me into really rediscovering the old family recipes.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "firmly packed brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "granulated sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cup",
+     "ingredient_name": "old fashioned oats",
+     "preparation": "uncooked"
+    },
+    {
+     "quantity": "1/2 t",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tbsp",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "raisins",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "candied lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**TOPPING (per cookie)",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pecan or 1/2 candied cherry",
+     "preparation": "per season"
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "honey",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Bake first batch of  cookies for 14 minutes at 350F.  After that bake each batch for 13 minutes.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "0001",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}

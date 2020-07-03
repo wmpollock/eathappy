@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Scandinavian_Christmas_Bread",
+  "primary_category": "Breakfast",
+  "preparation": "Soften raisins by putting them in  small amount of hot water.  Prepare candied fruit by dicing and shaking them in a bag with a little flour to coat and separate the fruit.  Set cherries and raisins aside.In a glass measuring cup dissolve the yeast and 1 tablespoon sugar in 1/4 cup warm water.In a saucepan, scald milk{1}.  Stir in shortening and let cool for 15 minutes.When milk and shortening have cooled, transfer to a big mixing bowl and add 1/2 cup sugar, salt and ground cardamom seed. With a mixing spoon, stir in 2 cups flour, 1 cup at a time.Stir in yeast, sugar, and water mixture.  Gradually add in 2 more cups flour, then add candied fruit, raisins, and chopped almonds, mixing well.Stir in 2 1/2 cups of remaining flour, 1 cup at a time.Turn dough out on a floured board and kneed well.  Use as much remaining flour as it takes to produce a springy elastic texture.  Place dough in a greased bowl and cover with a damp cloth.Put dough in a warm place (about 80F) or in a warmed oven (turned off) with a pan of hot water on the bottom rack.  Let dough rise until double, about 45 mins.   Punch down and let rise until double again.Punch down and cut into 2 equal sections.  Knead well.  Form round loaves and place them on a cookie sheet.Cover with a damp cloth and double once more.Preheat the oven to 350F.  Bake loaves for about 35 minutes (tops should be golden brown).{1} Some words about scalding:  my modern incarnation of The Joy Of Cooking does not have any description of this strange, near-abandoned process but my older one does.  Essentially you are bringing the milk just below the point of a simmer - to 180 degrees when small bubbles just start to form around the edge of the pot.  The elder Joy mentions \"scorched pots and frazzled tempers\" at higher temperatures, so consider yourself warned.{2} There is some debate over the amount of shortening to use.  I hadn't realized that I had gone back and revised this since the earlier entry and phoned home for the amount of shortening -- my Mom's response was \"1/2 cup\" which I believe outshines the 3tbsp measure mentioned here.",
+  "yield_count": "10",
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Scandinavian Christmas Bread",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "A Christmas-Morning favorite around the Pollock household.  This is extra-good warm out of the oven or, even  better, sliced and stuck under the broiler with a little butter added and grilled crispy.  While the loaf will dry out  in fairly short order if left unwrapped, even a bit stale its still damned tasty.This recipe is unusual in that it calls for candied fruit which at least commercially is a very scary thing -- since  when is fruit that color or, for that matter, translucent?  I made this for the first time myself off-season and  made do with a mixture of a couple of other kinds of candied fruit but the original recipe called for red and green  cherries, in thirds, which gives it a nice holiday feel.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "active dry yeast (2 1/2 packets)",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "warm water",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "shortening",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cardamom seed",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "all-purpose flour",
+     "quantity": "6 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "candied fruit",
+     "quantity": "1 cup",
+     "preparation": "cut into 1/4\" cubes"
+    },
+    {
+     "ingredient_name": "raisins",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "blanched almonds, finely chopped",
+     "quantity": "1/2 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

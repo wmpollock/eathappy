@@ -1,0 +1,148 @@
+{
+ "recipe": {
+  "name": "Egg rolls",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**OUTERS",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**INNERS: CRAB FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "crab meat",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground pork",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "green onions",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water chestnuts",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg yolk",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**CHICKEN FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "ground chicken",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "ground ham",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "water chestnuts",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg yolk",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "ginger",
+     "preparation": "grated"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**MUSHROOM FILLING",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "ground pork, ham or shrimp",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "green onions",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "bean sprouts",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water chestnuts",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1/2 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": "chopped cooked in 3 Tbl oil"
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "soy sauce",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Heat and lightly grease a small griddle.  Mix flour and water and lightly paint a 5\" square on the griddle.  Remove as soon as dry and place a roll of filling on one side and roll up.  Fry rolls in 370F oil before serving.",
+  "primary_category": "Appetizers",
+  "secondary_categorys": {
+   "secondary_category": "Chinese"
+  },
+  "untried": "1",
+  "source_name": "\"A Book Of Appetizers\", Helen Evans Brown",
+  "source_page": "43-44",
+  "source_date": "1958",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Egg_rolls"
+ }
+}

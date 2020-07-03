@@ -1,0 +1,46 @@
+{
+ "recipe": {
+  "name": "Margarita (Mascilla)",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "6 oz",
+     "ingredient_name": "can frozen limeade",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "tequila",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 can",
+     "ingredient_name": "triple sec",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "ice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 jigger",
+     "ingredient_name": "Grand Mariner",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend all ingredients.  Rim glass with lime and salt.",
+  "primary_category": "Beverages",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Mascilla",
+  "source_page": "54",
+  "entry_app": "Veronica",
+  "cdate": "03/13/2006",
+  "mdate": "03/13/2006",
+  "safe_name": "Margarita_Mascilla_"
+ }
+}

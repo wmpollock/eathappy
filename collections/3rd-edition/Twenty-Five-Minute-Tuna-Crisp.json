@@ -1,0 +1,53 @@
+{
+ "recipe": {
+  "name": "Twenty-Five Minute Tuna Crisp",
+  "safe_name": "Twenty_Five_Minute_Tuna_Crisp",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "notes": "I'm not certain how the \"crisp\" vanished from our cultural food landscape.  Perhaps they were crushed under \"light cooking\" or are the simple sort of fare one guiltily does not share outside of one's family.  In any case, I adventured into crisps with this recipe and was quite happy with the results.",
+  "prep_time": "25 minutes?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "wide egg noodles",
+     "preparation": null
+    },
+    {
+     "quantity": "8 oz can",
+     "ingredient_name": "tuna",
+     "preparation": "packed in oil"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "pimento (optional)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "condensed cream of mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "potato chips",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cook noodles in boiling salted water until tender and drain.  Mix with entire contents of tuna can, pimento (as desired) and mushroom soup.  Crush half of chips to cover the bottom of a shallow casserole, covering with tuna mixture and top with remaining chips, still whole.  Bake at 350F until thoroughly cooked, about 25 minutes.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "Bill's Favorite",
+    "Makes You Fat"
+   ]
+  },
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Kay Ogawa",
+  "source_page": "43",
+  "entry_app": "Veronica",
+  "cdate": "01/04/2005",
+  "mdate": "01/06/2011",
+  "user": "billp"
+ }
+}

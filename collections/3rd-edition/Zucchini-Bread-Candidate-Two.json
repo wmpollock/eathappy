@@ -1,0 +1,86 @@
+{
+ "recipe": {
+  "name": "Zucchini Bread, Candidate Two",
+  "yield_count": "2",
+  "yield_measure": "loaves",
+  "notes": "My gut instinct says that Candidate One is the more likely favorite at the end of the day, however the fact that this one used both cinnamon and a whopping two -cups- of honey made it a bit more interesting sounding if only for the using of two -cups- of honey...",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "baking soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "baking powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "nutmeg",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "honey",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "zucchini",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "walnuts",
+     "preparation": "chopped"
+    }
+   ]
+  },
+  "preparation": "Sift together flour, cinnamon, baking soda, salt, baking powder and nutmeg and fold in remaining ingredients, stirring minimally.  Bake at 325F for 60 minutes.",
+  "primary_category": "Bread",
+  "secondary_categorys": {
+   "secondary_category": "Needs Research"
+  },
+  "untried": "1",
+  "source_name": "\"High Country Recipes\", The Chester High Ski Team, contributed by Vance Newell",
+  "source_page": "41",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/19/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Zucchini_Bread_Candidate_Two"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": "117",
+  "safe_name": "LaScala_Scampi",
+  "primary_category": "Main Dishes",
+  "preparation": "Arrange butterflied prawns in baking pan.  Season to taste with salt and pepper.  Combine oil, wine, lemon juice, chicken stock, shallots, basil and oregano and pour over shrimp.  Cook under broiler for 10 minutes or until golden.",
+  "yield_count": "6",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "01/20/2005",
+  "prep_time": null,
+  "name": "LaScala Scampi",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": "1992",
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Sandra and John Davey",
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "large prawns",
+     "quantity": "24",
+     "preparation": "peeled, de-veined and split lengthwise"
+    },
+    {
+     "ingredient_name": "salt and pepper",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "olive oil",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "white wine",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "lemon",
+     "quantity": "1",
+     "preparation": "juiced"
+    },
+    {
+     "ingredient_name": "chicken stock",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large shallots",
+     "quantity": "2",
+     "preparation": "chopped"
+    },
+    {
+     "ingredient_name": "basil",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oregano",
+     "quantity": "2 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

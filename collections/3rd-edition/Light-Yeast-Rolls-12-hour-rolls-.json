@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "name": "Light Yeast Rolls (12 hour rolls)",
+  "safe_name": "Light_Yeast_Rolls_12_hour_rolls_",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": "I remember my grandmother's garage deep freezer filled with bags of these, ready for entertaining or filching by budding gourmands.  The rolls come out wonderfully soft and slightly sweet:  we've had rolls like this for breakfast while traveling through Italy.A word of warning: this bread requires two goodly sized trays for final proofing which will take up a lot of space for a lot of hours.  Not the best for a busy kitchen day.  I find that proofing the rolls in the refrigerator overnight and then de-chilling for about half an hour to an hour before forming makes this less of an all-day drama.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "dry yeast",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "brown sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter or margarine",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "well beaten eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 1/2 cups",
+     "ingredient_name": "sifted flour",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "additional butter",
+     "preparation": "melted"
+    }
+   ]
+  },
+  "preparation": "Dissolve yeast and sugar in small amount of warm water and set aside.  Scald the milk.  Add the butter to hot milk and stir until melted and incorporated.  Let mixture cool until just warm.Mix beaten eggs, sugar and salt.  Add this to the cooled milk and butter.  Mix in flour in half batches and mix: dough will be very soft and sticky.  Cover and let stand 5 to 6 hours or refrigerate overnight.Knead rested dough on floured board.  You'll need to work the dough in stages so prepare another surface for transfer. Divide dough in two equal parts and roll out each in stages to a round circle 1/8 inch thick: I find it takes about three stages with about an equal rest/work ratio.  Swap out the rounds as they stop responding to work.  You'll likely need to re-dust the surfaces with flour from time to time.  Allow dough to rest before cutting.Prepare 2-3 cooking or baking sheets for proofing and baking.  \"Greasing\" was the original order of the day, shortening, lard or butter --your pick there.  I go with silicone rubber baking mats and parchments and can squeeze offset rolls into a regular cookie sheet and a larger baking tray.Brush top face of each round with melted butter and cut each into 16 wedges: half (1 cut), quarter (1 cut), eighth (2 cuts), and then sixteenths (4 cuts or each eigth in half for 8 cuts).Roll each end up, large end first.  Put on prepared cookie sheet with at least an inch and a half on either side.  Let stand for 5 to 6 hours.  Bake in 350F* oven about 10 minutes on the middle rack until golden brown.  Extras freeze well.[* originally written as 350F, I have opted for the penned notation here.]",
+  "primary_category": "Bread",
+  "secondary_categories": {
+   "secondary_category": "50s Goodness"
+  },
+  "source_name": "Leta Jackson's \"Encarta on Cooking\"",
+  "source_page": "0042-0043",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "mdate": "11/30/2010",
+  "user": "billp"
+ }
+}

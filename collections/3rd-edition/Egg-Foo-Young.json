@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Egg Foo Young",
+  "safe_name": "Egg_Foo_Young",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "generous pinch",
+     "ingredient_name": "five spice powder",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "peanut or sunflower oil",
+     "preparation": "divided"
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "green onion",
+     "preparation": "sliced"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "garlic clove",
+     "preparation": "crushed"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small green bell pepper",
+     "preparation": "seeded and chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "fresh bean sprouts",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "cooked white rice",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbl",
+     "ingredient_name": "light soy sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sesame oil",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix eggs, salt, pepper and five spice powder.  In a large frying pan heat one Tbl of oil until quite hot.  Fry the egg mixture like an omelet, pulling the mixture away from the sides.  Remove egg from pan when firm then chop into small strips.Heat remaining oil and fry the onion, garlic, bell pepper and bean sprouts for 2 minutes before stirring in rice, soy sauce, sesame oil and egg.Serve immediately.",
+  "primary_category": "Main Dishes",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "Chinese"
+   ]
+  },
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "229``",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "mdate": "01/23/2011",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Bisquick_Formulae",
+  "primary_category": "Breakfast",
+  "preparation": "Cooking:   -- Biscuits: Cook at 450 degrees 8-10 minutes-- Pancakes: Until the bubbles stop coming to the surface and any surface ones have popped (1st side)-- Waffles:  'til the steam stops coming out of the 'maker",
+  "yield_count": "6-8",
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Bisquick Formulae",
+  "secondary_categories": {
+   "secondary_categorie": "Bisquick"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "I can't tell you the number of times I've had to look this up on the damnable Internet, having long-since traded  the box for a canister.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "**BISCUITS",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "quantity": "2 1/4 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "2/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**PANCAKES",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "eggs",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "**WAFFLES",
+     "quantity": null,
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Bisquick",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "milk",
+     "quantity": "1 1/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "2 tsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

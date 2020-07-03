@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Marinated Short Ribs",
+  "safe_name": null,
+  "primary_category": "Main Dishes",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "A truly lovely typed card from a clear card pro.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 lbs",
+     "ingredient_name": "English cut short ribs",
+     "preparation": "cut in serving pieces"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "hot mustard",
+     "preparation": null
+    },
+    {
+     "quantity": "3 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "chili powder",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "6 Tbsp",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "onion",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  "preparation": "Mix together ingredients and shake well.If you like a lot of marinade, double or even triple this amount.Wipe meat with damp cloth and put into a deep bowl.  Pour marinade over the meat and wedge a few thick slices of onion between the pieces of beef.  Cover and keep in a cool place for 8 to 24 hours, stirring occasionally.Remove the ribs from the sauce and brown it [sic].  Then add marinade and onions to meat, cover and bake in a moderate oven for one hour.  Remove cover and bake until onions are brown and the fat is crisp.Serve with baked potatoes and barbecue sauce or gravy made from the drippings.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

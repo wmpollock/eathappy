@@ -1,0 +1,91 @@
+{
+ "recipe": {
+  "name": "Hot Turkey or Chicken Salad Casserole",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": "1",
+  "secondary_categories": null,
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "**Salad Mixture",
+     "preparation": null
+    },
+    {
+     "quantity": "3 cups",
+     "ingredient_name": "cooked diced turkey or chicken",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped green pepper",
+     "preparation": "optional"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped green celery",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Other Casserole Components",
+     "preparation": null
+    },
+    {
+     "quantity": "5-6",
+     "ingredient_name": "slices of white bread",
+     "preparation": "for top"
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1 can",
+     "ingredient_name": "mushroom soup",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Cube two slices of bread + line bottom of buttered casserole.  Then spread salad mixture on top.  Cover with remaining bread.Beat eggs and milk and pour over bread and salad mixture.Let stand in refrigerator overnight.When ready to bake, cover with undiluted soup.  Just before removing from oven add grilled cheese.    Bake in a 325F oven 50 minutes, additional ten minutes for cheese.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "91-92",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}

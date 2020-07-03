@@ -1,0 +1,63 @@
+{
+ "recipe": {
+  "name": "Bill's Bloody Marys, Rosemont New Year Stylee",
+  "notes": "Another cursed recipe.  Over the course of a week at Sea Ranch I'd come up with the killer Bloody Mary recipe that took me the better part of a week to sus out.  And man, it had a little of everything.  When condiments are use-or-loose, suddenly pouring through that horseradish sounds like a good idea, doesn't it?Its was kind of a fussy recipe and while this one is maybe not as ambrosial, it is certainly serviceable enough to fly in Italy where I'd wanted it most.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1",
+     "ingredient_name": "12 oz pint glass",
+     "preparation": "full of ice"
+    },
+    {
+     "quantity": "2 oz",
+     "ingredient_name": "vodka",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "4-5 dashes",
+     "ingredient_name": "Tabasco",
+     "preparation": null
+    },
+    {
+     "quantity": "2 dashes",
+     "ingredient_name": "Worchestershire",
+     "preparation": null
+    },
+    {
+     "quantity": "4 dashes",
+     "ingredient_name": "garlic salt",
+     "preparation": null
+    },
+    {
+     "quantity": "5-6 grinds",
+     "ingredient_name": "pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "celery stalk",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix all ingredients together except the celery stalk and find a \"capping cup\", something that will fit over the top to allow you to shake the cocktail (else one could probably use a cocktail shaker, but man, the cleanup\".  Garnish with celery.",
+  "primary_category": "Beverages",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Salt-Tastic!",
+    "Makes You Drunk"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "01/26/2005",
+  "mdate": "05/24/2009",
+  "user": "billp",
+  "safe_name": "Bills_Bloody_Marys_Rosemont_New_Year_Stylee"
+ }
+}

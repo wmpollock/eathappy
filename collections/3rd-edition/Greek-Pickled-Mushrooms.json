@@ -1,0 +1,94 @@
+{
+ "recipe": {
+  "name": "Greek Pickled Mushrooms",
+  "safe_name": "Greek_Pickled_Mushrooms",
+  "yield_count": null,
+  "yield_measure": null,
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": "trimmed"
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "olive oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbl",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "small clove garlic",
+     "preparation": "minced"
+    },
+    {
+     "quantity": "1 stalk",
+     "ingredient_name": "celery",
+     "preparation": "diced fine"
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "white wine vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "fennel seed",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "oregano",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "coriander",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "bay leaf",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "whole black peppers",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Combine all ingredients except mushroom and simmer for fifteen minutes.  Add whole mushrooms and cook five additional minutes.  Refrigerate for at least 24 hours before serving at room temperature.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "**New06",
+    "70s Flashback"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Sunset Cook Book of Favorite Recipes 1",
+  "source_page": "5",
+  "source_date": "1969",
+  "entry_app": "Veronica",
+  "cdate": "04/22/2012",
+  "user": "billp"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "recipe": {
+  "name": "Margarita (Mary Nulbain)",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 part",
+     "ingredient_name": "tequila",
+     "preparation": null
+    },
+    {
+     "quantity": "1 part",
+     "ingredient_name": "triple sec",
+     "preparation": null
+    },
+    {
+     "quantity": "1 part",
+     "ingredient_name": "sweet & sour mix",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend with lots of ice.",
+  "primary_category": "Beverages",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Mary Nulbain, we presume",
+  "source_page": "55",
+  "entry_app": "Veronica",
+  "cdate": "03/13/2006",
+  "mdate": "05/19/2009",
+  "user": "billp",
+  "safe_name": "Margarita_Mary_Nulbain_"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Gums_Berry_And_Apple_Pie",
+  "primary_category": "Desserts",
+  "preparation": "Pare, slice and cook apples in near-boiling water until soft but not mashed--about 10 mins.Mix flour and salt and cut in ice water slowly to form crust.  Roll out to form a 10-12\" inch disk, large enough to cover a 9\" casserole and chill.  Drain apples and mix with boysenberries and sugar until evenly mixed.  Cover with with the dough disc and bake 35 to 45 minutes: 10 minutes at 450F for 10 minutes then step down to 350F.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Gum's Berry And Apple Pie",
+  "secondary_categories": {
+   "secondary_categorie": "Bill's Favorite"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Gum always made this for us when we'd come visiting.  She used a ceramic blackbird poking through the center  of the crust to  keep it from collapsing in on itself overly much and to work as a vent.  The little bastards are  hard to find, but well worth the  effort -- the pie wouldn't look the same without the little head peeping out. This being said, my crust generally falls in but its still tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 1/2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ice water",
+     "quantity": "2/3 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "apples",
+     "quantity": "2-4",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "boysenberries",
+     "quantity": "1 bag",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 1/4 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

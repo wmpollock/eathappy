@@ -1,0 +1,77 @@
+{
+ "recipe": {
+  "name": "Marinated Mushrooms",
+  "safe_name": "Marinated_Mushrooms",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "notes": "I always associated marinated mushrooms with my gramma's guests coming over as a child.  Sadly, Needs Research:  is this THE recipe?  Its source is unknown but likely picked up through my mother's collection.These stand well alone or placed in salad though something (and we suspect it may be the vinegar or the tarragon or the two in combination) does strange things to the palate, especially when combined with avocados.",
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "salad oil",
+     "preparation": null
+    },
+    {
+     "quantity": "2/3 cups",
+     "ingredient_name": "white vinegar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "garlic, minced",
+     "preparation": null
+    },
+    {
+     "quantity": "2 sprigs",
+     "ingredient_name": "tarragon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "dash",
+     "ingredient_name": "tabasco or other hot sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 medium",
+     "ingredient_name": "white onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1 lb",
+     "ingredient_name": "mushrooms",
+     "preparation": "sliced 1/4\""
+    }
+   ]
+  },
+  "preparation": "Mix oil, vinegar and seasonings.  Toss gently with mushrooms and onions and marinate for 4 to 6 hours.",
+  "primary_category": "Appetizers",
+  "secondary_categories": {
+   "secondary_category": [
+    "Mushrooms",
+    "Needs Research",
+    "70s Flashback"
+   ]
+  },
+  "entry_app": "Veronica",
+  "cdate": "11/11/2005",
+  "mdate": "05/07/2012",
+  "user": "billp"
+ }
+}

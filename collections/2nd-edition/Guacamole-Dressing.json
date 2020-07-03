@@ -1,0 +1,60 @@
+{
+ "recipe": {
+  "source_page": "12",
+  "safe_name": "Guacamole_Dressing",
+  "primary_category": "Salad/Dressing",
+  "preparation": "Rub a bowl with the garlic and the mash avocados in engarlicked bowl.  Mix onion, tomato, chiles, salt and mayonnaise to a smooth, sauce-like consistency.  Chill and serve.",
+  "yield_count": "8",
+  "yield_measure": "servings",
+  "untried": "1",
+  "cdate": "12/31/2004",
+  "prep_time": null,
+  "name": "Guacamole Dressing",
+  "secondary_categories": {
+   "secondary_categorie": "**New05"
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Lily Domoto",
+  "notes": "Mmmmm.  Guacamole.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1",
+     "preparation": "split"
+    },
+    {
+     "ingredient_name": "avocados",
+     "quantity": "2",
+     "preparation": "peeled and sliced"
+    },
+    {
+     "ingredient_name": "small onion",
+     "quantity": "1",
+     "preparation": "finely diced"
+    },
+    {
+     "ingredient_name": "small tomato",
+     "quantity": "1 clove",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "diced green chiles (poblanos)",
+     "quantity": "2-4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "mayonnaise",
+     "quantity": "1/2 cup",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "12/31/2004"
+ }
+}

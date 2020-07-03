@@ -1,0 +1,48 @@
+{
+ "recipe": {
+  "name": "Fannie's Gelatin Salad",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Jello/Jello Mold"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": null,
+     "ingredient_name": "fruit cocktail",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "lime + lemon Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "mayonnaise",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "oranges & bananas",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": null,
+  "source_author": null,
+  "source_name": null,
+  "source_page": null,
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

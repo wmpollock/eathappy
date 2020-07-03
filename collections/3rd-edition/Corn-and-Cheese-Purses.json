@@ -1,0 +1,71 @@
+{
+ "recipe": {
+  "name": "Corn and Cheese Purses",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "9 oz",
+     "ingredient_name": "corn",
+     "preparation": null
+    },
+    {
+     "quantity": "4 oz",
+     "ingredient_name": "feta cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "egg",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "2 Tbl",
+     "ingredient_name": "heavy cream",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbl",
+     "ingredient_name": "grated Parmesan cheese",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "scallions",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "freshly ground black pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "8-10",
+     "ingredient_name": "small filo sheets",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "butter",
+     "preparation": "melted"
+    }
+   ]
+  },
+  "preparation": "Butter two cookie sheeets.  Strip the kernels from the cobs if using cobs.  Simmer corn 3-5 minutes in \"a little\" salty water.  Simply drain and rinse canned con.Mix corn and feta into a medium bowl.  Add the egg, cream, Parmesan cheese, scallions and ground black pepper and mix well.Cut sheet of filo dough in half to form a square and cover reserved half with damp cloth until ready for use.  Brush square with melted butter nad foldinto fourths to make a smaller, 3\" square.  Place haping teaspoon of orn mixture in the center of the pasty square ad squeeze the pastry around teh filling to make a \"money bag\" casing.  RESEARCH: sounds like maybe one unfolds the fourthed pastry?Fill purses until one reaches ingredient limits.  Brush each bag with remaining butter nad backe at 375F for fifteen minutes or until golden brown.",
+  "primary_category": "Side",
+  "secondary_categorys": {
+   "secondary_category": [
+    "Needs Research",
+    "**New06",
+    "Vegetables",
+    "Makes You Fat"
+   ]
+  },
+  "untried": "1",
+  "source_name": "Ingram, Christine, Roz Denny, and Ketherine Richmond. Vegetarian and Vegetable Cooking. Anness Publishing Ltd: Hermes House, 2002. 142",
+  "source_page": "184",
+  "entry_app": "Veronica",
+  "cdate": "05/26/2009",
+  "user": "billp",
+  "safe_name": "Corn_and_Cheese_Purses"
+ }
+}

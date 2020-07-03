@@ -1,0 +1,112 @@
+{
+ "recipe": {
+  "name": "Harvest Cake",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "2 cups",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "soda",
+     "preparation": null
+    },
+    {
+     "quantity": "2 1/2 cups",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "grated carrot",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "coconut",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "crushed pineapple",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Sauce",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "soda",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "corn syrup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "buttermilk (or 1 Tbsp vinegar in milk)",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Beat together oil, eggs and sugar.  Add soda, flour, cinnamon and salt and beat well.  Mix remaining ingredients and pour into greased and floured pan.  Bake 45-40 minutes at 350F.Sauce:  Cook 5 minutes stirring continually.  Punch holes throughout cake with ice pick [Ed: toothpick probably'd work too in these modern times].  Add sauce.Garnish with whipped cream or ice cream.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0019-0020",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Harvest_Cake"
+ }
+}

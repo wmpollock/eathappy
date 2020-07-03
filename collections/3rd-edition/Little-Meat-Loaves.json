@@ -1,0 +1,72 @@
+{
+ "recipe": {
+  "name": "Little Meat Loaves",
+  "notes": "Ground ham is apparently difficult to come by.  I bet in a pinch, diced would do pretty nicely.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground chuck",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 lb",
+     "ingredient_name": "ground ham",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "mashed potatoes",
+     "preparation": "leftover or instant"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "beaten"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "condensed milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "dry bread crumbs",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "4 twists",
+     "ingredient_name": "ground pepper",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "bouillon cubes",
+     "preparation": "dissolved in 1 cup water"
+    }
+   ]
+  },
+  "preparation": "Mix meat and mashed potatoes together before adding eggs and milk.  Work in bread crumbs* and season with salt and pepper.Form into 3\"x2\" loaves in rows in a buttered dish.  Add the bouillon water and cover dish with aluminum foil.Back at 375F for 60 minutes.  Remove foil and allow to brown the tops of loaves under the broiler.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": [
+    "**New06",
+    "70s Flashback",
+    "Needs Research"
+   ]
+  },
+  "untried": "1",
+  "source_name": "\"The New Ground Beef Cookbook\", Alpha Beta edition,",
+  "source_page": "56",
+  "entry_app": "Veronica",
+  "cdate": "06/26/2005",
+  "mdate": "05/25/2009",
+  "user": "billp",
+  "safe_name": "Little_Meat_Loaves"
+ }
+}

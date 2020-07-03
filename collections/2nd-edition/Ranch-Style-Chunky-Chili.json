@@ -1,0 +1,96 @@
+{
+ "recipe": {
+  "source_page": "17",
+  "safe_name": "Ranch_Style_Chunky_Chili",
+  "primary_category": "Main Dishes",
+  "preparation": "Cut boneless beef chuck pot roast into 1-inch pieces, cut each thence in half.  Brown beef (in 2 or 3 batches) in oil.  Remove beef, add onion, celery and garlic;  cook and stir 2 minutes.  Pour off drippings.  Reintroduce beef.  Sprinkle chili powder, cumin and salt over beef;  add bay leaf.  Ad tomatoes, tomato sauce and beer.  Bring to boil, reduce heat, cover tightly and slowly cook  1 to 1 1/2 hours or until beef is tender.  Add beans, jalapeno pepper and sugar and continue cooking uncovered 20 minutes.  Remove bay leaf.",
+  "yield_count": "6",
+  "yield_measure": "Servings",
+  "cdate": "01/19/2005",
+  "prep_time": "00:30",
+  "name": "Ranch-Style Chunky Chili",
+  "source_date": "1987",
+  "source_name": "\"Family Favorites\", The Epiphany School Lady's Guild, Linda Desimone presiding.  Recipe by Elizabeth Arguello.",
+  "notes": "Our friend Lori asked us to game-sit her house while she was away during the early part of the 2004-2005  King's Season and in her absence we took to cooking up fine meals to keep up our strength during the game.  I  dusted off this recipe on a cold near-winter day and it proved pleasantly simple and wonderfully tasty.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "boneless beef chuck",
+     "quantity": "1 3/4 lb",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "oil",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "large onion",
+     "quantity": "1",
+     "preparation": "cut into 1\" pieces"
+    },
+    {
+     "ingredient_name": "chopped celery",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic",
+     "quantity": "1 clove",
+     "preparation": "minced"
+    },
+    {
+     "ingredient_name": "chili powder",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "ground cumin",
+     "quantity": "2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "salt",
+     "quantity": "1 1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bay leaf",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "stewed tomatoes",
+     "quantity": "16 oz can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "tomato paste",
+     "quantity": "8 oz can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "beer",
+     "quantity": "12 oz can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "pinto beans",
+     "quantity": "16 oz can",
+     "preparation": "drained"
+    },
+    {
+     "ingredient_name": "jalapeno pepper",
+     "quantity": "1",
+     "preparation": "finely  chopped"
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1 tbsp",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": "01/19/2005"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "recipe": {
+  "name": "Peaches or Strawberries in Orange Sauce",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "This is a pretty unusual entry.  It is written on the back of a card from Casa De Los Ninos, a restaurant benefiting the Sacramento Children's Home where my grandmother volunteered.   Now called the \"Casa Garden\" it still serves lunch Monday - Friday.Lining this up with some guesswork, this looks to be from 1982:MARCH LUNCHEON MENUS1st-5th: Garden Crepes, Fruit Kabobs, Onion-Rice Muffin, Brownie Pie8th-12th:  Beef Mindanao, Spinach Orange Salad, Potato Roll, Topical Fruit Glace15th-19th (truncated)This is obviously scaled to industrial levels.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "cornstarch",
+     "preparation": null
+    },
+    {
+     "quantity": "6 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "12  cups",
+     "ingredient_name": "rose wine",
+     "preparation": null
+    },
+    {
+     "quantity": "6 cups",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "orange peel",
+     "preparation": null
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon peel",
+     "preparation": null
+    },
+    {
+     "quantity": "12 qts",
+     "ingredient_name": "sliced fresh peaches",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Mix cornstarch, sugar + salt.  Add wine, orange juice + peels + stir until smooth.  Cook + stir over medium heat until mixture boils and thickens clear.  Chill.  Pour over fruit.  Chill for several hours.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "101-102",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

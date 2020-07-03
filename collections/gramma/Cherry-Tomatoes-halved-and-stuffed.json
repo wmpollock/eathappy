@@ -1,0 +1,83 @@
+{
+ "recipe": {
+  "name": "Cherry Tomatoes, halved and stuffed",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "unknown quantity",
+     "ingredient_name": "cherry tomatoes",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Cheese & Shrimp Stuffing",
+     "preparation": null
+    },
+    {
+     "quantity": "8oz pkg",
+     "ingredient_name": "cream cheese",
+     "preparation": "softened"
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "catsup",
+     "preparation": null
+    },
+    {
+     "quantity": "1 tsp",
+     "ingredient_name": "dill weed",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salad shrimp",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Guacamole stuffing",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "ripe avocado",
+     "preparation": null
+    },
+    {
+     "quantity": "4 tsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1 clove",
+     "ingredient_name": "minced garlic",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Tbsp",
+     "ingredient_name": "finely minced onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "crumbled crisp bacon",
+     "preparation": "for topping"
+    }
+   ]
+  },
+  "preparation": "For all:  Cut tomatoes lengthwise and discard seeds.  Stuff about 4 hours before serving.   Cover & refrigerate.Cheese & Shrimp:  mix cheese, catsup and dill, stuff tomatoes and top with shrimp.Guacamole:  mix ingredients together, stuff and top with crisp bacon.Alternate method:  Fill tomatoes with sauce of chopped onion, cream cheese, sour cream and black pepper.  Top with a bit of parsley.",
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_name": "Gretchen Christensen",
+  "source_page": "30-31",
+  "entry_app": "Veronica",
+  "cdate": "12/04/2005",
+  "safe_name": "Cherry_Tomatoes_halved_and_stuffed"
+ }
+}

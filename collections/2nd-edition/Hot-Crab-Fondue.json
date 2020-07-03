@@ -1,0 +1,67 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Hot_Crab_Fondue",
+  "primary_category": "Appetizers",
+  "preparation": "Melt first 2 ingredients in a fondue pot, add remaining ingredients and stir.  Serve with French bread cubes.",
+  "yield_count": "4",
+  "yield_measure": "Servings",
+  "cdate": "01/09/2005",
+  "prep_time": null,
+  "name": "Hot Crab Fondue",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "Makes You Fat"
+   ]
+  },
+  "source_date": null,
+  "source_name": "\"High Country Recipes from the Chester High Ski Team\", 1992 -- recipe by Glenda Grant",
+  "notes": "Hilary went out on New Year's Day 2005 in search of a fondue pot to make this recipe, crab season running high at the time.  This is an amazingly rich recipe.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "5 oz jar American cheese spread (Old English)",
+     "quantity": "1",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cream cheese",
+     "quantity": "8oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "crab",
+     "quantity": "1 71/2 oz can",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "light cream",
+     "quantity": "1/4 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "garlic powder",
+     "quantity": "1/4 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cayenne pepper",
+     "quantity": "1/4 tsp or less",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "French bread",
+     "quantity": null,
+     "preparation": "cubed"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

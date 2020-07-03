@@ -1,0 +1,74 @@
+{
+ "recipe": {
+  "name": "Pork in Lime Cream Sauce",
+  "yield_count": "4",
+  "yield_measure": "servings",
+  "notes": "I have already decided that I will, in future editions, list this as \"Lime Cream Sauce (With Pork)\".  The sauce itself is the thing here, whatever meat you put it upon is merely a window-dressing.  If one cannot reasonably come across pork tenderloin, I'm sure pork chops, chicken and lightly-flavored fish would do nicely smothered in this sauce as well.Rated \"Fantastic!\" by my mother.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "vegetable oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 lb",
+     "ingredient_name": "pork tenderloin",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "unsalted butter",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tbsp",
+     "ingredient_name": "chopped onion",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large shallot",
+     "preparation": "chopped"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "chicken broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "beef broth",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whipping cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2",
+     "ingredient_name": "limes",
+     "preparation": "juiced"
+    }
+   ]
+  },
+  "preparation": "Over high heat in an oven-proof skillet heat oil.  Brown pork on all sides and transfer pan to 400F oven.  Roast until cooked through -- about 20 minutes.Melt butter in a large skillet over medium heat and add onions and shallots.  Saute for 3 minutes and add wine and boil until liquid is reduced by half -- about five minutes.  Add chicken broth and beef broth and boil until reduced to 6 tbsp -- over 20 minutes.  Add cream and reduce at a boil to 1 cup, about 7 minutes.  Season with salt and pepper.Slice meat and plate, smothering with sauce.",
+  "primary_category": "Main Dishes",
+  "secondary_categorys": {
+   "secondary_category": "Bill's Favorite"
+  },
+  "source_name": "\"Almanor Westshore Cooks\", contributed by Yvonne Kerr",
+  "source_page": "93",
+  "source_date": "1992",
+  "entry_app": "Veronica",
+  "cdate": "01/20/2005",
+  "mdate": "06/26/2005",
+  "safe_name": "Pork_in_Lime_Cream_Sauce"
+ }
+}

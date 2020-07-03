@@ -1,0 +1,54 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Spinach_Dip",
+  "primary_category": "Appetizers",
+  "preparation": "Refrigerate to allow flavor to develop.  Hollow out round loaf of French bread.  Cut bread into squares and fill hollow with dip.",
+  "yield_count": null,
+  "yield_measure": "Servings",
+  "cdate": null,
+  "prep_time": null,
+  "name": "Spinach Dip",
+  "secondary_categories": {
+   "secondary_categorie": "Dips"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "Another one with possible lineage from my Gramma Jackson else my Mom -- they traded quite a few back and  forth over the years.   Always best if served into a hacked-up monster loaf of sourdough.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "sour cream",
+     "quantity": "2 large cartons",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Knorr's vegetable soup",
+     "quantity": "2 pkgs",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "scallion onions (for chives)",
+     "quantity": "3",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "cream cheese, softened",
+     "quantity": "1 pkg (16 oz)",
+     "preparation": "softened"
+    },
+    {
+     "ingredient_name": "frozen chopped spinach",
+     "quantity": "1 pkg",
+     "preparation": "drained"
+    },
+    {
+     "ingredient_name": "water chestnuts",
+     "quantity": "1 can",
+     "preparation": "diced"
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

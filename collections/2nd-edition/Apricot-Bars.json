@@ -1,0 +1,70 @@
+{
+ "recipe": {
+  "source_page": null,
+  "safe_name": "Apricot_Bars",
+  "primary_category": "Desserts",
+  "preparation": "Cream butter, sugar and vanilla.  Add flour and mix well.  Spread in 13\" by 9\" ungreased pan and bake 15 minutes at 350F.  Spread jam over crust gently.  Beat egg whites and 1/2 tsp almond extract slightly, then beat powdered sugar in gradually until stiff.  Spread carefully over jam. Top with almonds and bake 20 minutes at 400F.",
+  "yield_count": "16",
+  "yield_measure": "Pieces",
+  "untried": "1",
+  "name": "Apricot Bars",
+  "prep_time": null,
+  "cdate": null,
+  "secondary_categories": {
+   "secondary_categorie": "Apricot Jam"
+  },
+  "source_date": null,
+  "source_name": null,
+  "notes": "But they sound good, don't they?  Most likely bogarted from my mom's collection.",
+  "mdate": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "butter",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vanilla",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "flour",
+     "quantity": "2 cups",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "apricot jam",
+     "quantity": "12 oz",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "egg whites",
+     "quantity": "2",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "almond extract",
+     "quantity": "1/2 tsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "powdered sugar",
+     "quantity": "1 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "slivered almonds",
+     "quantity": "1/4 cup",
+     "preparation": null
+    }
+   ]
+  }
+ }
+}

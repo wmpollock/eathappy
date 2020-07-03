@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Best Way Pumpkin Pie",
+  "safe_name": "Best_Way_Pumpkin_Pie",
+  "yield_count": "8-10",
+  "yield_measure": "servings",
+  "notes": null,
+  "prep_time": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 1/2 cups",
+     "ingredient_name": "pumpkin puree",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 tsp",
+     "ingredient_name": "ground ginger",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "ground cloves",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/4 tsp",
+     "ingredient_name": "cinnamon",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": "lightly beaten"
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "whole milk",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup (6 oz)",
+     "ingredient_name": "evaporated milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 tsp",
+     "ingredient_name": "vanilla",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "pie crust",
+     "preparation": "unbaked"
+    }
+   ]
+  },
+  "preparation": "Preheat oven to 450F.  Mix together pumpkin, sugar, salt, ginger, cloves and cinnamon in a large bowl.  Mix in eggs, whole milk, evaporated milk and vanilla and pour into crust.Cook for 10 minutes at 450F, reduce temperature to 325F and bake for 50-60 minutes; until a knife inserted in the center comes out clean.Serve at room temperature.",
+  "primary_category": "Desserts",
+  "secondary_categories": {
+   "secondary_category": "**New06"
+  },
+  "untried": "1",
+  "source_name": "San Francisco Chronicle",
+  "source_page": "K8",
+  "source_date": "November 21, 2010",
+  "entry_app": "Veronica",
+  "cdate": "02/02/2013",
+  "user": "billp"
+ }
+}

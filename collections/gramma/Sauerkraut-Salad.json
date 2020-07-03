@@ -1,0 +1,68 @@
+{
+ "recipe": {
+  "name": "Sauerkraut Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": "Inspires Curiosity"
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "So, like, any fermented pile of things fermenting overnight sounds, um, kind of cool?  I'm not sure.  Kraut is not exactly s serious modern contender as a featured ingredient.",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 quart",
+     "ingredient_name": "saurkraut",
+     "preparation": "jar [sic: \"bottle\"] is better than can, drained"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "large onion",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "green pepper",
+     "preparation": "chopped fine"
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "large stalks",
+     "preparation": "celery"
+    },
+    {
+     "quantity": "4 oz jar",
+     "ingredient_name": "pimentos",
+     "preparation": null
+    },
+    {
+     "quantity": "3/4 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "oil",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Let stand for 24 hours.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "85-86",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-09",
+  "user": "billp"
+ }
+}

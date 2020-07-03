@@ -1,0 +1,58 @@
+{
+ "recipe": {
+  "source_page": "31",
+  "safe_name": "Man_Style_BBQ_Sauce",
+  "primary_category": "Other",
+  "preparation": "Mix ingredients and refrigerate prior to use.",
+  "yield_count": null,
+  "yield_measure": null,
+  "untried": "1",
+  "cdate": "01/03/2005",
+  "prep_time": null,
+  "name": "Man-Style BBQ Sauce",
+  "secondary_categories": {
+   "secondary_categorie": [
+    "**New05",
+    "BBQ"
+   ]
+  },
+  "source_date": null,
+  "source_name": "From \"Sharing Our Favorites: the Dana Guild, Senshin Buddhist Church, Los Angeles, CA\" -- Kiyome Hirayama",
+  "notes": "Mmmm...Man-Style",
+  "ingredients": {
+   "ingredient": [
+    {
+     "ingredient_name": "Worcestershire sauce",
+     "quantity": "3 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "vinegar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "bottled meat sauce (a1?)",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "sugar",
+     "quantity": "2 tbsp",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "catsup",
+     "quantity": "1/2 cup",
+     "preparation": null
+    },
+    {
+     "ingredient_name": "Tabasco",
+     "quantity": "dash",
+     "preparation": null
+    }
+   ]
+  },
+  "mdate": null
+ }
+}

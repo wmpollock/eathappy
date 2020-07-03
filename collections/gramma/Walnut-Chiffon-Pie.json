@@ -1,0 +1,76 @@
+{
+ "recipe": {
+  "name": "Walnut Chiffon Pie",
+  "safe_name": null,
+  "primary_category": "Desserts",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 envelope",
+     "ingredient_name": "unflavored gelatin",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "cold water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 1/2 cup",
+     "ingredient_name": "milk",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 tsp",
+     "ingredient_name": "salt",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sugar",
+     "preparation": null
+    },
+    {
+     "quantity": "3",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "ten drops",
+     "ingredient_name": "maple flavoring",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "chopped walnuts",
+     "preparation": null
+    },
+    {
+     "quantity": "1",
+     "ingredient_name": "baked crumb crust",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "whipped cream",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Soften gelatin in cold water.  Scald milk, salt + 1/4 cup sugar.  Separate eggs.  Beat yolks.  Pour a little hot milk over eggs then stir onto rest of hot mixture.  Cook over hot water until slightly thickened.  Add gelatin + stir.  Beat egg white until stiff, gradually fold in sugar. Fold into custard.  Add maple flavoring to custard.  Fold in walnuts.  Add to pie shell.  Chill.  Decorate with half a walnut on top of whipped cream.",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "95-96",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2017-09-11",
+  "mdate": null,
+  "user": "billp"
+ }
+}

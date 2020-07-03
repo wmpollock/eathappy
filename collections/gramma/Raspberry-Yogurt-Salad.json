@@ -1,0 +1,51 @@
+{
+ "recipe": {
+  "name": "Raspberry Yogurt Salad",
+  "safe_name": null,
+  "primary_category": "Salad/Dressing",
+  "untried": null,
+  "secondary_categories": null,
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": null,
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "boiling water",
+     "preparation": null
+    },
+    {
+     "quantity": "1 3 oz package",
+     "ingredient_name": "raspberry Jello",
+     "preparation": null
+    },
+    {
+     "quantity": "1/3 cup",
+     "ingredient_name": "sugar",
+     "preparation": "scant"
+    },
+    {
+     "quantity": "2 Tbsp",
+     "ingredient_name": "lemon juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 eight ounce containers",
+     "ingredient_name": "raspberry yogurt",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Add Jello boiling water in a small pan and stir over low heat until dissolved.  Stir in sugar and lemon juice and stir until sugar is dissolved.  Turn yogurt into a bowl and beat until smooth.  Beat into it the Jello mixture.Pour into a pan, chill and cut into squares to serve, or pour into individual molds.Serve on a lettuce leaf with fresh fruit.Serve salad dressing of your choice.Serves four to six, or fills five individual molds.",
+  "source_author": "Myrtle Lane",
+  "source_name": null,
+  "source_page": "0070-0071",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": "2016-02-09",
+  "mdate": null,
+  "user": "billp"
+ }
+}

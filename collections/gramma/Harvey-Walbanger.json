@@ -1,0 +1,82 @@
+{
+ "recipe": {
+  "name": "Harvey Walbanger",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "orange cake mix",
+     "preparation": null
+    },
+    {
+     "quantity": "1 pkg",
+     "ingredient_name": "instant vanilla pudding",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "Crisco",
+     "preparation": null
+    },
+    {
+     "quantity": "4",
+     "ingredient_name": "eggs",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "water",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "vodka",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "1/4 cup",
+     "ingredient_name": "Galliano",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "**Glaze",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "vodka",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "orange juice",
+     "preparation": null
+    },
+    {
+     "quantity": "2 tsp",
+     "ingredient_name": "Galliano",
+     "preparation": null
+    },
+    {
+     "quantity": "1 cup",
+     "ingredient_name": "powdered sugar",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Blend all ingredients in large bowl with electric mixer.  Beat 5 minutes.  Bake in greased and floured Bundt pan 350F, 45-55 minutes.Col in pan upright until just warm.  Invert & remove.  Poke holes in warm cake with fork.  Cover in glaze.",
+  "primary_category": "Desserts",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0040-0041",
+  "entry_app": "Veronica",
+  "cdate": "12/18/2005",
+  "safe_name": "Harvey_Walbanger"
+ }
+}

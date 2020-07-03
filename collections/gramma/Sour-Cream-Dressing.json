@@ -1,0 +1,31 @@
+{
+ "recipe": {
+  "name": "Sour Cream Dressing",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "margarine",
+     "preparation": null
+    },
+    {
+     "quantity": "1 carton",
+     "ingredient_name": "sour cream",
+     "preparation": null
+    },
+    {
+     "quantity": "2-3 Tbsp",
+     "ingredient_name": "vinegar",
+     "preparation": null
+    }
+   ]
+  },
+  "primary_category": "Salad/Dressing",
+  "secondary_categorys": null,
+  "untried": "1",
+  "source_page": "0025",
+  "entry_app": "Veronica",
+  "cdate": "11/21/2005",
+  "safe_name": "Sour_Cream_Dressing"
+ }
+}

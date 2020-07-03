@@ -1,0 +1,81 @@
+{
+ "recipe": {
+  "name": "Gourmet Onion Casserole",
+  "safe_name": null,
+  "primary_category": "Casseroles/One Dish Meals",
+  "untried": "1",
+  "secondary_categories": {
+   "secondary_category": [
+    "**Needs review",
+    "Inspires Curiosity"
+   ]
+  },
+  "yield_count": null,
+  "yield_measure": null,
+  "prep_time": null,
+  "notes": "I'm not entirely sure what a #303 can is, but I'm sure one of my friends could probably help me convert it.  This is a really weird sounding title for a dish and I'm note entirely sure what to make of it.  Could be really good -- the typing is -- or...?",
+  "ingredients": {
+   "ingredient": [
+    {
+     "quantity": "2 #303 cans",
+     "ingredient_name": "whole onions",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "butter",
+     "preparation": null
+    },
+    {
+     "quantity": "3 Tbsp",
+     "ingredient_name": "flour",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Can",
+     "ingredient_name": "cream mushroom soup",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 moderate cup",
+     "ingredient_name": "white wine",
+     "preparation": null
+    },
+    {
+     "quantity": null,
+     "ingredient_name": "salt and pepper",
+     "preparation": "to taste"
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sliced almonds",
+     "preparation": null
+    },
+    {
+     "quantity": "1/2 cup",
+     "ingredient_name": "sharp cheddar",
+     "preparation": "grated"
+    },
+    {
+     "quantity": "1 small \"glass\"",
+     "ingredient_name": "sliced pimento",
+     "preparation": null
+    },
+    {
+     "quantity": "1 Cup",
+     "ingredient_name": "mushrooms",
+     "preparation": null
+    }
+   ]
+  },
+  "preparation": "Melt butter and stir in flour.  Add to this the soup and wine.  Stir constantly until thick.  Add salt, pepper, almonds, pimento and mushrooms.  Sprinkle with cheddar cheese and bake 30 minutes at 375F",
+  "source_author": null,
+  "source_name": null,
+  "source_page": "57",
+  "source_date": null,
+  "entry_app": "EH 3.0",
+  "cdate": null,
+  "mdate": "2017-09-20",
+  "user": "billp"
+ }
+}
